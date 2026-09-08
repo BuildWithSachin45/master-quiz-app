@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Quiz Setup</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        body {
+            min-height: 100vh;
+            background: linear-gradient(135deg, #071a3d, #0d2b5c);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .quiz-container {
+            width: 100%;
+            max-width: 650px;
+            background: #ffffff;
+            border-radius: 18px;
+            padding: 30px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+        }
+
+        .title {
+            text-align: center;
+            margin-bottom: 8px;
+            color: #071a3d;
+            font-size: 30px;
+        }
+
+        .subtitle {
+            text-align: center;
+            color: #777;
+            margin-bottom: 28px;
+        }
+
+        .section {
+            margin-bottom: 25px;
+        }
+
+        .section-title {
+            color: #071a3d;
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 12px;
+        }
+
+        /* Topics */
+
+        .topics {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 10px;
+        }
+
+        .option {
+            border: 2px solid #e5e5e5;
+            border-radius: 10px;
+            padding: 12px;
+            cursor: pointer;
+            transition: 0.2s;
+            background: #fafafa;
+        }
+
+        .option:hover {
+            border-color: #ff7a00;
+            background: #fff4e8;
+        }
+
+        .option input {
+            accent-color: #ff7a00;
+            margin-right: 8px;
+        }
+
+        /* Difficulty */
+
+        .difficulty {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 10px;
+        }
+
+        .difficulty label {
+            border: 2px solid #e5e5e5;
+            padding: 12px 8px;
+            text-align: center;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: 0.2s;
+        }
+
+        .difficulty input {
+            display: none;
+        }
+
+        .difficulty label:has(input:checked) {
+            background: #ff7a00;
+            border-color: #ff7a00;
+            color: white;
+            font-weight: bold;
+        }
+
+        /* Question Count */
+
+        .question-count {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 10px;
+        }
+
+        .question-count label {
+            border: 2px solid #e5e5e5;
+            padding: 12px;
+            text-align: center;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: 0.2s;
+        }
+
+        .question-count input {
+            margin-right: 6px;
+            accent-color: #ff7a00;
+        }
+
+        .question-count label:has(input:checked) {
+            background: #fff0e1;
+            border-color: #ff7a00;
+            color: #071a3d;
+            font-weight: bold;
+        }
+
+        /* Custom input */
+
+        #customBox {
+            display: none;
+            margin-top: 12px;
+        }
+
+        #customQuestions {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            font-size: 16px;
+            outline: none;
+        }
+
+        #customQuestions:focus {
+            border-color: #ff7a00;
+        }
+
+        /* Button */
+
+        .start-btn {
+            width: 100%;
+            border: none;
+            padding: 14px;
+            border-radius: 10px;
+            background: #ff7a00;
+            color: white;
+            font-size: 17px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: 0.2s;
+        }
+
+        .start-btn:hover {
+            background: #e96800;
+            transform: translateY(-1px);
+        }
+
+        /* Mobile */
+
+        @media (max-width: 500px) {
+
+            .quiz-container {
+                padding: 22px;
+            }
+
+            .title {
+                font-size: 25px;
+            }
+
+            .topics {
+                grid-template-columns: 1fr;
+            }
+
+            .difficulty {
+                grid-template-columns: repeat(2, 1fr);
+            }
+
+            .question-count {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="quiz-container">
+
+        <h1 class="title">Quiz Setup</h1>
+        <p class="subtitle">Customize your quiz before you begin</p>
+
+
+        <!-- TOPIC SECTION -->
+        <div class="section">
+
+            <div class="section-title">
+                1. Choose Topics
+            </div>
+
+            <div class="topics">
+
+                <label class="option">
+                    <input type="checkbox" name="topic" value="HTML">
+                    HTML
+                </label>
+
+                <label class="option">
+                    <input type="checkbox" name="topic" value="CSS">
+                    CSS
+                </label>
+
+                <label class="option">
+                    <input type="checkbox" name="topic" value="JavaScript">
+                    JavaScript
+                </label>
+
+                <label class="option">
+                    <input type="checkbox" name="topic" value="Python">
+                    Python
+                </label>
+
+                <label class="option">
+                    <input type="checkbox" name="topic" value="Java">
+                    Java
+                </label>
+
+                <label class="option">
+                    <input type="checkbox" name="topic" value="Database">
+                    Database
+                </label>
+
+                <label class="option">
+                    <input type="checkbox" name="topic" value="Networking">
+                    Networking
+                </label>
+
+                <label class="option">
+                    <input type="checkbox" name="topic" value="AIML">
+                    AI / ML
+                </label>
+
+            </div>
+        </div>
+
+
+        <!-- DIFFICULTY SECTION -->
+        <div class="section">
+
+            <div class="section-title">
+                2. Select Difficulty
+            </div>
+
+            <div class="difficulty">
+
+                <label>
+                    <input type="radio" name="difficulty" value="easy">
+                    Easy
+                </label>
+
+                <label>
+                    <input type="radio" name="difficulty" value="medium">
+                    Medium
+                </label>
+
+                <label>
+                    <input type="radio" name="difficulty" value="hard">
+                    Hard
+                </label>
+
+                <label>
+                    <input type="radio" name="difficulty" value="mixed">
+                    Mixed
+                </label>
+
+            </div>
+
+        </div>
+
+
+        <!-- QUESTION COUNT -->
+        <div class="section">
+
+            <div class="section-title">
+                3. Number of Questions
+            </div>
+
+            <div class="question-count">
+
+                <label>
+                    <input type="radio" name="questionCount" value="5">
+                    5
+                </label>
+
+                <label>
+                    <input type="radio" name="questionCount" value="10">
+                    10
+                </label>
+
+                <label>
+                    <input type="radio" name="questionCount" value="15">
+                    15
+                </label>
+
+                <label>
+                    <input type="radio" name="questionCount" value="20">
+                    20
+                </label>
+
+                <label>
+                    <input type="radio" name="questionCount" value="30">
+                    30
+                </label>
+
+                <label>
+                    <input type="radio"
+                           name="questionCount"
+                           value="custom"
+                           id="customOption">
+                    Custom
+                </label>
+
+            </div>
+
+
+            <!-- CUSTOM QUESTION INPUT -->
+
+            <div id="customBox">
+
+                <input
+                    type="number"
+                    id="customQuestions"
+                    placeholder="Enter number of questions"
+                    min="1"
+                    max="100"
+                >
+
+            </div>
+
+        </div>
+
+
+        <!-- START BUTTON -->
+
+        <button class="start-btn" onclick="startQuiz()">
+            Start Quiz
+        </button>
+
+    </div>
+
+
+    <script>
+
+        const customOption = document.getElementById("customOption");
+        const customBox = document.getElementById("customBox");
+
+        const questionOptions =
+            document.querySelectorAll('input[name="questionCount"]');
+
+
+        questionOptions.forEach(option => {
+
+            option.addEventListener("change", function () {
+
+                if (customOption.checked) {
+                    customBox.style.display = "block";
+                } else {
+                    customBox.style.display = "none";
+                }
+
+            });
+
+        });
+
+
+        function startQuiz() {
+
+            const topics =
+                document.querySelectorAll('input[name="topic"]:checked');
+
+            const difficulty =
+                document.querySelector('input[name="difficulty"]:checked');
+
+            const questionCount =
+                document.querySelector('input[name="questionCount"]:checked');
+
+
+            if (topics.length === 0) {
+                alert("Please select at least one topic.");
+                return;
+            }
+
+            if (!difficulty) {
+                alert("Please select a difficulty level.");
+                return;
+            }
+
+            if (!questionCount) {
+                alert("Please select the number of questions.");
+                return;
+            }
+
+
+            let numberOfQuestions;
+
+
+            if (questionCount.value === "custom") {
+
+                numberOfQuestions =
+                    document.getElementById("customQuestions").value;
+
+                if (!numberOfQuestions || numberOfQuestions < 1) {
+                    alert("Please enter a valid number of questions.");
+                    return;
+                }
+
+            } else {
+
+                numberOfQuestions = questionCount.value;
+
+            }
+
+
+            console.log("Topics:", [...topics].map(t => t.value));
+            console.log("Difficulty:", difficulty.value);
+            console.log("Questions:", numberOfQuestions);
+
+
+            alert(
+                "Quiz Ready!\n\n" +
+                "Topics: " +
+                [...topics].map(t => t.value).join(", ") +
+                "\nDifficulty: " +
+                difficulty.value +
+                "\nQuestions: " +
+                numberOfQuestions
+            );
+
+            // Later you can redirect to your quiz page:
+            // window.location.href = "quiz.html";
+
+        }
+
+    </script>
+
+</body>
+</html>

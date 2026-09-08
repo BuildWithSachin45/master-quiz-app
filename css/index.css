@@ -1,1 +1,379 @@
+/* ==========================================================================
+   MASTER QUIZ APP - RICH NAVY & ELECTRIC ORANGE THEME
+   ========================================================================== */
 
+/* --- Custom Theme Palette --- */
+:root {
+  /* Primary & Accent Palette */
+  --navy-dark: #0f172a;
+  --navy-main: #1e293b;
+  --navy-blue: #1e3a8a;
+  --navy-card: #111827;
+  
+  --orange-accent: #ff6b00;
+  --orange-hover: #e05d00;
+  --cyan-accent: #06b6d4;
+  --green-accent: #10b981;
+  --red-accent: #ef4444;
+
+  /* Gradients */
+  --gradient-nav: linear-gradient(135deg, #0f172a 0%, #1e3a8a 100%);
+  --gradient-hero: linear-gradient(180deg, #0f172a 0%, #172554 100%);
+  --gradient-orange: linear-gradient(135deg, #ff8c00 0%, #ff5500 100%);
+  --gradient-blue: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
+  --gradient-cta: linear-gradient(135deg, #1e3a8a 0%, #0f172a 100%);
+
+  /* Base Text & Shadows */
+  --text-dark: #1e293b;
+  --text-muted: #64748b;
+  --shadow-card: 0 10px 25px -5px rgba(15, 23, 42, 0.08), 0 8px 10px -6px rgba(15, 23, 42, 0.04);
+  --shadow-hover: 0 20px 30px -5px rgba(255, 107, 0, 0.2), 0 10px 12px -6px rgba(15, 23, 42, 0.08);
+  --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* --- Global Reset & Page Smooth Scroll --- */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Segoe UI', system-ui, -apple-system, Roboto, sans-serif;
+  color: var(--text-dark);
+  background-color: #f8fafc;
+  line-height: 1.6;
+}
+
+/* --- Navigation Styling --- */
+.navbar {
+  background: var(--gradient-nav) !important;
+  box-shadow: 0 4px 20px rgba(15, 23, 42, 0.3);
+  backdrop-filter: blur(10px);
+}
+
+.navbar-brand {
+  color: #ffffff !important;
+  font-size: 1.5rem;
+  letter-spacing: 0.5px;
+  transition: var(--transition-smooth);
+}
+
+.navbar-brand:hover {
+  color: var(--orange-accent) !important;
+  transform: translateY(-1px);
+}
+
+.nav-link {
+  position: relative;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.85) !important;
+  transition: var(--transition-smooth);
+}
+
+.nav-link:hover, 
+.nav-link.active {
+  color: var(--orange-accent) !important;
+}
+
+.nav-link::after {
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 3px;
+  bottom: 2px;
+  left: 50%;
+  background-color: var(--orange-accent);
+  transition: var(--transition-smooth);
+  transform: translateX(-50%);
+  border-radius: 2px;
+}
+
+.nav-link:hover::after,
+.nav-link.active::after {
+  width: 80%;
+}
+
+/* --- Hero / Home Section --- */
+#home {
+  background: var(--gradient-hero) !important;
+  position: relative;
+  overflow: hidden;
+}
+
+#home h1 {
+  color: #ffffff !important;
+  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+}
+
+#home .lead {
+  color: #cbd5e1 !important;
+}
+
+#home img {
+  border: 4px solid rgba(255, 255, 255, 0.1);
+  transition: var(--transition-smooth);
+  animation: floatIllustration 6s ease-in-out infinite;
+}
+
+#home img:hover {
+  transform: scale(1.04);
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.4) !important;
+}
+
+@keyframes floatIllustration {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-12px); }
+}
+
+/* --- Custom Action Buttons --- */
+.btn {
+  border-radius: 12px;
+  padding: 0.7rem 1.6rem;
+  font-weight: 600;
+  transition: var(--transition-smooth);
+}
+
+.btn-primary {
+  background: var(--gradient-blue);
+  border: none;
+  box-shadow: 0 4px 15px rgba(37, 99, 235, 0.35);
+}
+
+.btn-primary:hover {
+  background: linear-gradient(135deg, #1d4ed8 0%, #1e40af 100%);
+  transform: translateY(-3px);
+  box-shadow: 0 8px 22px rgba(37, 99, 235, 0.45);
+}
+
+.btn-warning {
+  background: var(--gradient-orange);
+  border: none;
+  color: #ffffff !important;
+  box-shadow: 0 4px 15px rgba(255, 107, 0, 0.35);
+}
+
+.btn-warning:hover {
+  background: linear-gradient(135deg, #e05d00 0%, #c44e00 100%);
+  transform: translateY(-3px);
+  box-shadow: 0 8px 22px rgba(255, 107, 0, 0.5);
+}
+
+.btn-outline-secondary {
+  border: 2px solid var(--cyan-accent);
+  color: var(--cyan-accent);
+  background: transparent;
+}
+
+.btn-outline-secondary:hover {
+  background-color: var(--cyan-accent);
+  color: #ffffff;
+  transform: translateY(-3px);
+  box-shadow: 0 6px 18px rgba(6, 182, 212, 0.35);
+}
+
+/* --- About Section --- */
+#about {
+  background-color: #ffffff;
+}
+
+#about h2 {
+  color: var(--navy-blue);
+}
+
+/* --- Steps Section Cards --- */
+#steps {
+  background-color: #f1f5f9 !important;
+}
+
+#steps h2 {
+  color: var(--navy-blue);
+}
+
+#steps .card {
+  border-radius: 16px;
+  background: #ffffff;
+  border-top: 4px solid var(--navy-blue) !important;
+  transition: var(--transition-smooth);
+}
+
+#steps .card:hover {
+  transform: translateY(-8px);
+  border-top-color: var(--orange-accent) !important;
+  box-shadow: var(--shadow-hover) !important;
+}
+
+#steps .badge {
+  width: 52px;
+  height: 52px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--gradient-orange) !important;
+  box-shadow: 0 4px 14px rgba(255, 107, 0, 0.35);
+  font-weight: 800;
+}
+
+/* --- Category Accordion Section --- */
+#categories {
+  background: #ffffff;
+}
+
+#categories h2 {
+  color: var(--navy-blue);
+}
+
+.accordion-item {
+  border: 1px solid #e2e8f0;
+  margin-bottom: 0.85rem;
+  border-radius: 12px !important;
+  overflow: hidden;
+  box-shadow: var(--shadow-card);
+  transition: var(--transition-smooth);
+}
+
+.accordion-item:hover {
+  border-color: var(--cyan-accent);
+}
+
+.accordion-button {
+  background-color: #ffffff;
+  font-size: 1.05rem;
+  color: var(--navy-dark);
+  padding: 1.1rem 1.5rem;
+  transition: var(--transition-smooth);
+}
+
+.accordion-button:not(.collapsed) {
+  background: var(--gradient-nav);
+  color: #ffffff;
+  box-shadow: none;
+}
+
+.accordion-button:not(.collapsed)::after {
+  filter: brightness(0) invert(1);
+}
+
+.accordion-button:focus {
+  box-shadow: 0 0 0 0.25rem rgba(6, 182, 212, 0.25);
+}
+
+.list-group-item {
+  border-left: 3px solid transparent;
+  padding: 0.85rem 1.5rem;
+  color: var(--text-dark);
+  transition: var(--transition-smooth);
+}
+
+.list-group-item:hover {
+  background-color: #f0f9ff;
+  border-left-color: var(--orange-accent);
+  color: var(--orange-hover);
+  padding-left: 1.85rem;
+}
+
+/* --- Call To Action Section --- */
+.bg-primary.text-center {
+  background: var(--gradient-cta) !important;
+  border-top: 4px solid var(--orange-accent);
+  border-bottom: 4px solid var(--orange-accent);
+}
+
+/* --- Contact Section --- */
+#contact {
+  background-color: #f1f5f9 !important;
+}
+
+#contact h2 {
+  color: var(--navy-blue);
+}
+
+.contact-card {
+  border-radius: 18px;
+  transition: var(--transition-smooth);
+  background: #ffffff;
+}
+
+.contact-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 15px 30px rgba(15, 23, 42, 0.12) !important;
+}
+
+.icon-circle {
+  width: 68px;
+  height: 68px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: var(--transition-smooth);
+}
+
+.contact-card:hover .icon-circle {
+  transform: scale(1.1) rotate(6deg);
+}
+
+.icon-circle.bg-primary {
+  background: var(--gradient-blue) !important;
+  box-shadow: 0 6px 16px rgba(37, 99, 235, 0.35);
+}
+
+.icon-circle.bg-danger {
+  background: linear-gradient(135deg, #ef4444 0%, #b91c1c 100%) !important;
+  box-shadow: 0 6px 16px rgba(239, 68, 68, 0.35);
+}
+
+.icon-circle.bg-success {
+  background: linear-gradient(135deg, #10b981 0%, #047857 100%) !important;
+  box-shadow: 0 6px 16px rgba(16, 185, 129, 0.35);
+}
+
+.btn-outline-primary {
+  border-color: var(--navy-blue);
+  color: var(--navy-blue);
+}
+
+.btn-outline-primary:hover {
+  background-color: var(--navy-blue);
+  color: #ffffff;
+}
+
+.btn-outline-danger {
+  border-color: var(--red-accent);
+  color: var(--red-accent);
+}
+
+.btn-outline-danger:hover {
+  background-color: var(--red-accent);
+  color: #ffffff;
+}
+
+.btn-outline-success {
+  border-color: var(--green-accent);
+  color: var(--green-accent);
+}
+
+.btn-outline-success:hover {
+  background-color: var(--green-accent);
+  color: #ffffff;
+}
+
+/* --- Footer --- */
+footer {
+  background-color: var(--navy-dark) !important;
+  color: #94a3b8 !important;
+}
+
+/* --- Section Entry Animation --- */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(24px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+section {
+  animation: fadeInUp 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}

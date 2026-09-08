@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Master Quiz App</title>
+  <!-- Bootstrap 5 CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Custom Page Style -->
+  <link rel="stylesheet" href="css/index.css">
+</head>
+<body>
+
+  <!-- NAVBAR SECTION -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary sticky-top">
+    <div class="container">
+      <a class="navbar-brand fw-bold" href="#home">Master Quiz</a>
+      
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto align-items-lg-center">
+          <li class="nav-item">
+            <a class="nav-link active" href="#home">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#about">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#categories">Categories</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#contact">Contact Me</a>
+          </li>
+          <li class="nav-item ms-lg-2 mt-2 mt-lg-0">
+            <a class="btn btn-warning fw-semibold w-100 w-lg-auto" href="setup.html">Start Quiz</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- MAIN BODY CONTENT -->
+  <main>
+    
+    <!-- HOME / HERO SECTION -->
+    <section id="home" class="py-5 bg-light border-bottom">
+      <div class="container py-md-5 text-center text-lg-start">
+        <div class="row align-items-center gy-4">
+          <div class="col-lg-8">
+            <h1 class="display-4 fw-bold text-dark mb-3">Test & Expand Your Knowledge</h1>
+            <p class="lead text-muted mb-4">
+              Explore multiple subjects ranging from Computer Science to General Knowledge. Take customizable quizzes anytime, anywhere, or download our standalone application.
+            </p>
+            <div class="d-flex flex-column flex-sm-row gap-3 justify-content-center justify-content-lg-start">
+              <a href="setup.html" class="btn btn-primary btn-lg px-4">Start Quiz Now</a>
+              <a href="quiz-app.apk" class="btn btn-outline-secondary btn-lg px-4" download>Download APK</a>
+            </div>
+          </div>
+          <div class="col-lg-4 text-center">
+            <img src="https://via.placeholder.com/350x280?text=Quiz+Illustration" alt="Quiz App Banner" class="img-fluid rounded shadow-sm">
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ABOUT SECTION -->
+    <section id="about" class="py-5 border-bottom">
+      <div class="container py-md-4">
+        <div class="row text-center mb-4">
+          <div class="col">
+            <h2 class="fw-bold">About Master Quiz</h2>
+            <p class="text-muted">Designed for learning, testing, and continuous practice.</p>
+          </div>
+        </div>
+        <div class="row justify-content-center">
+          <div class="col-lg-10">
+            <p class="fs-5 text-secondary text-center text-md-start">
+              Master Quiz is an interactive self-assessment platform offering thousands of structured questions organized neatly across primary academic and technical categories. Whether preparing for academic evaluations, sharpening foundational concepts, or testing general awareness, this platform provides immediate feedback to track your progress effectively.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- STEPS FOR THE QUIZ SECTION -->
+    <section id="steps" class="py-5 bg-light border-bottom">
+      <div class="container py-md-4">
+        <div class="text-center mb-5">
+          <h2 class="fw-bold">How to Take a Quiz</h2>
+          <p class="text-muted">Follow these 5 simple steps to get started</p>
+        </div>
+        <div class="row g-4 text-center">
+          
+          <div class="col-12 col-sm-6 col-lg">
+            <div class="card h-100 shadow-sm border-0 p-3">
+              <div class="card-body">
+                <div class="badge bg-primary fs-5 mb-3 rounded-circle px-3 py-2">1</div>
+                <h5 class="card-title fw-bold">Topic Selection</h5>
+                <p class="card-text text-muted small">Choose your primary category and targeted subtopic.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-12 col-sm-6 col-lg">
+            <div class="card h-100 shadow-sm border-0 p-3">
+              <div class="card-body">
+                <div class="badge bg-primary fs-5 mb-3 rounded-circle px-3 py-2">2</div>
+                <h5 class="card-title fw-bold">Difficulty</h5>
+                <p class="card-text text-muted small">Select a challenge level suitable for your current skill level.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-12 col-sm-6 col-lg">
+            <div class="card h-100 shadow-sm border-0 p-3">
+              <div class="card-body">
+                <div class="badge bg-primary fs-5 mb-3 rounded-circle px-3 py-2">3</div>
+                <h5 class="card-title fw-bold">No. of Questions</h5>
+                <p class="card-text text-muted small">Specify how many questions you wish to attempt per session.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-12 col-sm-6 col-lg">
+            <div class="card h-100 shadow-sm border-0 p-3">
+              <div class="card-body">
+                <div class="badge bg-primary fs-5 mb-3 rounded-circle px-3 py-2">4</div>
+                <h5 class="card-title fw-bold">Answer Questions</h5>
+                <p class="card-text text-muted small">Work through multiple-choice questions at your own pace.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-12 col-sm-6 col-lg">
+            <div class="card h-100 shadow-sm border-0 p-3">
+              <div class="card-body">
+                <div class="badge bg-primary fs-5 mb-3 rounded-circle px-3 py-2">5</div>
+                <h5 class="card-title fw-bold">Review Score</h5>
+                <p class="card-text text-muted small">View complete statistics, attempt details, and accuracy performance.</p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- CATEGORY LIST SECTION (MULTI-EXPANDABLE ACCORDION) -->
+    <section id="categories" class="py-5 border-bottom">
+      <div class="container py-md-4">
+        <div class="text-center mb-5">
+          <h2 class="fw-bold">Explore Categories</h2>
+          <p class="text-muted">Click any main topic below to view subcategories. You can open multiple categories at once.</p>
+        </div>
+
+        <div class="row justify-content-center">
+          <div class="col-lg-10">
+            
+            <!-- Accordion parent WITHOUT data-bs-parent to allow independent multi-expansion -->
+            <div class="accordion shadow-sm" id="categoryAccordion">
+
+              <!-- Category 1 -->
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingOne">
+                  <button class="accordion-button collapsed fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                    Aptitude and Reasoning
+                  </button>
+                </h2>
+                <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne">
+                  <div class="accordion-body">
+                    <ul class="list-group list-group-flush">
+                      <li class="list-group-item">Analytical Reasoning</li>
+                      <li class="list-group-item">Critical Thinking</li>
+                      <li class="list-group-item">Logical Reasoning</li>
+                      <li class="list-group-item">Mathematical Reasoning</li>
+                      <li class="list-group-item">Quantitative Aptitude</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Category 2 -->
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingTwo">
+                  <button class="accordion-button collapsed fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                    Computer Science
+                  </button>
+                </h2>
+                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo">
+                  <div class="accordion-body">
+                    <ul class="list-group list-group-flush">
+                      <li class="list-group-item">Computer Network</li>
+                      <li class="list-group-item">Cyber Security</li>
+                      <li class="list-group-item">Database Management System</li>
+                      <li class="list-group-item">Operating System</li>
+                      <li class="list-group-item">Software Engineering</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Category 3 -->
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingThree">
+                  <button class="accordion-button collapsed fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                    Emerging Technologies
+                  </button>
+                </h2>
+                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree">
+                  <div class="accordion-body">
+                    <ul class="list-group list-group-flush">
+                      <li class="list-group-item">Artificial Intelligence</li>
+                      <li class="list-group-item">Blockchain</li>
+                      <li class="list-group-item">Cloud Computing</li>
+                      <li class="list-group-item">Internet of Things</li>
+                      <li class="list-group-item">Machine Learning</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Category 4 -->
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingFour">
+                  <button class="accordion-button collapsed fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                    Entertainment
+                  </button>
+                </h2>
+                <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour">
+                  <div class="accordion-body">
+                    <ul class="list-group list-group-flush">
+                      <li class="list-group-item">Bollywood</li>
+                      <li class="list-group-item">Fictional Characters</li>
+                      <li class="list-group-item">Hollywood</li>
+                      <li class="list-group-item">Marvel</li>
+                      <li class="list-group-item">Music</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Category 5 -->
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingFive">
+                  <button class="accordion-button collapsed fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                    General Knowledge
+                  </button>
+                </h2>
+                <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive">
+                  <div class="accordion-body">
+                    <ul class="list-group list-group-flush">
+                      <li class="list-group-item">Awards</li>
+                      <li class="list-group-item">Books</li>
+                      <li class="list-group-item">Capitals</li>
+                      <li class="list-group-item">Indian Constitution</li>
+                      <li class="list-group-item">World Records</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Category 6 -->
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingSix">
+                  <button class="accordion-button collapsed fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                    Learning Basics
+                  </button>
+                </h2>
+                <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix">
+                  <div class="accordion-body">
+                    <ul class="list-group list-group-flush">
+                      <li class="list-group-item">Basic Maths</li>
+                      <li class="list-group-item">Basic Science</li>
+                      <li class="list-group-item">Computer Basics</li>
+                      <li class="list-group-item">General Knowledge Basics</li>
+                      <li class="list-group-item">Grammar</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Category 7 -->
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingSeven">
+                  <button class="accordion-button collapsed fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
+                    Programming
+                  </button>
+                </h2>
+                <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingSeven">
+                  <div class="accordion-body">
+                    <ul class="list-group list-group-flush">
+                      <li class="list-group-item">C & Java</li>
+                      <li class="list-group-item">Dev Tools</li>
+                      <li class="list-group-item">Programming Concepts</li>
+                      <li class="list-group-item">Python & JavaScript</li>
+                      <li class="list-group-item">Web Development</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Category 8 -->
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingEight">
+                  <button class="accordion-button collapsed fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEight" aria-expanded="false" aria-controls="collapseEight">
+                    Science
+                  </button>
+                </h2>
+                <div id="collapseEight" class="accordion-collapse collapse" aria-labelledby="headingEight">
+                  <div class="accordion-body">
+                    <ul class="list-group list-group-flush">
+                      <li class="list-group-item">Astronomy</li>
+                      <li class="list-group-item">Biology</li>
+                      <li class="list-group-item">Chemistry</li>
+                      <li class="list-group-item">Physics</li>
+                      <li class="list-group-item">Scientists & Inventors</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Category 9 -->
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingNine">
+                  <button class="accordion-button collapsed fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseNine" aria-expanded="false" aria-controls="collapseNine">
+                    Social Science
+                  </button>
+                </h2>
+                <div id="collapseNine" class="accordion-collapse collapse" aria-labelledby="headingNine">
+                  <div class="accordion-body">
+                    <ul class="list-group list-group-flush">
+                      <li class="list-group-item">Culture</li>
+                      <li class="list-group-item">Environment</li>
+                      <li class="list-group-item">Geography</li>
+                      <li class="list-group-item">History</li>
+                      <li class="list-group-item">Politics</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+              <!-- Category 10 -->
+              <div class="accordion-item">
+                <h2 class="accordion-header" id="headingTen">
+                  <button class="accordion-button collapsed fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTen" aria-expanded="false" aria-controls="collapseTen">
+                    Sports
+                  </button>
+                </h2>
+                <div id="collapseTen" class="accordion-collapse collapse" aria-labelledby="headingTen">
+                  <div class="accordion-body">
+                    <ul class="list-group list-group-flush">
+                      <li class="list-group-item">All Sports</li>
+                      <li class="list-group-item">Cricket</li>
+                      <li class="list-group-item">Football</li>
+                      <li class="list-group-item">ICC Tournaments</li>
+                      <li class="list-group-item">Olympics</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- CALL TO ACTION SECTION (TRY IT YOURSELF) -->
+    <section class="py-5 bg-primary text-white text-center">
+      <div class="container py-md-3">
+        <h2 class="fw-bold mb-3">Ready to Challenge Yourself?</h2>
+        <p class="lead mb-4 opacity-90">Pick your favorite subject and test your comprehension right now!</p>
+        <a href="setup.html" class="btn btn-warning btn-lg px-5 fw-bold">Try It Yourself - Start Quiz</a>
+      </div>
+    </section>
+
+    <!-- CONTACT ME SECTION -->
+    <section id="contact" class="py-5 bg-light">
+      <div class="container py-md-4">
+        <div class="text-center mb-4">
+          <h2 class="fw-bold">Contact Me</h2>
+          <p class="text-muted">Get in touch directly via Phone, Email, or WhatsApp</p>
+        </div>
+        <div class="row justify-content-center g-4">
+          
+          <!-- Direct Phone Call Card -->
+          <div class="col-12 col-md-4">
+            <div class="card h-100 shadow-sm border-0 text-center p-4 contact-card">
+              <div class="card-body">
+                <div class="icon-circle bg-primary text-white mx-auto mb-3">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-telephone-fill" viewBox="0 0 16 16">
+                    <path fill-rule="evenodd" d="M1.885.511a1.745 1.745 0 0 1 2.61.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.678.678 0 0 0 .178.643l2.457 2.457a.678.678 0 0 0 .644.178l2.189-.547a1.745 1.745 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.634 18.634 0 0 1-7.01-4.42 18.634 18.634 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877L1.885.511z"/>
+                  </svg>
+                </div>
+                <h5 class="fw-bold">Phone Call</h5>
+                <p class="text-muted small">Connect via direct call</p>
+                <!-- Replace 1234567890 with your actual phone number with country code -->
+                <a href="tel:+918127090047" class="btn btn-outline-primary w-100 fw-semibold">Call Now</a>
+              </div>
+            </div>
+          </div>
+
+          <!-- Email / Gmail Card -->
+          <div class="col-12 col-md-4">
+            <div class="card h-100 shadow-sm border-0 text-center p-4 contact-card">
+              <div class="card-body">
+                <div class="icon-circle bg-danger text-white mx-auto mb-3">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-envelope-fill" viewBox="0 0 16 16">
+                    <path d="M.05 3.555A2 2 0 0 1 2 2h12a2 2 0 0 1 1.95 1.555L8 8.414.05 3.555ZM0 4.697v7.104l5.803-3.558L0 4.697ZM6.761 8.83l-6.57 4.027A2 2 0 0 0 2 14h12a2 2 0 0 0 1.808-1.144l-6.57-4.027L8 9.586l-.761-.756Zm8.861-.577L16 11.801V4.697l-5.803 3.556Z"/>
+                  </svg>
+                </div>
+                <h5 class="fw-bold">Send Email</h5>
+                <p class="text-muted small">Opens your default email app</p>
+                <!-- Replace your-email@example.com with your actual email address -->
+                <a href="mailto:sachinkori9324@gmail.com?subject=Master%20Quiz%20Inquiry" class="btn btn-outline-danger w-100 fw-semibold">Email Me</a>
+              </div>
+            </div>
+          </div>
+
+          <!-- WhatsApp Direct Card -->
+          <div class="col-12 col-md-4">
+            <div class="card h-100 shadow-sm border-0 text-center p-4 contact-card">
+              <div class="card-body">
+                <div class="icon-circle bg-success text-white mx-auto mb-3">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" fill="currentColor" class="bi bi-whatsapp" viewBox="0 0 16 16">
+                    <path d="M13.601 2.326A7.854 7.854 0 0 0 7.994 0C3.627 0 .068 3.558.064 7.926c0 1.399.366 2.76 1.057 3.965L0 16l4.204-1.102a7.933 7.933 0 0 0 3.79.965h.004c4.368 0 7.926-3.558 7.93-7.93A7.898 7.898 0 0 0 13.6 2.326zM7.994 14.521a6.573 6.573 0 0 1-3.356-.92l-.24-.144-2.494.654.666-2.433-.156-.251a6.56 6.56 0 0 1-1.007-3.505c0-3.626 2.957-6.584 6.591-6.584a6.56 6.56 0 0 1 4.66 1.931 6.557 6.557 0 0 1 1.928 4.66c-.004 3.639-2.961 6.592-6.592 6.592zm3.615-4.934c-.197-.099-1.17-.578-1.353-.646-.182-.065-.315-.099-.445.099-.133.197-.513.646-.627.775-.114.133-.232.148-.43.05-.197-.1-.836-.308-1.592-.985-.59-.525-.985-1.175-1.103-1.372-.114-.198-.011-.304.088-.403.087-.088.197-.232.296-.346.1-.114.133-.198.198-.33.065-.134.034-.248-.015-.347-.05-.099-.445-1.076-.612-1.47-.16-.389-.323-.335-.445-.34-.114-.007-.247-.007-.38-.007a.729.729 0 0 0-.529.247c-.182.198-.691.677-.691 1.654 0 .977.71 1.916.81 2.049.098.133 1.394 2.132 3.383 2.992.47.205.84.326 1.129.418.475.152.904.129 1.246.08.38-.058 1.17-.478 1.338-.94.168-.463.168-.86.117-.941-.05-.079-.181-.13-.379-.229z"/>
+                  </svg>
+                </div>
+                <h5 class="fw-bold">WhatsApp</h5>
+                <p class="text-muted small">Chat instantly on WhatsApp</p>
+                <!-- Replace 1234567890 with your full phone number in international format (without + or dashes) -->
+                <a href="https://wa.me/+918127090047?text=Hello%20I%20have%20a%20query%20regarding%20Master%20Quiz" target="_blank" class="btn btn-outline-success w-100 fw-semibold">WhatsApp Me</a>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+  <!-- FOOTER SECTION -->
+  <footer class="bg-dark text-white py-4 border-top border-secondary">
+    <div class="container text-center">
+      <p class="mb-0">&copy; <span id="currentYear"></span> Master Quiz. All rights reserved with the owner.</p>
+    </div>
+  </footer>
+
+  <!-- Bootstrap 5 JS Bundle -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  <!-- Page Custom JS -->
+  <script src="js/index.js"></script>
+</body>
+</html>

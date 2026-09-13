@@ -47,124 +47,74 @@ application.
 Master Quiz currently includes 10 main categories with multiple
 subcategories:
 
-Aptitude and Reasoning
-
+1️⃣ Aptitude and Reasoning
 Analytical Reasoning
-
 Critical Thinking
-
 Logical Reasoning
-
 Mathematical Reasoning
-
 Quantitative Aptitude
 
-Computer Science
-
+2️⃣ Computer Science
 Computer Network
-
 Cyber Security
-
 Database Management System
-
 Operating System
-
 Software Engineering
 
-Emerging Technologies
-
+3️⃣Emerging Technologies
 Artificial Intelligence
-
 Blockchain
-
 Cloud Computing
-
 Internet of Things
-
 Machine Learning
 
-Entertainment
-
+4️⃣ Entertainment
 Bollywood
-
 Fictional Characters
-
 Hollywood
-
 Marvel
-
 Music
 
-General Knowledge
-
+5️⃣ General Knowledge
 Awards
-
 Books
-
 Capitals
-
 Indian Constitution
-
 World Records
 
-Learning Basics
-
+6️⃣ Learning Basics
 Basic Maths
-
 Basic Science
-
 Computer Basics
-
 General Knowledge
-
 Grammar
 
-Programming
-
+7️⃣ Programming
 C & Java
-
 Dev Tools
-
 Programming Concepts
-
 Python & JavaScript
-
 Web Development
 
-Science
-
+8️⃣ Science
 Astronomy
-
 Biology
-
 Chemistry
-
 Physics
-
 Scientists & Inventors
 
-Social Science
-
+9️⃣ Social Science
 Culture
-
 Environment
-
 Geography
-
 History
-
 Politics
 
-Sports
-
+1️⃣0️⃣ Sports
 All Sports
-
 Cricket
-
 Football
-
 ICC Tournament
-
 Olympic
 
 🎮 How to Use

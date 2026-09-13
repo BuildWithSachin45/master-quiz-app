@@ -54,29 +54,34 @@
         </div>
 
         <!-- Two Player Real-Time Scoreboard (Visible only in 2-player mode) -->
-        <div id="multiplayer-scoreboard" class="card border-0 shadow-sm rounded-4 mb-3 d-none mx-auto w-100" style="max-width: 850px;">
-            <div class="card-body p-3 bg-white">
-                <div class="row text-center align-items-center g-2">
-                    <div class="col-5">
-                        <div class="p-2 rounded-3 border" id="p1-score-box">
-                            <span class="fw-bold text-truncate d-block" id="p1-display-name">Player 1</span>
-                            <span class="badge bg-success me-1">✓ <span id="p1-correct-count">0</span></span>
-                            <span class="badge bg-danger">✗ <span id="p1-wrong-count">0</span></span>
-                        </div>
+        <!-- Two Player Real-Time Scoreboard (Fixed Chip Overlap) -->
+<div id="multiplayer-scoreboard" class="card border-0 shadow-sm rounded-4 mb-3 d-none mx-auto w-100" style="max-width: 850px;">
+    <div class="card-body p-2 p-sm-3 bg-white">
+        <div class="row text-center align-items-center g-1 g-sm-2">
+            <div class="col-4 col-sm-5">
+                <div class="p-1 p-sm-2 rounded-3 border" id="p1-score-box">
+                    <span class="fw-bold text-truncate d-block small" id="p1-display-name">Player 1</span>
+                    <div class="d-flex justify-content-center gap-1 mt-1">
+                        <span class="badge bg-success px-1 px-sm-2 py-1">✓ <span id="p1-correct-count">0</span></span>
+                        <span class="badge bg-danger px-1 px-sm-2 py-1">✗ <span id="p1-wrong-count">0</span></span>
                     </div>
-                    <div class="col-2">
-                        <div class="badge bg-dark rounded-pill px-2 py-1 small" id="battle-lead-badge">Tied</div>
-                    </div>
-                    <div class="col-5">
-                        <div class="p-2 rounded-3 border" id="p2-score-box">
-                            <span class="fw-bold text-truncate d-block" id="p2-display-name">Player 2</span>
-                            <span class="badge bg-success me-1">✓ <span id="p2-correct-count">0</span></span>
-                            <span class="badge bg-danger">✗ <span id="p2-wrong-count">0</span></span>
-                        </div>
+                </div>
+            </div>
+            <div class="col-4 col-sm-2 px-0 text-center">
+                <span class="badge bg-secondary text-truncate rounded-pill px-2 py-1" style="font-size: 0.75rem; max-width: 100%;" id="battle-lead-badge">Tied</span>
+            </div>
+            <div class="col-4 col-sm-5">
+                <div class="p-1 p-sm-2 rounded-3 border" id="p2-score-box">
+                    <span class="fw-bold text-truncate d-block small" id="p2-display-name">Player 2</span>
+                    <div class="d-flex justify-content-center gap-1 mt-1">
+                        <span class="badge bg-success px-1 px-sm-2 py-1">✓ <span id="p2-correct-count">0</span></span>
+                        <span class="badge bg-danger px-1 px-sm-2 py-1">✗ <span id="p2-wrong-count">0</span></span>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
+</div>
 
         <!-- Quiz Interface Card -->
         <div id="quiz-main-card" class="card border-0 shadow-sm rounded-4 overflow-hidden d-none mx-auto w-100" style="max-width: 850px;">

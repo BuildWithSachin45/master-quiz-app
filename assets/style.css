@@ -278,3 +278,29 @@ body {
 footer.bg-dark {
   background-color: var(--primary-navy) !important;
 }
+
+/* Mobile Viewport Safety & Layout Fixes */
+@media (max-width: 576px) {
+  #multiplayer-scoreboard .card-body {
+    padding: 0.5rem !important;
+  }
+  
+  #battle-lead-badge {
+    font-size: 0.7rem !important;
+    white-space: normal !important;
+    display: inline-block;
+    line-height: 1.2;
+    padding: 4px 6px !important;
+  }
+
+  .card-footer button {
+    font-size: 0.85rem !important;
+    padding-left: 0.75rem !important;
+    padding-right: 0.75rem !important;
+  }
+
+  #selected-chips {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+}

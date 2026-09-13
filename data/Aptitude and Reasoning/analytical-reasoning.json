@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "If A is taller than B, and B is taller than C, who is the shortest among the three?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "Cannot be determined"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "In a row of 5 friends facing North, P is to the left of Q, and R is to the right of Q. Who is sitting in the middle if P and R are at the ends?",
+    "options": [
+      "P",
+      "Q",
+      "R",
+      "Cannot be determined"
+    ],
+    "answer": "Q"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "If Condition X implies Condition Y, and Condition Y is FALSE, what can we logically conclude about Condition X?",
+    "options": [
+      "X is TRUE",
+      "X is FALSE",
+      "X is uncertain",
+      "Y is TRUE"
+    ],
+    "answer": "X is FALSE"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "Four people A, B, C, D live on different floors of a 4-story building (1 to 4). A lives above B, and C lives below B. D lives on floor 4. On which floor does C live?",
+    "options": [
+      "Floor 1",
+      "Floor 2",
+      "Floor 3",
+      "Floor 4"
+    ],
+    "answer": "Floor 1"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "To select a team of 2 from {A, B, C}, if A is selected, B cannot be selected. How many valid pairs can be formed?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "Tom is older than John. Sally is older than Tom. Who is the youngest among the three?",
+    "options": [
+      "Tom",
+      "John",
+      "Sally",
+      "Cannot be determined"
+    ],
+    "answer": "John"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "A, B, C, and D are standing in a line. A is not at either end. B is to the immediate right of A. If D is at the extreme left end, who is at the extreme right end?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "If a meeting must take place after Tuesday and before Friday, on which days could it be scheduled?",
+    "options": [
+      "Monday or Tuesday",
+      "Wednesday or Thursday",
+      "Friday or Saturday",
+      "Thursday or Friday"
+    ],
+    "answer": "Wednesday or Thursday"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "Five boxes 1, 2, 3, 4, 5 are stacked vertically. Box 1 is at the top and Box 5 is at the bottom. Which box is immediately above Box 4?",
+    "options": [
+      "Box 2",
+      "Box 3",
+      "Box 5",
+      "Box 1"
+    ],
+    "answer": "Box 3"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "If Red item is cheaper than Blue item, and Blue item is cheaper than Green item, which item is the most expensive?",
+    "options": [
+      "Red item",
+      "Blue item",
+      "Green item",
+      "They cost the same"
+    ],
+    "answer": "Green item"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "In a race, X finished before Y, and Z finished after Y. Who won the race?",
+    "options": [
+      "X",
+      "Y",
+      "Z",
+      "Cannot be determined"
+    ],
+    "answer": "X"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "A group consists of 3 boys and 2 girls. A committee of 2 is formed such that it must contain at least 1 girl. How many ways can this committee be chosen?",
+    "options": [
+      "7",
+      "6",
+      "10",
+      "4"
+    ],
+    "answer": "7"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "If Task P must be done before Task Q, and Task Q must be done before Task R, in what order should all three tasks be executed?",
+    "options": [
+      "P, Q, R",
+      "Q, P, R",
+      "R, Q, P",
+      "P, R, Q"
+    ],
+    "answer": "P, Q, R"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "Four friends P, Q, R, S sit around a square table facing center, one on each side. P is opposite R. Q is to the right of P. Who is to the left of P?",
+    "options": [
+      "Q",
+      "R",
+      "S",
+      "Cannot be determined"
+    ],
+    "answer": "S"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "If all employees in Dept A work on Mondays, and John is an employee in Dept A, what can be concluded?",
+    "options": [
+      "John works on Mondays",
+      "John only works on Mondays",
+      "John never works on Tuesdays",
+      "Everyone working on Monday is in Dept A"
+    ],
+    "answer": "John works on Mondays"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "M, N, O, P are placed in a line. M is ahead of N. O is behind P but ahead of M. Who is first in line?",
+    "options": [
+      "M",
+      "N",
+      "O",
+      "P"
+    ],
+    "answer": "P"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "Rule: 'If it rains, the ground is wet.' Given the ground is NOT wet, what can we deduce?",
+    "options": [
+      "It is raining",
+      "It is not raining",
+      "It rained heavily",
+      "Nothing can be deduced"
+    ],
+    "answer": "It is not raining"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "Three students A, B, and C score different marks. A scored more than C. B scored less than C. Who scored the second highest?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "Cannot be determined"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "Among 4 cars (W, X, Y, Z), W is faster than X, but slower than Y. Z is faster than Y. Which is the fastest car?",
+    "options": [
+      "W",
+      "X",
+      "Y",
+      "Z"
+    ],
+    "answer": "Z"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "Constraint: A project requires exactly two software tools out of {Python, Java, C++}. If C++ is not used, which tools must be used?",
+    "options": [
+      "Python and Java",
+      "Java and C++",
+      "Python and C++",
+      "None"
+    ],
+    "answer": "Python and Java"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "Five family members sit in a row. Father sits in the middle. Mother sits next to Father. Son sits on the extreme left. Where does Daughter sit if Grandmother is at the extreme right?",
+    "options": [
+      "Between Son and Father",
+      "Between Mother and Grandmother",
+      "At the extreme left",
+      "Next to Grandmother"
+    ],
+    "answer": "Between Son and Father"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "Four courses (Math, Physics, Chemistry, Biology) are held Monday to Thursday, one per day. Math is on Tuesday. Chemistry is immediately after Physics. On which day is Biology?",
+    "options": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday"
+    ],
+    "answer": "Monday"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "If X is selected, Y must be selected. If Y is selected, Z cannot be selected. If X is selected, what is the status of Z?",
+    "options": [
+      "Z must be selected",
+      "Z cannot be selected",
+      "Z may or may not be selected",
+      "X is deselected"
+    ],
+    "answer": "Z cannot be selected"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "Three boxes (Red, Green, Blue) contain one fruit each: Apple, Orange, Banana. The Apple is not in Red. The Orange is in Blue. Where is the Banana?",
+    "options": [
+      "Red",
+      "Green",
+      "Blue",
+      "Cannot be determined"
+    ],
+    "answer": "Red"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "In an office, Desk 1, Desk 2, and Desk 3 are in a row. Alice sits at Desk 1. Bob does not sit next to Alice. Where does Charlie sit?",
+    "options": [
+      "Desk 1",
+      "Desk 2",
+      "Desk 3",
+      "Cannot be determined"
+    ],
+    "answer": "Desk 2"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "Condition: Either A or B must attend the conference, but not both. If A attends, who does NOT attend?",
+    "options": [
+      "A",
+      "B",
+      "Both A and B",
+      "Neither"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "Four towns A, B, C, D are connected by roads. A is north of B, B is west of C, C is south of D. What direction is A from B?",
+    "options": [
+      "North",
+      "South",
+      "East",
+      "West"
+    ],
+    "answer": "North"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "Among P, Q, R, S: P weighs more than Q, R weighs less than Q, S weighs more than P. Who is the lightest?",
+    "options": [
+      "P",
+      "Q",
+      "R",
+      "S"
+    ],
+    "answer": "R"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "If Person A works only on even-numbered days and Person B works only on multiples of 3, on which day between 1 and 10 do BOTH work?",
+    "options": [
+      "Day 4",
+      "Day 6",
+      "Day 8",
+      "Day 9"
+    ],
+    "answer": "Day 6"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "A, B, and C compete in a test. A scores 80, B scores higher than A, C scores lower than B but higher than A. What is the ranking from highest to lowest?",
+    "options": [
+      "B, C, A",
+      "A, B, C",
+      "C, B, A",
+      "B, A, C"
+    ],
+    "answer": "B, C, A"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "Five people (A, B, C, D, E) sit in a row facing North. A and E are at the extreme ends. B sits to the immediate right of A. C is to the immediate left of E. Who sits in the exact middle?",
+    "options": [
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "A team of 3 must be selected from 5 candidates: {P, Q, R, S, T}. Conditions: 1) If P is selected, Q must be selected. 2) R and S cannot be together. If P and T are selected, who must be the third member?",
+    "options": [
+      "Q",
+      "R",
+      "S",
+      "Cannot form a valid team"
+    ],
+    "answer": "Q"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "Six people (A, B, C, D, E, F) sit around a circular table facing center. A is opposite D. B is second to the right of A. C is between A and B. Who is second to the left of D?",
+    "options": [
+      "B",
+      "C",
+      "E",
+      "F"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "Three items (Laptop, Tablet, Phone) are owned by three people (Alex, Blake, Chris), each owning one. 1) Alex does not own the Laptop. 2) Chris owns the Phone. Who owns the Laptop?",
+    "options": [
+      "Alex",
+      "Blake",
+      "Chris",
+      "Cannot be determined"
+    ],
+    "answer": "Blake"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "Five events (V, W, X, Y, Z) take place Monday through Friday. X happens on Wednesday. V happens before X but after W. Y happens immediately after Z. On which day does Y take place?",
+    "options": [
+      "Monday",
+      "Tuesday",
+      "Thursday",
+      "Friday"
+    ],
+    "answer": "Friday"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "In a 6-story building, floors 1 (bottom) to 6 (top) are occupied by P, Q, R, S, T, U. P lives on an odd floor above floor 3. Q lives immediately below P. S lives on floor 1. R lives on an even floor. Where does P live?",
+    "options": [
+      "Floor 3",
+      "Floor 5",
+      "Floor 4",
+      "Floor 6"
+    ],
+    "answer": "Floor 5"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "Four friends (K, L, M, N) have different professions (Doctor, Engineer, Lawyer, Teacher). 1) K is not a Doctor or Lawyer. 2) L is an Engineer. 3) M is not a Doctor. What is K's profession?",
+    "options": [
+      "Doctor",
+      "Engineer",
+      "Lawyer",
+      "Teacher"
+    ],
+    "answer": "Teacher"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "A panel selects 4 members from {A, B, C, D, E, F}. Rule 1: A and B must be chosen together. Rule 2: If C is chosen, D cannot be chosen. Rule 3: E and F must be chosen together. If C is chosen, who CANNOT be part of the 4-member panel?",
+    "options": [
+      "A",
+      "B",
+      "D",
+      "E"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "Seven cars A, B, C, D, E, F, G are parked in a line facing North. C is 3rd to the left of G. B is at an extreme end. D is between C and G. If B is at the extreme right end, how many cars are to the right of C?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "Four people (1, 2, 3, 4) speak different languages (English, Spanish, French, German). Person 1 speaks English or German. Person 2 speaks French. Person 3 speaks Spanish. Person 4 does not speak German. What language does Person 1 speak?",
+    "options": [
+      "English",
+      "Spanish",
+      "French",
+      "German"
+    ],
+    "answer": "German"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "A schedule of 4 presentations (P, Q, R, S) must follow: 1) P is before R. 2) Q is immediately after S. 3) R is first or last. If R is first, which presentation must be second?",
+    "options": [
+      "P",
+      "Q",
+      "S",
+      "Invalid schedule"
+    ],
+    "answer": "Invalid schedule"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "Five students (A, B, C, D, E) take an exam. A scored higher than B, but lower than C. D scored higher than E, but lower than B. Who scored the second lowest?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "In a linear arrangement of 6 seats, A is adjacent to B. B is adjacent to C. C is not adjacent to D. D is adjacent to E and F. If F is at seat 1, where is D?",
+    "options": [
+      "Seat 2",
+      "Seat 3",
+      "Seat 4",
+      "Seat 5"
+    ],
+    "answer": "Seat 2"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "Condition set: If Alpha is chosen, Beta is not chosen. If Gamma is chosen, Beta MUST be chosen. If Alpha is chosen, what can we say about Gamma?",
+    "options": [
+      "Gamma must be chosen",
+      "Gamma cannot be chosen",
+      "Gamma may or may not be chosen",
+      "Beta must be chosen"
+    ],
+    "answer": "Gamma cannot be chosen"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "Three boxes (1, 2, 3) contain coins. Box 1 has more coins than Box 2. Box 3 has fewer coins than Box 2. If 5 coins are added to Box 3 and 2 coins removed from Box 1, which box DEFINITELY had the most coins originally?",
+    "options": [
+      "Box 1",
+      "Box 2",
+      "Box 3",
+      "Cannot be determined"
+    ],
+    "answer": "Box 1"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "Six people sit around a circular table. A faces B. C is to the immediate right of A. D is opposite C. Who is to the immediate left of B?",
+    "options": [
+      "A",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "A fruit basket contains Apples, Bananas, and Oranges. If you pick an Apple, you must also pick a Banana. If you pick an Orange, you cannot pick a Banana. If Alex picked an Apple, did he pick an Orange?",
+    "options": [
+      "Yes",
+      "No",
+      "Maybe",
+      "Insufficient Information"
+    ],
+    "answer": "No"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "Five tasks (T1, T2, T3, T4, T5) are executed sequentially. T3 is executed immediately after T1. T5 is executed before T1. T2 is executed last. Which task is executed first?",
+    "options": [
+      "T1",
+      "T3",
+      "T4",
+      "T5"
+    ],
+    "answer": "T5"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "Four employees (E1, E2, E3, E4) earn different salaries. E1 earns more than E2. E3 earns more than E4. E2 earns more than E3. Who is the highest earner?",
+    "options": [
+      "E1",
+      "E2",
+      "E3",
+      "E4"
+    ],
+    "answer": "E1"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "A committee of 3 is formed from {M, N, O, P, Q}. Rule: M and N cannot be together. Rule: P requires Q to be present. If M and P are selected, who is the 3rd member?",
+    "options": [
+      "N",
+      "O",
+      "Q",
+      "None"
+    ],
+    "answer": "Q"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "In a 5-floor building, A lives on an even floor. B lives above A. C lives two floors below B. D lives on floor 1. Where does A live?",
+    "options": [
+      "Floor 2",
+      "Floor 4",
+      "Floor 3",
+      "Floor 5"
+    ],
+    "answer": "Floor 2"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "Four cars (Red, Blue, Green, Yellow) are in a race. Red finished ahead of Blue. Green finished behind Yellow but ahead of Red. What is the finishing order from 1st to 4th?",
+    "options": [
+      "Yellow, Green, Red, Blue",
+      "Green, Yellow, Red, Blue",
+      "Yellow, Red, Green, Blue",
+      "Red, Blue, Yellow, Green"
+    ],
+    "answer": "Yellow, Green, Red, Blue"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "If statement 'All programmers like coffee' is TRUE, which of the following MUST be true?",
+    "options": [
+      "If Sam likes coffee, he is a programmer.",
+      "If Sam is a programmer, he likes coffee.",
+      "If Sam is not a programmer, he dislikes coffee.",
+      "Everyone who likes coffee is a programmer."
+    ],
+    "answer": "If Sam is a programmer, he likes coffee."
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "Six people (P1, P2, P3, P4, P5, P6) sit in a row. P1 and P6 are at the ends. P3 is sitting exactly between P2 and P4. P5 is to the immediate left of P6. Who sits to the immediate right of P1?",
+    "options": [
+      "P2",
+      "P3",
+      "P4",
+      "P5"
+    ],
+    "answer": "P2"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "Three friends A, B, C choose a holiday destination among Paris, London, Tokyo. No two choose the same. A does not choose Paris. B chooses Tokyo. What does A choose?",
+    "options": [
+      "Paris",
+      "London",
+      "Tokyo",
+      "Cannot be determined"
+    ],
+    "answer": "London"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "Four team members A, B, C, D must perform a sequence of 4 steps. Step 1 is done by A or B. Step 4 is done by C. If B performs Step 2, who must perform Step 1?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "Six books are stacked. History is above Math. Physics is below Chemistry. Math is above Chemistry. English is at the bottom. Which book is at the top?",
+    "options": [
+      "History",
+      "Math",
+      "Chemistry",
+      "Physics"
+    ],
+    "answer": "History"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "If Group 1 has candidates {A, B, C} and Group 2 has {D, E, F}. Select 3 people with at least 1 from Group 1 and at least 1 from Group 2. How many total combinations exist?",
+    "options": [
+      "18",
+      "20",
+      "15",
+      "12"
+    ],
+    "answer": "18"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "In a round-robin tournament of 4 teams, every team plays every other team once. How many total matches are played?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "P, Q, R, S sit around a square table facing center. P sits to the left of Q. R sits to the right of S. If P is opposite S, who is to the right of P?",
+    "options": [
+      "Q",
+      "R",
+      "S",
+      "Cannot be determined"
+    ],
+    "answer": "R"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "Eight people A, B, C, D, E, F, G, H sit around a circular table. Four face inside and four face outside. A sits 3rd to right of B who faces inside. C sits 2nd to left of A. Immediate neighbors of C face opposite directions to C. If G sits opposite A and faces outside, who sits 2nd to the right of G?",
+    "options": [
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "A team of 4 is to be selected from 3 Engineers (E1, E2, E3), 3 Doctors (D1, D2, D3), and 2 Lawyers (L1, L2). Constraints: 1) Exactly 1 Lawyer must be chosen. 2) If E1 is chosen, D2 cannot be chosen. 3) E2 and D1 must be together. 4) L1 is selected. If E1 and E2 are selected, who is the 4th member?",
+    "options": [
+      "D1",
+      "D2",
+      "D3",
+      "L2"
+    ],
+    "answer": "D1"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "Seven people (P, Q, R, S, T, U, V) live on 7 floors (1 to 7). P lives on an odd floor above floor 4. Two people live between P and Q. R lives immediately above U. S lives on an even floor below Q. V lives above T. Which floor does R live on?",
+    "options": [
+      "Floor 6",
+      "Floor 4",
+      "Floor 3",
+      "Floor 2"
+    ],
+    "answer": "Floor 4"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "Six courses (A, B, C, D, E, F) are taught from Monday to Saturday. C is taught on Thursday. A is taught immediately before E. Neither A nor E is taught on Saturday or Monday. B is taught before D. On which day is F taught?",
+    "options": [
+      "Monday",
+      "Saturday",
+      "Tuesday",
+      "Friday"
+    ],
+    "answer": "Saturday"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "Eight boxes (1 to 8) are placed in a stack. Box 8 is at the top. Three boxes are between Box 4 and Box 1. Box 4 is placed above Box 1. Box 2 is immediately below Box 1. Box 5 is two places above Box 4. If Box 7 is at the bottom, what is the position of Box 4 from the top?",
+    "options": [
+      "3rd",
+      "4th",
+      "5th",
+      "2nd"
+    ],
+    "answer": "3rd"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "Five professionals (Architect, Lawyer, Doctor, Engineer, Manager) work in cities (NYC, London, Paris, Tokyo, Sydney) and drive different car brands (BMW, Audi, Tesla, Benz, Ford). 1) The Doctor works in Paris and drives a Tesla. 2) The Architect works in NYC but does not drive BMW or Audi. 3) The Lawyer drives a Ford and does not work in Sydney or Tokyo. Where does the Lawyer work?",
+    "options": [
+      "NYC",
+      "London",
+      "Sydney",
+      "Tokyo"
+    ],
+    "answer": "London"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "A coding scheme maps 6 logic conditions: P -> Q, Q -> (R and S), S -> NOT T, T or U. If T is TRUE, which of the following MUST be true?",
+    "options": [
+      "P is FALSE",
+      "P is TRUE",
+      "Q is TRUE",
+      "S is TRUE"
+    ],
+    "answer": "P is FALSE"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "Six people (A, B, C, D, E, F) sit around a triangular table, 2 on each side. A and B sit on the same side. C sits opposite D. E is not on the same side as C or D. If F sits next to C, who is E's partner on their side?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "F"
+    ],
+    "answer": "F"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "In a family matrix puzzle: A, B, C, D, E, F are 6 members. There are 2 married couples, 1 Doctor, 1 Lawyer, 1 Engineer, 1 Teacher, and 2 Students. Doctor is married to Teacher. A (Engineer) is son of B and brother of C. E (Teacher) is married to D. F is grandmother of C. What is B's profession?",
+    "options": [
+      "Doctor",
+      "Lawyer",
+      "Teacher",
+      "Student"
+    ],
+    "answer": "Doctor"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "A group of 5 out of 8 candidates (A, B, C, D, E, F, G, H) is selected. 1) A and B must be together. 2) C and D cannot be together. 3) E and F must be together. 4) G and H cannot be together. If A, C, and E are selected, who among the following CANNOT be in the team?",
+    "options": [
+      "B",
+      "F",
+      "D",
+      "G"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "Eight people sit in two parallel rows of 4 people each. Row 1 faces South (P, Q, R, S) and Row 2 faces North (A, B, C, D). Q sits at an extreme end. A faces the person who sits 2nd to the left of Q. B sits to the immediate right of A. R faces C. Who faces P?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "D"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "Five cars (C1, C2, C3, C4, C5) are evaluated on Speed and Mileage. C1 is faster than C2 but has lower mileage than C3. C4 has highest speed but lowest mileage. C5 has higher mileage than C1 and C3, but is slower than C2. Which car has the highest mileage?",
+    "options": [
+      "C1",
+      "C3",
+      "C4",
+      "C5"
+    ],
+    "answer": "C5"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "Seven lectures (L1 to L7) take place in a week (Mon to Sun). L3 is on Wednesday. Two lectures are between L3 and L1. L4 is immediately before L7. L5 is on Sunday. L2 is before L6. On which day is L4 held?",
+    "options": [
+      "Thursday",
+      "Friday",
+      "Monday",
+      "Tuesday"
+    ],
+    "answer": "Thursday"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "A logical system has 4 variables (W, X, Y, Z). Rules: 1) If W=1, then X=0. 2) If X=0, then Y=1. 3) If Y=1, then Z=0 or W=0. If W=1 and Z=1, which state is violated?",
+    "options": [
+      "Rule 1",
+      "Rule 2",
+      "Rule 3",
+      "None"
+    ],
+    "answer": "Rule 3"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "Six people A, B, C, D, E, F belong to 3 departments: HR, IT, Finance (exactly 2 per department). A is in IT. B is not in HR. C and D are in the same department. E is not in IT or Finance. Which department is B in?",
+    "options": [
+      "HR",
+      "IT",
+      "Finance",
+      "Cannot be determined"
+    ],
+    "answer": "IT"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "In a 7-person linear arrangement facing North: P is 4th to the right of Q. R is 2nd to the left of P. S is to the immediate left of T. U is at one of the extreme ends. If Q is at the left extreme end, who is sitting in the exact center?",
+    "options": [
+      "R",
+      "S",
+      "T",
+      "P"
+    ],
+    "answer": "R"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "Four colored balls (Red, Blue, Green, Yellow) are placed in 4 numbered boxes (1, 2, 3, 4). 1) Red is not in box 1 or 4. 2) Blue is in an even box. 3) Green is in box 3. Which box contains the Yellow ball?",
+    "options": [
+      "Box 1",
+      "Box 2",
+      "Box 3",
+      "Box 4"
+    ],
+    "answer": "Box 1"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "A project requires 3 modules out of {M1, M2, M3, M4, M5}. 1) If M1 is selected, M2 must be selected. 2) M3 and M4 cannot be together. 3) M5 requires M3. If M1 and M5 are selected, what is the 3rd module?",
+    "options": [
+      "M2",
+      "M3",
+      "M4",
+      "Conflict in conditions"
+    ],
+    "answer": "Conflict in conditions"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "Eight people A, B, C, D, E, F, G, H sit around a circular table. A faces center and sits 3rd to left of B. Immediate neighbors of A face opposite direction to A. B faces outside. C sits 2nd to right of A. How many people face center if D, E, F, G, H alternate directions starting from C (facing inside)?",
+    "options": [
+      "4",
+      "5",
+      "3",
+      "6"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "A matrix of 3 rows and 3 columns is filled with numbers 1 to 9. Row 1 sum is 15. Column 1 sum is 15. Diagonal sum from top-left to bottom-right is 15. If center number (Row 2, Col 2) is 5, what number is at top-left (Row 1, Col 1) if top-right is 2 and bottom-left is 6?",
+    "options": [
+      "8",
+      "4",
+      "9",
+      "1"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "Five friends (A, B, C, D, E) play 5 different sports (Cricket, Football, Tennis, Squash, Badminton) on 5 different days (Mon-Fri). A plays Tennis on Wednesday. B plays Football the day after C plays Squash. D plays Badminton on Monday. What sport does E play on Friday?",
+    "options": [
+      "Cricket",
+      "Football",
+      "Squash",
+      "Tennis"
+    ],
+    "answer": "Football"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "Condition: Team T must have 2 seniors and 2 juniors from {S1, S2, S3} and {J1, J2, J3, J4}. S1 refuses to work with J2. S2 requires J3. If J2 and J3 are selected, which seniors must be selected?",
+    "options": [
+      "S2 and S3",
+      "S1 and S2",
+      "S1 and S3",
+      "Cannot be formed"
+    ],
+    "answer": "S2 and S3"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "Six people P, Q, R, S, T, U sit in a row facing North. P is 3rd to left of S. Q is 2nd to right of P. R is to the immediate left of T. U is at an extreme end. Who is sitting at the extreme right end?",
+    "options": [
+      "S",
+      "T",
+      "U",
+      "Q"
+    ],
+    "answer": "U"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "If statement 'P implies Q' is TRUE, and 'Q implies (R or S)' is TRUE, but 'R is FALSE' and 'S is FALSE', what is the truth value of P?",
+    "options": [
+      "TRUE",
+      "FALSE",
+      "Undetermined",
+      "Both TRUE and FALSE"
+    ],
+    "answer": "FALSE"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "In a 6-person circular seating, A is between B and C. D is opposite B. E is to the immediate right of D. Who is opposite C?",
+    "options": [
+      "A",
+      "E",
+      "F",
+      "D"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "Seven people (A, B, C, D, E, F, G) sit in a row. A is 2nd to left of B. C is 3rd to right of A. D is neighbor of both B and C. E is at extreme left. F is between E and A. Who is at the extreme right end?",
+    "options": [
+      "G",
+      "C",
+      "D",
+      "B"
+    ],
+    "answer": "G"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "Five subjects (S1, S2, S3, S4, S5) are scheduled in 5 slots (1 to 5). S1 is not in slot 1 or 5. S3 is immediately after S2. S4 is in slot 5. In which slot is S1 scheduled if S5 is in slot 1?",
+    "options": [
+      "Slot 2",
+      "Slot 3",
+      "Slot 4",
+      "Slot 5"
+    ],
+    "answer": "Slot 4"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "Four people A, B, C, D have four different pets (Dog, Cat, Bird, Fish) and live in four cities (NY, LA, CHI, HOU). 1) The person in LA has a Bird. 2) B lives in CHI and does not have a Dog. 3) C has a Fish. 4) A lives in NY. What pet does A have?",
+    "options": [
+      "Dog",
+      "Cat",
+      "Bird",
+      "Fish"
+    ],
+    "answer": "Dog"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "Three couples (H1-W1, H2-W2, H3-W3) sit around a circular table facing center. No husband sits next to his wife. H1 sits opposite H2. W1 sits to the immediate right of H2. Where does W2 sit relative to H1?",
+    "options": [
+      "Immediate right",
+      "Immediate left",
+      "Opposite",
+      "Second to right"
+    ],
+    "answer": "Immediate left"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "Eight members are divided into two equal sub-committees (X and Y). Rule 1: A and B must be in different sub-committees. Rule 2: C and D must be together in X. Rule 3: E and F must be together in Y. If G is in X, which sub-committee must H join if A is in X?",
+    "options": [
+      "X",
+      "Y",
+      "Either X or Y",
+      "Neither"
+    ],
+    "answer": "Y"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "Five boxes contain colored balls. Red box has more balls than Blue box. Green box has fewer balls than Yellow box. White box has equal balls to Blue box. Yellow box has fewer balls than White box. Which box has the most balls?",
+    "options": [
+      "Red box",
+      "Blue box",
+      "Green box",
+      "Yellow box"
+    ],
+    "answer": "Red box"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "A sequence of 4 operations (O1, O2, O3, O4) is applied to a data stream. O1 must occur before O3. O2 must occur after O4. O3 must occur before O4. What is the unique correct order?",
+    "options": [
+      "O1, O3, O4, O2",
+      "O1, O4, O3, O2",
+      "O3, O1, O4, O2",
+      "O4, O2, O1, O3"
+    ],
+    "answer": "O1, O3, O4, O2"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "Six people (A, B, C, D, E, F) stand in a line according to height. A is taller than C but shorter than B. D is taller than E but shorter than C. F is the tallest. Who is the 4th tallest person?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "In a 4x4 grid, if a knight moves from (1,1) using standard chess moves, what is the minimum number of moves to reach (4,4)?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "5"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "A truth-teller always tells the truth, and a liar always lies. Person A says: 'At least one of us is a liar.' What are Person A and Person B?",
+    "options": [
+      "A is Truth-teller, B is Liar",
+      "A is Liar, B is Truth-teller",
+      "Both are Liars",
+      "Both are Truth-tellers"
+    ],
+    "answer": "A is Truth-teller, B is Liar"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "Seven flights F1 to F7 depart daily. F3 departs before F1. F2 departs after F5. F7 departs immediately after F3 and before F5. F4 is the last flight. F6 is the first flight. What is the departure rank of F1?",
+    "options": [
+      "5th",
+      "6th",
+      "4th",
+      "3rd"
+    ],
+    "answer": "6th"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "A, B, C, D, E are 5 cities. Distance A-B is 10 km, B-C is 15 km, C-D is 12 km, D-E is 8 km, E-A is 5 km along a circular highway. What is the shortest distance from B to E along the highway?",
+    "options": [
+      "15 km",
+      "20 km",
+      "35 km",
+      "25 km"
+    ],
+    "answer": "15 km"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "If all A are B, some B are C, no C is D, and all D are E. Which conclusion is DEFINITELY TRUE?",
+    "options": [
+      "No A is C",
+      "Some B are not D",
+      "All E are D",
+      "Some A are D"
+    ],
+    "answer": "Some B are not D"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "Six people sit around a table facing center. A sits 2nd to left of B. C sits 2nd to left of D. E is neighbor of both A and D. Who sits to the immediate right of B?",
+    "options": [
+      "C",
+      "E",
+      "F",
+      "D"
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "In a group of 100 students, 50 play Football, 40 play Basketball, 30 play Cricket. 15 play Football and Basketball, 10 play Basketball and Cricket, 12 play Football and Cricket. 5 play all three sports. How many students play NONE of these three sports?",
+    "options": [
+      "12",
+      "8",
+      "2",
+      "10"
+    ],
+    "answer": "12"
+  }
+]

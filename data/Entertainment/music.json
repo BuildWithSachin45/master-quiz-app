@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "How many lines are on a standard musical staff?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "3"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "Which instrument has 88 keys?",
+    "options": [
+      "Accordion",
+      "Piano",
+      "Organ",
+      "Harpsichord"
+    ],
+    "answer": "Piano"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "Who is known as the 'King of Pop'?",
+    "options": [
+      "Prince",
+      "Elvis Presley",
+      "Michael Jackson",
+      "Justin Timberlake"
+    ],
+    "answer": "Michael Jackson"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "Which English rock band sang 'Yellow Submarine' and 'Hey Jude'?",
+    "options": [
+      "The Rolling Stones",
+      "The Who",
+      "The Beatles",
+      "Led Zeppelin"
+    ],
+    "answer": "The Beatles"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "What is the highest female singing voice type?",
+    "options": [
+      "Alto",
+      "Soprano",
+      "Mezzo-soprano",
+      "Contralto"
+    ],
+    "answer": "Soprano"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "Which family of instruments does the flute belong to?",
+    "options": [
+      "Brass",
+      "Percussion",
+      "Woodwind",
+      "Strings"
+    ],
+    "answer": "Woodwind"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "How many beats does a standard quarter note receive in 4/4 time?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "Which pop star is famous for fans called 'Swifties'?",
+    "options": [
+      "Ariana Grande",
+      "Taylor Swift",
+      "Katy Perry",
+      "Billie Eilish"
+    ],
+    "answer": "Taylor Swift"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "What symbol is placed at the beginning of a musical staff to indicate higher pitches?",
+    "options": [
+      "Bass clef",
+      "Treble clef",
+      "Alto clef",
+      "Tenor clef"
+    ],
+    "answer": "Treble clef"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "Which country is the legendary pop group ABBA from?",
+    "options": [
+      "Norway",
+      "Denmark",
+      "Sweden",
+      "Finland"
+    ],
+    "answer": "Sweden"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "Which stringed instrument is slightly larger than a violin?",
+    "options": [
+      "Cello",
+      "Viola",
+      "Double Bass",
+      "Harp"
+    ],
+    "answer": "Viola"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "Who was the lead singer of the rock band Queen?",
+    "options": [
+      "David Bowie",
+      "Freddie Mercury",
+      "Robert Plant",
+      "Mick Jagger"
+    ],
+    "answer": "Freddie Mercury"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "What does the musical Italian term 'Loud' translate to?",
+    "options": [
+      "Piano",
+      "Forte",
+      "Allegro",
+      "Crescendo"
+    ],
+    "answer": "Forte"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "Which brass instrument uses a slide to change pitch instead of valves?",
+    "options": [
+      "Trumpet",
+      "French Horn",
+      "Trombone",
+      "Tuba"
+    ],
+    "answer": "Trombone"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "Which reggae legend released the hit song 'Three Little Birds'?",
+    "options": [
+      "Bob Marley",
+      "Peter Tosh",
+      "Jimmy Cliff",
+      "Ziggy Marley"
+    ],
+    "answer": "Bob Marley"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "What is the speed or pace of a piece of music called?",
+    "options": [
+      "Pitch",
+      "Tempo",
+      "Dynamics",
+      "Harmony"
+    ],
+    "answer": "Tempo"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "Which popular instrument typically has 6 strings?",
+    "options": [
+      "Bass guitar",
+      "Ukulele",
+      "Guitar",
+      "Mandolin"
+    ],
+    "answer": "Guitar"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "Who composed the famous 'Symphony No. 5' and lost his hearing later in life?",
+    "options": [
+      "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach",
+      "Frederic Chopin"
+    ],
+    "answer": "Ludwig van Beethoven"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "Which electronic dance music device is used by modern DJs to mix tracks live?",
+    "options": [
+      "Metronome",
+      "Turntable / DJ Controller",
+      "Synthesizer",
+      "Amplifier"
+    ],
+    "answer": "Turntable / DJ Controller"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "Which genre of music originated in New Orleans in the early 20th century?",
+    "options": [
+      "Country",
+      "Jazz",
+      "Rock and Roll",
+      "Techno"
+    ],
+    "answer": "Jazz"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "What is a group of three or more musical notes played simultaneously called?",
+    "options": [
+      "Scale",
+      "Chord",
+      "Arpeggio",
+      "Interval"
+    ],
+    "answer": "Chord"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "Which female artist is famous for songs like 'Single Ladies' and 'Halo'?",
+    "options": [
+      "Rihanna",
+      "Beyoncé",
+      "Adele",
+      "Lady Gaga"
+    ],
+    "answer": "Beyoncé"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "What does 'Piano' mean as a dynamic dynamic direction in sheet music?",
+    "options": [
+      "Fast",
+      "Soft",
+      "Loud",
+      "Slow"
+    ],
+    "answer": "Soft"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "Which member of a band keeps the rhythm using sticks?",
+    "options": [
+      "Pianist",
+      "Drummer",
+      "Bassist",
+      "Guitarist"
+    ],
+    "answer": "Drummer"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "Which musical movie features the song 'Do-Re-Mi'?",
+    "options": [
+      "Grease",
+      "The Sound of Music",
+      "Mary Poppins",
+      "La La Land"
+    ],
+    "answer": "The Sound of Music"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "What standard clef is predominantly used for low-pitched instruments like the cello and bass?",
+    "options": [
+      "Treble clef",
+      "Bass clef",
+      "Tenor clef",
+      "Alto clef"
+    ],
+    "answer": "Bass clef"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "Which famous music festival took place in upstate New York in 1969?",
+    "options": [
+      "Coachella",
+      "Glastonbury",
+      "Woodstock",
+      "Lollapalooza"
+    ],
+    "answer": "Woodstock"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "How many strings does a standard ukulele have?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "Which artist sang 'Shape of You' and 'Thinking Out Loud'?",
+    "options": [
+      "Shawn Mendes",
+      "Ed Sheeran",
+      "Justin Bieber",
+      "Sam Smith"
+    ],
+    "answer": "Ed Sheeran"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "What device produces a regular ticking sound to help musicians keep time?",
+    "options": [
+      "Tuner",
+      "Metronome",
+      "Pitch pipe",
+      "Capo"
+    ],
+    "answer": "Metronome"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "Which musical interval consists of twelve semitones?",
+    "options": [
+      "Fifth",
+      "Octave",
+      "Seventh",
+      "Fourth"
+    ],
+    "answer": "Octave"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "Who composed the opera 'The Magic Flute'?",
+    "options": [
+      "Ludwig van Beethoven",
+      "Wolfgang Amadeus Mozart",
+      "Giuseppe Verdi",
+      "Richard Wagner"
+    ],
+    "answer": "Wolfgang Amadeus Mozart"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "Which American album was the first to be certified 30x Platinum by the RIAA?",
+    "options": [
+      "Their Greatest Hits (1971-1975) - Eagles",
+      "Thriller - Michael Jackson",
+      "Back in Black - AC/DC",
+      "The Dark Side of the Moon - Pink Floyd"
+    ],
+    "answer": "Thriller - Michael Jackson"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "What does the Italian musical term 'Andante' mean?",
+    "options": [
+      "Very fast",
+      "At a walking pace",
+      "Gradually slowing down",
+      "Loud and broad"
+    ],
+    "answer": "At a walking pace"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "Which woodwind instrument uses a double reed?",
+    "options": [
+      "Clarinet",
+      "Saxophone",
+      "Oboe",
+      "Flute"
+    ],
+    "answer": "Oboe"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "In DAW recording software, what does 'MIDI' stand for?",
+    "options": [
+      "Musical Instrument Digital Interface",
+      "Master Integration Digital Audio",
+      "Music Input Direct Interconnect",
+      "Monophonic Instrument Digital Input"
+    ],
+    "answer": "Musical Instrument Digital Interface"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "Which famous jazz trumpeter was known by the nickname 'Satchmo'?",
+    "options": [
+      "Miles Davis",
+      "Louis Armstrong",
+      "Dizzy Gillespie",
+      "Chet Baker"
+    ],
+    "answer": "Louis Armstrong"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "Which scale degrees make up a standard Major triad in music theory?",
+    "options": [
+      "1, 3, 5",
+      "1, 2, 4",
+      "1, 4, 5",
+      "1, 3, 7"
+    ],
+    "answer": "1, 3, 5"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "Which famous guitarist played 'The Star-Spangled Banner' on an electric guitar at Woodstock 1969?",
+    "options": [
+      "Eric Clapton",
+      "Jimi Hendrix",
+      "Jimmy Page",
+      "Jeff Beck"
+    ],
+    "answer": "Jimi Hendrix"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "What is the key signature of C Major?",
+    "options": [
+      "One sharp",
+      "No sharps or flats",
+      "One flat",
+      "Two sharps"
+    ],
+    "answer": "No sharps or flats"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "Which avant-garde composer created the silent piece titled '4'33\"'?",
+    "options": [
+      "Philip Glass",
+      "John Cage",
+      "Steve Reich",
+      "Karlheinz Stockhausen"
+    ],
+    "answer": "John Cage"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "Which Nirvana album released in 1991 popularized alternative rock globally?",
+    "options": [
+      "Bleach",
+      "Nevermind",
+      "In Utero",
+      "MTV Unplugged"
+    ],
+    "answer": "Nevermind"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "What musical term indicates a gradual increase in volume?",
+    "options": [
+      "Decrescendo",
+      "Crescendo",
+      "Ritardando",
+      "Staccato"
+    ],
+    "answer": "Crescendo"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "Which female artist released the album 'Back to Black' in 2006?",
+    "options": [
+      "Adele",
+      "Amy Winehouse",
+      "Duffy",
+      "Lana Del Rey"
+    ],
+    "answer": "Amy Winehouse"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "What is the relative minor key of G Major?",
+    "options": [
+      "A minor",
+      "E minor",
+      "D minor",
+      "B minor"
+    ],
+    "answer": "E minor"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "Which genre was created by combining Jamaican dub music with electronic dance rhythms in London during the late 1990s/early 2000s?",
+    "options": [
+      "Dubstep",
+      "House",
+      "Trance",
+      "Synthwave"
+    ],
+    "answer": "Dubstep"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "Who composed the iconic soundtrack for the original 'Star Wars' trilogy?",
+    "options": [
+      "Hans Zimmer",
+      "John Williams",
+      "Ennio Morricone",
+      "Howard Shore"
+    ],
+    "answer": "John Williams"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "Which instrument family includes the timpani?",
+    "options": [
+      "Brass",
+      "Percussion",
+      "Strings",
+      "Woodwinds"
+    ],
+    "answer": "Percussion"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "Which hip-hop group released the seminal 1993 album 'Enter the Wu-Tang (36 Chambers)'?",
+    "options": [
+      "A Tribe Called Quest",
+      "Wu-Tang Clan",
+      "N.W.A",
+      "Outkast"
+    ],
+    "answer": "Wu-Tang Clan"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "What does playing notes 'Staccato' mean?",
+    "options": [
+      "Smooth and connected",
+      "Short and detached",
+      "Soft and tender",
+      "Heavy and accented"
+    ],
+    "answer": "Short and detached"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "Which famous studio in London was made famous by The Beatles' 1969 album cover?",
+    "options": [
+      "Sun Studio",
+      "Abbey Road Studios",
+      "Electric Lady Studios",
+      "Sound City"
+    ],
+    "answer": "Abbey Road Studios"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "In vocal music, what voice range lies between Bass and Tenor?",
+    "options": [
+      "Baritone",
+      "Countertenor",
+      "Alto",
+      "Mezzo"
+    ],
+    "answer": "Baritone"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "Which mode is built on the 5th degree of the major scale and commonly used in blues/rock?",
+    "options": [
+      "Dorian",
+      "Mixolydian",
+      "Phrygian",
+      "Lydian"
+    ],
+    "answer": "Mixolydian"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "Who was the legendary producer often called the 'Fifth Beatle'?",
+    "options": [
+      "Quincy Jones",
+      "George Martin",
+      "Phil Spector",
+      "Rick Rubin"
+    ],
+    "answer": "George Martin"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "What time signature is commonly known as 'waltz time'?",
+    "options": [
+      "4/4",
+      "3/4",
+      "6/8",
+      "2/4"
+    ],
+    "answer": "3/4"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "Which album by Pink Floyd features a prism refracting light on its cover?",
+    "options": [
+      "The Wall",
+      "The Dark Side of the Moon",
+      "Wish You Were Here",
+      "Animals"
+    ],
+    "answer": "The Dark Side of the Moon"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "What audio processor corrects pitch discrepancies in vocal recordings?",
+    "options": [
+      "Compressor",
+      "Auto-Tune",
+      "Equalizer",
+      "Reverb"
+    ],
+    "answer": "Auto-Tune"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "Which famous jazz album by Miles Davis was released in 1959 and became the best-selling jazz record of all time?",
+    "options": [
+      "A Love Supreme",
+      "Kind of Blue",
+      "Bitches Brew",
+      "Time Out"
+    ],
+    "answer": "Kind of Blue"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "What Italian term directs musicians to play smoothly and connectedly?",
+    "options": [
+      "Legato",
+      "Marcato",
+      "Presto",
+      "Glissando"
+    ],
+    "answer": "Legato"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "Which artist recorded the iconic 1971 album 'What's Going On'?",
+    "options": [
+      "Stevie Wonder",
+      "Marvin Gaye",
+      "Sam Cooke",
+      "Otis Redding"
+    ],
+    "answer": "Marvin Gaye"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "Which 20th-century classical piece caused a famous riot at its Paris premiere in 1913?",
+    "options": [
+      "The Rite of Spring",
+      "Daphnis et Chloé",
+      "Boléro",
+      "Petrushka"
+    ],
+    "answer": "The Rite of Spring"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "Who developed the 12-tone serialism technique in early 20th-century composition?",
+    "options": [
+      "Igor Stravinsky",
+      "Arnold Schoenberg",
+      "Béla Bartók",
+      "Alban Berg"
+    ],
+    "answer": "Arnold Schoenberg"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "What interval is historically known as 'Diabolus in Musica' (The Devil's Interval)?",
+    "options": [
+      "Major Seventh",
+      "Tritone",
+      "Minor Second",
+      "Augmented Fifth"
+    ],
+    "answer": "Tritone"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "Which church mode is constructed using only the natural notes starting on B?",
+    "options": [
+      "Locrian",
+      "Phrygian",
+      "Aeolian",
+      "Dorian"
+    ],
+    "answer": "Locrian"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "Which classical composer wrote the famous 'Goldberg Variations' (BWV 988)?",
+    "options": [
+      "George Frideric Handel",
+      "Johann Sebastian Bach",
+      "Antonio Vivaldi",
+      "Domenico Scarlatti"
+    ],
+    "answer": "Johann Sebastian Bach"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "What frequency is established as the standard orchestral tuning pitch for A above middle C (A4)?",
+    "options": [
+      "432 Hz",
+      "440 Hz",
+      "444 Hz",
+      "438 Hz"
+    ],
+    "answer": "440 Hz"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "In acoustics, what harmonic overtone is generated when a fundamental note frequency is doubled?",
+    "options": [
+      "First harmonic (Octave)",
+      "Perfect fifth",
+      "Major third",
+      "Sub-octave"
+    ],
+    "answer": "First harmonic (Octave)"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "Which Jazz pianist composed the famous odd-meter track 'Take Five'?",
+    "options": [
+      "Dave Brubeck",
+      "Paul Desmond",
+      "Thelonious Monk",
+      "Bill Evans"
+    ],
+    "answer": "Paul Desmond"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "Which French composer wrote 'Clair de Lune' as part of the 'Suite bergamasque'?",
+    "options": [
+      "Maurice Ravel",
+      "Claude Debussy",
+      "Gabriel Fauré",
+      "Erik Satie"
+    ],
+    "answer": "Claude Debussy"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "What is the key signature of F-sharp Major?",
+    "options": [
+      "4 sharps",
+      "6 sharps",
+      "5 sharps",
+      "7 sharps"
+    ],
+    "answer": "6 sharps"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "Which late-19th-century opera movement, represented by Puccini, translates to 'realism'?",
+    "options": [
+      "Verismo",
+      "Bel Canto",
+      "Opéra Comique",
+      "Singspiel"
+    ],
+    "answer": "Verismo"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "What temperament system, popularized in the Baroque era, divides the octave into 12 equal semitones?",
+    "options": [
+      "Just Intonation",
+      "Equal Temperament",
+      "Mean-tone Temperament",
+      "Pythagorean Tuning"
+    ],
+    "answer": "Equal Temperament"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "Which avant-garde jazz saxophonist recorded the complex harmonic album 'Giant Steps' in 1960?",
+    "options": [
+      "John Coltrane",
+      "Charlie Parker",
+      "Ornette Coleman",
+      "Sonny Rollins"
+    ],
+    "answer": "John Coltrane"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "In orchestral scores, which instrument reads music primarily in the Alto Clef?",
+    "options": [
+      "Cello",
+      "Viola",
+      "Bassoon",
+      "English Horn"
+    ],
+    "answer": "Viola"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "Which synthesiser released in 1983 was the first commercially successful digital FM synth?",
+    "options": [
+      "Minimoog",
+      "Yamaha DX7",
+      "Roland Jupiter-8",
+      "Sequential Circuits Prophet-5"
+    ],
+    "answer": "Yamaha DX7"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "Who composed the Romantic era piece 'Symphonie Fantastique' detailing an artist's opium dreams?",
+    "options": [
+      "Hector Berlioz",
+      "Franz Liszt",
+      "Johannes Brahms",
+      "Robert Schumann"
+    ],
+    "answer": "Hector Berlioz"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "What is the musical term for repeating a short melodic phrase endlessly throughout a composition?",
+    "options": [
+      "Ostinato",
+      "Rubato",
+      "Augmentation",
+      "Retrograde"
+    ],
+    "answer": "Ostinato"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "Which influential drum machine released by Roland in 1980 defined the sound of Hip-Hop and Electro?",
+    "options": [
+      "TR-808",
+      "TR-909",
+      "LinnDrum",
+      "MPC2000"
+    ],
+    "answer": "TR-808"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "What is the Roman numeral notation for a subdominant chord in a minor key system?",
+    "options": [
+      "IV",
+      "iv",
+      "ii°",
+      "VI"
+    ],
+    "answer": "iv"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "Which Renaissance composer is famously associated with the 'Missa Papae Marcelli' and polyphonic vocal style?",
+    "options": [
+      "Giovanni Pierluigi da Palestrina",
+      "Claudio Monteverdi",
+      "Josquin des Prez",
+      "Thomas Tallis"
+    ],
+    "answer": "Giovanni Pierluigi da Palestrina"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "What chord progression cadence is formed by moving from V to vi instead of resolving to I?",
+    "options": [
+      "Plagal Cadence",
+      "Deceptive Cadence",
+      "Authentic Cadence",
+      "Half Cadence"
+    ],
+    "answer": "Deceptive Cadence"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "Which German opera cycle by Richard Wagner consists of four individual epic music dramas?",
+    "options": [
+      "Tristan und Isolde",
+      "Der Ring des Nibelungen",
+      "Parsifal",
+      "Lohengrin"
+    ],
+    "answer": "Der Ring des Nibelungen"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "What dynamic marking is represented by 'ppp'?",
+    "options": [
+      "Pianississimo",
+      "Piano piano",
+      "Pianissimo",
+      "Mezzo-piano"
+    ],
+    "answer": "Pianississimo"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "Which pioneer composed the electronic work 'Gesang der Jünglinge' in 1955-1956?",
+    "options": [
+      "Karlheinz Stockhausen",
+      "Pierre Schaeffer",
+      "Edgard Varèse",
+      "Iannis Xenakis"
+    ],
+    "answer": "Karlheinz Stockhausen"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "What pitch is produced when pressing down all zero valves on a standard B-flat trumpet?",
+    "options": [
+      "B-flat",
+      "C",
+      "F",
+      "E-flat"
+    ],
+    "answer": "B-flat"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "Which musical structure follows the thematic form A - B - A - C - A?",
+    "options": [
+      "Sonata-Allegro",
+      "Rondo",
+      "Theme and Variations",
+      "Binary Form"
+    ],
+    "answer": "Rondo"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "Who was the primary founder of the French experimental recording movement 'Musique Concrète'?",
+    "options": [
+      "Pierre Schaeffer",
+      "Luc Ferrari",
+      "Jean-Michel Jarre",
+      "Olivier Messiaen"
+    ],
+    "answer": "Pierre Schaeffer"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "In audio mixing, what parameter controls how fast a compressor stops reducing signal volume after it falls below the threshold?",
+    "options": [
+      "Attack",
+      "Release",
+      "Knee",
+      "Ratio"
+    ],
+    "answer": "Release"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "Which 19th-century virtuoso violinist was rumored to have made a pact with the devil due to his extraordinary technique?",
+    "options": [
+      "Niccolò Paganini",
+      "Pablo de Sarasate",
+      "Joseph Joachim",
+      "Fritz Kreisler"
+    ],
+    "answer": "Niccolò Paganini"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "What is the enharmonic equivalent note of C-flat?",
+    "options": [
+      "B",
+      "A-sharp",
+      "C",
+      "B-sharp"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "Which Russian composer wrote the orchestral suite 'Scheherazade' based on 'One Thousand and One Nights'?",
+    "options": [
+      "Nikolai Rimsky-Korsakov",
+      "Modest Mussorgsky",
+      "Pyotr Ilyich Tchaikovsky",
+      "Sergei Rachmaninoff"
+    ],
+    "answer": "Nikolai Rimsky-Korsakov"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "In counterpoint theory, what term refers to two voices moving in the exact same direction by the exact same interval step?",
+    "options": [
+      "Parallel motion",
+      "Contrary motion",
+      "Oblique motion",
+      "Similar motion"
+    ],
+    "answer": "Parallel motion"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "Which modal scale degree alteration turns a Natural Minor scale into a Harmonic Minor scale?",
+    "options": [
+      "Raised 6th",
+      "Raised 7th",
+      "Lowered 2nd",
+      "Raised 4th"
+    ],
+    "answer": "Raised 7th"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "Which famous progressive rock band recorded the 1972 epic album 'Close to the Edge'?",
+    "options": [
+      "Genesis",
+      "Yes",
+      "King Crimson",
+      "Emerson, Lake & Palmer"
+    ],
+    "answer": "Yes"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "What is the musical term for expressively altering the tempo by speeding up and slowing down fluidly?",
+    "options": [
+      "Rubato",
+      "Accelerando",
+      "Rallentando",
+      "Sostenuto"
+    ],
+    "answer": "Rubato"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "Who was the minimalist composer behind the opera 'Einstein on the Beach'?",
+    "options": [
+      "Philip Glass",
+      "Terry Riley",
+      "Steve Reich",
+      "La Monte Young"
+    ],
+    "answer": "Philip Glass"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "What is the transposing interval for a standard B-flat Clarinet reading written music relative to sounding pitch?",
+    "options": [
+      "Sounds a Major 2nd lower",
+      "Sounds a Minor 3rd higher",
+      "Sounds a Perfect 5th lower",
+      "Sounds a Major 6th lower"
+    ],
+    "answer": "Sounds a Major 2nd lower"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "Which jazz subgenre emerged in the mid-1940s characterized by fast tempos, complex chord progressions, and virtuoso improvisation?",
+    "options": [
+      "Cool Jazz",
+      "Bebop",
+      "Hard Bop",
+      "Dixieland"
+    ],
+    "answer": "Bebop"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "In acoustics and audio recording, what phenomenon causes cancellation when two identical waveforms are out of alignment by 180 degrees?",
+    "options": [
+      "Comb filtering",
+      "Phase cancellation",
+      "Harmonic distortion",
+      "Interference modulation"
+    ],
+    "answer": "Phase cancellation"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "Which Austrian composer wrote the uncompleted 'Symphony No. 8 in B Minor' commonly known as the 'Unfinished Symphony'?",
+    "options": [
+      "Franz Schubert",
+      "Anton Bruckner",
+      "Gustav Mahler",
+      "Joseph Haydn"
+    ],
+    "answer": "Franz Schubert"
+  }
+]

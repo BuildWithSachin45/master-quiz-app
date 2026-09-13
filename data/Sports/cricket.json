@@ -1,0 +1,2401 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "How many players are on the field for one team during a standard cricket match?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "answer": "11"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "What is the primary piece of equipment used by a batter to hit the ball in cricket?",
+    "options": [
+      "Racket",
+      "Bat",
+      "Club",
+      "Stick"
+    ],
+    "answer": "Bat"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "How many deliveries make up one complete over in standard cricket rules?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "How many runs are awarded when a batter hits the ball over the boundary line without it bouncing?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "How many runs are awarded when a batter hits the ball and it crosses the boundary line after bouncing?",
+    "options": [
+      "2",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "What are the three wooden posts driven into the ground at each end of the pitch called?",
+    "options": [
+      "Bails",
+      "Stumps",
+      "Pickets",
+      "Poles"
+    ],
+    "answer": "Stumps"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "What are the small wooden cross-pieces that rest on top of the stumps called?",
+    "options": [
+      "Bails",
+      "Pegs",
+      "Caps",
+      "Bars"
+    ],
+    "answer": "Bails"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "What official on the field is responsible for enforcing the rules and making decisions during a match?",
+    "options": [
+      "Referee",
+      "Umpire",
+      "Judge",
+      "Linesman"
+    ],
+    "answer": "Umpire"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "Which player stands directly behind the stumps to catch balls missed or edged by the batter?",
+    "options": [
+      "Slip fielder",
+      "Wicketkeeper",
+      "Bowler",
+      "Mid-off"
+    ],
+    "answer": "Wicketkeeper"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "What is the longest format of international cricket, played over up to five days?",
+    "options": [
+      "Twenty20",
+      "One Day International",
+      "Test Cricket",
+      "T10 Cricket"
+    ],
+    "answer": "Test Cricket"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "What is the term for a bowler delivering a ball that passes out of reach of the batter, resulting in an extra run?",
+    "options": [
+      "No-ball",
+      "Wide",
+      "Bye",
+      "Leg bye"
+    ],
+    "answer": "Wide"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "What is the penalty delivery called when a bowler steps over the popping crease during release?",
+    "options": [
+      "Wide",
+      "No-ball",
+      "Dead ball",
+      "Bouncer"
+    ],
+    "answer": "No-ball"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "Which international team is traditionally known as the 'Baggy Greens'?",
+    "options": [
+      "South Africa",
+      "Australia",
+      "Pakistan",
+      "Ireland"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "Which country won the inaugural ICC Men's Cricket World Cup in 1975?",
+    "options": [
+      "Australia",
+      "England",
+      "West Indies",
+      "India"
+    ],
+    "answer": "West Indies"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "What score is individual batter reaching when it is termed a 'century'?",
+    "options": [
+      "50 runs",
+      "100 runs",
+      "150 runs",
+      "200 runs"
+    ],
+    "answer": "100 runs"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "What score is an individual batter reaching when it is termed a 'half-century'?",
+    "options": [
+      "25 runs",
+      "50 runs",
+      "75 runs",
+      "100 runs"
+    ],
+    "answer": "50 runs"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "What term is used when a batter gets dismissed without scoring any runs?",
+    "options": [
+      "Duck",
+      "Goose",
+      "Zero",
+      "Blank"
+    ],
+    "answer": "Duck"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "Which nation hosts the famous franchise T20 tournament known as the IPL?",
+    "options": [
+      "Australia",
+      "England",
+      "India",
+      "South Africa"
+    ],
+    "answer": "India"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "What does IPL stand for in world cricket?",
+    "options": [
+      "Indian Premier League",
+      "International Players League",
+      "Indian Professional League",
+      "International Premier League"
+    ],
+    "answer": "Indian Premier League"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "Famous former player Sachin Tendulkar represented which country?",
+    "options": [
+      "Pakistan",
+      "India",
+      "Sri Lanka",
+      "Bangladesh"
+    ],
+    "answer": "India"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "What color ball is traditionally used in daytime Test matches?",
+    "options": [
+      "White",
+      "Red",
+      "Pink",
+      "Yellow"
+    ],
+    "answer": "Red"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "What color ball is typically used in limited-overs night and day-night matches?",
+    "options": [
+      "Red",
+      "White",
+      "Orange",
+      "Green"
+    ],
+    "answer": "White"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "What is the famous Test series played specifically between England and Australia called?",
+    "options": [
+      "The Border-Gavaskar Trophy",
+      "The Ashes",
+      "The Freedom Trophy",
+      "The Trans-Tasman Trophy"
+    ],
+    "answer": "The Ashes"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "What dismissal occurs when a bowler bowls a ball that directly hits and knocks down the batter's stumps?",
+    "options": [
+      "Caught",
+      "Bowled",
+      "LBW",
+      "Run out"
+    ],
+    "answer": "Bowled"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "What abbreviation stands for the dismissal where a ball hits the batter's body in front of the stumps?",
+    "options": [
+      "LBG",
+      "LBW",
+      "LWB",
+      "BMW"
+    ],
+    "answer": "LBW"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "What does LBW stand for in cricket rules?",
+    "options": [
+      "Leg Before Wicket",
+      "Long Beyond Wicket",
+      "Leg Behind Wicket",
+      "Line Before Wicket"
+    ],
+    "answer": "Leg Before Wicket"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "How many overs are allocated to each side in a standard T20 international match?",
+    "options": [
+      "10",
+      "20",
+      "40",
+      "50"
+    ],
+    "answer": "20"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "How many overs are allocated to each side in a standard ODI match?",
+    "options": [
+      "20",
+      "40",
+      "50",
+      "60"
+    ],
+    "answer": "50"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "What shape is a standard cricket ground boundary?",
+    "options": [
+      "Square",
+      "Oval or circular",
+      "Rectangular",
+      "Triangular"
+    ],
+    "answer": "Oval or circular"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "What protective gear do batters wear on their legs to guard against ball impacts?",
+    "options": [
+      "Helmets",
+      "Pads",
+      "Gloves",
+      "Guards"
+    ],
+    "answer": "Pads"
+  },
+  {
+    "id": 31,
+    "difficulty": "easy",
+    "question": "Which former player is nicknamed 'The Rawalpindi Express' due to his high bowling speed?",
+    "options": [
+      "Wasim Akram",
+      "Shoaib Akhtar",
+      "Waqar Younis",
+      "Brett Lee"
+    ],
+    "answer": "Shoaib Akhtar"
+  },
+  {
+    "id": 32,
+    "difficulty": "easy",
+    "question": "Which country's national cricket team is commonly referred to as the 'Proteas'?",
+    "options": [
+      "New Zealand",
+      "South Africa",
+      "Zimbabwe",
+      "Kenya"
+    ],
+    "answer": "South Africa"
+  },
+  {
+    "id": 33,
+    "difficulty": "easy",
+    "question": "Which country's national cricket team is nicknamed the 'Black Caps'?",
+    "options": [
+      "West Indies",
+      "New Zealand",
+      "England",
+      "Scotland"
+    ],
+    "answer": "New Zealand"
+  },
+  {
+    "id": 34,
+    "difficulty": "easy",
+    "question": "What term refers to a bowler taking three wickets off three consecutive deliveries?",
+    "options": [
+      "Triple strike",
+      "Hat-trick",
+      "Clean sweep",
+      "Trifecta"
+    ],
+    "answer": "Hat-trick"
+  },
+  {
+    "id": 35,
+    "difficulty": "easy",
+    "question": "What is the strip of ground between the two sets of wickets called?",
+    "options": [
+      "The track",
+      "The pitch",
+      "The lane",
+      "The alley"
+    ],
+    "answer": "The pitch"
+  },
+  {
+    "id": 36,
+    "difficulty": "easy",
+    "question": "What is the standard length of a cricket pitch between the wickets?",
+    "options": [
+      "18 yards",
+      "20 yards",
+      "22 yards",
+      "24 yards"
+    ],
+    "answer": "22 yards"
+  },
+  {
+    "id": 37,
+    "difficulty": "easy",
+    "question": "Which legendary player holds the record for the highest individual score in a Test inning (400 not out)?",
+    "options": [
+      "Brian Lara",
+      "Sachin Tendulkar",
+      "Ricky Ponting",
+      "Don Bradman"
+    ],
+    "answer": "Brian Lara"
+  },
+  {
+    "id": 38,
+    "difficulty": "easy",
+    "question": "Which Australian legend finished his career with an famous Test batting average of 99.94?",
+    "options": [
+      "Shane Warne",
+      "Don Bradman",
+      "Allan Border",
+      "Steve Waugh"
+    ],
+    "answer": "Don Bradman"
+  },
+  {
+    "id": 39,
+    "difficulty": "easy",
+    "question": "Who captained India to victory in the 2011 ICC ODI World Cup?",
+    "options": [
+      "Rahul Dravid",
+      "M.S. Dhoni",
+      "Virat Kohli",
+      "Sourav Ganguly"
+    ],
+    "answer": "M.S. Dhoni"
+  },
+  {
+    "id": 40,
+    "difficulty": "easy",
+    "question": "Who captained India to its historic first ODI World Cup victory in 1983?",
+    "options": [
+      "Sunil Gavaskar",
+      "Kapil Dev",
+      "Ravi Shastri",
+      "Mohinder Amarnath"
+    ],
+    "answer": "Kapil Dev"
+  },
+  {
+    "id": 41,
+    "difficulty": "easy",
+    "question": "What dismissal happens when a fielder catches the ball directly off the bat before it touches the ground?",
+    "options": [
+      "Caught",
+      "Stumped",
+      "Run out",
+      "Hit wicket"
+    ],
+    "answer": "Caught"
+  },
+  {
+    "id": 42,
+    "difficulty": "easy",
+    "question": "What dismissal happens when a wicketkeeper dislodges the bails while the batter is out of their crease without attempting a run?",
+    "options": [
+      "Run out",
+      "Stumped",
+      "Caught",
+      "Timed out"
+    ],
+    "answer": "Stumped"
+  },
+  {
+    "id": 43,
+    "difficulty": "easy",
+    "question": "What is the global governing body of international cricket called?",
+    "options": [
+      "FIFA",
+      "ICC",
+      "BCCI",
+      "WCB"
+    ],
+    "answer": "ICC"
+  },
+  {
+    "id": 44,
+    "difficulty": "easy",
+    "question": "What does ICC stand for in cricket?",
+    "options": [
+      "International Cricket Council",
+      "International Championship Committee",
+      "Imperial Cricket Club",
+      "International Cricket Confederation"
+    ],
+    "answer": "International Cricket Council"
+  },
+  {
+    "id": 45,
+    "difficulty": "easy",
+    "question": "What is a ball delivered high directly at the batter's head or torso without bouncing called?",
+    "options": [
+      "Yorker",
+      "Beamer",
+      "Bouncer",
+      "Slower ball"
+    ],
+    "answer": "Beamer"
+  },
+  {
+    "id": 46,
+    "difficulty": "easy",
+    "question": "What is a ball pitched short that bounces up around the batter's shoulder or head height called?",
+    "options": [
+      "Yorker",
+      "Bouncer",
+      "Full toss",
+      "Flipper"
+    ],
+    "answer": "Bouncer"
+  },
+  {
+    "id": 47,
+    "difficulty": "easy",
+    "question": "What is a delivery pitched directly at the batter's feet or base of the stumps called?",
+    "options": [
+      "Yorker",
+      "Bouncer",
+      "Inswinger",
+      "Off-break"
+    ],
+    "answer": "Yorker"
+  },
+  {
+    "id": 48,
+    "difficulty": "easy",
+    "question": "What happens if a batter accidentally knocks down their own stumps while attempting a shot?",
+    "options": [
+      "Run out",
+      "Hit wicket",
+      "Bowled",
+      "Obstruction"
+    ],
+    "answer": "Hit wicket"
+  },
+  {
+    "id": 49,
+    "difficulty": "easy",
+    "question": "How many total wickets must a bowling side take to end an opponent's innings in standard formats?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": 50,
+    "difficulty": "easy",
+    "question": "What signal does an umpire make by raising a single index finger vertically into the air?",
+    "options": [
+      "Six runs",
+      "Batter is Out",
+      "No ball",
+      "Wide ball"
+    ],
+    "answer": "Batter is Out"
+  },
+  {
+    "id": 51,
+    "difficulty": "easy",
+    "question": "What signal does an umpire make by extending both arms horizontally out to the sides?",
+    "options": [
+      "No-ball",
+      "Wide ball",
+      "Dead ball",
+      "Four runs"
+    ],
+    "answer": "Wide ball"
+  },
+  {
+    "id": 52,
+    "difficulty": "easy",
+    "question": "What signal does an umpire make by raising both arms straight above their head?",
+    "options": [
+      "Four runs",
+      "Six runs",
+      "Out",
+      "Bye"
+    ],
+    "answer": "Six runs"
+  },
+  {
+    "id": 53,
+    "difficulty": "easy",
+    "question": "Which player type specializes in both batting and bowling at a high level?",
+    "options": [
+      "Wicketkeeper",
+      "All-rounder",
+      "Pinch hitter",
+      "Finisher"
+    ],
+    "answer": "All-rounder"
+  },
+  {
+    "id": 54,
+    "difficulty": "easy",
+    "question": "Which historic venue in London is often called 'The Home of Cricket'?",
+    "options": [
+      "The Oval",
+      "Lord's",
+      "Edgbaston",
+      "Old Trafford"
+    ],
+    "answer": "Lord's"
+  },
+  {
+    "id": 55,
+    "difficulty": "easy",
+    "question": "Which famous Australian leg-spinner took 708 Test wickets and was known for the 'Ball of the Century'?",
+    "options": [
+      "Glenn McGrath",
+      "Shane Warne",
+      "Brett Lee",
+      "Nathan Lyon"
+    ],
+    "answer": "Shane Warne"
+  },
+  {
+    "id": 56,
+    "difficulty": "easy",
+    "question": "Which Sri Lankan spin legend is the leading wicket-taker in Test history with 800 wickets?",
+    "options": [
+      "Muttiah Muralitharan",
+      "Chaminda Vaas",
+      "Rangana Herath",
+      "Kumar Sangakkara"
+    ],
+    "answer": "Muttiah Muralitharan"
+  },
+  {
+    "id": 57,
+    "difficulty": "easy",
+    "question": "What coin toss event decides which team bats or bowls first in a match?",
+    "options": [
+      "The Flip",
+      "The Toss",
+      "The Draw",
+      "The Spin"
+    ],
+    "answer": "The Toss"
+  },
+  {
+    "id": 58,
+    "difficulty": "easy",
+    "question": "What is the term given to extra runs scored when the ball passes the batter without hitting bat or body?",
+    "options": [
+      "Byes",
+      "Wides",
+      "No-balls",
+      "Penalties"
+    ],
+    "answer": "Byes"
+  },
+  {
+    "id": 59,
+    "difficulty": "easy",
+    "question": "What is the term given to extra runs scored when the ball deflects off the batter's body without touching the bat?",
+    "options": [
+      "Byes",
+      "Leg byes",
+      "Wides",
+      "Overthrows"
+    ],
+    "answer": "Leg byes"
+  },
+  {
+    "id": 60,
+    "difficulty": "easy",
+    "question": "Which international cricket event took place in a day-night format for the first time in Test history in 2015?",
+    "options": [
+      "Pink-ball Test",
+      "Yellow-ball Test",
+      "White-ball Test",
+      "Orange-ball Test"
+    ],
+    "answer": "Pink-ball Test"
+  },
+  {
+    "id": 61,
+    "difficulty": "medium",
+    "question": "Who was the first batter in international cricket history to hit six sixes in an over in a T20 International?",
+    "options": [
+      "Chris Gayle",
+      "Yuvraj Singh",
+      "Kieron Pollard",
+      "Herschelle Gibbs"
+    ],
+    "answer": "Yuvraj Singh"
+  },
+  {
+    "id": 62,
+    "difficulty": "medium",
+    "question": "Who was the first player to hit six sixes in an over in an ODI match during the 2007 World Cup?",
+    "options": [
+      "Yuvraj Singh",
+      "Herschelle Gibbs",
+      "Kieron Pollard",
+      "Ricky Ponting"
+    ],
+    "answer": "Herschelle Gibbs"
+  },
+  {
+    "id": 63,
+    "difficulty": "medium",
+    "question": "Which Indian batter holds the record for the highest individual score in an ODI innings (264 runs)?",
+    "options": [
+      "Sachin Tendulkar",
+      "Virender Sehwag",
+      "Rohit Sharma",
+      "Virat Kohli"
+    ],
+    "answer": "Rohit Sharma"
+  },
+  {
+    "id": 64,
+    "difficulty": "medium",
+    "question": "Who was the first male player to score a double century in ODI cricket history?",
+    "options": [
+      "Virender Sehwag",
+      "Chris Gayle",
+      "Sachin Tendulkar",
+      "Rohit Sharma"
+    ],
+    "answer": "Sachin Tendulkar"
+  },
+  {
+    "id": 65,
+    "difficulty": "medium",
+    "question": "In cricket terminology, what type of delivery is colloquially called a 'Chinaman'?",
+    "options": [
+      "Right-arm off-spin",
+      "Left-arm unorthodox wrist spin",
+      "Right-arm leg-spin",
+      "Left-arm orthodox finger spin"
+    ],
+    "answer": "Left-arm unorthodox wrist spin"
+  },
+  {
+    "id": 66,
+    "difficulty": "medium",
+    "question": "What bowling variation is a leg-spinner's delivery that turns in the opposite direction (into a right-handed batter)?",
+    "options": [
+      "Googly",
+      "Doosra",
+      "Carrom ball",
+      "Top-spinner"
+    ],
+    "answer": "Googly"
+  },
+  {
+    "id": 67,
+    "difficulty": "medium",
+    "question": "What off-spin variation, pioneered in Pakistan, spins away from a right-handed batter?",
+    "options": [
+      "Googly",
+      "Doosra",
+      "Teesra",
+      "Arm ball"
+    ],
+    "answer": "Doosra"
+  },
+  {
+    "id": 68,
+    "difficulty": "medium",
+    "question": "Which famous bowler is widely credited with inventing or popularizing the 'Doosra'?",
+    "options": [
+      "Muttiah Muralitharan",
+      "Saqlain Mushtaq",
+      "Saeed Ajmal",
+      "Harbhajan Singh"
+    ],
+    "answer": "Saqlain Mushtaq"
+  },
+  {
+    "id": 69,
+    "difficulty": "medium",
+    "question": "What method is used to recalculate targets in rain-affected limited-overs cricket matches?",
+    "options": [
+      "Most Economical Rate",
+      "Duckworth-Lewis-Stern (DLS) Method",
+      "Jayadevan (VJD) Method",
+      "Average Run Rate Method"
+    ],
+    "answer": "Duckworth-Lewis-Stern (DLS) Method"
+  },
+  {
+    "id": 70,
+    "difficulty": "medium",
+    "question": "What tie-breaking procedure is used to determine a winner in tied T20 and limited-overs knockout matches?",
+    "options": [
+      "Bowl-out",
+      "Super Over",
+      "Boundary countback",
+      "Coin toss"
+    ],
+    "answer": "Super Over"
+  },
+  {
+    "id": 71,
+    "difficulty": "medium",
+    "question": "Who was the winning captain of the inaugural ICC Men's T20 World Cup in 2007?",
+    "options": [
+      "M.S. Dhoni",
+      "Shoaib Malik",
+      "Graeme Smith",
+      "Ricky Ponting"
+    ],
+    "answer": "M.S. Dhoni"
+  },
+  {
+    "id": 72,
+    "difficulty": "medium",
+    "question": "Who was named Player of the Tournament in the 2011 ICC ODI World Cup?",
+    "options": [
+      "Sachin Tendulkar",
+      "Yuvraj Singh",
+      "M.S. Dhoni",
+      "Zaheer Khan"
+    ],
+    "answer": "Yuvraj Singh"
+  },
+  {
+    "id": 73,
+    "difficulty": "medium",
+    "question": "Which English bowler took all 10 wickets in a single Test innings against India at Manchester in 1956?",
+    "options": [
+      "Jim Laker",
+      "Fred Trueman",
+      "Alec Bedser",
+      "Brian Statham"
+    ],
+    "answer": "Jim Laker"
+  },
+  {
+    "id": 74,
+    "difficulty": "medium",
+    "question": "Who became the second bowler in Test history to take all 10 wickets in an innings (in 1999 vs Pakistan)?",
+    "options": [
+      "Muttiah Muralitharan",
+      "Anil Kumble",
+      "Shane Warne",
+      "Kapil Dev"
+    ],
+    "answer": "Anil Kumble"
+  },
+  {
+    "id": 75,
+    "difficulty": "medium",
+    "question": "Who became the third bowler in Test history to take 10 wickets in an innings (in 2021 vs India)?",
+    "options": [
+      "Ajaz Patel",
+      "Nathan Lyon",
+      "James Anderson",
+      "Mitchell Starc"
+    ],
+    "answer": "Ajaz Patel"
+  },
+  {
+    "id": 76,
+    "difficulty": "medium",
+    "question": "Which fielding position is located directly behind the wicketkeeper along the boundary line?",
+    "options": [
+      "Fine leg",
+      "Third man",
+      "Long-stop",
+      "Point"
+    ],
+    "answer": "Long-stop"
+  },
+  {
+    "id": 77,
+    "difficulty": "medium",
+    "question": "What is the fielding area called that sits on the off-side between point and cover, slightly forward of square?",
+    "options": [
+      "Cover-point",
+      "Mid-wicket",
+      "Square leg",
+      "Gully"
+    ],
+    "answer": "Cover-point"
+  },
+  {
+    "id": 78,
+    "difficulty": "medium",
+    "question": "Which fielding position is positioned close to the batter on the off-side between slips and point?",
+    "options": [
+      "Gully",
+      "Silly point",
+      "Mid-off",
+      "Short leg"
+    ],
+    "answer": "Gully"
+  },
+  {
+    "id": 79,
+    "difficulty": "medium",
+    "question": "What is an over in which the bowler concedes zero runs called?",
+    "options": [
+      "Blank over",
+      "Maiden over",
+      "Clean over",
+      "Wicket over"
+    ],
+    "answer": "Maiden over"
+  },
+  {
+    "id": 80,
+    "difficulty": "medium",
+    "question": "What is the unofficial term for dismissing a non-striker who backs up too far before the ball is bowled?",
+    "options": [
+      "Mankading",
+      "Stumping",
+      "Timed out",
+      "Obstructing"
+    ],
+    "answer": "Mankading"
+  },
+  {
+    "id": 81,
+    "difficulty": "medium",
+    "question": "Which Indian cricketer was the 'Mankading' dismissal named after?",
+    "options": [
+      "Vinoo Mankad",
+      "Vijay Hazare",
+      "C.K. Nayudu",
+      "Farokh Engineer"
+    ],
+    "answer": "Vinoo Mankad"
+  },
+  {
+    "id": 82,
+    "difficulty": "medium",
+    "question": "Who was the first fast bowler to reach 600 wickets in Test cricket history?",
+    "options": [
+      "Glenn McGrath",
+      "Courtney Walsh",
+      "James Anderson",
+      "Stuart Broad"
+    ],
+    "answer": "James Anderson"
+  },
+  {
+    "id": 83,
+    "difficulty": "medium",
+    "question": "Which West Indian fast bowler was the first player to cross 500 wickets in Test cricket?",
+    "options": [
+      "Malcolm Marshall",
+      "Curtly Ambrose",
+      "Courtney Walsh",
+      "Michael Holding"
+    ],
+    "answer": "Courtney Walsh"
+  },
+  {
+    "id": 84,
+    "difficulty": "medium",
+    "question": "Which country won the inaugural ICC World Test Championship (2019–2021)?",
+    "options": [
+      "India",
+      "Australia",
+      "New Zealand",
+      "England"
+    ],
+    "answer": "New Zealand"
+  },
+  {
+    "id": 85,
+    "difficulty": "medium",
+    "question": "Who defeated India in the final to win the 2023 ICC World Test Championship at The Oval?",
+    "options": [
+      "Australia",
+      "South Africa",
+      "England",
+      "New Zealand"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "id": 86,
+    "difficulty": "medium",
+    "question": "What technology uses infrared camera imaging to detect ball contact with bat or pads?",
+    "options": [
+      "Hawk-Eye",
+      "Hot Spot",
+      "Snickometer",
+      "UltraEdge"
+    ],
+    "answer": "Hot Spot"
+  },
+  {
+    "id": 87,
+    "difficulty": "medium",
+    "question": "What audio processing technology is used by the third umpire to detect faint sounds of bat on ball?",
+    "options": [
+      "Hot Spot",
+      "Snickometer / UltraEdge",
+      "Ball Tracker",
+      "Stump Cam"
+    ],
+    "answer": "Snickometer / UltraEdge"
+  },
+  {
+    "id": 88,
+    "difficulty": "medium",
+    "question": "What ball-tracking technology visually simulates and projects the trajectory of a bowled ball for LBW calls?",
+    "options": [
+      "PitchVision",
+      "Hawk-Eye",
+      "Spidercam",
+      "TrackMan"
+    ],
+    "answer": "Hawk-Eye"
+  },
+  {
+    "id": 89,
+    "difficulty": "medium",
+    "question": "What is the maximum number of overs a single bowler can bowl in an uninterrupted 50-over ODI?",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "15"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": 90,
+    "difficulty": "medium",
+    "question": "What is the maximum number of overs a single bowler can bowl in a T20 international match?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": 91,
+    "difficulty": "medium",
+    "question": "Which country hosted and won the 2019 ICC Men's ODI World Cup in a dramatic final?",
+    "options": [
+      "Australia",
+      "England",
+      "New Zealand",
+      "India"
+    ],
+    "answer": "England"
+  },
+  {
+    "id": 92,
+    "difficulty": "medium",
+    "question": "Which batter scored the fastest century in ODI history off just 31 balls against West Indies in 2015?",
+    "options": [
+      "Corey Anderson",
+      "AB de Villiers",
+      "Shahid Afridi",
+      "Glenn Maxwell"
+    ],
+    "answer": "AB de Villiers"
+  },
+  {
+    "id": 93,
+    "difficulty": "medium",
+    "question": "Which batter scored the fastest century in Men's T20 International history off 27 balls in 2024?",
+    "options": [
+      "Jan Nicol Loftie-Eaton",
+      "Sahil Chauhan",
+      "Kushal Malla",
+      "David Miller"
+    ],
+    "answer": "Sahil Chauhan"
+  },
+  {
+    "id": 94,
+    "difficulty": "medium",
+    "question": "What is the term for a slow delivery bowled with finger-flicked action, often used by bowlers like Ravichandran Ashwin?",
+    "options": [
+      "Knuckleball",
+      "Carrom ball",
+      "Leg-cutter",
+      "Slider"
+    ],
+    "answer": "Carrom ball"
+  },
+  {
+    "id": 95,
+    "difficulty": "medium",
+    "question": "Which South African player holds the nickname 'MR. 360' due to his wide shot selection around the ground?",
+    "options": [
+      "Herschelle Gibbs",
+      "AB de Villiers",
+      "Faf du Plessis",
+      "Quinton de Kock"
+    ],
+    "answer": "AB de Villiers"
+  },
+  {
+    "id": 96,
+    "difficulty": "medium",
+    "question": "Who was the first bowler to take 500 wickets in ODI cricket history?",
+    "options": [
+      "Wasim Akram",
+      "Muttiah Muralitharan",
+      "Waqar Younis",
+      "Chaminda Vaas"
+    ],
+    "answer": "Wasim Akram"
+  },
+  {
+    "id": 97,
+    "difficulty": "medium",
+    "question": "Which player holds the record for the most total international centuries across all formats (100 centuries)?",
+    "options": [
+      "Ricky Ponting",
+      "Virat Kohli",
+      "Sachin Tendulkar",
+      "Kumar Sangakkara"
+    ],
+    "answer": "Sachin Tendulkar"
+  },
+  {
+    "id": 98,
+    "difficulty": "medium",
+    "question": "Who won the ICC Men's ODI World Cup 2023 held in India?",
+    "options": [
+      "India",
+      "Australia",
+      "South Africa",
+      "England"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "id": 99,
+    "difficulty": "medium",
+    "question": "Who was named Player of the Tournament in the 2023 Men's ICC ODI World Cup?",
+    "options": [
+      "Travis Head",
+      "Virat Kohli",
+      "Mohammed Shami",
+      "Pat Cummins"
+    ],
+    "answer": "Virat Kohli"
+  },
+  {
+    "id": 100,
+    "difficulty": "medium",
+    "question": "Which team won the ICC Men's T20 World Cup in 2024 held in the West Indies and USA?",
+    "options": [
+      "South Africa",
+      "India",
+      "England",
+      "Australia"
+    ],
+    "answer": "India"
+  },
+  {
+    "id": 101,
+    "difficulty": "medium",
+    "question": "What is the maximum allowed width of a standard cricket bat according to MCC laws?",
+    "options": [
+      "3.8 inches",
+      "4.25 inches",
+      "4.5 inches",
+      "5.0 inches"
+    ],
+    "answer": "4.25 inches"
+  },
+  {
+    "id": 102,
+    "difficulty": "medium",
+    "question": "What is the height of the stumps above the pitch according to standard regulations?",
+    "options": [
+      "26 inches",
+      "27 inches",
+      "28 inches",
+      "30 inches"
+    ],
+    "answer": "28 inches"
+  },
+  {
+    "id": 103,
+    "difficulty": "medium",
+    "question": "What is the width of the set of three stumps combined?",
+    "options": [
+      "8 inches",
+      "9 inches",
+      "10 inches",
+      "12 inches"
+    ],
+    "answer": "9 inches"
+  },
+  {
+    "id": 104,
+    "difficulty": "medium",
+    "question": "Which English ground is home to the Surrey County Cricket Club?",
+    "options": [
+      "Lord's",
+      "The Oval",
+      "Headingley",
+      "Trent Bridge"
+    ],
+    "answer": "The Oval"
+  },
+  {
+    "id": 105,
+    "difficulty": "medium",
+    "question": "Who captained Pakistan to their only ODI World Cup victory in 1992?",
+    "options": [
+      "Javed Miandad",
+      "Imran Khan",
+      "Wasim Akram",
+      "Inzamam-ul-Haq"
+    ],
+    "answer": "Imran Khan"
+  },
+  {
+    "id": 106,
+    "difficulty": "medium",
+    "question": "Who captained Sri Lanka to win the 1996 ODI World Cup?",
+    "options": [
+      "Arjuna Ranatunga",
+      "Aravinda de Silva",
+      "Sanath Jayasuriya",
+      "Muttiah Muralitharan"
+    ],
+    "answer": "Arjuna Ranatunga"
+  },
+  {
+    "id": 107,
+    "difficulty": "medium",
+    "question": "Which venue hosted the famous 1999 ODI World Cup semi-final tied match between Australia and South Africa?",
+    "options": [
+      "Lord's",
+      "Edgbaston",
+      "Old Trafford",
+      "The Oval"
+    ],
+    "answer": "Edgbaston"
+  },
+  {
+    "id": 108,
+    "difficulty": "medium",
+    "question": "What term refers to a ball delivered by a pace bowler that moves in the air towards a right-handed batter?",
+    "options": [
+      "Outswinger",
+      "Inswinger",
+      "Off-cutter",
+      "Reverse swing"
+    ],
+    "answer": "Inswinger"
+  },
+  {
+    "id": 109,
+    "difficulty": "medium",
+    "question": "What term refers to late physical movement of an older cricket ball opposite to normal conventional swing direction?",
+    "options": [
+      "Contrast swing",
+      "Reverse swing",
+      "Seam movement",
+      "Dip"
+    ],
+    "answer": "Reverse swing"
+  },
+  {
+    "id": 110,
+    "difficulty": "medium",
+    "question": "Which Pakistani pace duo is famously celebrated for mastering and popularizing reverse swing bowling?",
+    "options": [
+      "Shoaib Akhtar and Umar Gul",
+      "Wasim Akram and Waqar Younis",
+      "Mohammad Amir and Mohammad Asif",
+      "Fazal Mahmood and Sarfaraz Nawaz"
+    ],
+    "answer": "Wasim Akram and Waqar Younis"
+  },
+  {
+    "id": 111,
+    "difficulty": "medium",
+    "question": "Who holds the record for the most Test runs in a career (15,921 runs)?",
+    "options": [
+      "Ricky Ponting",
+      "Jacques Kallis",
+      "Sachin Tendulkar",
+      "Rahul Dravid"
+    ],
+    "answer": "Sachin Tendulkar"
+  },
+  {
+    "id": 112,
+    "difficulty": "medium",
+    "question": "Who holds the record for the most total stumpings in international cricket history?",
+    "options": [
+      "Kumar Sangakkara",
+      "M.S. Dhoni",
+      "Adam Gilchrist",
+      "Mark Boucher"
+    ],
+    "answer": "M.S. Dhoni"
+  },
+  {
+    "id": 113,
+    "difficulty": "medium",
+    "question": "Which wicketkeeper holds the record for the most total dismissals in Test cricket history (555 dismissals)?",
+    "options": [
+      "Adam Gilchrist",
+      "Mark Boucher",
+      "Ian Healy",
+      "M.S. Dhoni"
+    ],
+    "answer": "Mark Boucher"
+  },
+  {
+    "id": 114,
+    "difficulty": "medium",
+    "question": "What is the minimum number of overs required in both innings to constitute a completed ODI match under DLS?",
+    "options": [
+      "10 overs",
+      "15 overs",
+      "20 overs",
+      "25 overs"
+    ],
+    "answer": "20 overs"
+  },
+  {
+    "id": 115,
+    "difficulty": "medium",
+    "question": "What is the minimum number of overs required in both innings to constitute a completed T20I match under DLS?",
+    "options": [
+      "3 overs",
+      "5 overs",
+      "8 overs",
+      "10 overs"
+    ],
+    "answer": "5 overs"
+  },
+  {
+    "id": 116,
+    "difficulty": "medium",
+    "question": "What rule gives the batting side the right to call a Free Hit after a bowler delivers a specific illegal ball?",
+    "options": [
+      "Wide ball",
+      "Front-foot No-ball",
+      "Dead ball",
+      "Beamer warning"
+    ],
+    "answer": "Front-foot No-ball"
+  },
+  {
+    "id": 117,
+    "difficulty": "medium",
+    "question": "How many fielders are permitted outside the 30-yard circle during Mandatory Powerplay 1 in a standard 50-over ODI?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": 118,
+    "difficulty": "medium",
+    "question": "How many overs does Mandatory Powerplay 1 last in a 50-over ODI?",
+    "options": [
+      "6 overs",
+      "10 overs",
+      "15 overs",
+      "20 overs"
+    ],
+    "answer": "10 overs"
+  },
+  {
+    "id": 119,
+    "difficulty": "medium",
+    "question": "How many overs does the Powerplay last during a standard 20-over T20 innings?",
+    "options": [
+      "4 overs",
+      "6 overs",
+      "8 overs",
+      "10 overs"
+    ],
+    "answer": "6 overs"
+  },
+  {
+    "id": 120,
+    "difficulty": "medium",
+    "question": "What color cap is awarded to the highest run-scorer in a single season of the Indian Premier League?",
+    "options": [
+      "Purple Cap",
+      "Orange Cap",
+      "Green Cap",
+      "Gold Cap"
+    ],
+    "answer": "Orange Cap"
+  },
+  {
+    "id": 121,
+    "difficulty": "hard",
+    "question": "Under Law 31 of the Marylebone Cricket Club (MCC) Laws, how long does an incoming batter have to be ready to receive the next ball before being dismissed 'Timed Out'?",
+    "options": [
+      "90 seconds",
+      "2 minutes",
+      "3 minutes",
+      "5 minutes"
+    ],
+    "answer": "3 minutes"
+  },
+  {
+    "id": 122,
+    "difficulty": "hard",
+    "question": "In international playing conditions, what reduced time limit is enforced for a batter to be ready before being given 'Timed Out'?",
+    "options": [
+      "60 seconds",
+      "2 minutes",
+      "3 minutes",
+      "90 seconds"
+    ],
+    "answer": "2 minutes"
+  },
+  {
+    "id": 123,
+    "difficulty": "hard",
+    "question": "Who was the first batter in international cricket history to be dismissed 'Timed Out' during a World Cup match in 2023?",
+    "options": [
+      "Angelo Mathews",
+      "Shakib Al Hasan",
+      "Kusal Mendis",
+      "Mushfiqur Rahim"
+    ],
+    "answer": "Angelo Mathews"
+  },
+  {
+    "id": 124,
+    "difficulty": "hard",
+    "question": "Who holds the record for the highest individual score in first-class cricket history (501 not out for Warwickshire in 1994)?",
+    "options": [
+      "Don Bradman",
+      "Hanif Mohammad",
+      "Brian Lara",
+      "Archie MacLaren"
+    ],
+    "answer": "Brian Lara"
+  },
+  {
+    "id": 125,
+    "difficulty": "hard",
+    "question": "Who held the highest individual score in first-class cricket (499 runs) before Brian Lara broke it in 1994?",
+    "options": [
+      "Hanif Mohammad",
+      "Don Bradman",
+      "Bill Ponsford",
+      "W.G. Grace"
+    ],
+    "answer": "Hanif Mohammad"
+  },
+  {
+    "id": 126,
+    "difficulty": "hard",
+    "question": "What year were the official Marylebone Cricket Club (MCC) laws first drafted and published?",
+    "options": [
+      "1744",
+      "1788",
+      "1806",
+      "1835"
+    ],
+    "answer": "1788"
+  },
+  {
+    "id": 127,
+    "difficulty": "hard",
+    "question": "In what year was the Marylebone Cricket Club (MCC) founded at Lord's Ground?",
+    "options": [
+      "1751",
+      "1787",
+      "1801",
+      "1823"
+    ],
+    "answer": "1787"
+  },
+  {
+    "id": 128,
+    "difficulty": "hard",
+    "question": "Who was the first bowler to claim a hat-trick in Test cricket history (1879 at Melbourne)?",
+    "options": [
+      "Fred Spofforth",
+      "Billy Midwinter",
+      "George Lohmann",
+      "Charlie Turner"
+    ],
+    "answer": "Fred Spofforth"
+  },
+  {
+    "id": 129,
+    "difficulty": "hard",
+    "question": "Who was the first bowler to claim a hat-trick in ODI cricket history (1982 vs Australia)?",
+    "options": [
+      "Jalalu-d-Din",
+      "Wasim Akram",
+      "Chetan Sharma",
+      "Danny Morrison"
+    ],
+    "answer": "Jalalu-d-Din"
+  },
+  {
+    "id": 130,
+    "difficulty": "hard",
+    "question": "Who was the first Indian bowler to claim a hat-trick in an ICC ODI World Cup match (1987 vs New Zealand)?",
+    "options": [
+      "Kapil Dev",
+      "Chetan Sharma",
+      "Javagal Srinath",
+      "Anil Kumble"
+    ],
+    "answer": "Chetan Sharma"
+  },
+  {
+    "id": 131,
+    "difficulty": "hard",
+    "question": "Who was the first Indian bowler to take a hat-trick in Test cricket history (2001 vs Australia at Kolkata)?",
+    "options": [
+      "Anil Kumble",
+      "Harbhajan Singh",
+      "Irfan Pathan",
+      "Jasprit Bumrah"
+    ],
+    "answer": "Harbhajan Singh"
+  },
+  {
+    "id": 132,
+    "difficulty": "hard",
+    "question": "Which player is the only bowler to claim two Test hat-tricks in the very same Test match (1912 vs South Africa)?",
+    "options": [
+      "Jimmy Matthews",
+      "Hugh Trumble",
+      "TJ Matthews",
+      "George Lohmann"
+    ],
+    "answer": "Jimmy Matthews"
+  },
+  {
+    "id": 133,
+    "difficulty": "hard",
+    "question": "Who holds the best individual bowling figures in a Test match innings (10 for 53)?",
+    "options": [
+      "Jim Laker",
+      "Anil Kumble",
+      "Ajaz Patel",
+      "Muttiah Muralitharan"
+    ],
+    "answer": "Jim Laker"
+  },
+  {
+    "id": 134,
+    "difficulty": "hard",
+    "question": "What are the best individual bowling figures recorded in a single ODI innings (8 for 19 vs Zimbabwe)?",
+    "options": [
+      "Chaminda Vaas",
+      "Shahid Afridi",
+      "Glenn McGrath",
+      "Rashid Khan"
+    ],
+    "answer": "Chaminda Vaas"
+  },
+  {
+    "id": 135,
+    "difficulty": "hard",
+    "question": "Which batter holds the record for the most total runs scored in a single edition of an ICC ODI World Cup (765 runs in 2023)?",
+    "options": [
+      "Sachin Tendulkar",
+      "Matthew Hayden",
+      "Virat Kohli",
+      "Rohit Sharma"
+    ],
+    "answer": "Virat Kohli"
+  },
+  {
+    "id": 136,
+    "difficulty": "hard",
+    "question": "Who previously held the record for most runs in a single World Cup (673 runs in 2003) before Virat Kohli broke it in 2023?",
+    "options": [
+      "Ricky Ponting",
+      "Sachin Tendulkar",
+      "Matthew Hayden",
+      "Rohit Sharma"
+    ],
+    "answer": "Sachin Tendulkar"
+  },
+  {
+    "id": 137,
+    "difficulty": "hard",
+    "question": "Who was the first player in history to reach 10,000 runs in Test cricket?",
+    "options": [
+      "Allan Border",
+      "Sunil Gavaskar",
+      "Geoff Boycott",
+      "Viv Richards"
+    ],
+    "answer": "Sunil Gavaskar"
+  },
+  {
+    "id": 138,
+    "difficulty": "hard",
+    "question": "Against which team did Sunil Gavaskar reach the 10,000 Test run milestone in 1987 at Ahmedabad?",
+    "options": [
+      "England",
+      "Australia",
+      "Pakistan",
+      "West Indies"
+    ],
+    "answer": "Pakistan"
+  },
+  {
+    "id": 139,
+    "difficulty": "hard",
+    "question": "Who was the first player in history to reach 10,000 runs in ODI cricket?",
+    "options": [
+      "Inzamam-ul-Haq",
+      "Sachin Tendulkar",
+      "Sourav Ganguly",
+      "Desmond Haynes"
+    ],
+    "answer": "Sachin Tendulkar"
+  },
+  {
+    "id": 140,
+    "difficulty": "hard",
+    "question": "Which player holds the record for the highest career Test batting average among players with at least 20 innings, after Don Bradman?",
+    "options": [
+      "Steve Smith",
+      "Adam Voges",
+      "Graeme Pollock",
+      "Herbert Sutcliffe"
+    ],
+    "answer": "Adam Voges"
+  },
+  {
+    "id": 141,
+    "difficulty": "hard",
+    "question": "Under MCC Law 41.16, what action is explicitly defined regarding non-strikers leaving their ground early?",
+    "options": [
+      "It is illegal play by the bowler",
+      "It is a legitimate run out attempt by the bowler",
+      "It results in an automatic 5-run penalty",
+      "It requires a formal warning first"
+    ],
+    "answer": "It is a legitimate run out attempt by the bowler"
+  },
+  {
+    "id": 142,
+    "difficulty": "hard",
+    "question": "How many penalty runs are awarded to the batting team if a field ball strikes a helmet placed intentionally on the ground by fielders?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 143,
+    "difficulty": "hard",
+    "question": "If a fielder illegally uses an item of clothing to field the ball, how many penalty runs are awarded?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "10"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 144,
+    "difficulty": "hard",
+    "question": "What is the minimum radius requirement for a men's international cricket boundary according to ICC playing conditions?",
+    "options": [
+      "60 yards (54.86m)",
+      "65 yards (59.43m)",
+      "70 yards (64.00m)",
+      "75 yards (68.58m)"
+    ],
+    "answer": "65 yards (59.43m)"
+  },
+  {
+    "id": 145,
+    "difficulty": "hard",
+    "question": "What is the maximum boundary distance permitted from the center of the pitch in men's international cricket?",
+    "options": [
+      "80 yards (73.15m)",
+      "85 yards (77.72m)",
+      "90 yards (82.29m)",
+      "95 yards (86.86m)"
+    ],
+    "answer": "90 yards (82.29m)"
+  },
+  {
+    "id": 146,
+    "difficulty": "hard",
+    "question": "Which bowler holds the record for most wickets in a single ICC ODI World Cup tournament (27 wickets in 2019)?",
+    "options": [
+      "Glenn McGrath",
+      "Mitchell Starc",
+      "Muttiah Muralitharan",
+      "Mohammed Shami"
+    ],
+    "answer": "Mitchell Starc"
+  },
+  {
+    "id": 147,
+    "difficulty": "hard",
+    "question": "Who held the record for most wickets in a single World Cup (26 wickets in 2007) prior to Mitchell Starc in 2019?",
+    "options": [
+      "Wasim Akram",
+      "Glenn McGrath",
+      "Chaminda Vaas",
+      "Zaheer Khan"
+    ],
+    "answer": "Glenn McGrath"
+  },
+  {
+    "id": 148,
+    "difficulty": "hard",
+    "question": "Who scored the fastest half-century in Test cricket history off just 21 balls against West Indies in 2014?",
+    "options": [
+      "Misbah-ul-Haq",
+      "Jacques Kallis",
+      "David Warner",
+      "Brendon McCullum"
+    ],
+    "answer": "Misbah-ul-Haq"
+  },
+  {
+    "id": 149,
+    "difficulty": "hard",
+    "question": "Who scored the fastest century in Test cricket history off 54 balls in his final Test match in 2016?",
+    "options": [
+      "Viv Richards",
+      "Misbah-ul-Haq",
+      "Brendon McCullum",
+      "Adam Gilchrist"
+    ],
+    "answer": "Brendon McCullum"
+  },
+  {
+    "id": 150,
+    "difficulty": "hard",
+    "question": "Which player hit 28 runs off a single Robin Peterson over in 2003, setting a long-standing Test record for most runs in an over?",
+    "options": [
+      "Brian Lara",
+      "George Bailey",
+      "Keshav Maharaj",
+      "Jasprit Bumrah"
+    ],
+    "answer": "Brian Lara"
+  },
+  {
+    "id": 151,
+    "difficulty": "hard",
+    "question": "Who holds the record for scoring the most runs off a single over in Test history (35 runs off Stuart Broad in 2022)?",
+    "options": [
+      "Brian Lara",
+      "Jasprit Bumrah",
+      "George Bailey",
+      "Rishabh Pant"
+    ],
+    "answer": "Jasprit Bumrah"
+  },
+  {
+    "id": 152,
+    "difficulty": "hard",
+    "question": "Which bowler conceded 35 runs in a single over against Jasprit Bumrah at Edgbaston in 2022?",
+    "options": [
+      "James Anderson",
+      "Stuart Broad",
+      "Ollie Robinson",
+      "Ben Stokes"
+    ],
+    "answer": "Stuart Broad"
+  },
+  {
+    "id": 153,
+    "difficulty": "hard",
+    "question": "In what year was the first official recorded international cricket match played between the USA and Canada?",
+    "options": [
+      "1844",
+      "1877",
+      "1882",
+      "1909"
+    ],
+    "answer": "1844"
+  },
+  {
+    "id": 154,
+    "difficulty": "hard",
+    "question": "Where was the very first official international match between USA and Canada held in 1844?",
+    "options": [
+      "St George's Cricket Club, New York",
+      "Toronto Cricket Club, Ontario",
+      "Lord's, London",
+      "Philadelphia Cricket Club"
+    ],
+    "answer": "St George's Cricket Club, New York"
+  },
+  {
+    "id": 155,
+    "difficulty": "hard",
+    "question": "In what year was the first official Test match played between Australia and England at Melbourne?",
+    "options": [
+      "1868",
+      "1877",
+      "1882",
+      "1890"
+    ],
+    "answer": "1877"
+  },
+  {
+    "id": 156,
+    "difficulty": "hard",
+    "question": "Who scored the very first run in Test cricket history in March 1877?",
+    "options": [
+      "Charles Bannerman",
+      "Nat Thomson",
+      "Harry Jupp",
+      "Ned Gregory"
+    ],
+    "answer": "Charles Bannerman"
+  },
+  {
+    "id": 157,
+    "difficulty": "hard",
+    "question": "Who scored the first-ever century in Test cricket history (165 retired hurt in 1877)?",
+    "options": [
+      "W.G. Grace",
+      "Charles Bannerman",
+      "Fred Spofforth",
+      "Billy Midwinter"
+    ],
+    "answer": "Charles Bannerman"
+  },
+  {
+    "id": 158,
+    "difficulty": "hard",
+    "question": "Who was the bowler that delivered the first ball in Test cricket history to Nat Thomson?",
+    "options": [
+      "Alfred Shaw",
+      "James Southerton",
+      "Tom Kendall",
+      "George Ulyett"
+    ],
+    "answer": "Alfred Shaw"
+  },
+  {
+    "id": 159,
+    "difficulty": "hard",
+    "question": "Which country hosted the first-ever official One Day International (ODI) match in January 1971?",
+    "options": [
+      "England",
+      "Australia",
+      "West Indies",
+      "South Africa"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "id": 160,
+    "difficulty": "hard",
+    "question": "Which two teams competed in the first-ever ODI match at Melbourne in 1971?",
+    "options": [
+      "Australia vs England",
+      "Australia vs West Indies",
+      "England vs West Indies",
+      "Australia vs New Zealand"
+    ],
+    "answer": "Australia vs England"
+  },
+  {
+    "id": 161,
+    "difficulty": "hard",
+    "question": "How many balls per over were used in the first official ODI match in 1971?",
+    "options": [
+      "6",
+      "8",
+      "5",
+      "4"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": 162,
+    "difficulty": "hard",
+    "question": "Who took the first-ever wicket in ODI cricket history (dismissing Geoff Boycott)?",
+    "options": [
+      "Alan Thomson",
+      "Ashley Mallett",
+      "Garth McKenzie",
+      "Keith Stackpole"
+    ],
+    "answer": "Alan Thomson"
+  },
+  {
+    "id": 163,
+    "difficulty": "hard",
+    "question": "Which team recorded the highest total in a Test match innings (952 for 6 declared vs India in 1997)?",
+    "options": [
+      "Australia",
+      "England",
+      "Sri Lanka",
+      "West Indies"
+    ],
+    "answer": "Sri Lanka"
+  },
+  {
+    "id": 164,
+    "difficulty": "hard",
+    "question": "Which player scored 340 runs in Sri Lanka's record 952/6 innings against India in 1997?",
+    "options": [
+      "Sanath Jayasuriya",
+      "Roshan Mahanama",
+      "Aravinda de Silva",
+      "Marvan Atapattu"
+    ],
+    "answer": "Sanath Jayasuriya"
+  },
+  {
+    "id": 165,
+    "difficulty": "hard",
+    "question": "What is the lowest team total recorded in Test cricket history (26 all out by New Zealand in 1955)?",
+    "options": [
+      "26",
+      "30",
+      "36",
+      "42"
+    ],
+    "answer": "26"
+  },
+  {
+    "id": 166,
+    "difficulty": "hard",
+    "question": "Which team dismissed New Zealand for 26 runs in 1955?",
+    "options": [
+      "Australia",
+      "England",
+      "South Africa",
+      "West Indies"
+    ],
+    "answer": "England"
+  },
+  {
+    "id": 167,
+    "difficulty": "hard",
+    "question": "What is India's lowest team total recorded in Test cricket history (36 all out in 2020)?",
+    "options": [
+      "36",
+      "42",
+      "54",
+      "66"
+    ],
+    "answer": "36"
+  },
+  {
+    "id": 168,
+    "difficulty": "hard",
+    "question": "At which venue was India bowled out for 36 in a pink-ball Test match in 2020?",
+    "options": [
+      "Melbourne",
+      "Adelaide",
+      "Sydney",
+      "Brisbane"
+    ],
+    "answer": "Adelaide"
+  },
+  {
+    "id": 169,
+    "difficulty": "hard",
+    "question": "What is the highest team total scored in a Men's One Day International match (498 for 4 by England)?",
+    "options": [
+      "444",
+      "481",
+      "498",
+      "501"
+    ],
+    "answer": "498"
+  },
+  {
+    "id": 170,
+    "difficulty": "hard",
+    "question": "Against which team did England score the record ODI total of 498/4 in 2022?",
+    "options": [
+      "Australia",
+      "Pakistan",
+      "Netherlands",
+      "Sri Lanka"
+    ],
+    "answer": "Netherlands"
+  },
+  {
+    "id": 171,
+    "difficulty": "hard",
+    "question": "What is the highest team score ever recorded in a Men's T20 International match (314/3 by Nepal)?",
+    "options": [
+      "278",
+      "297",
+      "314",
+      "320"
+    ],
+    "answer": "314"
+  },
+  {
+    "id": 172,
+    "difficulty": "hard",
+    "question": "Which country scored 314/3 against Mongolia at the Asian Games in 2023 to set a T20I record?",
+    "options": [
+      "Afghanistan",
+      "Nepal",
+      "India",
+      "Zimbabwe"
+    ],
+    "answer": "Nepal"
+  },
+  {
+    "id": 173,
+    "difficulty": "hard",
+    "question": "Who scored the fastest T20I century off 9 balls in terms of fifty, and finished with a century off 34 balls for Nepal?",
+    "options": [
+      "Kushal Malla",
+      "Dipendra Singh Airee",
+      "Rohit Paudel",
+      "Gulsan Jha"
+    ],
+    "answer": "Kushal Malla"
+  },
+  {
+    "id": 174,
+    "difficulty": "hard",
+    "question": "Who holds the record for the fastest fifty in T20I history off just 9 balls (for Nepal vs Mongolia)?",
+    "options": [
+      "Yuvraj Singh",
+      "Dipendra Singh Airee",
+      "Kushal Malla",
+      "Abhishek Sharma"
+    ],
+    "answer": "Dipendra Singh Airee"
+  },
+  {
+    "id": 175,
+    "difficulty": "hard",
+    "question": "Who was the first player to be dismissed by 'Obstructing the Field' in ODI history (1987 vs England)?",
+    "options": [
+      "Rameez Raja",
+      "Inzamam-ul-Haq",
+      "Mohinder Amarnath",
+      "Rameez Raja"
+    ],
+    "answer": "Rameez Raja"
+  },
+  {
+    "id": 176,
+    "difficulty": "hard",
+    "question": "Under MCC Law 38, if a batter intentionally strikes the ball with their hand not holding the bat, how are they categorized as dismissed under modern rules?",
+    "options": [
+      "Handled the ball",
+      "Obstructing the field",
+      "Hit the ball twice",
+      "Run out"
+    ],
+    "answer": "Obstructing the field"
+  },
+  {
+    "id": 177,
+    "difficulty": "hard",
+    "question": "In what year were 'Handled the Ball' dismissals formally integrated into the 'Obstructing the Field' law by the MCC?",
+    "options": [
+      "2010",
+      "2015",
+      "2017",
+      "2020"
+    ],
+    "answer": "2017"
+  },
+  {
+    "id": 178,
+    "difficulty": "hard",
+    "question": "Who was the last player in Test history to be officially dismissed 'Handled the Ball' before the law merge (2001 vs India)?",
+    "options": [
+      "Michael Vaughan",
+      "Steve Waugh",
+      "Graham Gooch",
+      "Desmond Haynes"
+    ],
+    "answer": "Michael Vaughan"
+  },
+  {
+    "id": 179,
+    "difficulty": "hard",
+    "question": "Who was the first player in Test history to be dismissed 'Handled the Ball' (1957 vs South Africa)?",
+    "options": [
+      "Russell Endean",
+      "Andrew Hilditch",
+      "Mohsin Khan",
+      "Graham Gooch"
+    ],
+    "answer": "Russell Endean"
+  },
+  {
+    "id": 180,
+    "difficulty": "hard",
+    "question": "Which umpire officiated a record 128 Test matches and 209 ODIs during his international career?",
+    "options": [
+      "Dickie Bird",
+      "Aleem Dar",
+      "Rudi Koertzen",
+      "Steve Bucknor"
+    ],
+    "answer": "Aleem Dar"
+  },
+  {
+    "id": 181,
+    "difficulty": "hard",
+    "question": "Which umpire officiated 128 Tests before Aleem Dar surpassed his record in 2019?",
+    "options": [
+      "David Shepherd",
+      "Steve Bucknor",
+      "Simon Taufel",
+      "Daryl Harper"
+    ],
+    "answer": "Steve Bucknor"
+  },
+  {
+    "id": 182,
+    "difficulty": "hard",
+    "question": "Which Australian umpire won the ICC Umpire of the Year award for five consecutive years from 2004 to 2008?",
+    "options": [
+      "Darrell Hair",
+      "Simon Taufel",
+      "Rod Tucker",
+      "Bruce Oxenford"
+    ],
+    "answer": "Simon Taufel"
+  },
+  {
+    "id": 183,
+    "difficulty": "hard",
+    "question": "What is the weight standard for a men's regulation cricket ball according to MCC laws?",
+    "options": [
+      "4.5 to 4.75 ounces",
+      "5.25 to 5.5 ounces",
+      "5.5 to 5.75 ounces",
+      "6.0 to 6.25 ounces"
+    ],
+    "answer": "5.5 to 5.75 ounces"
+  },
+  {
+    "id": 184,
+    "difficulty": "hard",
+    "question": "What is the exact range of circumference required for a men's regulation cricket ball?",
+    "options": [
+      "8.5 to 8.75 inches",
+      "8.81 to 9.00 inches",
+      "9.05 to 9.25 inches",
+      "9.25 to 9.50 inches"
+    ],
+    "answer": "8.81 to 9.00 inches"
+  },
+  {
+    "id": 185,
+    "difficulty": "hard",
+    "question": "Which player holds the record for most career catches by a non-wicketkeeper in Test cricket (210 catches)?",
+    "options": [
+      "Ricky Ponting",
+      "Rahul Dravid",
+      "Jacques Kallis",
+      "Mahela Jayawardene"
+    ],
+    "answer": "Rahul Dravid"
+  },
+  {
+    "id": 186,
+    "difficulty": "hard",
+    "question": "Which player holds the record for most career catches by a non-wicketkeeper across all international formats (440 catches)?",
+    "options": [
+      "Rahul Dravid",
+      "Mahela Jayawardene",
+      "Ricky Ponting",
+      "Stephen Fleming"
+    ],
+    "answer": "Mahela Jayawardene"
+  },
+  {
+    "id": 187,
+    "difficulty": "hard",
+    "question": "Who was the first spin bowler to reach 400 wickets in Test cricket history?",
+    "options": [
+      "Shane Warne",
+      "Muttiah Muralitharan",
+      "Anil Kumble",
+      "Lance Gibbs"
+    ],
+    "answer": "Shane Warne"
+  },
+  {
+    "id": 188,
+    "difficulty": "hard",
+    "question": "Who was the first bowler in Test history to cross the 300-wicket milestone (in 1964)?",
+    "options": [
+      "Fred Trueman",
+      "Lance Gibbs",
+      "Dennis Lillee",
+      "Bob Willis"
+    ],
+    "answer": "Fred Trueman"
+  },
+  {
+    "id": 189,
+    "difficulty": "hard",
+    "question": "Who was the first bowler in Test history to cross 350 wickets, breaking Fred Trueman's record in 1981?",
+    "options": [
+      "Kapil Dev",
+      "Dennis Lillee",
+      "Sir Richard Hadlee",
+      "Malcolm Marshall"
+    ],
+    "answer": "Dennis Lillee"
+  },
+  {
+    "id": 190,
+    "difficulty": "hard",
+    "question": "Who was the first bowler to reach 400 wickets in Test history (in 1990)?",
+    "options": [
+      "Kapil Dev",
+      "Sir Richard Hadlee",
+      "Wasim Akram",
+      "Courtney Walsh"
+    ],
+    "answer": "Sir Richard Hadlee"
+  },
+  {
+    "id": 191,
+    "difficulty": "hard",
+    "question": "Who broke Sir Richard Hadlee's world record of 431 Test wickets in 1994?",
+    "options": [
+      "Courtney Walsh",
+      "Kapil Dev",
+      "Shane Warne",
+      "Wasim Akram"
+    ],
+    "answer": "Kapil Dev"
+  },
+  {
+    "id": 192,
+    "difficulty": "hard",
+    "question": "What is the maximum allowed distance for the popping crease in front of the bowling crease?",
+    "options": [
+      "3 feet 6 inches",
+      "4 feet 0 inches",
+      "4 feet 6 inches",
+      "5 feet 0 inches"
+    ],
+    "answer": "4 feet 0 inches"
+  },
+  {
+    "id": 193,
+    "difficulty": "hard",
+    "question": "What is the exact distance between the popping crease and the bowling crease on a cricket pitch?",
+    "options": [
+      "1.22 meters (4 feet)",
+      "1.32 meters (4.33 feet)",
+      "1.50 meters (4.92 feet)",
+      "1.00 meter (3.28 feet)"
+    ],
+    "answer": "1.22 meters (4 feet)"
+  },
+  {
+    "id": 194,
+    "difficulty": "hard",
+    "question": "In what year did the ICC introduce the Decision Review System (DRS) in an official Test match?",
+    "options": [
+      "2006",
+      "2008",
+      "2010",
+      "2012"
+    ],
+    "answer": "2008"
+  },
+  {
+    "id": 195,
+    "difficulty": "hard",
+    "question": "Which two teams featured in the first Test match using the Decision Review System (DRS) in 2008?",
+    "options": [
+      "India vs Sri Lanka",
+      "Australia vs South Africa",
+      "England vs West Indies",
+      "New Zealand vs Pakistan"
+    ],
+    "answer": "India vs Sri Lanka"
+  },
+  {
+    "id": 196,
+    "difficulty": "hard",
+    "question": "Who was the first batter to be dismissed via DRS review in Test history?",
+    "options": [
+      "Sachin Tendulkar",
+      "Rahul Dravid",
+      "Tillakaratne Dilshan",
+      "Virender Sehwag"
+    ],
+    "answer": "Tillakaratne Dilshan"
+  },
+  {
+    "id": 197,
+    "difficulty": "hard",
+    "question": "What is the term for a match where the side batting second equals the total of the side batting first, resulting in equal scores without a tie-breaker?",
+    "options": ["Drawn match",
+      "Tied match",
+      "No result",
+      "Abandoned match"
+    ],
+    "answer": "Tied match"
+  },
+  {
+    "id": 198,
+    "difficulty": "hard",
+    "question": "How many Tied Tests have occurred in the entire history of Test cricket?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": 199,
+    "difficulty": "hard",
+    "question": "Which two Test matches ended in a Tie in Test history?",
+    "options": [
+      "Aus vs WI (1960) & Ind vs Aus (1986)",
+      "Eng vs Aus (1977) & SA vs WI (1999)",
+      "Ind vs Pak (1999) & Aus vs Eng (2005)",
+      "NZ vs Eng (2019) & SA vs Aus (1993)"
+    ],
+    "answer": "Aus vs WI (1960) & Ind vs Aus (1986)"
+  },
+  {
+    "id": 200,
+    "difficulty": "hard",
+    "question": "Who was the Australian captain during the famous second Tied Test against India at Chennai in 1986?",
+    "options": [
+      "Allan Border",
+      "Kim Hughes",
+      "Greg Chappell",
+      "Steve Waugh"
+    ],
+    "answer": "Allan Border"
+  }
+]

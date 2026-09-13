@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "What is the SI unit for the amount of substance in chemistry?",
+    "options": [
+      "Gram",
+      "Mole",
+      "Liter",
+      "Dalton"
+    ],
+    "answer": "Mole"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "Which subatomic particle has a positive electric charge and resides in the nucleus?",
+    "options": [
+      "Electron",
+      "Proton",
+      "Neutron",
+      "Positron"
+    ],
+    "answer": "Proton"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "According to the pH scale, a solution with a pH value less than 7 is classified as:",
+    "options": [
+      "Basic",
+      "Acidic",
+      "Neutral",
+      "Alkaline"
+    ],
+    "answer": "Acidic"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "Which element is the most abundant by mass in the Earth's atmosphere?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon",
+      "Argon"
+    ],
+    "answer": "Nitrogen"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "What process occurs when a substance transitions directly from a solid to a gas without becoming a liquid?",
+    "options": [
+      "Evaporation",
+      "Sublimation",
+      "Condensation",
+      "Melting"
+    ],
+    "answer": "Sublimation"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "Which subatomic particle orbits the nucleus and carries a negative charge?",
+    "options": [
+      "Proton",
+      "Electron",
+      "Neutron",
+      "Quark"
+    ],
+    "answer": "Electron"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "What type of chemical bond involves the equal or unequal sharing of electron pairs between nonmetal atoms?",
+    "options": [
+      "Ionic bond",
+      "Covalent bond",
+      "Metallic bond",
+      "Hydrogen bond"
+    ],
+    "answer": "Covalent bond"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "What simple relation gives the molecular mass of a chemical compound?",
+    "options": [
+      "Molecular Mass = Sum of Atomic Masses of Constituent Atoms",
+      "Molecular Mass = Total Protons × Total Neutrons",
+      "Molecular Mass = Atomic Number × Valence Electrons",
+      "Molecular Mass = Sum of Electron Mass and Proton Mass"
+    ],
+    "answer": "Molecular Mass = Sum of Atomic Masses of Constituent Atoms"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "Atoms of the same element that have the same number of protons but different numbers of neutrons are called:",
+    "options": [
+      "Isobars",
+      "Isotopes",
+      "Isomers",
+      "Allotropes"
+    ],
+    "answer": "Isotopes"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "What fundamental law states that mass is neither created nor destroyed during an ordinary chemical reaction?",
+    "options": [
+      "Law of Definite Proportions",
+      "Law of Conservation of Mass",
+      "Law of Multiple Proportions",
+      "Avogadro's Law"
+    ],
+    "answer": "Law of Conservation of Mass"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "Which basic formula represents Molarity, a standard measure of solution concentration?",
+    "options": [
+      "Molarity = Moles of Solute / Volume of Solution in Liters",
+      "Molarity = Mass of Solute / Mass of Solvent",
+      "Molarity = Moles of Solute × Volume of Solution",
+      "Molarity = Volume of Solvent / Moles of Solute"
+    ],
+    "answer": "Molarity = Moles of Solute / Volume of Solution in Liters"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "Which gas is liberated when an active metal reacts with a dilute acid?",
+    "options": [
+      "Oxygen gas",
+      "Hydrogen gas",
+      "Carbon dioxide",
+      "Nitrogen gas"
+    ],
+    "answer": "Hydrogen gas"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "What is the primary chemical component of natural gas?",
+    "options": [
+      "Ethane",
+      "Methane",
+      "Propane",
+      "Butane"
+    ],
+    "answer": "Methane"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "Which particle in an atom determines its atomic number?",
+    "options": [
+      "Neutron",
+      "Proton",
+      "Electron",
+      "Photon"
+    ],
+    "answer": "Proton"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "What happens during an oxidation reaction in terms of electron transfer?",
+    "options": [
+      "Gain of electrons",
+      "Loss of electrons",
+      "No change in electrons",
+      "Sharing of protons"
+    ],
+    "answer": "Loss of electrons"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "What basic equation defines the calculation of mass percentage of an element in a compound?",
+    "options": [
+      "Mass Percent = (Mass of Element / Total Molar Mass) × 100",
+      "Mass Percent = (Total Molar Mass / Mass of Element) × 100",
+      "Mass Percent = Mass of Element × Atomic Number",
+      "Mass Percent = (Moles of Element / Total Volume) × 100"
+    ],
+    "answer": "Mass Percent = (Mass of Element / Total Molar Mass) × 100"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "In a neutralization reaction, an acid reacts with a base to form water and a:",
+    "options": [
+      "Gas",
+      "Salt",
+      "Metal",
+      "Peroxide"
+    ],
+    "answer": "Salt"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "Which element is the universal chemical basis for all organic chemistry?",
+    "options": [
+      "Hydrogen",
+      "Carbon",
+      "Oxygen",
+      "Silicon"
+    ],
+    "answer": "Carbon"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "Which fundamental subatomic particle has no net electric charge?",
+    "options": [
+      "Proton",
+      "Neutron",
+      "Electron",
+      "Alpha particle"
+    ],
+    "answer": "Neutron"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "What type of chemical bond forms due to electrostatic attraction between oppositely charged ions?",
+    "options": [
+      "Covalent bond",
+      "Ionic bond",
+      "Metallic bond",
+      "Hydrogen bond"
+    ],
+    "answer": "Ionic bond"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "What simple formula gives the number of moles from mass and molar mass?",
+    "options": [
+      "Number of Moles = Mass in Grams / Molar Mass",
+      "Number of Moles = Mass in Grams × Molar Mass",
+      "Number of Moles = Molar Mass / Mass in Grams",
+      "Number of Moles = Mass in Grams + Molar Mass"
+    ],
+    "answer": "Number of Moles = Mass in Grams / Molar Mass"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "What indicator turns pink in an alkaline solution and remains colorless in acidic solution?",
+    "options": [
+      "Methyl orange",
+      "Phenolphthalein",
+      "Litmus paper",
+      "Universal indicator"
+    ],
+    "answer": "Phenolphthalein"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "Which state of matter has a definite volume but adapts to the shape of its container?",
+    "options": [
+      "Solid",
+      "Liquid",
+      "Gas",
+      "Plasma"
+    ],
+    "answer": "Liquid"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "Which gas is produced when limestone (calcium carbonate) undergoes thermal decomposition?",
+    "options": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Hydrogen",
+      "Sulfur dioxide"
+    ],
+    "answer": "Carbon dioxide"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "What is the common chemical name for table salt?",
+    "options": [
+      "Sodium hydroxide",
+      "Sodium chloride",
+      "Potassium chloride",
+      "Calcium carbonate"
+    ],
+    "answer": "Sodium chloride"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "Which halogen exists as a reddish-brown liquid at room temperature?",
+    "options": [
+      "Fluorine",
+      "Chlorine",
+      "Bromine",
+      "Iodine"
+    ],
+    "answer": "Bromine"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "Using the relation Mass Number = Protons + Neutrons, how many neutrons are in a carbon-14 atom (atomic number = 6)?",
+    "options": [
+      "6",
+      "8",
+      "14",
+      "20"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "What is the chemical name of rust formed on iron in the presence of air and moisture?",
+    "options": [
+      "Hydrated iron oxide",
+      "Iron carbonate",
+      "Iron sulfide",
+      "Anhydrous ferrous hydroxide"
+    ],
+    "answer": "Hydrated iron oxide"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "What simple formula determines the percentage yield of a chemical reaction?",
+    "options": [
+      "Percentage Yield = (Actual Yield / Theoretical Yield) × 100",
+      "Percentage Yield = (Theoretical Yield / Actual Yield) × 100",
+      "Percentage Yield = Actual Yield × Molar Mass",
+      "Percentage Yield = Theoretical Yield - Actual Yield"
+    ],
+    "answer": "Percentage Yield = (Actual Yield / Theoretical Yield) × 100"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "Which subatomic particles make up the mass number of an atom?",
+    "options": [
+      "Protons and Electrons",
+      "Protons and Neutrons",
+      "Neutrons and Electrons",
+      "Protons, Neutrons, and Electrons"
+    ],
+    "answer": "Protons and Neutrons"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "According to Le Chatelier's principle, what happens to an exothermic equilibrium reaction if the system temperature is increased?",
+    "options": [
+      "Shifts toward products",
+      "Shifts toward reactants",
+      "Remains completely unchanged",
+      "Reaction halts permanently"
+    ],
+    "answer": "Shifts toward reactants"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "According to Charles's Law (Volume = Constant × Temperature), what happens to gas volume if absolute temperature is doubled at constant pressure?",
+    "options": [
+      "It is halved",
+      "It doubles",
+      "It quadruples",
+      "It remains constant"
+    ],
+    "answer": "It doubles"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "What geometric shape is predicted for a molecule with four bonding pairs and zero lone pairs according to VSEPR theory?",
+    "options": [
+      "Trigonal planar",
+      "Tetrahedral",
+      "Linear",
+      "Trigonal bipyramidal"
+    ],
+    "answer": "Tetrahedral"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "What basic logarithmic formula defines pH in terms of hydrogen ion concentration?",
+    "options": [
+      "pH = -log[H+]",
+      "pH = log[H+]",
+      "pH = 1 / [H+]",
+      "pH = -ln[OH-]"
+    ],
+    "answer": "pH = -log[H+]"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "According to Graham's Law of Effusion, how does the rate of effusion of a gas relate to its molar mass?",
+    "options": [
+      "Inversely proportional to the square root of molar mass",
+      "Directly proportional to molar mass",
+      "Inversely proportional to molar mass",
+      "Directly proportional to the square root of molar mass"
+    ],
+    "answer": "Inversely proportional to the square root of molar mass"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "What is the hybridization state of carbon atoms in benzene?",
+    "options": [
+      "sp",
+      "sp2",
+      "sp3",
+      "sp3d"
+    ],
+    "answer": "sp2"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "In a galvanic cell, which chemical process always occurs at the anode?",
+    "options": [
+      "Reduction",
+      "Oxidation",
+      "Neutralization",
+      "Precipitation"
+    ],
+    "answer": "Oxidation"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "According to Boyle's Law (Pressure × Volume = Constant), what happens to gas pressure if volume is halved at constant temperature?",
+    "options": [
+      "Pressure is halved",
+      "Pressure doubles",
+      "Pressure quadruples",
+      "Pressure stays constant"
+    ],
+    "answer": "Pressure doubles"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "Which periodic trend generally increases across a period from left to right in the Periodic Table?",
+    "options": [
+      "Atomic radius",
+      "Electronegativity",
+      "Metallic character",
+      "Ionic radius"
+    ],
+    "answer": "Electronegativity"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "According to the Arrhenius definition, an acid is a substance that increases the concentration of which ion in aqueous solution?",
+    "options": [
+      "Hydroxide ion",
+      "Hydrogen ion",
+      "Sodium ion",
+      "Chloride ion"
+    ],
+    "answer": "Hydrogen ion"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "How many total spatial orbitals exist within a d-subshell (l = 2)?",
+    "options": [
+      "1",
+      "3",
+      "5",
+      "7"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "According to Raoult's Law, adding a non-volatile solute to a pure solvent causes its vapor pressure to:",
+    "options": [
+      "Increase",
+      "Decrease",
+      "Remain unchanged",
+      "Fluctuate wildly"
+    ],
+    "answer": "Decrease"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "Using the relation Rate = Change in Concentration / Change in Time, doubling the rate of concentration loss doubles the reaction speed because:",
+    "options": [
+      "Rate is directly proportional to concentration change per unit time",
+      "Rate is inversely proportional to time elapsed",
+      "Concentration has no effect on kinetic rates",
+      "Reaction order is always zero"
+    ],
+    "answer": "Rate is directly proportional to concentration change per unit time"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "What simple relation gives the dilution formula for preparing a lower concentration solution from a stock solution?",
+    "options": [
+      "Initial Concentration × Initial Volume = Final Concentration × Final Volume",
+      "Initial Concentration / Initial Volume = Final Concentration / Final Volume",
+      "Initial Concentration + Initial Volume = Final Concentration + Final Volume",
+      "Initial Concentration × Final Concentration = Initial Volume × Final Volume"
+    ],
+    "answer": "Initial Concentration × Initial Volume = Final Concentration × Final Volume"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "What is the oxidation state of sulfur in a molecule of sulfuric acid?",
+    "options": [
+      "+2",
+      "+4",
+      "+6",
+      "-2"
+    ],
+    "answer": "+6"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "Which law states that the total pressure of a mixture of non-reacting gases is equal to the sum of the partial pressures of individual gases?",
+    "options": [
+      "Henry's Law",
+      "Dalton's Law",
+      "Graham's Law",
+      "Gay-Lussac's Law"
+    ],
+    "answer": "Dalton's Law"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "In a first-order reaction with half-life formula Half-Life = 0.693 / Rate Constant, how does half-life depend on initial reactant concentration?",
+    "options": [
+      "Directly proportional",
+      "Inversely proportional",
+      "Completely independent",
+      "Proportional to square root"
+    ],
+    "answer": "Completely independent"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "Which principle states that no two electrons in an atom can have the same set of four quantum numbers?",
+    "options": [
+      "Hund's Rule",
+      "Pauli Exclusion Principle",
+      "Aufbau Principle",
+      "Heisenberg Principle"
+    ],
+    "answer": "Pauli Exclusion Principle"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "According to the Brønsted-Lowry theory, a base acts as a proton:",
+    "options": [
+      "Donor",
+      "Acceptor",
+      "Producer",
+      "Neutralizer"
+    ],
+    "answer": "Acceptor"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "What type of isomerism is exhibited by compounds with identical molecular formulas but different structural connectivity of atoms?",
+    "options": [
+      "Stereoisomerism",
+      "Structural isomerism",
+      "Optical isomerism",
+      "Geometrical isomerism"
+    ],
+    "answer": "Structural isomerism"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "What basic equation defines the relation between pH and pOH in aqueous solutions at 25°C?",
+    "options": [
+      "pH + pOH = 14",
+      "pH × pOH = 14",
+      "pH - pOH = 7",
+      "pH / pOH = 1"
+    ],
+    "answer": "pH + pOH = 14"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "In an electrochemical cell, reduction always occurs at which electrode?",
+    "options": [
+      "Anode",
+      "Cathode",
+      "Salt bridge",
+      "Reference junction"
+    ],
+    "answer": "Cathode"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "What happens to the rate constant of a chemical reaction when a catalyst is added?",
+    "options": [
+      "It decreases",
+      "It increases",
+      "It stays constant",
+      "It drops to zero"
+    ],
+    "answer": "It increases"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "Using the relation Formal Charge = Valence Electrons - Nonbonding Electrons - Half Bonding Electrons, what is the formal charge of oxygen in a water molecule?",
+    "options": [
+      "-1",
+      "0",
+      "+1",
+      "+2"
+    ],
+    "answer": "0"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "Which non-covalent force is primarily responsible for the high boiling point of water relative to its molar mass?",
+    "options": [
+      "London dispersion forces",
+      "Dipole-induced dipole forces",
+      "Hydrogen bonding",
+      "Ion-dipole interaction"
+    ],
+    "answer": "Hydrogen bonding"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "What type of thermodynamic process occurs at constant pressure?",
+    "options": [
+      "Isochoric",
+      "Isobaric",
+      "Isothermal",
+      "Adiabatic"
+    ],
+    "answer": "Isobaric"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "According to Henry's Law (Solubility = Constant × Partial Pressure), increasing gas pressure above a liquid solvent causes gas solubility to:",
+    "options": [
+      "Decrease",
+      "Increase",
+      "Remain unchanged",
+      "Drop to zero"
+    ],
+    "answer": "Increase"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "What organic functional group is characterized by a carbon-oxygen double bond attached to an OH group?",
+    "options": [
+      "Aldehyde",
+      "Ketone",
+      "Carboxylic acid",
+      "Ester"
+    ],
+    "answer": "Carboxylic acid"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "Using the basic formula Mole Fraction = Moles of Component / Total Moles, what is the sum of all mole fractions in a mixture?",
+    "options": [
+      "0",
+      "1",
+      "100",
+      "Variable"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "Which quantum number describes the 3D spatial orientation of an atomic orbital?",
+    "options": [
+      "Principal quantum number",
+      "Azimuthal quantum number",
+      "Magnetic quantum number",
+      "Spin quantum number"
+    ],
+    "answer": "Magnetic quantum number"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "According to the Gibbs free energy relation (Gibbs Change = Enthalpy Change - Temperature × Entropy Change), a process is guaranteed to be spontaneous at all temperatures when:",
+    "options": [
+      "Enthalpy change is positive and entropy change is negative",
+      "Enthalpy change is negative and entropy change is positive",
+      "Both enthalpy and entropy changes are positive",
+      "Both enthalpy and entropy changes are negative"
+    ],
+    "answer": "Enthalpy change is negative and entropy change is positive"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "In the Nernst Equation (Cell Potential = Standard Potential - Factor × log Q), what happens to actual cell potential as reaction quotient Q increases?",
+    "options": [
+      "It increases",
+      "It decreases",
+      "It remains unchanged",
+      "It becomes infinite"
+    ],
+    "answer": "It decreases"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "According to the Henderson-Hasselbalch equation (pH = pKa + log[Conjugate Base / Weak Acid]), when the concentration of a weak acid equals its conjugate base, the pH equals:",
+    "options": [
+      "pKa",
+      "7",
+      "14",
+      "0"
+    ],
+    "answer": "pKa"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "By the Arrhenius Equation (Rate Constant = Frequency Factor × e^(-Activation Energy / RT)), increasing activation energy causes reaction rate constant to:",
+    "options": [
+      "Increase exponentially",
+      "Decrease exponentially",
+      "Remain unchanged",
+      "Increase linearly"
+    ],
+    "answer": "Decrease exponentially"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "What is the crystal field splitting geometry when six ligands surround a transition metal ion in a coordination complex?",
+    "options": [
+      "Tetrahedral",
+      "Octahedral",
+      "Square planar",
+      "Trigonal bipyramidal"
+    ],
+    "answer": "Octahedral"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "In high-spin octahedral complexes, crystal field splitting energy (Delta) relative to electron pairing energy (P) satisfies which relationship?",
+    "options": [
+      "Delta is greater than P",
+      "Delta is less than P",
+      "Delta is equal to P",
+      "P is zero"
+    ],
+    "answer": "Delta is less than P"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "According to the Beer-Lambert Law (Absorbance = Molar Absorptivity × Path Length × Concentration), doubling both concentration and cell path length changes light absorbance by what factor?",
+    "options": [
+      "Doubles",
+      "Quadruples",
+      "Halves",
+      "Stays constant"
+    ],
+    "answer": "Quadruples"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "In SN1 nucleophilic substitution reactions, what is the rate-determining step?",
+    "options": [
+      "Attack of the nucleophile on the substrate",
+      "Dissociation of the leaving group to form a carbocation",
+      "Deprotonation of the intermediate",
+      "Simultaneous bond formation and breaking"
+    ],
+    "answer": "Dissociation of the leaving group to form a carbocation"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "What stereochemical outcome occurs at a chiral center undergoing an SN2 substitution mechanism?",
+    "options": [
+      "Complete retention of configuration",
+      "Complete inversion of configuration (Walden Inversion)",
+      "Racemization",
+      "Loss of chirality"
+    ],
+    "answer": "Complete inversion of configuration (Walden Inversion)"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "According to Markovnikov's rule, when an unsymmetrical protic acid adds to an unsymmetrical alkene, the hydrogen atom attaches to the carbon with:",
+    "options": [
+      "Fewer hydrogen atoms",
+      "Greater number of hydrogen atoms",
+      "More alkyl substituents",
+      "Highest electronegativity"
+    ],
+    "answer": "Greater number of hydrogen atoms"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "Using the Osmotic Pressure relation (Pressure = Van 't Hoff Factor × Molarity × Gas Constant × Temperature), adding an ionic solute that dissociates into 3 ions changes osmotic pressure compared to a non-electrolyte of equal molarity by a factor of:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "1/3"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "Which electronic transition in transition metal complexes gives rise to intense color through charge transfer mechanisms?",
+    "options": [
+      "d-d transition",
+      "Ligand-to-metal charge transfer",
+      "s-p transition",
+      "f-f transition"
+    ],
+    "answer": "Ligand-to-metal charge transfer"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "According to the Jahn-Teller theorem, non-linear degenerate electronic states in non-linear molecules undergo geometric distortion to:",
+    "options": [
+      "Increase symmetry and energy",
+      "Remove degeneracy and lower total energy",
+      "Maximize spin multiplicity",
+      "Induce radioactivity"
+    ],
+    "answer": "Remove degeneracy and lower total energy"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "In modern quantum mechanics, the square of the absolute value of the wave function (|Psi|^2) represents:",
+    "options": [
+      "Exact velocity of an electron",
+      "Probability density of finding an electron at a specific position",
+      "Energy of the orbital",
+      "Electric charge of the particle"
+    ],
+    "answer": "Probability density of finding an electron at a specific position"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "According to Hess's Law, the total enthalpy change for a reaction depends solely on:",
+    "options": [
+      "The pathway taken",
+      "The initial state of reactants and final state of products",
+      "The presence of a catalyst",
+      "The activation energy barrier"
+    ],
+    "answer": "The initial state of reactants and final state of products"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "What is the Coordination Number and geometry of an ideal face-centered cubic (FCC) metallic crystal lattice?",
+    "options": [
+      "8, Body-centered",
+      "12, Close-packed",
+      "6, Octahedral",
+      "4, Tetrahedral"
+    ],
+    "answer": "12, Close-packed"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "According to the van der Waals equation for real gases, parameter 'a' accounts for:",
+    "options": [
+      "Excluded volume of gas molecules",
+      "Intermolecular attractive forces",
+      "Molecular speed distribution",
+      "Ideal gas constant correction"
+    ],
+    "answer": "Intermolecular attractive forces"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "In a phase diagram, what physical point represents the unique temperature and pressure where solid, liquid, and vapor phases coexist in equilibrium?",
+    "options": [
+      "Critical point",
+      "Triple point",
+      "Eutectic point",
+      "Boiling point"
+    ],
+    "answer": "Triple point"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "By the relationship Equilibrium Constant = e^(-Standard Gibbs Change / RT), a large negative Standard Gibbs Change corresponds to an equilibrium constant that is:",
+    "options": [
+      "Much greater than 1",
+      "Much less than 1",
+      "Equal to zero",
+      "Negative"
+    ],
+    "answer": "Much greater than 1"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "Which thermodynamic law states that the entropy of a pure crystalline substance approaches zero as temperature approaches absolute zero?",
+    "options": [
+      "Zeroth Law",
+      "First Law",
+      "Second Law",
+      "Third Law"
+    ],
+    "answer": "Third Law"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "Using the relation Ionic Strength = 1/2 × Sum(Concentration × Charge squared), increasing an ion's valence charge from +1 to +2 increases its contribution to ionic strength by factor of:",
+    "options": [
+      "2",
+      "4",
+      "8",
+      "16"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "According to Huckel's rule for aromaticity, a planar monocyclic conjugated system must possess how many pi electrons?",
+    "options": [
+      "4n pi electrons",
+      "(4n + 2) pi electrons",
+      "2n pi electrons",
+      "(2n + 4) pi electrons"
+    ],
+    "answer": "(4n + 2) pi electrons"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "What reaction mechanism describes the electrophilic aromatic substitution of benzene involving a resonance-stabilized carbocation intermediate?",
+    "options": [
+      "Arenium ion (Sigma complex) mechanism",
+      "Benzyne mechanism",
+      "Radical chain mechanism",
+      "Concerted pericyclic mechanism"
+    ],
+    "answer": "Arenium ion (Sigma complex) mechanism"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "According to the Clausius-Clapeyron equation, a plot of natural log of vapor pressure versus inverse absolute temperature yields a straight line with slope equal to:",
+    "options": [
+      "Standard Enthalpy of Vaporization / R",
+      "-Standard Enthalpy of Vaporization / R",
+      "-Activation Energy / R",
+      "Standard Entropy / R"
+    ],
+    "answer": "-Standard Enthalpy of Vaporization / R"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "What is the principal reason transition metals show variable oxidation states in their chemical compounds?",
+    "options": [
+      "Incomplete filling of d-orbitals with small energy gap between (n-1)d and ns subshells",
+      "Large atomic radii",
+      "High electronegativity values",
+      "Low ionization energy of inner p-orbitals"
+    ],
+    "answer": "Incomplete filling of d-orbitals with small energy gap between (n-1)d and ns subshells"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "Which type of colloid consists of liquid particles dispersed in a gas medium?",
+    "options": [
+      "Sol",
+      "Gel",
+      "Liquid aerosol",
+      "Emulsion"
+    ],
+    "answer": "Liquid aerosol"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "By the relationship Faraday's Constant = Elementary Charge × Avogadro's Number, doubling Avogadro's number while charge stays fixed would cause Faraday's constant to:",
+    "options": [
+      "Halve",
+      "Double",
+      "Quadruple",
+      "Remain unchanged"
+    ],
+    "answer": "Double"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "In NMR spectroscopy, the phenomenon of chemical shift arises due to:",
+    "options": [
+      "Nuclear decay",
+      "Shielding and deshielding of nuclei by surrounding electron density",
+      "Molecular rotation speeds",
+      "Electron spin resonance"
+    ],
+    "answer": "Shielding and deshielding of nuclei by surrounding electron density"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "What type of pericyclic reaction involves the concerted thermal union of two unsaturated molecules to form a cyclic ring?",
+    "options": [
+      "Electrocyclic reaction",
+      "Sigmatropic rearrangement",
+      "Cycloaddition reaction",
+      "Ene reaction"
+    ],
+    "answer": "Cycloaddition reaction"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "According to the Debye-Huckel Limiting Law, the activity coefficient of an ion in a dilute electrolyte solution decreases with:",
+    "options": [
+      "Increasing ionic strength",
+      "Decreasing ionic strength",
+      "Increasing temperature only",
+      "Decreasing solvent dielectric constant"
+    ],
+    "answer": "Increasing ionic strength"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "In coordination chemistry, ambidentate ligands are defined as ligands that:",
+    "options": [
+      "Form two bonds from different atoms simultaneously",
+      "Possess two donor atoms but coordinate through only one at a time",
+      "Contain only carbon atoms",
+      "Carry a double negative charge"
+    ],
+    "answer": "Possess two donor atoms but coordinate through only one at a time"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "Using the relation Standard Cell Potential = Standard Reduction Potential (Cathode) - Standard Reduction Potential (Anode), a spontaneous galvanic reaction requires Standard Cell Potential to be:",
+    "options": [
+      "Zero",
+      "Positive",
+      "Negative",
+      "Infinite"
+    ],
+    "answer": "Positive"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "What is the spin-only magnetic moment expression in terms of the number of unpaired electrons (n)?",
+    "options": [
+      "Square root of n(n + 2) Bohr Magnetons",
+      "n(n + 1) Bohr Magnetons",
+      "Square root of 2n + 1 Bohr Magnetons",
+      "2n Bohr Magnetons"
+    ],
+    "answer": "Square root of n(n + 2) Bohr Magnetons"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "What catalytic poison reduces the activity of hydrogenation catalysts like Raney Nickel or Palladium?",
+    "options": [
+      "Sulfur compounds",
+      "Nitrogen gas",
+      "Pure oxygen",
+      "Water vapor"
+    ],
+    "answer": "Sulfur compounds"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "By the relationship Mass of Substance Deposited = Electrochemical Equivalent × Current × Time in Faraday's First Law, doubling current and tripling time changes deposited mass by what factor?",
+    "options": [
+      "5",
+      "6",
+      "2",
+      "3"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "According to Zaitsev's rule in elimination reactions, the major alkene product is the one that is:",
+    "options": [
+      "Least substituted",
+      "Most highly substituted with alkyl groups",
+      "Terminal",
+      "Sterically hindered"
+    ],
+    "answer": "Most highly substituted with alkyl groups"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "What thermodynamic state property is defined as Enthalpy = Internal Energy + Pressure × Volume?",
+    "options": [
+      "Entropy",
+      "Enthalpy",
+      "Gibbs Free Energy",
+      "Helmholtz Free Energy"
+    ],
+    "answer": "Enthalpy"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "In IR spectroscopy, the absorption frequency of a covalent chemical bond increases with:",
+    "options": [
+      "Decreasing bond strength and increasing reduced mass",
+      "Increasing bond strength and decreasing reduced mass",
+      "Increasing atomic mass only",
+      "Decreasing dipole moment"
+    ],
+    "answer": "Increasing bond strength and decreasing reduced mass"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "In a zero-order reaction with rate equation Rate = Rate Constant, what is the mathematical shape of the plot of reactant concentration versus time?",
+    "options": [
+      "Exponential decay curve",
+      "Straight line with a negative slope",
+      "Parabola opening upward",
+      "Horizontal straight line"
+    ],
+    "answer": "Straight line with a negative slope"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "According to the kinetic theory of gases, the root-mean-square speed of gas molecules is directly proportional to:",
+    "options": [
+      "Square root of absolute temperature",
+      "Absolute temperature",
+      "Square of absolute temperature",
+      "Inverse square root of temperature"
+    ],
+    "answer": "Square root of absolute temperature"
+  }
+]

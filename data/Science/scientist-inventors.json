@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "Who is credited with inventing the telephone in 1876?",
+    "options": [
+      "Thomas Edison",
+      "Alexander Graham Bell",
+      "Nikola Tesla",
+      "Guglielmo Marconi"
+    ],
+    "answer": "Alexander Graham Bell"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "Which physicist developed the general theory of relativity?",
+    "options": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Niels Bohr",
+      "Galileo Galilei"
+    ],
+    "answer": "Albert Einstein"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "Who discovered penicillin, the world's first effective antibiotic, in 1928?",
+    "options": [
+      "Louis Pasteur",
+      "Alexander Fleming",
+      "Robert Koch",
+      "Edward Jenner"
+    ],
+    "answer": "Alexander Fleming"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "Which scientist formulated the three basic laws of motion and universal gravitation?",
+    "options": [
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Johannes Kepler",
+      "René Descartes"
+    ],
+    "answer": "Isaac Newton"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "Which duo is credited with inventing and flying the world's first successful motor-operated airplane?",
+    "options": [
+      "Wright Brothers",
+      "Montgolfier Brothers",
+      "Packard Brothers",
+      "Duryea Brothers"
+    ],
+    "answer": "Wright Brothers"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "Who invented the commercially practical incandescent light bulb?",
+    "options": [
+      "Nikola Tesla",
+      "Thomas Edison",
+      "Benjamin Franklin",
+      "Michael Faraday"
+    ],
+    "answer": "Thomas Edison"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "Who was the first person to win two Nobel Prizes in different scientific fields?",
+    "options": [
+      "Rosalind Franklin",
+      "Marie Curie",
+      "Ada Lovelace",
+      "Lise Meitner"
+    ],
+    "answer": "Marie Curie"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "Which astronomer improved the telescope and discovered Jupiter's four largest moons?",
+    "options": [
+      "Galileo Galilei",
+      "Nicolaus Copernicus",
+      "Tycho Brahe",
+      "Edwin Hubble"
+    ],
+    "answer": "Galileo Galilei"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "Which astronomer proposed the astronomical model placing the Sun at the center of the universe?",
+    "options": [
+      "Ptolemy",
+      "Nicolaus Copernicus",
+      "Johannes Kepler",
+      "Aristotle"
+    ],
+    "answer": "Nicolaus Copernicus"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "Who is recognized as the world's first computer programmer for her work on Babbage's Analytical Engine?",
+    "options": [
+      "Charles Babbage",
+      "Ada Lovelace",
+      "Alan Turing",
+      "Grace Hopper"
+    ],
+    "answer": "Ada Lovelace"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "Who proved electricity in lightning using a kite experiment and invented bifocals?",
+    "options": [
+      "Benjamin Franklin",
+      "Thomas Jefferson",
+      "Samuel Morse",
+      "Alexander Graham Bell"
+    ],
+    "answer": "Benjamin Franklin"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "Which French chemist developed the heating process called pasteurization to kill micro-organisms?",
+    "options": [
+      "Louis Pasteur",
+      "Robert Koch",
+      "Alexander Fleming",
+      "Joseph Lister"
+    ],
+    "answer": "Louis Pasteur"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "Which inventor designed the alternating current (AC) electric system?",
+    "options": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "James Clerk Maxwell",
+      "George Westinghouse"
+    ],
+    "answer": "Nikola Tesla"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "Who invented the World Wide Web while working at CERN in 1989?",
+    "options": [
+      "Steve Jobs",
+      "Bill Gates",
+      "Tim Berners-Lee",
+      "Vint Cerf"
+    ],
+    "answer": "Tim Berners-Lee"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "Who developed the world's first successful vaccine, which targeted smallpox?",
+    "options": [
+      "Edward Jenner",
+      "Jonas Salk",
+      "Louis Pasteur",
+      "Albert Sabin"
+    ],
+    "answer": "Edward Jenner"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "Who is widely considered the 'Father of Computers' for designing early mechanical engines?",
+    "options": [
+      "Alan Turing",
+      "Charles Babbage",
+      "John von Neumann",
+      "Blaise Pascal"
+    ],
+    "answer": "Charles Babbage"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "Who discovered electromagnetic induction, laying the foundation for electric generators?",
+    "options": [
+      "Michael Faraday",
+      "James Watt",
+      "André-Marie Ampère",
+      "Georg Ohm"
+    ],
+    "answer": "Michael Faraday"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "Which naturalist authored 'On the Origin of Species' to explain evolution by natural selection?",
+    "options": [
+      "Gregor Mendel",
+      "Charles Darwin",
+      "Jean-Baptiste Lamarck",
+      "Alfred Russel Wallace"
+    ],
+    "answer": "Charles Darwin"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "Who developed the first safe and effective inactivated polio vaccine in 1955?",
+    "options": [
+      "Jonas Salk",
+      "Albert Sabin",
+      "Alexander Fleming",
+      "Robert Koch"
+    ],
+    "answer": "Jonas Salk"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "What formula did Albert Einstein formulate to express mass-energy equivalence?",
+    "options": [
+      "F = ma",
+      "E = mc²",
+      "PV = nRT",
+      "V = IR"
+    ],
+    "answer": "E = mc²"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "Who introduced the movable type printing press to Europe around 1440?",
+    "options": [
+      "Johannes Gutenberg",
+      "William Caxton",
+      "Albrecht Dürer",
+      "Galileo Galilei"
+    ],
+    "answer": "Johannes Gutenberg"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "Which French physicist discovered spontaneous radioactivity in 1896?",
+    "options": [
+      "Henri Becquerel",
+      "Ernest Rutherford",
+      "Wilhelm Röntgen",
+      "J.J. Thomson"
+    ],
+    "answer": "Henri Becquerel"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "Who co-developed the single-wire telegraph system and the signaling alphabet named after him?",
+    "options": [
+      "Samuel Morse",
+      "Alexander Graham Bell",
+      "Guglielmo Marconi",
+      "Thomas Edison"
+    ],
+    "answer": "Samuel Morse"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "Which ancient mathematician discovered the principle of fluid displacement in a bathtub?",
+    "options": [
+      "Pythagoras",
+      "Archimedes",
+      "Euclid",
+      "Eratosthenes"
+    ],
+    "answer": "Archimedes"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "Who is known as the 'Father of Modern Genetics' for his work with pea plants?",
+    "options": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Francis Crick",
+      "Thomas Hunt Morgan"
+    ],
+    "answer": "Gregor Mendel"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "Who discovered X-rays in 1895, earning the first Nobel Prize in Physics?",
+    "options": [
+      "Wilhelm Röntgen",
+      "Marie Curie",
+      "Max von Laue",
+      "William Henry Bragg"
+    ],
+    "answer": "Wilhelm Röntgen"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "Which Scottish engineer improved the Newcomen steam engine to power the Industrial Revolution?",
+    "options": [
+      "Thomas Newcomen",
+      "James Watt",
+      "George Stephenson",
+      "Robert Fulton"
+    ],
+    "answer": "James Watt"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "Who developed practical long-distance radio communication and transmitted the first transatlantic wireless signal?",
+    "options": [
+      "Nikola Tesla",
+      "Guglielmo Marconi",
+      "Heinrich Hertz",
+      "Reginald Fessenden"
+    ],
+    "answer": "Guglielmo Marconi"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "Which physicist discovered the electron using cathode ray tubes in 1897?",
+    "options": [
+      "J.J. Thomson",
+      "Ernest Rutherford",
+      "John Dalton",
+      "Niels Bohr"
+    ],
+    "answer": "J.J. Thomson"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "Which Russian chemist created the periodic table of elements ordered by atomic weight?",
+    "options": [
+      "Dmitri Mendeleev",
+      "Antoine Lavoisier",
+      "John Dalton",
+      "Henry Moseley"
+    ],
+    "answer": "Dmitri Mendeleev"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "Which chemist won the Nobel Prize in Chemistry for discovering the nuclear fission of heavy elements?",
+    "options": [
+      "Otto Hahn",
+      "Lise Meitner",
+      "Enrico Fermi",
+      "Niels Bohr"
+    ],
+    "answer": "Otto Hahn"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "Which molecular biologists determined the double-helix model of DNA in 1953?",
+    "options": [
+      "James Watson and Francis Crick",
+      "Rosalind Franklin and Maurice Wilkins",
+      "Linus Pauling and Erwin Chargaff",
+      "Alfred Hershey and Martha Chase"
+    ],
+    "answer": "James Watson and Francis Crick"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "Which French mathematician invented the mechanical calculating machine called the Pascaline?",
+    "options": [
+      "Gottfried Wilhelm Leibniz",
+      "Blaise Pascal",
+      "Charles Babbage",
+      "John Napier"
+    ],
+    "answer": "Blaise Pascal"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "Who formulated the classical theory of electromagnetic radiation, unifying electricity, magnetism, and light?",
+    "options": [
+      "Heinrich Hertz",
+      "James Clerk Maxwell",
+      "Michael Faraday",
+      "André-Marie Ampère"
+    ],
+    "answer": "James Clerk Maxwell"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "Which Swedish chemist invented dynamite and subsequently established the Nobel Prizes?",
+    "options": [
+      "Alfred Nobel",
+      "Ascanio Sobrero",
+      "Robert Oppenheimer",
+      "Fritz Haber"
+    ],
+    "answer": "Alfred Nobel"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "Which Italian-American physicist built Chicago Pile-1, the world's first artificial nuclear reactor?",
+    "options": [
+      "Enrico Fermi",
+      "J. Robert Oppenheimer",
+      "Leo Szilard",
+      "Edward Teller"
+    ],
+    "answer": "Enrico Fermi"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "Which astronomer demonstrated that the universe is expanding by discovering galaxy redshift?",
+    "options": [
+      "Carl Sagan",
+      "Edwin Hubble",
+      "Arno Penzias",
+      "Stephen Hawking"
+    ],
+    "answer": "Edwin Hubble"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "Who designed and patented the high-efficiency compression-ignition engine that bears his name?",
+    "options": [
+      "Karl Benz",
+      "Rudolf Diesel",
+      "Gottlieb Daimler",
+      "Nikolaus Otto"
+    ],
+    "answer": "Rudolf Diesel"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "Who received a patent in 1886 for the Motorwagen, considered the first modern gasoline automobile?",
+    "options": [
+      "Henry Ford",
+      "Karl Benz",
+      "Gottlieb Daimler",
+      "Ransom Eli Olds"
+    ],
+    "answer": "Karl Benz"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "Which English scientist is credited with discovering oxygen gas independently alongside Carl Wilhelm Scheele?",
+    "options": [
+      "Joseph Priestley",
+      "Antoine Lavoisier",
+      "Henry Cavendish",
+      "Humphry Davy"
+    ],
+    "answer": "Joseph Priestley"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "Which French chemist is known as the 'Father of Modern Chemistry' for stating the law of conservation of mass?",
+    "options": [
+      "Antoine Lavoisier",
+      "Robert Boyle",
+      "John Dalton",
+      "Amedeo Avogadro"
+    ],
+    "answer": "Antoine Lavoisier"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "Which German physicist introduced the Uncertainty Principle in quantum mechanics?",
+    "options": [
+      "Erwin Schrödinger",
+      "Werner Heisenberg",
+      "Max Born",
+      "Niels Bohr"
+    ],
+    "answer": "Werner Heisenberg"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "Which Austrian physicist devised a fundamental wave equation to describe the quantum state of a system?",
+    "options": [
+      "Erwin Schrödinger",
+      "Max Planck",
+      "Paul Dirac",
+      "Louis de Broglie"
+    ],
+    "answer": "Erwin Schrödinger"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "Who invented the mercury-in-glass thermometer and created an iconic temperature scale?",
+    "options": [
+      "Anders Celsius",
+      "Daniel Gabriel Fahrenheit",
+      "Lord Kelvin",
+      "William Thomson"
+    ],
+    "answer": "Daniel Gabriel Fahrenheit"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "Which computer pioneer created the first compiler for a computer programming language and popularized COBOL?",
+    "options": [
+      "Ada Lovelace",
+      "Grace Hopper",
+      "Margaret Hamilton",
+      "Joan Clarke"
+    ],
+    "answer": "Grace Hopper"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "Which Italian physicist invented the Voltaic Pile, the world's first electrical battery?",
+    "options": [
+      "Luigi Galvani",
+      "Alessandro Volta",
+      "Michael Faraday",
+      "John Frederic Daniell"
+    ],
+    "answer": "Alessandro Volta"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "Which ancient Chinese polymath invented the first earthquake-detecting seismoscope in 132 CE?",
+    "options": [
+      "Zhang Heng",
+      "John Milne",
+      "Charles Richter",
+      "Giuseppe Mercalli"
+    ],
+    "answer": "Zhang Heng"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "Which English physicist was awarded the 1935 Nobel Prize in Physics for discovering the neutron?",
+    "options": [
+      "James Chadwick",
+      "Ernest Rutherford",
+      "Niels Bohr",
+      "John Cockcroft"
+    ],
+    "answer": "James Chadwick"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "Who originated quantum physics by proposing that electromagnetic energy is emitted in quanta?",
+    "options": [
+      "Max Planck",
+      "Albert Einstein",
+      "Niels Bohr",
+      "Louis de Broglie"
+    ],
+    "answer": "Max Planck"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "Who invented the first modern electrical air conditioning unit in 1902?",
+    "options": [
+      "Willis Carrier",
+      "Carrier Vance",
+      "Clarence Birdseye",
+      "Frederick Jones"
+    ],
+    "answer": "Willis Carrier"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "Which astronomer discovered the planet Uranus using a self-constructed reflecting telescope in 1781?",
+    "options": [
+      "William Herschel",
+      "Caroline Herschel",
+      "Johann Galle",
+      "Urbain Le Verrier"
+    ],
+    "answer": "William Herschel"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "Which Italian physicist invented the mercury barometer to measure atmospheric pressure?",
+    "options": [
+      "Evangelista Torricelli",
+      "Blaise Pascal",
+      "Robert Boyle",
+      "Otto von Guericke"
+    ],
+    "answer": "Evangelista Torricelli"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "Who deduced the three laws of planetary motion, showing that orbits are elliptical?",
+    "options": [
+      "Tycho Brahe",
+      "Johannes Kepler",
+      "Nicolaus Copernicus",
+      "Galileo Galilei"
+    ],
+    "answer": "Johannes Kepler"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "Who patented the chemical process of vulcanizing rubber in 1844?",
+    "options": [
+      "Charles Goodyear",
+      "John Dunlop",
+      "Édouard Michelin",
+      "Robert William Thomson"
+    ],
+    "answer": "Charles Goodyear"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "Which physicist discovered the atomic nucleus through his famous gold foil experiment?",
+    "options": [
+      "J.J. Thomson",
+      "Ernest Rutherford",
+      "Niels Bohr",
+      "John Dalton"
+    ],
+    "answer": "Ernest Rutherford"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "Whose X-ray diffraction image, known as Photo 51, was pivotal in identifying DNA's structure?",
+    "options": [
+      "Rosalind Franklin",
+      "Barbara McClintock",
+      "Dorothy Hodgkin",
+      "Lise Meitner"
+    ],
+    "answer": "Rosalind Franklin"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "Who invented the mechanical cotton gin in 1793, revitalizing the American cotton industry?",
+    "options": [
+      "Eli Whitney",
+      "Cyrus McCormick",
+      "Samuel Slater",
+      "Elias Howe"
+    ],
+    "answer": "Eli Whitney"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "Who invented the phonograph for capturing and playing back sound in 1877?",
+    "options": [
+      "Thomas Edison",
+      "Emile Berliner",
+      "Alexander Graham Bell",
+      "Nikola Tesla"
+    ],
+    "answer": "Thomas Edison"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "Who demonstrated the world's first working mechanical television system in 1925?",
+    "options": [
+      "Philo Farnsworth",
+      "John Logie Baird",
+      "Vladimir Zworykin",
+      "Charles Francis Jenkins"
+    ],
+    "answer": "John Logie Baird"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "Who invented the first fully electronic television system featuring an all-electronic image dissector?",
+    "options": [
+      "John Logie Baird",
+      "Philo Farnsworth",
+      "Louis Le Prince",
+      "Thomas Edison"
+    ],
+    "answer": "Philo Farnsworth"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "Which French physicist postulated that all matter exhibits wave-like behavior, leading to electron wave mechanics?",
+    "options": [
+      "Louis de Broglie",
+      "Clinton Davisson",
+      "George Paget Thomson",
+      "Max Born"
+    ],
+    "answer": "Louis de Broglie"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "Who invented the mass spectrograph and discovered over 200 naturally occurring stable isotopes?",
+    "options": [
+      "Francis William Aston",
+      "J.J. Thomson",
+      "Ernest Rutherford",
+      "Arthur Jeffrey Dempster"
+    ],
+    "answer": "Francis William Aston"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "Which Belgian-American chemist synthesized Bakelite, launching the modern plastics industry?",
+    "options": [
+      "Leo Baekeland",
+      "Hermann Staudinger",
+      "Wallace Carothers",
+      "John Wesley Hyatt"
+    ],
+    "answer": "Leo Baekeland"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "Who accidentally created Mauveine, the first synthetic organic chemical dye, while searching for a malaria cure?",
+    "options": [
+      "William Henry Perkin",
+      "Justus von Liebig",
+      "Friedrich Wöhler",
+      "August Wilhelm von Hofmann"
+    ],
+    "answer": "William Henry Perkin"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "Who authored the 1948 paper 'A Mathematical Theory of Communication', establishing information theory?",
+    "options": [
+      "Claude Shannon",
+      "Norbert Wiener",
+      "Alan Turing",
+      "John von Neumann"
+    ],
+    "answer": "Claude Shannon"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "Which geneticist won an unshared Nobel Prize for discovering mobile genetic elements known as transposons?",
+    "options": [
+      "Barbara McClintock",
+      "Rosalind Franklin",
+      "Nettie Stevens",
+      "Gerty Cori"
+    ],
+    "answer": "Barbara McClintock"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "Which theoretical physicist developed the theory of cosmic inflation in 1979 to solve cosmological paradoxes?",
+    "options": [
+      "Alan Guth",
+      "Andrei Linde",
+      "Stephen Hawking",
+      "Roger Penrose"
+    ],
+    "answer": "Alan Guth"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "Who created the early particle detector designed to measure alpha radiation alongside Walther Müller?",
+    "options": [
+      "Hans Geiger",
+      "Ernest Rutherford",
+      "Charles Wilson",
+      "Walther Bothe"
+    ],
+    "answer": "Hans Geiger"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "Which German chemist developed a high-pressure process for industrial synthesis of ammonia from nitrogen gas?",
+    "options": [
+      "Fritz Haber",
+      "Carl Bosch",
+      "Wilhelm Ostwald",
+      "Walther Nernst"
+    ],
+    "answer": "Fritz Haber"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "Who led the chemistry team at DuPont that synthesized Nylon, the first commercial synthetic polymer?",
+    "options": [
+      "Wallace Carothers",
+      "Leo Baekeland",
+      "Roy Plunkett",
+      "Stephanie Kwolek"
+    ],
+    "answer": "Wallace Carothers"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "Which DuPont chemist invented Kevlar, the high-strength synthetic fiber used in bulletproof vests?",
+    "options": [
+      "Stephanie Kwolek",
+      "Ruth Benerito",
+      "Patsy Sherman",
+      "Edith Flanigen"
+    ],
+    "answer": "Stephanie Kwolek"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "Who accidentally discovered Teflon (polytetrafluoroethylene) in 1938 while investigating refrigerants?",
+    "options": [
+      "Roy J. Plunkett",
+      "Wallace Carothers",
+      "Charles Goodyear",
+      "Waldo Semon"
+    ],
+    "answer": "Roy J. Plunkett"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "Which mathematician coined the term 'fractal' and studied complex self-similar geometric shapes?",
+    "options": [
+      "Benoit Mandelbrot",
+      "Gaston Julia",
+      "Edward Lorenz",
+      "Henri Poincaré"
+    ],
+    "answer": "Benoit Mandelbrot"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "Who synthesized urea from inorganic starting materials in 1828, disproving the vitalism theory?",
+    "options": [
+      "Friedrich Wöhler",
+      "Jöns Jacob Berzelius",
+      "Justus von Liebig",
+      "Hermann Kolbe"
+    ],
+    "answer": "Friedrich Wöhler"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "Who designed and demonstrated the world's first interactive computer mouse at 'The Mother of All Demos' in 1968?",
+    "options": [
+      "Douglas Engelbart",
+      "Alan Kay",
+      "Ted Nelson",
+      "Xerox PARC Team"
+    ],
+    "answer": "Douglas Engelbart"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "Who invented the Atanasoff-Berry Computer (ABC), the first automatic electronic digital computer?",
+    "options": [
+      "John Atanasoff",
+      "J. Presper Eckert",
+      "John Mauchly",
+      "Konrad Zuse"
+    ],
+    "answer": "John Atanasoff"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "Who designed and constructed the Z3, the world's first working programmable automatic digital computer?",
+    "options": [
+      "Konrad Zuse",
+      "Alan Turing",
+      "Tommy Flowers",
+      "Howard Aiken"
+    ],
+    "answer": "Konrad Zuse"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "Which theoretical physicist predicted that black holes emit thermal radiation due to quantum effects?",
+    "options": [
+      "Stephen Hawking",
+      "Kip Thorne",
+      "Roger Penrose",
+      "John Wheeler"
+    ],
+    "answer": "Stephen Hawking"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "Who invented the cloud chamber, a particle detector allowing the visualization of ionizing radiation paths?",
+    "options": [
+      "Charles Thomson Rees Wilson",
+      "Patrick Blackett",
+      "Donald Glaser",
+      "Cecil Powell"
+    ],
+    "answer": "Charles Thomson Rees Wilson"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "Who co-discovered the cosmic microwave background radiation alongside Robert Woodrow Wilson in 1964?",
+    "options": [
+      "Arno Penzias",
+      "Robert Dicke",
+      "Fred Hoyle",
+      "George Gamow"
+    ],
+    "answer": "Arno Penzias"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "Who invented the Polymerase Chain Reaction (PCR) technique to rapidly replicate DNA sequences?",
+    "options": [
+      "Kary Mullis",
+      "Frederick Sanger",
+      "Paul Berg",
+      "Craig Venter"
+    ],
+    "answer": "Kary Mullis"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "Which scientist developed chain-termination DNA sequencing methods and won two Nobel Prizes in Chemistry?",
+    "options": [
+      "Frederick Sanger",
+      "Linus Pauling",
+      "John Kendrew",
+      "Max Perutz"
+    ],
+    "answer": "Frederick Sanger"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "Who invented the particle accelerator known as the cyclotron in 1929?",
+    "options": [
+      "Ernest Lawrence",
+      "John Cockcroft",
+      "Ernest Walton",
+      "Robert J. Van de Graaff"
+    ],
+    "answer": "Ernest Lawrence"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "Which physicist formulated the Exclusion Principle, stating no two identical fermions can occupy the same quantum state?",
+    "options": [
+      "Wolfgang Pauli",
+      "Max Born",
+      "Paul Dirac",
+      "Arnold Sommerfeld"
+    ],
+    "answer": "Wolfgang Pauli"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "Who derived the relativistic wave equation for the electron that theoretically predicted the existence of antimatter?",
+    "options": [
+      "Paul Dirac",
+      "Carl Anderson",
+      "Wolfgang Pauli",
+      "Enrico Fermi"
+    ],
+    "answer": "Paul Dirac"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "Who experimentally confirmed the existence of the positron (anti-electron) in cosmic rays in 1932?",
+    "options": [
+      "Carl D. Anderson",
+      "Paul Dirac",
+      "Patrick Blackett",
+      "Robert Millikan"
+    ],
+    "answer": "Carl D. Anderson"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "Who measured the elementary electric charge of an electron using the famous oil-drop experiment?",
+    "options": [
+      "Robert A. Millikan",
+      "Harvey Fletcher",
+      "J.J. Thomson",
+      "Ernest Rutherford"
+    ],
+    "answer": "Robert A. Millikan"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "Which astrophysicist discovered the first radio pulsars in 1967 while working as a postgraduate student?",
+    "options": [
+      "Jocelyn Bell Burnell",
+      "Antony Hewish",
+      "Fred Hoyle",
+      "Vera Rubin"
+    ],
+    "answer": "Jocelyn Bell Burnell"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "Which astronomer discovered the galaxy rotation problem, providing strong observational evidence for dark matter?",
+    "options": [
+      "Vera Rubin",
+      "Margaret Burbidge",
+      "Beatrice Tinsley",
+      "Sandra Faber"
+    ],
+    "answer": "Vera Rubin"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "Who co-designed ENIAC, the first operational general-purpose electronic computer, alongside J. Presper Eckert?",
+    "options": [
+      "John Mauchly",
+      "John Atanasoff",
+      "Howard Aiken",
+      "John von Neumann"
+    ],
+    "answer": "John Mauchly"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "Who developed the A-0 system, recognized as the world's first compiler for an electronic computer?",
+    "options": [
+      "Grace Hopper",
+      "John Backus",
+      "Dennis Ritchie",
+      "Ken Thompson"
+    ],
+    "answer": "Grace Hopper"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "Who directed the IBM team that created FORTRAN, the first widely used high-level programming language?",
+    "options": [
+      "John Backus",
+      "Grace Hopper",
+      "Niklaus Wirth",
+      "John McCarthy"
+    ],
+    "answer": "John Backus"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "Which computer scientist led the creation of Smalltalk and coined the phrase 'object-oriented programming'?",
+    "options": [
+      "Alan Kay",
+      "Bjarne Stroustrup",
+      "James Gosling",
+      "Ole-Johan Dahl"
+    ],
+    "answer": "Alan Kay"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "Which Hungarian physician discovered that hand-washing drastically reduced childbed fever incidence in hospital wards?",
+    "options": [
+      "Ignaz Semmelweis",
+      "Joseph Lister",
+      "Louis Pasteur",
+      "Robert Koch"
+    ],
+    "answer": "Ignaz Semmelweis"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "Who invented the thermionic valve (vacuum diode) in 1904, enabling early radio amplification?",
+    "options": [
+      "John Ambrose Fleming",
+      "Lee de Forest",
+      "Nikola Tesla",
+      "Thomas Edison"
+    ],
+    "answer": "John Ambrose Fleming"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "Who patented the Audion, the first triode vacuum tube that allowed electronic signal amplification?",
+    "options": [
+      "Lee de Forest",
+      "John Ambrose Fleming",
+      "Edwin Armstrong",
+      "Reginald Fessenden"
+    ],
+    "answer": "Lee de Forest"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "Which electrical engineer invented Frequency Modulation (FM) radio transmission in the 1930s?",
+    "options": [
+      "Edwin Armstrong",
+      "Lee de Forest",
+      "Guglielmo Marconi",
+      "Nikola Tesla"
+    ],
+    "answer": "Edwin Armstrong"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "Which German physician discovered Salvarsan, the first targeted chemical treatment for an infectious disease?",
+    "options": [
+      "Paul Ehrlich",
+      "Alexander Fleming",
+      "Gerhard Domagk",
+      "Robert Koch"
+    ],
+    "answer": "Paul Ehrlich"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "Which actress co-invented secret communication frequency-hopping spread spectrum technology during WWII?",
+    "options": [
+      "Hedy Lamarr",
+      "Ada Lovelace",
+      "Radia Perlman",
+      "Joan Clarke"
+    ],
+    "answer": "Hedy Lamarr"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "Who invented the commercial voltage-controlled electronic music synthesizer in 1964?",
+    "options": [
+      "Robert Moog",
+      "Don Buchla",
+      "Thaddeus Cahill",
+      "Leon Theremin"
+    ],
+    "answer": "Robert Moog"
+  }
+]

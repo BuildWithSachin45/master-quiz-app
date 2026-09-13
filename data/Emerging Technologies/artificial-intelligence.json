@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "What is the primary definition of Artificial Intelligence (AI)?",
+    "options": [
+      "The simulation of human intelligence processes by computer systems",
+      "The physical assembly of mechanical robots",
+      "The storage of large volumes of database records",
+      "The manual creation of complex algorithms by humans"
+    ],
+    "answer": "The simulation of human intelligence processes by computer systems"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "Which test was proposed in 1950 to evaluate whether a machine can exhibit human-like intelligent behavior?",
+    "options": [
+      "Turing Test",
+      "Voight-Kampff Test",
+      "CAPTCHA Test",
+      "Standard Benchmark Test"
+    ],
+    "answer": "Turing Test"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "What is the main subset of AI that enables systems to automatically learn and improve from experience without being explicitly programmed?",
+    "options": [
+      "Machine Learning",
+      "Computer Graphics",
+      "Quantum Computing",
+      "Database Management"
+    ],
+    "answer": "Machine Learning"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "In search algorithms, what type of agent makes decisions based solely on the current percept, ignoring the rest of the percept history?",
+    "options": [
+      "Simple Reflex Agent",
+      "Model-Based Reflex Agent",
+      "Goal-Based Agent",
+      "Utility-Based Agent"
+    ],
+    "answer": "Simple Reflex Agent"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "What type of environment allows an agent to see the complete state of the environment at any given point in time?",
+    "options": [
+      "Fully Observable",
+      "Partially Observable",
+      "Stochastic",
+      "Continuous"
+    ],
+    "answer": "Fully Observable"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "In problem-solving search algorithms, what does 'BFS' stand for?",
+    "options": [
+      "Breadth-First Search",
+      "Best-First Search",
+      "Binary-First Search",
+      "Backward-Function Search"
+    ],
+    "answer": "Breadth-First Search"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "Which search strategy expands the deepest node in the current frontier of the search tree first?",
+    "options": [
+      "Depth-First Search",
+      "Breadth-First Search",
+      "Uniform Cost Search",
+      "A* Search"
+    ],
+    "answer": "Depth-First Search"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "What is a heuristic function $h(n)$ in AI search problems?",
+    "options": [
+      "An estimate of the cost from node $n$ to the closest goal node",
+      "The exact distance traveled from the start node to node $n$",
+      "The total depth of the search tree",
+      "The number of child nodes branching from node $n$"
+    ],
+    "answer": "An estimate of the cost from node $n$ to the closest goal node"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "In machine learning, what subfield uses artificial neural networks inspired by the human brain?",
+    "options": [
+      "Deep Learning",
+      "Symbolic Logic",
+      "Expert Systems",
+      "Genetic Programming"
+    ],
+    "answer": "Deep Learning"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "What learning paradigm uses labeled datasets to train algorithms to classify data or predict outcomes?",
+    "options": [
+      "Supervised Learning",
+      "Unsupervised Learning",
+      "Reinforcement Learning",
+      "Self-Supervised Learning"
+    ],
+    "answer": "Supervised Learning"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "What learning paradigm trains algorithms on unlabeled data to discover hidden patterns or groupings?",
+    "options": [
+      "Unsupervised Learning",
+      "Supervised Learning",
+      "Reinforcement Learning",
+      "Semi-Supervised Learning"
+    ],
+    "answer": "Unsupervised Learning"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "In reinforcement learning, what component takes actions in an environment to maximize cumulative rewards?",
+    "options": [
+      "Agent",
+      "Orator",
+      "Critic",
+      "Supervisor"
+    ],
+    "answer": "Agent"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "What AI field focuses on enabling computers to understand, interpret, and generate human language?",
+    "options": [
+      "Natural Language Processing (NLP)",
+      "Computer Vision",
+      "Robotics",
+      "Knowledge Representation"
+    ],
+    "answer": "Natural Language Processing (NLP)"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "What field of AI involves training machines to extract meaningful information from digital images or video?",
+    "options": [
+      "Computer Vision",
+      "Natural Language Processing",
+      "Speech Synthesis",
+      "Fuzzy Logic"
+    ],
+    "answer": "Computer Vision"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "What early type of AI system relies on IF-THEN rules and a knowledge base to solve complex domain problems?",
+    "options": [
+      "Expert System",
+      "Convolutional Neural Network",
+      "Generative Adversarial Network",
+      "Transformer Network"
+    ],
+    "answer": "Expert System"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "What term describes the problem where a machine learning model learns training data too well, failing to generalize to new data?",
+    "options": [
+      "Overfitting",
+      "Underfitting",
+      "Generalization",
+      "Optimization"
+    ],
+    "answer": "Overfitting"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "What term describes a model that is too simple to capture the underlying structure of the training data?",
+    "options": [
+      "Underfitting",
+      "Overfitting",
+      "Convergence",
+      "Regularization"
+    ],
+    "answer": "Underfitting"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "In a supervised learning classification problem, what matrix is commonly used to visualize model accuracy, false positives, and false negatives?",
+    "options": [
+      "Confusion Matrix",
+      "Adjacency Matrix",
+      "Covariance Matrix",
+      "Hessian Matrix"
+    ],
+    "answer": "Confusion Matrix"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "Which basic activation function outputs $0$ for negative inputs and $x$ for positive inputs in neural networks?",
+    "options": [
+      "ReLU (Rectified Linear Unit)",
+      "Sigmoid",
+      "Tanh",
+      "Softmax"
+    ],
+    "answer": "ReLU (Rectified Linear Unit)"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "Which algorithm is commonly used in adversarial two-player games like chess to choose the optimal move?",
+    "options": [
+      "Minimax Algorithm",
+      "Genetic Algorithm",
+      "K-Means Algorithm",
+      "A* Search"
+    ],
+    "answer": "Minimax Algorithm"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "What mathematical logic framework extends classical binary truth values to handle degrees of truth between 0 and 1?",
+    "options": [
+      "Fuzzy Logic",
+      "Propositional Logic",
+      "First-Order Logic",
+      "Predicate Calculus"
+    ],
+    "answer": "Fuzzy Logic"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "What parameter in neural network training controls how much weights are updated during gradient descent at each step?",
+    "options": [
+      "Learning Rate",
+      "Batch Size",
+      "Epoch Count",
+      "Momentum"
+    ],
+    "answer": "Learning Rate"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "What term describes one complete pass of the entire training dataset through a neural network during training?",
+    "options": [
+      "Epoch",
+      "Iteration",
+      "Batch",
+      "Step"
+    ],
+    "answer": "Epoch"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "What classification algorithm calculates distance metrics (like Euclidean distance) to assign an input to its nearest neighbors' majority class?",
+    "options": [
+      "K-Nearest Neighbors (KNN)",
+      "K-Means Clustering",
+      "Linear Regression",
+      "Decision Tree"
+    ],
+    "answer": "K-Nearest Neighbors (KNN)"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "In Knowledge Representation, what directed graph structure connects concepts using labeled edges to show semantic relationships?",
+    "options": [
+      "Semantic Network",
+      "Decision Tree",
+      "Neural Network",
+      "State Space Graph"
+    ],
+    "answer": "Semantic Network"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "Which evaluation metric in classification measures the proportion of true positive predictions among all positive predictions made?",
+    "options": [
+      "Precision",
+      "Recall",
+      "Accuracy",
+      "Specificity"
+    ],
+    "answer": "Precision"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "Which evaluation metric in classification measures the proportion of actual positive cases correctly identified by the model?",
+    "options": [
+      "Recall (Sensitivity)",
+      "Precision",
+      "F1-Score",
+      "Accuracy"
+    ],
+    "answer": "Recall (Sensitivity)"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "What is the primary function of an activation function in artificial neural networks?",
+    "options": [
+      "To introduce non-linearity into the network output",
+      "To reduce the number of input features automatically",
+      "To calculate the total training time needed",
+      "To store dataset samples in cache memory"
+    ],
+    "answer": "To introduce non-linearity into the network output"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "What algorithm technique optimizes neural network weights by calculating loss function gradients backward through layers?",
+    "options": [
+      "Backpropagation",
+      "Forward Propagation",
+      "Convolution",
+      "Max Pooling"
+    ],
+    "answer": "Backpropagation"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "What type of artificial intelligence targets human-level intelligence across a broad range of cognitive tasks?",
+    "options": [
+      "Artificial General Intelligence (AGI)",
+      "Narrow AI",
+      "Rule-Based AI",
+      "Symbolic AI"
+    ],
+    "answer": "Artificial General Intelligence (AGI)"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "In A* search, what condition must a heuristic function $h(n)$ satisfy to be considered 'admissible'?",
+    "options": [
+      "It must never overestimate the true cost to reach the goal",
+      "It must always equal the exact cost from the start node",
+      "It must strictly decrease along every child node path",
+      "It must always overestimate the true cost to ensure speed"
+    ],
+    "answer": "It must never overestimate the true cost to reach the goal"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "What heuristic property ensures that for every node $n$ and successor $n'$ generated by action $a$, $h(n) \\le c(n,a,n') + h(n')$?",
+    "options": [
+      "Consistency (Monotonicity)",
+      "Admissibility",
+      "Completeness",
+      "Optimality"
+    ],
+    "answer": "Consistency (Monotonicity)"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "Which pruning technique reduces the search space in the Minimax algorithm without altering the final choice?",
+    "options": [
+      "Alpha-Beta Pruning",
+      "Beam Search Pruning",
+      "Constraint Propagation",
+      "Gradient Pruning"
+    ],
+    "answer": "Alpha-Beta Pruning"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "What fundamental optimization problem in backpropagation occurs when neural network layer gradients approach zero during deep training?",
+    "options": [
+      "Vanishing Gradient Problem",
+      "Exploding Gradient Problem",
+      "Covariate Shift",
+      "Catastrophic Forgetting"
+    ],
+    "answer": "Vanishing Gradient Problem"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "In Convolutional Neural Networks (CNNs), what operation reduces feature map spatial dimensions while retaining essential information?",
+    "options": [
+      "Pooling (e.g., Max Pooling)",
+      "Padding",
+      "Softmax Activation",
+      "Convolutional Stride"
+    ],
+    "answer": "Pooling (e.g., Max Pooling)"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "Which neural network architecture uses recurrent feedback connections, making it well-suited for sequential or time-series data?",
+    "options": [
+      "Recurrent Neural Network (RNN)",
+      "Convolutional Neural Network (CNN)",
+      "Multilayer Perceptron (MLP)",
+      "Autoencoder"
+    ],
+    "answer": "Recurrent Neural Network (RNN)"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "What specialized RNN architecture addresses vanishing gradient problems using input, forget, and output gates?",
+    "options": [
+      "LSTM (Long Short-Term Memory)",
+      "Self-Organizing Map (SOM)",
+      "Perceptron",
+      "Hopfield Network"
+    ],
+    "answer": "LSTM (Long Short-Term Memory)"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "In AI reasoning, what is the term for a problem defined by variables, variable domains, and constraints between variables?",
+    "options": [
+      "Constraint Satisfaction Problem (CSP)",
+      "Markov Decision Process (MDP)",
+      "Partially Observable MDP",
+      "Knowledge Inference Engine"
+    ],
+    "answer": "Constraint Satisfaction Problem (CSP)"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "What probability theorem forms the foundation of probabilistic reasoning systems by calculating conditional probabilities $P(A|B)$?",
+    "options": [
+      "Bayes' Theorem",
+      "Central Limit Theorem",
+      "Markov Property",
+      "Law of Large Numbers"
+    ],
+    "answer": "Bayes' Theorem"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "What probabilistic graphical model represents a set of random variables and their conditional dependencies via a Directed Acyclic Graph (DAG)?",
+    "options": [
+      "Bayesian Network",
+      "Markov Chain",
+      "Decision Tree",
+      "Hidden Markov Model"
+    ],
+    "answer": "Bayesian Network"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "In Markov Decision Processes (MDPs), what property states that future states depend only on the current state and action, not past history?",
+    "options": [
+      "Markov Property",
+      "Bellman Optimality",
+      "Stationarity",
+      "Ergodicity"
+    ],
+    "answer": "Markov Property"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "Which equation provides the fundamental recursive definition for computing state-value functions in Reinforcement Learning?",
+    "options": [
+      "Bellman Equation",
+      "Euler-Lagrange Equation",
+      "Navier-Stokes Equation",
+      "Schrödinger Equation"
+    ],
+    "answer": "Bellman Equation"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "What model architecture consists of two neural networks (Generator and Discriminator) competing against each other?",
+    "options": [
+      "GAN (Generative Adversarial Network)",
+      "Variational Autoencoder (VAE)",
+      "Transformer Network",
+      "Siamese Network"
+    ],
+    "answer": "GAN (Generative Adversarial Network)"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "Which ensemble technique combines predictions from multiple weak classifiers built on bootstrap samples using majority voting (e.g., Random Forest)?",
+    "options": [
+      "Bagging (Bootstrap Aggregating)",
+      "Boosting",
+      "Stacking",
+      "Pruning"
+    ],
+    "answer": "Bagging (Bootstrap Aggregating)"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "Which ensemble technique sequentially trains weak learners, giving higher weight to previously misclassified instances (e.g., AdaBoost)?",
+    "options": [
+      "Boosting",
+      "Bagging",
+      "Clustering",
+      "Principal Component Analysis"
+    ],
+    "answer": "Boosting"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "What regularization method randomly deactivates a subset of neurons during training passes to prevent over-reliance on specific features?",
+    "options": [
+      "Dropout",
+      "Batch Normalization",
+      "Weight Decay",
+      "L1 Regularization"
+    ],
+    "answer": "Dropout"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "In Natural Language Processing, what self-attention neural network architecture forms the foundation of modern Large Language Models?",
+    "options": [
+      "Transformer",
+      "Convolutional Network",
+      "Recurrent Neural Network",
+      "Feedforward Perceptron"
+    ],
+    "answer": "Transformer"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "What unsupervised technique reduces feature dimensionality while preserving as much data variance as possible along orthogonal axes?",
+    "options": [
+      "Principal Component Analysis (PCA)",
+      "Linear Discriminant Analysis (LDA)",
+      "Hierarchical Clustering",
+      "t-SNE"
+    ],
+    "answer": "Principal Component Analysis (PCA)"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "In Support Vector Machines (SVMs), what term describes the data points that lie closest to the decision boundary hyperplane?",
+    "options": [
+      "Support Vectors",
+      "Outliers",
+      "Centroids",
+      "Slack Variables"
+    ],
+    "answer": "Support Vectors"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "Which mathematical trick enables Support Vector Machines to operate in high-dimensional implicit feature spaces without computing coordinates explicitly?",
+    "options": [
+      "Kernel Trick",
+      "Trickle-down Method",
+      "Monte Carlo Method",
+      "Gradient Trick"
+    ],
+    "answer": "Kernel Trick"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "What optimization technique updates neural network weights after processing small random subsets of training data rather than the full dataset?",
+    "options": [
+      "Stochastic Gradient Descent (SGD)",
+      "Batch Gradient Descent",
+      "Newton-Raphson Method",
+      "Simulated Annealing"
+    ],
+    "answer": "Stochastic Gradient Descent (SGD)"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "In NLP, what technique transforms discrete textual words into continuous dense vector spaces capture semantic relationships?",
+    "options": [
+      "Word Embedding (e.g., Word2Vec)",
+      "One-Hot Encoding",
+      "Lemmatization",
+      "Stemming"
+    ],
+    "answer": "Word Embedding (e.g., Word2Vec)"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "What metric quantifies impurity or randomness in decision tree nodes when making split choices in algorithms like C4.5?",
+    "options": [
+      "Entropy / Information Gain",
+      "Euclidean Distance",
+      "Cos Similarity",
+      "Mean Squared Error"
+    ],
+    "answer": "Entropy / Information Gain"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "What local search strategy mimics physical metal cooling to escape local optima by accepting worse moves with decreasing probability?",
+    "options": [
+      "Simulated Annealing",
+      "Hill Climbing",
+      "Tabu Search",
+      "Genetic Search"
+    ],
+    "answer": "Simulated Annealing"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "What type of agent uses world models to maintain internal state knowledge about unobserved aspects of its environment?",
+    "options": [
+      "Model-Based Reflex Agent",
+      "Simple Reflex Agent",
+      "Goal-Based Agent",
+      "Utility-Based Agent"
+    ],
+    "answer": "Model-Based Reflex Agent"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "In first-order logic, what inference rule derives $Q$ from $P$ and $P \\rightarrow Q$?",
+    "options": [
+      "Modus Ponens",
+      "Modus Tollens",
+      "Resolution",
+      "Universal Instantiation"
+    ],
+    "answer": "Modus Ponens"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "What evolutionary algorithm optimization technique uses operations like selection, crossover, and mutation to evolve candidate solutions?",
+    "options": [
+      "Genetic Algorithm",
+      "Particle Swarm Optimization",
+      "Ant Colony Optimization",
+      "Differential Evolution"
+    ],
+    "answer": "Genetic Algorithm"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "What fundamental problem occurs in supervised learning when training samples have vastly unequal class representation?",
+    "options": [
+      "Class Imbalance Problem",
+      "Multicollinearity",
+      "Heteroscedasticity",
+      "Data Leakage"
+    ],
+    "answer": "Class Imbalance Problem"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "What model validation technique partitions data into $K$ equal subsets to iteratively train and validate models $K$ times?",
+    "options": [
+      "K-Fold Cross-Validation",
+      "Holdout Validation",
+      "Leave-One-Out Validation",
+      "Stratified Sampling"
+    ],
+    "answer": "K-Fold Cross-Validation"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "Which loss function is standard for evaluating binary classification neural network outputs?",
+    "options": [
+      "Binary Cross-Entropy (Log Loss)",
+      "Mean Squared Error (MSE)",
+      "Mean Absolute Error (MAE)",
+      "Hinge Loss"
+    ],
+    "answer": "Binary Cross-Entropy (Log Loss)"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "In deep Transformer models, what mechanism computes weighted contextual associations between all position pairs in an input sequence simultaneously?",
+    "options": [
+      "Scaled Dot-Product Self-Attention",
+      "Recurrent Gated Updates",
+      "Cross-Correlation Convolution",
+      "Spatial Pyramid Pooling"
+    ],
+    "answer": "Scaled Dot-Product Self-Attention"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "What model alignment technique optimizes Large Language Models using human preference ratings via policy gradient algorithms like PPO?",
+    "options": [
+      "Reinforcement Learning from Human Feedback (RLHF)",
+      "Supervised Fine-Tuning (SFT)",
+      "Direct Preference Optimization (DPO)",
+      "Low-Rank Adaptation (LoRA)"
+    ],
+    "answer": "Reinforcement Learning from Human Feedback (RLHF)"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "In parameter-efficient fine-tuning (PEFT), how does Low-Rank Adaptation (LoRA) reduce trainable parameter counts?",
+    "options": [
+      "By decomposing weight update matrices into low-rank rank-factorized matrices",
+      "By pruning 90% of model weights based on magnitude thresholding",
+      "By quantizing model weights from 16-bit floating point to 4-bit integers",
+      "By freezing all attention layers and training only classification heads"
+    ],
+    "answer": "By decomposing weight update matrices into low-rank rank-factorized matrices"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "What statistical phenomenon describes how high-dimensional spaces become increasingly sparse, impairing distance-based ML algorithms?",
+    "options": [
+      "Curse of Dimensionality",
+      "Central Limit Theorem",
+      "Vapnik-Chervonenkis Dimensionality",
+      "Overfitting Paradox"
+    ],
+    "answer": "Curse of Dimensionality"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "In Model-Free Reinforcement Learning, what algorithm directly learns optimal action-value functions $Q(s, a)$ independently of the agent's policy?",
+    "options": [
+      "Q-Learning (Off-Policy)",
+      "SARSA (On-Policy)",
+      "Policy Iteration",
+      "Value Iteration"
+    ],
+    "answer": "Q-Learning (Off-Policy)"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "How does SARSA differ fundamentally from Q-Learning in Reinforcement Learning updates?",
+    "options": [
+      "SARSA is an On-Policy algorithm updating $Q$-values using actions selected by the current policy",
+      "SARSA is an Off-Policy algorithm that assumes greedy optimal future actions",
+      "SARSA does not require a reward signal from the environment",
+      "SARSA can only operate in continuous state spaces"
+    ],
+    "answer": "SARSA is an On-Policy algorithm updating $Q$-values using actions selected by the current policy"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "What generative deep learning architecture models data distributions by defining a forward noise-addition process and learning a reverse denoising process?",
+    "options": [
+      "Diffusion Models (e.g., DDPM)",
+      "Variational Autoencoders",
+      "Generative Adversarial Networks",
+      "Energy-Based Models"
+    ],
+    "answer": "Diffusion Models (e.g., DDPM)"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "In deep learning theory, what parameter measures the capacity of a binary classification model family to shatter finite data point sets?",
+    "options": [
+      "VC (Vapnik-Chervonenkis) Dimension",
+      "Rademacher Complexity",
+      "PAC Learning Bound",
+      "Information Capacity"
+    ],
+    "answer": "VC (Vapnik-Chervonenkis) Dimension"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "What theoretical framework formalizes machine learning feasibility by guaranteeing bounded generalization errors with high probability?",
+    "options": [
+      "Probably Approximately Correct (PAC) Learning",
+      "Bayesian Information Criterion",
+      "Structural Risk Minimization",
+      "Empirical Risk Minimization"
+    ],
+    "answer": "Probably Approximately Correct (PAC) Learning"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "What issue occurs when training Generative Adversarial Networks where the Generator produces limited, repetitive output classes that fool the Discriminator?",
+    "options": [
+      "Mode Collapse",
+      "Vanishing Gradient",
+      "Catastrophic Interference",
+      "Exploding Gradient"
+    ],
+    "answer": "Mode Collapse"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "In Variational Autoencoders (VAEs), what trick enables backpropagation through stochastic latent sampling steps?",
+    "options": [
+      "Reparameterization Trick",
+      "Gumbel-Softmax Trick",
+      "Kernel Trick",
+      "Monte Carlo Gradient Estimate"
+    ],
+    "answer": "Reparameterization Trick"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "What objective function component in VAEs balances reconstruction fidelity against latent distribution divergence from a Gaussian prior?",
+    "options": [
+      "Kullback-Leibler (KL) Divergence",
+      "Jensen-Shannon Divergence",
+      "Wasserstein Distance",
+      "Cross-Entropy Loss"
+    ],
+    "answer": "Kullback-Leibler (KL) Divergence"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "In AI knowledge representation, what default reasoning problem describes difficulty tracking unmentioned state facts that remain unchanged by actions?",
+    "options": [
+      "Frame Problem",
+      "Qualification Problem",
+      "Ramification Problem",
+      "Symbol Grounding Problem"
+    ],
+    "answer": "Frame Problem"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "What knowledge representation challenge questions how abstract symbols in an AI system derive meaningful connections to physical reality?",
+    "options": [
+      "Symbol Grounding Problem",
+      "Frame Problem",
+      "Mind-Body Problem",
+      "Chinese Room Argument"
+    ],
+    "answer": "Symbol Grounding Problem"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "In Transformer architectures, why are Positional Encodings added directly to input token embeddings?",
+    "options": [
+      "Because self-attention operations are permutation-invariant and lack word order awareness",
+      "To normalize input vector magnitudes across batch sequences",
+      "To prevent vanishing gradient effects across deep feedforward layers",
+      "To reduce hidden dimension sizes before self-attention calculation"
+    ],
+    "answer": "Because self-attention operations are permutation-invariant and lack word order awareness"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "Which dynamic heuristic search algorithm updates state edge values backward during execution to find optimal paths in unknown environments?",
+    "options": [
+      "D* (Dynamic A*) Search",
+      "Iterative Deepening A* (IDA*)",
+      "Simplified Memory Bounded A* (SMA*)",
+      "Greedy Best-First Search"
+    ],
+    "answer": "D* (Dynamic A*) Search"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "In reinforcement learning actor-critic methods, what quantity does the Advantage function $A(s, a) = Q(s, a) - V(s)$ capture?",
+    "options": [
+      "How much better taking action $a$ is compared to the expected average return in state $s$",
+      "The exact maximum reward possible across all future environment states",
+      "The probability ratio between target and behavior policy action selections",
+      "The discounted variance of temporal difference learning step errors"
+    ],
+    "answer": "How much better taking action $a$ is compared to the expected average return in state $s$"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "What neural network normalization method standardizes inputs across feature channels within each individual sample independently of batch size?",
+    "options": [
+      "Layer Normalization",
+      "Batch Normalization",
+      "Instance Normalization",
+      "Group Normalization"
+    ],
+    "answer": "Layer Normalization"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "Which gradient descent optimization algorithm adapts individual learning rates for parameters using moving averages of both first and second moments?",
+    "options": [
+      "Adam (Adaptive Moment Estimation)",
+      "RMSprop",
+      "AdaGrad",
+      "Nesterov Accelerated Gradient"
+    ],
+    "answer": "Adam (Adaptive Moment Estimation)"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "In game theory and multi-agent AI, what state occurs when no player can improve their payoff by unilaterally changing their chosen strategy?",
+    "options": [
+      "Nash Equilibrium",
+      "Pareto Optimality",
+      "Minimax Solution",
+      "Dominant Strategy Equilibrium"
+    ],
+    "answer": "Nash Equilibrium"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "What model architecture combines external retrieval from vector databases with generative LLMs to ground responses on private knowledge bases?",
+    "options": [
+      "Retrieval-Augmented Generation (RAG)",
+      "Fine-Tuned Auto-Regressive Transformer",
+      "Mixture of Experts (MoE)",
+      "Prompt-Based Few-Shot Model"
+    ],
+    "answer": "Retrieval-Augmented Generation (RAG)"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "In scaling LLMs, what architectural technique routes individual tokens dynamically to sparse subset sub-networks rather than processing full parameter sets?",
+    "options": [
+      "Mixture of Experts (MoE)",
+      "Dense Transformer Layering",
+      "Model Parallelism",
+      "Pipeline Parallelism"
+    ],
+    "answer": "Mixture of Experts (MoE)"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "What interpretability method calculates feature importance values by leveraging cooperative game theory Shapley values?",
+    "options": [
+      "SHAP (SHapley Additive exPlanations)",
+      "LIME (Local Interpretable Model-agnostic Explanations)",
+      "Integrated Gradients",
+      "Saliency Maps"
+    ],
+    "answer": "SHAP (SHapley Additive exPlanations)"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "What explainability technique constructs surrogate local linear models around specific predictions to interpret complex black-box classifiers?",
+    "options": [
+      "LIME",
+      "SHAP",
+      "Grad-CAM",
+      "Counterfactual Explanations"
+    ],
+    "answer": "LIME"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "What probabilistic inference algorithm approximates complex posterior distributions by taking random independent draws using Markov chains?",
+    "options": [
+      "MCMC (Markov Chain Monte Carlo)",
+      "Variational Inference",
+      "Expectation-Maximization",
+      "Particle Filtering"
+    ],
+    "answer": "MCMC (Markov Chain Monte Carlo)"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "In Graph Neural Networks (GNNs), what core operation aggregates local feature representations from immediate node neighborhoods?",
+    "options": [
+      "Message Passing",
+      "Graph Pooling",
+      "Node Embedding Scaling",
+      "Adjacency Flattening"
+    ],
+    "answer": "Message Passing"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "What mathematical distance metric measures minimal work required to transform one probability distribution into another (Earth Mover's Distance)?",
+    "options": [
+      "Wasserstein Distance",
+      "Kullback-Leibler Divergence",
+      "Mahalanobis Distance",
+      "Cosine Distance"
+    ],
+    "answer": "Wasserstein Distance"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "What continual learning issue causes artificial neural networks to completely forget previously learned tasks when trained on new sequential data?",
+    "options": [
+      "Catastrophic Forgetting (Interference)",
+      "Negative Transfer",
+      "Covariate Shift",
+      "Concept Drift"
+    ],
+    "answer": "Catastrophic Forgetting (Interference)"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "In machine learning monitoring, what term describes changes in the statistical distribution of input data $P(X)$ while $P(Y|X)$ remains constant?",
+    "options": [
+      "Covariate Shift",
+      "Concept Drift",
+      "Prior Probability Shift",
+      "Data Leakage"
+    ],
+    "answer": "Covariate Shift"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "What term describes changes in the actual statistical relationship between input features and target labels $P(Y|X)$ over time?",
+    "options": [
+      "Concept Drift",
+      "Covariate Shift",
+      "Data Degradation",
+      "Distribution Bias"
+    ],
+    "answer": "Concept Drift"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "In Markov Random Fields, what theorem proves the equivalence between Gibbs distributions and Markov random fields?",
+    "options": [
+      "Hammersley-Clifford Theorem",
+      "Bayes' Theorem",
+      "No Free Lunch Theorem",
+      "Universal Approximation Theorem"
+    ],
+    "answer": "Hammersley-Clifford Theorem"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "What theoretical theorem states that no single optimization or machine learning algorithm outperforms all others when averaged across all possible problems?",
+    "options": [
+      "No Free Lunch Theorem",
+      "Universal Approximation Theorem",
+      "Master Theorem",
+      "Representer Theorem"
+    ],
+    "answer": "No Free Lunch Theorem"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "What fundamental theorem states that a feedforward neural network with a single hidden layer and non-linear activation functions can approximate any continuous function?",
+    "options": [
+      "Universal Approximation Theorem",
+      "Central Limit Theorem",
+      "PAC Learning Theorem",
+      "Stone-Weierstrass Theorem"
+    ],
+    "answer": "Universal Approximation Theorem"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "In self-supervised contrastive learning (e.g., SimCLR), what loss function pulls augmented views of the same image together while pushing different image representations apart?",
+    "options": [
+      "InfoNCE Loss",
+      "Triplet Loss",
+      "Contrastive Hinge Loss",
+      "Cross-Entropy Loss"
+    ],
+    "answer": "InfoNCE Loss"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "In Bayesian optimization, what function determines the next query point by balancing exploration of uncertain areas and exploitation of known optima?",
+    "options": [
+      "Acquisition Function (e.g., Expected Improvement)",
+      "Surrogate Function",
+      "Kernel Function",
+      "Likelihood Function"
+    ],
+    "answer": "Acquisition Function (e.g., Expected Improvement)"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "What specialized search algorithm evaluates tree nodes via random simulations in game trees where heuristic evaluation functions are difficult to construct (e.g., Go)?",
+    "options": [
+      "Monte Carlo Tree Search (MCTS)",
+      "Alpha-Beta Pruning",
+      "A* Graph Search",
+      "Iterative Deepening Search"
+    ],
+    "answer": "Monte Carlo Tree Search (MCTS)"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "Which four sequential phases make up a standard Monte Carlo Tree Search (MCTS) iteration?",
+    "options": [
+      "Selection, Expansion, Simulation (Rollout), Backpropagation",
+      "Initialization, Evaluation, Crossover, Mutation",
+      "Forward Pass, Loss Calculation, Backpropagation, Weight Update",
+      "Filtering, Prediction, Update, Smoothing"
+    ],
+    "answer": "Selection, Expansion, Simulation (Rollout), Backpropagation"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "In deep learning optimization, what technique computes loss gradients on a smaller sequence length before accumulating gradients across longer sequences?",
+    "options": [
+      "Truncated Backpropagation Through Time (TBPTT)",
+      "Gradient Clipping",
+      "Gradient Accumulation",
+      "Teacher Forcing"
+    ],
+    "answer": "Truncated Backpropagation Through Time (TBPTT)"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "What method speeds up language model inference by executing a small draft model to generate candidate tokens verified in parallel by a larger target LLM?",
+    "options": [
+      "Speculative Decoding",
+      "FlashAttention",
+      "KV Caching",
+      "Quantized Inference"
+    ],
+    "answer": "Speculative Decoding"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "What memory optimization technique reduces Transformer inference latency by storing calculated Key and Value activation tensors of previously processed tokens?",
+    "options": [
+      "KV (Key-Value) Caching",
+      "Paged Attention",
+      "Rotary Position Embeddings (RoPE)",
+      "Gradient Checkpointing"
+    ],
+    "answer": "KV (Key-Value) Caching"
+  }
+]

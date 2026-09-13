@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "Which number complete the sequence: 2, 4, 8, 16, ___?",
+    "options": [
+      "24",
+      "32",
+      "64",
+      "30"
+    ],
+    "answer": "32"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "Find the missing letter in the series: A, C, E, G, ___.",
+    "options": [
+      "H",
+      "I",
+      "J",
+      "K"
+    ],
+    "answer": "I"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "Eye is to See as Ear is to ___.",
+    "options": [
+      "Hear",
+      "Taste",
+      "Smell",
+      "Touch"
+    ],
+    "answer": "Hear"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "If CAT is coded as 3120 by placing letter positions in the alphabet, how is DOG coded?",
+    "options": [
+      "4157",
+      "4147",
+      "3157",
+      "4158"
+    ],
+    "answer": "4157"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "Pointing to a photograph, a man said, 'I have no brother or sister, but that man's father is my father's son.' Whose photograph was it?",
+    "options": [
+      "His own photograph",
+      "His son's photograph",
+      "His father's photograph",
+      "His nephew's photograph"
+    ],
+    "answer": "His son's photograph"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "You walk 5 km North, turn right and walk 3 km, then turn right again. Which direction are you facing now?",
+    "options": [
+      "North",
+      "South",
+      "East",
+      "West"
+    ],
+    "answer": "South"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "Which of the following is the odd one out?",
+    "options": [
+      "Apple",
+      "Banana",
+      "Mango",
+      "Potato"
+    ],
+    "answer": "Potato"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "Doctor is to Hospital as Teacher is to ___.",
+    "options": [
+      "Office",
+      "School",
+      "Library",
+      "Laboratory"
+    ],
+    "answer": "School"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "Complete the reverse alphabet series: Z, Y, X, W, ___.",
+    "options": [
+      "U",
+      "V",
+      "T",
+      "S"
+    ],
+    "answer": "V"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "If BOOK is coded as 2-15-15-11, how is PEN coded?",
+    "options": [
+      "16-5-14",
+      "15-5-14",
+      "16-4-14",
+      "16-5-13"
+    ],
+    "answer": "16-5-14"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "A person is facing East. If they turn 180° clockwise, which direction are they facing?",
+    "options": [
+      "North",
+      "South",
+      "West",
+      "North-East"
+    ],
+    "answer": "West"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "A is B's sister. B is C's mother. How is A related to C?",
+    "options": [
+      "Mother",
+      "Aunt",
+      "Sister",
+      "Grandmother"
+    ],
+    "answer": "Aunt"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "Statements: All dogs are animals. All animals have 4 legs. Conclusion: All dogs have 4 legs.",
+    "options": [
+      "Valid",
+      "Invalid",
+      "Cannot be determined",
+      "Partially valid"
+    ],
+    "answer": "Valid"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "Find the missing number: 3, 6, 12, 24, 48, ___.",
+    "options": [
+      "72",
+      "84",
+      "96",
+      "108"
+    ],
+    "answer": "96"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "Cube is to 3D as Square is to ___.",
+    "options": [
+      "1D",
+      "2D",
+      "3D",
+      "4D"
+    ],
+    "answer": "2D"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "Which of the following shapes is the odd one out?",
+    "options": [
+      "Square",
+      "Triangle",
+      "Rectangle",
+      "Circle"
+    ],
+    "answer": "Circle"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "Find the next number in the perfect square series: 1, 4, 9, 16, 25, ___.",
+    "options": [
+      "30",
+      "35",
+      "36",
+      "49"
+    ],
+    "answer": "36"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "If RED is written as SFE (+1 letter shift), how is BLUE written?",
+    "options": [
+      "CMVF",
+      "CLVF",
+      "CNVF",
+      "CMVE"
+    ],
+    "answer": "CMVF"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "You walk 5 km South, turn left, and walk 3 km. Which direction are you facing?",
+    "options": [
+      "North",
+      "South",
+      "East",
+      "West"
+    ],
+    "answer": "East"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "Thermometer is to Temperature as Barometer is to ___.",
+    "options": [
+      "Humidity",
+      "Pressure",
+      "Wind Speed",
+      "Rainfall"
+    ],
+    "answer": "Pressure"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "Find the next prime number in the sequence: 2, 3, 5, 7, 11, ___.",
+    "options": [
+      "12",
+      "13",
+      "15",
+      "17"
+    ],
+    "answer": "13"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "A man's mother is the only daughter of B's mother. How is B (a female) related to the man?",
+    "options": [
+      "Grandmother",
+      "Mother",
+      "Aunt",
+      "Sister"
+    ],
+    "answer": "Mother"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "Find the next pattern element: B2D, E3H, H4L, ___.",
+    "options": [
+      "K5P",
+      "J5P",
+      "K5O",
+      "K4P"
+    ],
+    "answer": "K5P"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "Odometer is to Distance as Speedometer is to ___.",
+    "options": [
+      "Fuel",
+      "Acceleration",
+      "Speed",
+      "Time"
+    ],
+    "answer": "Speed"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "If FISH is coded as EHRG (-1 shift), how is JUNGLE coded?",
+    "options": [
+      "ITMFKD",
+      "ITNFKD",
+      "KVMHOF",
+      "ITMFKC"
+    ],
+    "answer": "ITMFKD"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "Which month is the odd one out?",
+    "options": [
+      "January",
+      "March",
+      "May",
+      "April"
+    ],
+    "answer": "April"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "A person facing North turns 90° clockwise, then 45° counter-clockwise. What direction are they facing?",
+    "options": [
+      "North-East",
+      "South-East",
+      "North-West",
+      "East"
+    ],
+    "answer": "North-East"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "Statements: Some cats are white. All white things are soft. Conclusion: Some cats are soft.",
+    "options": [
+      "Valid",
+      "Invalid",
+      "Cannot be determined",
+      "None of the above"
+    ],
+    "answer": "Valid"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "Find the missing number in the simple arithmetic progression: 5, 10, 15, 20, ___.",
+    "options": [
+      "22",
+      "25",
+      "30",
+      "35"
+    ],
+    "answer": "25"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "If 'Red' means 'Blue', 'Blue' means 'Green', and 'Green' means 'Yellow', what is the color of clear sky?",
+    "options": [
+      "Blue",
+      "Green",
+      "Yellow",
+      "Red"
+    ],
+    "answer": "Green"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "Find the next term in the alternating series: 7, 10, 8, 11, 9, 12, ___.",
+    "options": [
+      "10",
+      "13",
+      "11",
+      "14"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "In a code language, COMPUTER is written as RFUVQNPC (reversed then +1 to each letter). How is MEDICINE written?",
+    "options": [
+      "EOJDJEFN",
+      "FOJDJEFN",
+      "FNJJDEFO",
+      "MFEJDJOE"
+    ],
+    "answer": "FOJDJEFN"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "Pointing to a man, a woman said, 'His mother is the only daughter of my mother.' How is the woman related to the man?",
+    "options": [
+      "Mother",
+      "Grandmother",
+      "Sister",
+      "Aunt"
+    ],
+    "answer": "Mother"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "Five people A, B, C, D, E sit in a row facing North. C is to the immediate left of D. B is at an extreme end and next to E. E is between B and A. Who sits in the middle?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "E"
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "Find the missing number: 2, 6, 12, 20, 30, 42, ___.",
+    "options": [
+      "52",
+      "56",
+      "60",
+      "64"
+    ],
+    "answer": "56"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "In a group of 100 people, 60 are doctors, 40 are artists, and 20 are both doctors and artists. How many people are neither doctors nor artists?",
+    "options": [
+      "10",
+      "20",
+      "30",
+      "0"
+    ],
+    "answer": "20"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "A man walks 10 km North, then 6 km South, and then 3 km East. How far and in which direction is he from his starting point?",
+    "options": [
+      "5 km North-East",
+      "5 km South-East",
+      "7 km North-East",
+      "4 km East"
+    ],
+    "answer": "5 km North-East"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "Statements: No A is B. All B are C. Conclusions: I. Some C are not A. II. Some B are A.",
+    "options": [
+      "Only I follows",
+      "Only II follows",
+      "Both I and II follow",
+      "Neither follows"
+    ],
+    "answer": "Only I follows"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "Complete the series: AB, DE, GH, JK, ___.",
+    "options": [
+      "LM",
+      "MN",
+      "NO",
+      "OP"
+    ],
+    "answer": "MN"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "What is the angle between the hour hand and minute hand of a clock at 3:30?",
+    "options": [
+      "75°",
+      "90°",
+      "80°",
+      "70°"
+    ],
+    "answer": "75°"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "Statement: 'Please do not lean out of the window of the moving train.' Assumption I: Passengers usually ignore warnings. Assumption II: Leaning out of a moving train is dangerous.",
+    "options": [
+      "Only Assumption I is implicit",
+      "Only Assumption II is implicit",
+      "Both I and II are implicit",
+      "Neither is implicit"
+    ],
+    "answer": "Only Assumption II is implicit"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "Find the missing term in the sequence ($n^3 - n^2$): 4, 18, 48, 100, 180, ___.",
+    "options": [
+      "252",
+      "294",
+      "316",
+      "280"
+    ],
+    "answer": "294"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "If 1st January 2004 was a Thursday, what day of the week was 1st January 2005?",
+    "options": [
+      "Friday",
+      "Saturday",
+      "Sunday",
+      "Monday"
+    ],
+    "answer": "Saturday"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "Complete the pattern: Z1A, X2D, V6G, T24J, ___.",
+    "options": [
+      "R120M",
+      "S120M",
+      "R100L",
+      "R120L"
+    ],
+    "answer": "R120M"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "In a class of 45 students, Rahul's rank is 15th from the top. What is his rank from the bottom?",
+    "options": [
+      "30th",
+      "31st",
+      "32nd",
+      "29th"
+    ],
+    "answer": "31st"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "Arrange in logical sequence: 1. Pupa, 2. Butterfly, 3. Egg, 4. Caterpillar.",
+    "options": [
+      "3, 4, 1, 2",
+      "4, 3, 1, 2",
+      "3, 1, 4, 2",
+      "1, 4, 3, 2"
+    ],
+    "answer": "3, 4, 1, 2"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "If TRIPPLE is written as SQHOOKD (-1 shift), how is DISPOSE written?",
+    "options": [
+      "CHRONRD",
+      "CHROMSD",
+      "CGRONRD",
+      "CHRONQE"
+    ],
+    "answer": "CHRONRD"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "Statement I: The school authority closed all schools tomorrow due to heavy rains. Statement II: Heavy rain disrupted city life.",
+    "options": [
+      "Statement I is the cause, Statement II is the effect",
+      "Statement II is the cause, Statement I is the effect",
+      "Both are independent causes",
+      "Both are effects of independent causes"
+    ],
+    "answer": "Statement II is the cause, Statement I is the effect"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "Data Sufficiency: What is the value of $x$? Statement I: $x + y = 10$. Statement II: $2x + 2y = 20$.",
+    "options": [
+      "Statement I alone is sufficient",
+      "Statement II alone is sufficient",
+      "Both statements together are sufficient",
+      "Neither statement alone nor together is sufficient"
+    ],
+    "answer": "Neither statement alone nor together is sufficient"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "Find the missing term: 10, 14, 26, 42, 70, ___.",
+    "options": [
+      "112",
+      "114",
+      "100",
+      "120"
+    ],
+    "answer": "114"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "Statements: Some books are pens. Some pens are pencils. Conclusions: I. Some books are pencils. II. No book is a pencil.",
+    "options": [
+      "Only I follows",
+      "Only II follows",
+      "Either I or II follows",
+      "Neither follows"
+    ],
+    "answer": "Either I or II follows"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "Starting from point P, Sachin walks 20 m South, turns left and walks 30 m, turns left and walks 20 m, then turns left and walks 40 m. How far is he from P?",
+    "options": [
+      "10 m",
+      "20 m",
+      "30 m",
+      "40 m"
+    ],
+    "answer": "10 m"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "Which number is the odd one out: 27, 64, 125, 144, 216?",
+    "options": [
+      "27",
+      "64",
+      "144",
+      "216"
+    ],
+    "answer": "144"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "A cube of 4 cm side is painted red on all sides and cut into 1 cm small cubes. How many small cubes have 0 sides painted?",
+    "options": [
+      "8",
+      "16",
+      "24",
+      "4"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "Statement: Should competitive exams be abolished? Argument I: Yes, they cause stress. Argument II: No, they evaluate a student's merit effectively.",
+    "options": [
+      "Only Argument I is strong",
+      "Only Argument II is strong",
+      "Both arguments are strong",
+      "Neither argument is strong"
+    ],
+    "answer": "Only Argument II is strong"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "Six persons A, B, C, D, E, F sit in a circle facing the center. A is opposite D. B is to the immediate right of A. C is between A and D. Where is E?",
+    "options": [
+      "Between B and D",
+      "Opposite B",
+      "Opposite C",
+      "To the immediate left of A"
+    ],
+    "answer": "Between B and D"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "Find the missing number in the analogy: 8 : 64 :: 27 : ___.",
+    "options": [
+      "729",
+      "343",
+      "512",
+      "216"
+    ],
+    "answer": "729"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "A father is 3 times older than his son. In 12 years, he will be twice as old as his son. What is the son's present age?",
+    "options": [
+      "12 years",
+      "15 years",
+      "18 years",
+      "10 years"
+    ],
+    "answer": "12 years"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "In a family, A is the husband of B, C is the son of A, D is the daughter of B. How is C related to D?",
+    "options": [
+      "Brother",
+      "Sister",
+      "Father",
+      "Uncle"
+    ],
+    "answer": "Brother"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "If 'A + B' means A is the father of B, and 'A - B' means A is the sister of B, which of the following shows that M is the aunt of N?",
+    "options": [
+      "M - P + N",
+      "M + P - N",
+      "P - M + N",
+      "N - M + P"
+    ],
+    "answer": "M - P + N"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "Eight people A, B, C, D, E, F, G, H sit around a circular table facing center. A sits 3rd to the left of B. C sits 2nd to the right of A. D is an immediate neighbor of neither A nor B. E sits 2nd to the left of D. Who sits opposite A?",
+    "options": [
+      "E",
+      "D",
+      "F",
+      "G"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "Find the next term in the complex series: 2, 3, 10, 39, 172, ___.",
+    "options": [
+      "885",
+      "860",
+      "780",
+      "910"
+    ],
+    "answer": "885"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "Statements: Only a few apples are oranges. All oranges are bananas. No banana is a mango. Conclusions: I. Some apples are not oranges. II. No orange is a mango.",
+    "options": [
+      "Only I follows",
+      "Only II follows",
+      "Both I and II follow",
+      "Neither follows"
+    ],
+    "answer": "Both I and II follow"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "If $\\log_{10} 2 = 0.30103$, how many total digits are in the expansion of $2^{50}$?",
+    "options": [
+      "15",
+      "16",
+      "17",
+      "14"
+    ],
+    "answer": "16"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "If $A > B \\ge C = D < E$, which of the following conclusions is DEFINITELY TRUE?",
+    "options": [
+      "A > D",
+      "A < E",
+      "B < D",
+      "C > E"
+    ],
+    "answer": "A > D"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "How many trailing zeros are in 100!?",
+    "options": [
+      "20",
+      "24",
+      "25",
+      "22"
+    ],
+    "answer": "24"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "Find the remainder when $7^{84}$ is divided by 342.",
+    "options": [
+      "1",
+      "7",
+      "49",
+      "341"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "Eight boxes A, B, C, D, E, F, G, H are stacked. A is 3 places above B. Only two boxes are between B and C. Box D is immediately below C. H is at the top. If E is below D, which box is at the bottom?",
+    "options": [
+      "E",
+      "F",
+      "G",
+      "D"
+    ],
+    "answer": "E"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "A clock gains 5 minutes every 3 hours. If set accurately at 8:00 AM, what time does it show at 8:00 PM on the same day?",
+    "options": [
+      "8:15 PM",
+      "8:20 PM",
+      "8:25 PM",
+      "8:30 PM"
+    ],
+    "answer": "8:20 PM"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "Find the number of non-negative integer solutions to $x + y + z = 20$ with $x \\ge 1, y \\ge 1, z \\ge 1$.",
+    "options": [
+      "171",
+      "190",
+      "210",
+      "153"
+    ],
+    "answer": "171"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "Evaluate the sequence $n^3 - n$: 0, 6, 24, 60, 120, 210, ___.",
+    "options": [
+      "336",
+      "290",
+      "350",
+      "380"
+    ],
+    "answer": "336"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "If $\\alpha$ and $\\beta$ are roots of $x^2 - 6x + 2 = 0$, what is the value of $\\alpha^3 + \\beta^3$?",
+    "options": [
+      "180",
+      "216",
+      "144",
+      "192"
+    ],
+    "answer": "180"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "In a certain code, '3a, 2b, 7c' means 'Truth is Eternal', '7c, 9a, 8b' means 'Eternal Life Joy', and '3a, 8b' means 'Truth Joy'. What is the code for 'Is'?",
+    "options": [
+      "3a",
+      "2b",
+      "7c",
+      "8b"
+    ],
+    "answer": "2b"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "How many total odd days are there in 400 consecutive years of the Gregorian calendar?",
+    "options": [
+      "0",
+      "1",
+      "3",
+      "5"
+    ],
+    "answer": "0"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "Three unbiased six-sided dice are rolled simultaneously. What is the total number of outcomes where the sum is 9?",
+    "options": [
+      "25",
+      "27",
+      "21",
+      "24"
+    ],
+    "answer": "25"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "If $x = 3 + 2\\sqrt{2}$, find the value of $\\sqrt{x} - \\frac{1}{\\sqrt{x}}$.",
+    "options": [
+      "2",
+      "2√2",
+      "1",
+      "√2"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "A, B, C, D, E, F sit in a line. Some face North, some face South. A faces North and sits 2nd from left. B sits 3rd to right of A. C is immediate neighbor of B and faces South. How many face North if no two adjacent people face South?",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "5"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "What is the area of the region bounded by $|x| + |y| = 4$ in square units?",
+    "options": [
+      "32",
+      "16",
+      "64",
+      "24"
+    ],
+    "answer": "32"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "In a group of 100 people, 70 like tea, 60 like coffee, and 20 like neither. How many like BOTH tea and coffee?",
+    "options": [
+      "50",
+      "40",
+      "30",
+      "45"
+    ],
+    "answer": "50"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "Statements: All buildings are houses. No house is an apartment. All apartments are flats. Conclusions: I. No building is an apartment. II. Some flats are not houses.",
+    "options": [
+      "Both I and II follow",
+      "Only I follows",
+      "Only II follows",
+      "Neither follows"
+    ],
+    "answer": "Both I and II follow"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "What is the harmonic mean of 4, 6, and 12?",
+    "options": [
+      "6",
+      "5.5",
+      "6.5",
+      "7"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "Two sides of a triangle are 8 cm and 11 cm. How many possible integer values can the third side take?",
+    "options": [
+      "15",
+      "16",
+      "14",
+      "17"
+    ],
+    "answer": "15"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "What is the maximum number of points of intersection formed by 8 distinct lines in a single plane?",
+    "options": [
+      "28",
+      "36",
+      "56",
+      "24"
+    ],
+    "answer": "28"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "If $\\tan \\theta + \\cot \\theta = 2$, find the value of $\\tan^{100} \\theta + \\cot^{100} \\theta$.",
+    "options": [
+      "2",
+      "1",
+      "0",
+      "100"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "Find the last two digits of $3^{400}$.",
+    "options": [
+      "01",
+      "03",
+      "09",
+      "81"
+    ],
+    "answer": "01"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "In an AP, if 5th term is 19 and 11th term is 43, what is the 20th term?",
+    "options": [
+      "79",
+      "83",
+      "75",
+      "81"
+    ],
+    "answer": "79"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "Sum of the infinite geometric series: $12 + 4 + \\frac{4}{3} + \\frac{4}{9} + \\dots$ is:",
+    "options": [
+      "18",
+      "16",
+      "20",
+      "24"
+    ],
+    "answer": "18"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "How many 4-digit numbers greater than 5000 can be formed using digits 2, 4, 5, 7, 8 without repetition?",
+    "options": [
+      "72",
+      "96",
+      "48",
+      "60"
+    ],
+    "answer": "72"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "If $\\log_2 x + \\log_4 x + \\log_{16} x = \\frac{21}{4}$, find the value of $x$.",
+    "options": [
+      "8",
+      "16",
+      "4",
+      "2"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "What is the ratio of the volume of a cube of side $a$ to the volume of the largest sphere inscribed inside it?",
+    "options": [
+      "6 : π",
+      "4 : π",
+      "3 : π",
+      "8 : π"
+    ],
+    "answer": "6 : π"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "Find the number of non-negative integer solutions to $x + y = 100$ where both $x$ and $y$ are even.",
+    "options": [
+      "51",
+      "50",
+      "101",
+      "49"
+    ],
+    "answer": "51"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "A, B, C, D, E are sitting in a row. A is next to B, C is next to D. D is not sitting with E who is on the left end of the bench. C is on 2nd position from right. A is to the right of B and E. A and C are sitting together. In which position is A sitting?",
+    "options": [
+      "3rd from left",
+      "2nd from left",
+      "4th from left",
+      "Center"
+    ],
+    "answer": "3rd from left"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "In a family of 6 members A, B, C, D, E, F, there are 2 married couples. Doctor A is married to Lawyer. B, an Engineer, is son of C and brother of D. E, a Teacher, is daughter-in-law of A. F is grandmother of D. What is F's relation to A?",
+    "options": [
+      "Wife",
+      "Mother",
+      "Sister",
+      "Daughter"
+    ],
+    "answer": "Wife"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "A direction pole at a crossing got turned by an accident. The arm showing East started showing South. A traveler went in the wrong direction thinking it was West. In which direction was he actually traveling?",
+    "options": [
+      "North",
+      "South",
+      "East",
+      "West"
+    ],
+    "answer": "North"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "In a row of boys, if A who is 10th from the left and B who is 9th from the right interchange positions, A becomes 15th from the left. How many boys are in the row?",
+    "options": [
+      "23",
+      "24",
+      "22",
+      "25"
+    ],
+    "answer": "23"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "Statements: All stars are planets. All planets are galaxies. Some galaxies are black holes. Conclusions: I. Some stars are black holes is a possibility. II. All galaxies being stars is a possibility.",
+    "options": [
+      "Both I and II follow",
+      "Only I follows",
+      "Only II follows",
+      "Neither follows"
+    ],
+    "answer": "Both I and II follow"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "If $P \\times Q$ means $P$ is the father of $Q$; $P + Q$ means $P$ is the daughter of $Q$; $P \\div Q$ means $P$ is the mother of $Q$; $P - Q$ means $P$ is the brother of $Q$. Which expression means 'A is the maternal uncle of B'?",
+    "options": [
+      "A - C ÷ B",
+      "A + C × B",
+      "A × C - B",
+      "A ÷ C - B"
+    ],
+    "answer": "A - C ÷ B"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "If $SEND + MORE = MONEY$ in a cryptarithm where each letter represents a distinct digit from 0-9, what digit does 'M' represent?",
+    "options": [
+      "1",
+      "0",
+      "9",
+      "2"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "A cuboid of dimension 3 cm × 4 cm × 5 cm is painted green on all surfaces and cut into 1 cm³ unit cubes. How many unit cubes have AT LEAST 2 sides painted?",
+    "options": [
+      "36",
+      "28",
+      "32",
+      "24"
+    ],
+    "answer": "36"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "In a leap year, what is the probability of having 53 Sundays?",
+    "options": [
+      "2/7",
+      "1/7",
+      "3/7",
+      "53/366"
+    ],
+    "answer": "2/7"
+  }
+]

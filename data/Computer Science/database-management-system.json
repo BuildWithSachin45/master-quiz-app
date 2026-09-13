@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "What does DBMS stand for?",
+    "options": [
+      "Database Management System",
+      "Data Base Micro System",
+      "Data Backup Management Service",
+      "Database Memory Storage"
+    ],
+    "answer": "Database Management System"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "Which of the following uniquely identifies each record in a relational database table?",
+    "options": [
+      "Foreign Key",
+      "Primary Key",
+      "Secondary Key",
+      "Composite Key"
+    ],
+    "answer": "Primary Key"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "What language is standard for querying relational databases?",
+    "options": [
+      "HTML",
+      "SQL",
+      "XML",
+      "C++"
+    ],
+    "answer": "SQL"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "Which SQL command is used to fetch data from a database?",
+    "options": [
+      "GET",
+      "OPEN",
+      "FETCH",
+      "SELECT"
+    ],
+    "answer": "SELECT"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "Which SQL statement is used to insert new records into a table?",
+    "options": [
+      "ADD ROW",
+      "INSERT INTO",
+      "UPDATE",
+      "CREATE ENTRY"
+    ],
+    "answer": "INSERT INTO"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "What key is used to establish a link between data in two relational tables?",
+    "options": [
+      "Primary Key",
+      "Foreign Key",
+      "Super Key",
+      "Candidate Key"
+    ],
+    "answer": "Foreign Key"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "Which SQL command removes a table structure and all its data permanently?",
+    "options": [
+      "DELETE TABLE",
+      "DROP TABLE",
+      "REMOVE TABLE",
+      "TRUNCATE ROW"
+    ],
+    "answer": "DROP TABLE"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "What does ER diagram stand for in database design?",
+    "options": [
+      "Entity Relationship Diagram",
+      "Extended Relational Diagram",
+      "Execution Resource Diagram",
+      "Entity Restriction Diagram"
+    ],
+    "answer": "Entity Relationship Diagram"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "Which language category does the 'CREATE TABLE' SQL statement belong to?",
+    "options": [
+      "DML (Data Manipulation Language)",
+      "DDL (Data Definition Language)",
+      "DCL (Data Control Language)",
+      "TCL (Transaction Control Language)"
+    ],
+    "answer": "DDL (Data Definition Language)"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "Which clause in SQL is used to filter query results based on specified conditions?",
+    "options": [
+      "GROUP BY",
+      "WHERE",
+      "ORDER BY",
+      "HAVING"
+    ],
+    "answer": "WHERE"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "What does ACID stand for in database transactions?",
+    "options": [
+      "Atomicity, Consistency, Isolation, Durability",
+      "Accuracy, Consistency, Integrity, Data",
+      "Access, Control, Isolation, Distribution",
+      "Atomicity, Concurrency, Indexing, Durability"
+    ],
+    "answer": "Atomicity, Consistency, Isolation, Durability"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "In an ER diagram, what shape represents an Entity?",
+    "options": [
+      "Oval",
+      "Diamond",
+      "Rectangle",
+      "Triangle"
+    ],
+    "answer": "Rectangle"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "Which SQL aggregate function returns the total number of rows matching a criteria?",
+    "options": [
+      "SUM()",
+      "COUNT()",
+      "TOTAL()",
+      "NUMBER()"
+    ],
+    "answer": "COUNT()"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "What does NULL represent in SQL databases?",
+    "options": [
+      "Zero value",
+      "Empty string",
+      "Missing or unknown value",
+      "Boolean False"
+    ],
+    "answer": "Missing or unknown value"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "Which command saves all changes made by a transaction permanently?",
+    "options": [
+      "SAVE",
+      "COMMIT",
+      "ROLLBACK",
+      "CHECKPOINT"
+    ],
+    "answer": "COMMIT"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "Which SQL command is used to modify existing data records in a table?",
+    "options": [
+      "ALTER",
+      "UPDATE",
+      "MODIFY",
+      "CHANGE"
+    ],
+    "answer": "UPDATE"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "Which constraint ensures that all values in a database column are unique?",
+    "options": [
+      "NOT NULL",
+      "UNIQUE",
+      "CHECK",
+      "DEFAULT"
+    ],
+    "answer": "UNIQUE"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "In relational database terms, what is a single row in a table called?",
+    "options": [
+      "Attribute",
+      "Tuple",
+      "Domain",
+      "Relation"
+    ],
+    "answer": "Tuple"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "In relational database terms, what is a single column in a table called?",
+    "options": [
+      "Attribute",
+      "Tuple",
+      "Record",
+      "Entity"
+    ],
+    "answer": "Attribute"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "Which command undoes transaction operations that have not been committed?",
+    "options": [
+      "COMMIT",
+      "ROLLBACK",
+      "UNDO",
+      "REVERT"
+    ],
+    "answer": "ROLLBACK"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "Which SQL clause is used to sort the result-set in ascending or descending order?",
+    "options": [
+      "SORT BY",
+      "ORDER BY",
+      "ARRANGE BY",
+      "GROUP BY"
+    ],
+    "answer": "ORDER BY"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "What is a virtual table based on the result-set of an SQL query called?",
+    "options": [
+      "Index",
+      "View",
+      "Cursor",
+      "Trigger"
+    ],
+    "answer": "View"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "Which language category does 'GRANT' and 'REVOKE' statements belong to?",
+    "options": [
+      "DDL",
+      "DML",
+      "DCL",
+      "TCL"
+    ],
+    "answer": "DCL"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "In an ER diagram, what shape represents a Relationship between entities?",
+    "options": [
+      "Rectangle",
+      "Diamond",
+      "Ellipse",
+      "Line"
+    ],
+    "answer": "Diamond"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "What is data redundancy in database management?",
+    "options": [
+      "Loss of data due to disk failure",
+      "Duplication of data across multiple locations",
+      "Encrypting data for security",
+      "Slow response time of database queries"
+    ],
+    "answer": "Duplication of data across multiple locations"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "Which normalization form requires removing repeating groups and multi-valued attributes?",
+    "options": [
+      "First Normal Form (1NF)",
+      "Second Normal Form (2NF)",
+      "Third Normal Form (3NF)",
+      "Boyce-Codd Normal Form (BCNF)"
+    ],
+    "answer": "First Normal Form (1NF)"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "Which keyword is used in a SELECT statement to return only unique values?",
+    "options": [
+      "DIFFERENT",
+      "UNIQUE",
+      "DISTINCT",
+      "SINGLE"
+    ],
+    "answer": "DISTINCT"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "Which operator is used in SQL queries to search for a specified pattern in a column?",
+    "options": [
+      "LIKE",
+      "MATCH",
+      "SEARCH",
+      "CONTAINS"
+    ],
+    "answer": "LIKE"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "Which Wildcard character represents zero or more characters in standard SQL 'LIKE' pattern matching?",
+    "options": [
+      "_",
+      "%",
+      "*",
+      "#"
+    ],
+    "answer": "%"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "Which constraint is used to limit the range of values that can be placed in a column?",
+    "options": [
+      "DEFAULT",
+      "CHECK",
+      "NOT NULL",
+      "PRIMARY KEY"
+    ],
+    "answer": "CHECK"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "What condition must be satisfied for a relation to be in Second Normal Form (2NF)?",
+    "options": [
+      "It is in 1NF and contains no partial functional dependencies",
+      "It is in 1NF and contains no transitive functional dependencies",
+      "All attributes must be multi-valued",
+      "Every determinant must be a candidate key"
+    ],
+    "answer": "It is in 1NF and contains no partial functional dependencies"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "What condition must be satisfied for a relation to be in Third Normal Form (3NF)?",
+    "options": [
+      "It is in 2NF and contains no partial dependencies",
+      "It is in 2NF and contains no transitive dependencies",
+      "It contains no multi-valued dependencies",
+      "Every key is a composite primary key"
+    ],
+    "answer": "It is in 2NF and contains no transitive dependencies"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "What is the difference between WHERE and HAVING clauses in SQL?",
+    "options": [
+      "WHERE filters rows before grouping; HAVING filters aggregated groups after grouping",
+      "HAVING filters individual rows; WHERE works only on grouped rows",
+      "WHERE is used only with SELECT; HAVING is used with UPDATE",
+      "There is no difference; both are interchangeable"
+    ],
+    "answer": "WHERE filters rows before grouping; HAVING filters aggregated groups after grouping"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "Which JOIN type returns all records from the left table and matched records from the right table?",
+    "options": [
+      "INNER JOIN",
+      "LEFT OUTER JOIN",
+      "RIGHT OUTER JOIN",
+      "FULL OUTER JOIN"
+    ],
+    "answer": "LEFT OUTER JOIN"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "What is a Super Key in relational databases?",
+    "options": [
+      "A single attribute that uniquely identifies a row",
+      "A set of one or more attributes that collectively identify a record uniquely",
+      "A key consisting strictly of foreign keys",
+      "A key used exclusively for secondary indexing"
+    ],
+    "answer": "A set of one or more attributes that collectively identify a record uniquely"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "What is Boyce-Codd Normal Form (BCNF)?",
+    "options": [
+      "A stricter version of 3NF where for every functional dependency X -> Y, X must be a super key",
+      "A normal form that eliminates join dependencies entirely",
+      "A normal form requiring all foreign keys to be composite",
+      "A form requiring zero NULL values in non-key attributes"
+    ],
+    "answer": "A stricter version of 3NF where for every functional dependency X -> Y, X must be a super key"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "What is the result of a CROSS JOIN between a table with 5 rows and a table with 4 rows?",
+    "options": [
+      "9 rows",
+      "20 rows",
+      "1 row",
+      "0 rows"
+    ],
+    "answer": "20 rows"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "In database locking mechanisms, what does a Shared Lock (S) allow?",
+    "options": [
+      "Multiple transactions to read the locked resource simultaneously",
+      "Only one transaction to write to the locked resource",
+      "Multiple transactions to write to the locked resource simultaneously",
+      "Exclusive access for schema updates"
+    ],
+    "answer": "Multiple transactions to read the locked resource simultaneously"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "What type of lock is required when a transaction wants to modify or write to a data item?",
+    "options": [
+      "Shared Lock (S)",
+      "Exclusive Lock (X)",
+      "Intent Shared Lock (IS)",
+      "Update Lock (U) only"
+    ],
+    "answer": "Exclusive Lock (X)"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "What does TRUNCATE TABLE do compared to DELETE FROM table?",
+    "options": [
+      "TRUNCATE is a DDL command that removes all rows without logging individual row deletions",
+      "TRUNCATE deletes table definition along with data",
+      "TRUNCATE allows WHERE clause filtering whereas DELETE does not",
+      "TRUNCATE is slower than DELETE for large tables"
+    ],
+    "answer": "TRUNCATE is a DDL command that removes all rows without logging individual row deletions"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "What is a Candidate Key?",
+    "options": [
+      "A minimal super key containing no redundant attributes",
+      "Any key that contains foreign key attributes",
+      "A primary key that has been disabled",
+      "An attribute that can contain NULL values"
+    ],
+    "answer": "A minimal super key containing no redundant attributes"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "What is the main benefit of indexing in a database table?",
+    "options": [
+      "Accelerates data retrieval speeds for SELECT queries",
+      "Speeds up INSERT and UPDATE performance",
+      "Reduces physical disk space consumption",
+      "Ensures automatic data encryption"
+    ],
+    "answer": "Accelerates data retrieval speeds for SELECT queries"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "Which relational algebra operation selects rows that satisfy a given predicate?",
+    "options": [
+      "Projection (\u03c0)",
+      "Selection (\u03c3)",
+      "Cartesian Product (\u00d7)",
+      "Rename (\u03c1)"
+    ],
+    "answer": "Selection (\u03c3)"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "Which relational algebra operation selects specified columns from a relation?",
+    "options": [
+      "Projection (\u03c0)",
+      "Selection (\u03c3)",
+      "Join (\u22c8)",
+      "Union (\u222a)"
+    ],
+    "answer": "Projection (\u03c0)"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "What is a Database Trigger?",
+    "options": [
+      "A procedural code automatically executed in response to specific data modifications (INSERT, UPDATE, DELETE)",
+      "A manual command executed by DBA to start database backup",
+      "A constraint that prevents duplicate primary keys",
+      "A index type used for full-text search optimization"
+    ],
+    "answer": "A procedural code automatically executed in response to specific data modifications (INSERT, UPDATE, DELETE)"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "What is a Correlated Subquery in SQL?",
+    "options": [
+      "A subquery that evaluates once for every row processed by the outer query",
+      "A subquery that executes independently prior to outer query evaluation",
+      "A subquery that returns multiple rows using UNION operations",
+      "A query that creates temporary view tables in memory"
+    ],
+    "answer": "A subquery that evaluates once for every row processed by the outer query"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "In a B+ Tree index, where are actual data pointers/records stored?",
+    "options": [
+      "Exclusively in leaf nodes",
+      "Exclusively in the root node",
+      "In both internal nodes and leaf nodes",
+      "In header meta block regions"
+    ],
+    "answer": "Exclusively in leaf nodes"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "Which database problem occurs when one transaction reads uncommitted changes made by another transaction?",
+    "options": [
+      "Dirty Read",
+      "Non-repeatable Read",
+      "Phantom Read",
+      "Lost Update"
+    ],
+    "answer": "Dirty Read"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "What anomaly occurs when a transaction re-reads data and finds that another committed transaction altered that data?",
+    "options": [
+      "Non-repeatable Read",
+      "Dirty Read",
+      "Phantom Read",
+      "Inconsistent State"
+    ],
+    "answer": "Non-repeatable Read"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "What anomaly occurs when a transaction re-executes a range query and finds new 'phantom' rows inserted by another committed transaction?",
+    "options": [
+      "Phantom Read",
+      "Dirty Read",
+      "Non-repeatable Read",
+      "Cascading Rollback"
+    ],
+    "answer": "Phantom Read"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "Which isolation level prevents Dirty Reads but still permits Non-repeatable Reads and Phantom Reads?",
+    "options": [
+      "Read Uncommitted",
+      "Read Committed",
+      "Repeatable Read",
+      "Serializable"
+    ],
+    "answer": "Read Committed"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "What is the primary characteristic of a Clustered Index?",
+    "options": [
+      "It dictates the physical order in which table data rows are stored on disk",
+      "It can exist in unlimited numbers per table",
+      "It contains pointers to unclustered secondary indices",
+      "It is used exclusively for string columns"
+    ],
+    "answer": "It dictates the physical order in which table data rows are stored on disk"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "How many Clustered Indexes can exist on a single database table?",
+    "options": [
+      "Exactly 1",
+      "Up to 16",
+      "Unlimited",
+      "Depends on CPU architecture"
+    ],
+    "answer": "Exactly 1"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "What is Lossless Join Decomposition?",
+    "options": [
+      "Decomposing relation R into R1 and R2 such that natural join of R1 and R2 yields exact original tuples of R",
+      "Decomposing tables without losing attribute column data types",
+      "Decomposing tables without generating NULL foreign key attributes",
+      "Splitting tables across physical disk partitions"
+    ],
+    "answer": "Decomposing relation R into R1 and R2 such that natural join of R1 and R2 yields exact original tuples of R"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "In two-phase locking (2PL), what happens during the Growing Phase?",
+    "options": [
+      "Locks can be acquired but no locks can be released",
+      "Locks can be released but no locks can be acquired",
+      "Locks can be upgraded and downgraded freely",
+      "Transactions commit all updated records to disk"
+    ],
+    "answer": "Locks can be acquired but no locks can be released"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "Which protocol prevents cascading rollbacks in transaction processing?",
+    "options": [
+      "Strict Two-Phase Locking (Strict 2PL)",
+      "Basic Two-Phase Locking (Basic 2PL)",
+      "Timestamp Ordering without buffering",
+      "Shared-lock graph traversal"
+    ],
+    "answer": "Strict Two-Phase Locking (Strict 2PL)"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "What is a Weak Entity set in database systems?",
+    "options": [
+      "An entity set that does not possess sufficient attributes to form a primary key on its own",
+      "An entity with no foreign key relationships",
+      "An entity stored on volatile memory storage",
+      "An entity that allows NULL attribute values"
+    ],
+    "answer": "An entity set that does not possess sufficient attributes to form a primary key on its own"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "How is a Weak Entity set identified in an ER diagram?",
+    "options": [
+      "By a double rectangle",
+      "By a dashed ellipse",
+      "By a bold diamond",
+      "By a dotted rectangle"
+    ],
+    "answer": "By a double rectangle"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "Which SQL constraint prevents deletion of a record if referenced by a foreign key in another table?",
+    "options": [
+      "ON DELETE RESTRICT / NO ACTION",
+      "ON DELETE CASCADE",
+      "ON DELETE SET NULL",
+      "ON DELETE DEFAULT"
+    ],
+    "answer": "ON DELETE RESTRICT / NO ACTION"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "What does 'ON DELETE CASCADE' mean when setting up a foreign key?",
+    "options": [
+      "Deleting a parent record automatically deletes corresponding child records in foreign table",
+      "Deleting a child record automatically updates parent table keys",
+      "Prevents parent records from being deleted if child records exist",
+      "Sets foreign key values in child table to NULL when parent is deleted"
+    ],
+    "answer": "Deleting a parent record automatically deletes corresponding child records in foreign table"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "What specific condition defines Fourth Normal Form (4NF)?",
+    "options": [
+      "A relation is in BCNF and contains no non-trivial multi-valued dependencies (MVDs)",
+      "A relation is in 3NF and contains no transitive functional dependencies",
+      "A relation is in BCNF and contains no join dependencies",
+      "Every composite key is represented as a single-attribute key"
+    ],
+    "answer": "A relation is in BCNF and contains no non-trivial multi-valued dependencies (MVDs)"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "Fifth Normal Form (5NF), also known as Project-Join Normal Form (PJNF), addresses which condition?",
+    "options": [
+      "Elimination of non-trivial join dependencies that cannot be inferred from key constraints",
+      "Elimination of partial dependencies across composite candidate keys",
+      "Removal of repeating groups from unnormalized flat tables",
+      "Enforcement of strict referential integrity across schemas"
+    ],
+    "answer": "Elimination of non-trivial join dependencies that cannot be inferred from key constraints"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "What is the primary distinction between Conflict Serializability and View Serializability?",
+    "options": [
+      "View serializability is a broader class that includes blind writes; every conflict serializable schedule is view serializable, but not vice versa",
+      "Conflict serializability allows blind writes whereas view serializability strictly forbids them",
+      "View serializability can be tested in polynomial time using precedence graphs",
+      "Conflict serializability guarantees isolation under Multi-Version Concurrency Control (MVCC)"
+    ],
+    "answer": "View serializability is a broader class that includes blind writes; every conflict serializable schedule is view serializable, but not vice versa"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "How does Rigorous Two-Phase Locking (Rigorous 2PL) differ from Strict 2PL?",
+    "options": [
+      "Rigorous 2PL requires ALL locks (both shared and exclusive) to be held until transaction termination",
+      "Rigorous 2PL allows releasing shared locks before transaction commits",
+      "Rigorous 2PL permits lock acquisition in the shrinking phase",
+      "Rigorous 2PL uses central lock graphs to eliminate deadlocks dynamically"
+    ],
+    "answer": "Rigorous 2PL requires ALL locks (both shared and exclusive) to be held until transaction termination"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "In Write-Ahead Logging (WAL) protocol, what fundamental rule must be enforced before data pages are written to non-volatile disk?",
+    "options": [
+      "Log records corresponding to modified data must be flushed to stable storage BEFORE data page is written to disk",
+      "Dirty data pages must be written to disk prior to generating log sequence numbers",
+      "All active transactions must execute COMMIT before flushing logs",
+      "Checkpoint log records must be cleared prior to buffer pool eviction"
+    ],
+    "answer": "Log records corresponding to modified data must be flushed to stable storage BEFORE data page is written to disk"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "In the ARIES recovery algorithm, what are the three sequential recovery phases after a database crash?",
+    "options": [
+      "Analysis, Redo, Undo",
+      "Undo, Redo, Analysis",
+      "Redo, Analysis, Commit",
+      "Checkpoint, Rollback, Undo"
+    ],
+    "answer": "Analysis, Redo, Undo"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "How does Multi-Version Concurrency Control (MVCC) eliminate read-write blocking?",
+    "options": [
+      "By creating logical point-in-time snapshots/versions of data items so readers do not block writers and writers do not block readers",
+      "By acquiring exclusive locks on entire tables during long-running subqueries",
+      "By converting all update queries into asynchronous background append logs",
+      "By executing transactions sequentially using single-threaded workers"
+    ],
+    "answer": "By creating logical point-in-time snapshots/versions of data items so readers do not block writers and writers do not block readers"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "What is the Phantom Problem under Snapshot Isolation in MVCC systems?",
+    "options": [
+      "Write skew anomalies where concurrent transactions read overlapping data sets but write to disjoint items satisfying cross-table constraints",
+      "Dirty reads caused by reading uncommitted transaction versions",
+      "Permanent data corruption caused by incomplete log flushing during power loss",
+      "Unbounded memory growth due to uncollected dead tuple garbage"
+    ],
+    "answer": "Write skew anomalies where concurrent transactions read overlapping data sets but write to disjoint items satisfying cross-table constraints"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "In a B+ Tree index with order m, what is the minimum and maximum number of child pointers an internal node (except root) can hold?",
+    "options": [
+      "Minimum \u2308m/2\u2309 children and Maximum m children",
+      "Minimum 2 children and Maximum m-1 children",
+      "Minimum \u230am/2\u230b children and Maximum m+1 children",
+      "Minimum m/4 children and Maximum m children"
+    ],
+    "answer": "Minimum \u2308m/2\u2309 children and Maximum m children"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "In Thomas' Write Rule for timestamp-based concurrency control, what action is taken when transaction Ti issues Write(Q) but TS(Ti) < R-timestamp(Q) or TS(Ti) < W-timestamp(Q)?",
+    "options": [
+      "If TS(Ti) < W-timestamp(Q), the Write operation is simply ignored/discarded without aborting Ti",
+      "Transaction Ti is immediately aborted and restarted with same timestamp",
+      "The data item Q is locked until Ti terminates execution",
+      "Transaction Ti is assigned a new higher timestamp and retried"
+    ],
+    "answer": "If TS(Ti) < W-timestamp(Q), the Write operation is simply ignored/discarded without aborting Ti"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "What algorithm is commonly used in distributed database systems to achieve atomic commit across multiple participating nodes?",
+    "options": [
+      "Two-Phase Commit (2PC) Protocol",
+      "Raft Consensus Protocol",
+      "Wait-Die Deadlock Detection Protocol",
+      "Chandy-Lamport Snapshot Protocol"
+    ],
+    "answer": "Two-Phase Commit (2PC) Protocol"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "What is a major limitation of the Two-Phase Commit (2PC) protocol?",
+    "options": [
+      "It is a blocking protocol if the coordinator node crashes during the commit phase",
+      "It does not support transactions modifying more than one key",
+      "It requires all network messages to be encrypted with asymmetric keys",
+      "It causes irreversible write skew anomalies in distributed key-value stores"
+    ],
+    "answer": "It is a blocking protocol if the coordinator node crashes during the commit phase"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "According to the CAP Theorem for distributed data stores, which three guarantees cannot be simultaneously achieved in the presence of a network partition?",
+    "options": [
+      "Consistency, Availability, Partition Tolerance",
+      "Atomicity, Consistency, Performance",
+      "Concurrency, Availability, Durability",
+      "Access, Partitioning, Throughput"
+    ],
+    "answer": "Consistency, Availability, Partition Tolerance"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "In cost-based query optimization, what does the term 'Sel(A = v)' represent when analyzing table statistics?",
+    "options": [
+      "Selectivity ratio estimating the fraction of rows that satisfy equality predicate A = v",
+      "Sorting cost overhead incurred by evaluating GROUP BY on column A",
+      "Sequential scan time needed to fetch page block containing value v",
+      "Storage size in bytes consumed by attribute column A"
+    ],
+    "answer": "Selectivity ratio estimating the fraction of rows that satisfy equality predicate A = v"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "What join algorithm is typically optimal for large, unindexed tables where one table fits into available memory buffer pool space?",
+    "options": [
+      "Hash Join",
+      "Nested Loop Join",
+      "Sort-Merge Join",
+      "Index Scan Join"
+    ],
+    "answer": "Hash Join"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "What join algorithm is preferred when both joining tables are already sorted on their respective join key attributes?",
+    "options": [
+      "Sort-Merge Join",
+      "Block Nested Loop Join",
+      "Hash Join",
+      "Broadcast Join"
+    ],
+    "answer": "Sort-Merge Join"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "In relational calculus, what is the main distinction between Tuple Relational Calculus (TRC) and Domain Relational Calculus (DRC)?",
+    "options": [
+      "TRC variables range over entire tuples, whereas DRC variables range over individual attribute values",
+      "TRC is procedural whereas DRC is non-procedural declarative",
+      "TRC is used for DDL statements whereas DRC is used for DML triggers",
+      "TRC supports outer joins directly whereas DRC only supports inner joins"
+    ],
+    "answer": "TRC variables range over entire tuples, whereas DRC variables range over individual attribute values"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "What does Armstrong's Axiom of Pseudo-transitivity state?",
+    "options": [
+      "If X -> Y and WY -> Z, then WX -> Z",
+      "If X -> Y, then XZ -> YZ",
+      "If X -> Y and Y -> Z, then X -> Z",
+      "If X -> Y and X -> Z, then X -> YZ"
+    ],
+    "answer": "If X -> Y and WY -> Z, then WX -> Z"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "What does Armstrong's Axiom of Augmentation state?",
+    "options": [
+      "If X -> Y, then XZ -> YZ for any attribute set Z",
+      "If X -> Y and Y -> Z, then X -> Z",
+      "If Y \u2286 X, then X -> Y",
+      "If X -> Y and X -> Z, then X -> YZ"
+    ],
+    "answer": "If X -> Y, then XZ -> YZ for any attribute set Z"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "In database storage layout, what is the primary advantage of Columnar Storage (e.g., Parquet, ORC) over Row-Oriented Storage?",
+    "options": [
+      "Significantly improves compression ratios and I/O efficiency for analytical read queries targeting specific subset of columns",
+      "Faster single-row transactional inserts and updates",
+      "Eliminates the requirement for secondary indexes entirely",
+      "Provides native support for recursive graph queries"
+    ],
+    "answer": "Significantly improves compression ratios and I/O efficiency for analytical read queries targeting specific subset of columns"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "In deadlock management, how does the 'Wait-Die' scheme prevent deadlocks using timestamps?",
+    "options": [
+      "Older transaction waits for younger transaction; younger transaction dies/aborts if requesting resource held by older",
+      "Younger transaction waits for older transaction; older transaction dies if requesting resource held by younger",
+      "Transactions are randomly aborted if wait time exceeds predefined timeout parameter",
+      "Locks are forcibly revoked from older transactions and transferred to younger transactions"
+    ],
+    "answer": "Older transaction waits for younger transaction; younger transaction dies/aborts if requesting resource held by older"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "In deadlock management, how does the 'Wound-Wait' scheme handle resource contention?",
+    "options": [
+      "Older transaction preempts ('wounds') younger transaction holding requested resource; younger transaction waits for older transaction",
+      "Younger transaction aborts older transaction holding requested resource",
+      "Both transactions abort and restart with randomized delays",
+      "Locks are converted from exclusive to shared status dynamically"
+    ],
+    "answer": "Older transaction preempts ('wounds') younger transaction holding requested resource; younger transaction waits for older transaction"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "What is a Covering Index in SQL performance tuning?",
+    "options": [
+      "An index that contains all columns requested by a query, allowing execution without fetching physical table pages",
+      "An index that covers all tables inside a database schema",
+      "An index spanning multiple physical disk volumes",
+      "A primary key index built on an encrypted column"
+    ],
+    "answer": "An index that contains all columns requested by a query, allowing execution without fetching physical table pages"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "What is an Inverted Index primarily designed for in modern DBMS engines?",
+    "options": [
+      "Optimizing full-text search by mapping words to target document/record locations",
+      "Translating primary key integers into physical byte offsets",
+      "Accelerating multi-column range queries in spatial data structures",
+      "Storing foreign key relationships in inverted order"
+    ],
+    "answer": "Optimizing full-text search by mapping words to target document/record locations"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "What does canonical minimal cover of functional dependencies require?",
+    "options": [
+      "RHS of every dependency contains single attribute, LHS has no redundant attributes, and no FD is redundant",
+      "All functional dependencies are decomposed into 3NF forms",
+      "Every determinant is converted into a composite foreign key",
+      "Dependencies are restricted exclusively to candidate key sets"
+    ],
+    "answer": "RHS of every dependency contains single attribute, LHS has no redundant attributes, and no FD is redundant"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "In relational query processing, what transformation rule optimizes heuristic query plans?",
+    "options": [
+      "Pushing Selection (\u03c3) operations as far down the query execution tree as possible to reduce intermediate tuple sizes",
+      "Pushing Projection (\u03c0) operations to the root node of relational algebra tree",
+      "Replacing Cartesian products with nested loops before applying selection predicates",
+      "Performing outer joins prior to evaluating filter conditions"
+    ],
+    "answer": "Pushing Selection (\u03c3) operations as far down the query execution tree as possible to reduce intermediate tuple sizes"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "What problem does the Write Skew anomaly represent under Snapshot Isolation?",
+    "options": [
+      "Two concurrent transactions read overlapping data, make disjoint updates based on local snapshot state, violating a global constraint",
+      "A transaction updates a row that was concurrently deleted by another transaction",
+      "A reader transaction observes dirty uncommitted modifications in the buffer pool",
+      "A transaction reads different values for the same key within a single statement block"
+    ],
+    "answer": "Two concurrent transactions read overlapping data, make disjoint updates based on local snapshot state, violating a global constraint"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "In Linear Hashing, how is directory expansion overhead managed during database growth?",
+    "options": [
+      "Splits buckets incrementally one by one in round-robin order without needing a full global directory double",
+      "Doubles directory size instantly whenever a collision occurs",
+      "Rehashes the entire dataset across physical disk partitions",
+      "Uses B-tree node split rules to reallocate primary keys"
+    ],
+    "answer": "Splits buckets incrementally one by one in round-robin order without needing a full global directory double"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "What is the function of Compensation Log Records (CLRs) in ARIES crash recovery algorithm?",
+    "options": [
+      "Logged during the Undo phase to record updates performed when rolling back aborted transactions, preventing repeating undo on second crash",
+      "Logged during Analysis phase to track active memory allocation buffers",
+      "Logged during Redo phase to encrypt recovery log entries",
+      "Used to save full physical page dumps during fuzzy checkpoints"
+    ],
+    "answer": "Logged during the Undo phase to record updates performed when rolling back aborted transactions, preventing repeating undo on second crash"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "How does Fuzzy Checkpointing improve database performance during logging operations?",
+    "options": [
+      "Allows dirty pages to be written to disk asynchronously without freezing active transaction execution",
+      "Flushes all dirty buffer pool pages instantly while holding global system lock",
+      "Deletes all log records generated before transaction commit points",
+      "Bypasses writing modified data pages to stable disk storage entirely"
+    ],
+    "answer": "Allows dirty pages to be written to disk asynchronously without freezing active transaction execution"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "In distributed databases, what is the primary purpose of Consistent Hashing?",
+    "options": [
+      "Minimizes key remapping across node clusters when adding or removing physical storage nodes",
+      "Ensures strict serializability across cross-region SQL read replicas",
+      "Encrypts candidate key hashes using symmetric block keys",
+      "Calculates B+ Tree page split offsets automatically"
+    ],
+    "answer": "Minimizes key remapping across node clusters when adding or removing physical storage nodes"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "What is the purpose of an Intent Lock (e.g., IS, IX) in Granular Locking hierarchy?",
+    "options": [
+      "Indicates that locking is taking place at a finer level of granularity lower down in the resource hierarchy tree",
+      "Forces all child nodes to accept exclusive locks immediately",
+      "Prevents other transactions from reading schema definitions during updates",
+      "Automatically upgrades shared locks to exclusive status upon commit"
+    ],
+    "answer": "Indicates that locking is taking place at a finer level of granularity lower down in the resource hierarchy tree"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "In Strict Two-Phase Locking (Strict 2PL), when are exclusive locks (X) released?",
+    "options": [
+      "Only when the transaction completes (Commit or Abort)",
+      "As soon as the modification on the data item finishes",
+      "During the shrinking phase before transaction commit",
+      "When another process requests a shared lock on the resource"
+    ],
+    "answer": "Only when the transaction completes (Commit or Abort)"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "In relational algebra, if Relation R has n tuples and Relation S has m tuples, what is the maximum number of tuples in R FULL OUTER JOIN S?",
+    "options": [
+      "n + m",
+      "n * m",
+      "max(n, m)",
+      "min(n, m)"
+    ],
+    "answer": "n + m"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "What is the purpose of the Slotted Page Structure in page layout architectures?",
+    "options": [
+      "Supports variable-length records on physical pages by maintaining a slot array of location offsets pointing to records",
+      "Splits data blocks into equal fixed-length 128-byte segments",
+      "Encrypts individual attribute values on non-volatile drives",
+      "Stores page index pointers exclusively for B+ Tree root nodes"
+    ],
+    "answer": "Supports variable-length records on physical pages by maintaining a slot array of location offsets pointing to records"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "What is the primary characteristic of an LSM-Tree (Log-Structured Merge-tree) compared to traditional B+ Trees?",
+    "options": [
+      "Optimizes write throughput by converting random writes into sequential writes in memory (MemTable) before flushing to SSTables",
+      "Provides faster random point reads for individual unindexed records",
+      "Requires zero disk space compaction background processes",
+      "Uses fixed-size tree nodes exclusively stored in volatile RAM"
+    ],
+    "answer": "Optimizes write throughput by converting random writes into sequential writes in memory (MemTable) before flushing to SSTables"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "What is the purpose of Bloom Filters in LSM-tree based storage engines (like RocksDB or Cassandra)?",
+    "options": [
+      "Probabilistic data structure used to quickly test whether an SSTable definitely does NOT contain a requested key without reading disk",
+      "Compresses SSTable files during background garbage collection",
+      "Maintains transaction order sequence numbers for multi-region replication",
+      "Generates primary key IDs for distributed write requests"
+    ],
+    "answer": "Probabilistic data structure used to quickly test whether an SSTable definitely does NOT contain a requested key without reading disk"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "In Timestamp Ordering protocol, what happens if transaction Ti issues Read(Q) and TS(Ti) < W-timestamp(Q)?",
+    "options": [
+      "Operation is rejected; transaction Ti is aborted and rolled back",
+      "Transaction Ti proceeds by reading dirty uncommitted data",
+      "W-timestamp(Q) is overwritten with TS(Ti)",
+      "Transaction Ti is paused until W-timestamp transaction commits"
+    ],
+    "answer": "Operation is rejected; transaction Ti is aborted and rolled back"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "What is the principle of Isolation Level 'Serializable' according to ANSI SQL standard?",
+    "options": [
+      "Ensures execution outcome of concurrent transactions is equivalent to executing them in some strictly serial sequential order",
+      "Permits non-repeatable reads but strictly blocks phantom reads",
+      "Executes all active database updates on a single core CPU thread",
+      "Locks the entire database instance in exclusive mode for every transaction"
+    ],
+    "answer": "Ensures execution outcome of concurrent transactions is equivalent to executing them in some strictly serial sequential order"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "What is a major advantage of Bitmap Indexes over standard B-Tree indexes?",
+    "options": [
+      "Highly efficient space storage and fast bitwise boolean operations for low-cardinality columns (e.g., gender, status)",
+      "Faster updates and single-row writes for high-concurrency OLTP systems",
+      "Prevents duplicate non-null attribute inserts in foreign key columns",
+      "Provides native support for unstructured JSON document indexing"
+    ],
+    "answer": "Highly efficient space storage and fast bitwise boolean operations for low-cardinality columns (e.g., gender, status)"
+  }
+]

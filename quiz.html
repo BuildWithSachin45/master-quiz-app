@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Assessment - Master Quiz</title>
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="assets/images/favicon.ico">
+    <!-- Bootstrap 5 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Bootstrap Icons -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body class="bg-light min-vh-100 d-flex flex-column">
+
+    <!-- Navigation Header -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top shadow-sm">
+        <div class="container">
+            <a class="navbar-brand fw-bold fs-3 text-primary d-flex align-items-center gap-2" href="index.html">
+                <i class="bi bi-patch-question-fill text-warning"></i>
+                <span>Master Quiz</span>
+            </a>
+            <div class="d-flex align-items-center gap-2 gap-md-3">
+                <div class="d-none d-md-flex flex-column text-end text-light">
+                    <span class="fw-semibold small" id="quiz-candidate-name">Candidate</span>
+                    <span class="text-white-50 extra-small" style="font-size: 0.75rem;" id="quiz-topic-label">General Assessment</span>
+                </div>
+
+                <!-- Sound Mute/Unmute -->
+                <button type="button" id="sound-toggle-btn" class="btn btn-outline-light btn-sm rounded-circle d-flex align-items-center justify-content-center shadow-sm" style="width: 36px; height: 36px;" title="Mute/Unmute Audio">
+                    <i class="bi bi-volume-up-fill fs-6" id="sound-toggle-icon"></i>
+                </button>
+
+                <!-- Exit Quiz -->
+                <a href="setup.html" class="btn btn-outline-danger btn-sm rounded-pill px-3" onclick="return confirm('Are you sure you want to quit the ongoing quiz?');">
+                    <i class="bi bi-x-circle me-1"></i> Exit
+                </a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Container -->
+    <main class="container my-auto py-4 flex-grow-1 d-flex flex-column justify-content-center">
+        
+        <!-- Loading Overlay -->
+        <div id="quiz-loading-overlay" class="text-center py-5">
+            <div class="spinner-border text-primary mb-3" style="width: 3.5rem; height: 3.5rem;" role="status">
+                <span class="visually-hidden">Loading Questions...</span>
+            </div>
+            <h4 class="fw-bold text-dark">Preparing Your Quiz...</h4>
+            <p class="text-muted">Fetching and randomizing questions according to your configuration.</p>
+        </div>
+
+        <!-- Two Player Real-Time Scoreboard (Visible only in 2-player mode) -->
+        <div id="multiplayer-scoreboard" class="card border-0 shadow-sm rounded-4 mb-3 d-none mx-auto w-100" style="max-width: 850px;">
+            <div class="card-body p-3 bg-white">
+                <div class="row text-center align-items-center g-2">
+                    <div class="col-5">
+                        <div class="p-2 rounded-3 border" id="p1-score-box">
+                            <span class="fw-bold text-truncate d-block" id="p1-display-name">Player 1</span>
+                            <span class="badge bg-success me-1">✓ <span id="p1-correct-count">0</span></span>
+                            <span class="badge bg-danger">✗ <span id="p1-wrong-count">0</span></span>
+                        </div>
+                    </div>
+                    <div class="col-2">
+                        <div class="badge bg-dark rounded-pill px-2 py-1 small" id="battle-lead-badge">Tied</div>
+                    </div>
+                    <div class="col-5">
+                        <div class="p-2 rounded-3 border" id="p2-score-box">
+                            <span class="fw-bold text-truncate d-block" id="p2-display-name">Player 2</span>
+                            <span class="badge bg-success me-1">✓ <span id="p2-correct-count">0</span></span>
+                            <span class="badge bg-danger">✗ <span id="p2-wrong-count">0</span></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Quiz Interface Card -->
+        <div id="quiz-main-card" class="card border-0 shadow-sm rounded-4 overflow-hidden d-none mx-auto w-100" style="max-width: 850px;">
+            
+            <!-- Top Status Bar -->
+            <div class="card-header bg-white border-0 px-4 pt-4 pb-2">
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                    <div class="d-flex align-items-center gap-2 flex-wrap">
+                        <span class="badge bg-primary-subtle text-primary border border-primary-subtle px-3 py-2 rounded-pill fw-bold">
+                            Question <span id="current-question-num">1</span> of <span id="total-questions-num">10</span>
+                        </span>
+                        <span id="question-difficulty-badge" class="badge bg-secondary-subtle text-secondary px-3 py-2 rounded-pill fw-semibold">
+                            EASY
+                        </span>
+                        <!-- Dynamic Turn Badge -->
+                        <span id="turn-badge" class="badge bg-warning text-dark px-3 py-2 rounded-pill fw-bold d-none">
+                            <i class="bi bi-person-fill me-1"></i> <span id="turn-player-name">Player 1</span>'s Turn
+                        </span>
+                    </div>
+                    <div class="badge bg-dark text-white px-3 py-2 rounded-pill fs-6 fw-monospace d-flex align-items-center gap-2">
+                        <i class="bi bi-stopwatch text-warning"></i>
+                        <span id="quiz-timer-display">00:00</span>
+                    </div>
+                </div>
+
+                <div class="progress" style="height: 6px;">
+                    <div id="quiz-progress-bar" class="progress-bar bg-primary progress-bar-striped progress-bar-animated" role="progressbar" style="width: 10%;" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+                </div>
+            </div>
+
+            <!-- Card Body: Question & Answer Options -->
+            <div class="card-body p-4 p-md-5">
+                <h4 id="question-text" class="fw-bold text-dark mb-4 lh-base">
+                    Loading question...
+                </h4>
+
+                <div id="options-container" class="d-flex flex-column gap-3 mb-4"></div>
+            </div>
+
+            <!-- Card Footer: Actions -->
+            <div class="card-footer bg-light border-0 px-4 py-3 d-flex justify-content-between align-items-center">
+                <button type="button" id="prev-question-btn" class="btn btn-outline-secondary px-4 rounded-pill fw-semibold" disabled>
+                    <i class="bi bi-arrow-left me-1"></i> Previous
+                </button>
+
+                <div class="d-flex gap-2 align-items-center">
+                    <!-- Pass Question Button -->
+                    <button type="button" id="pass-question-btn" class="btn btn-outline-warning px-4 rounded-pill fw-bold d-none">
+                        <i class="bi bi-arrow-left-right me-1"></i> Pass Question
+                    </button>
+                    <button type="button" id="next-question-btn" class="btn btn-primary px-4 rounded-pill fw-semibold">
+                        Next <i class="bi bi-arrow-right ms-1"></i>
+                    </button>
+                    <button type="button" id="finish-quiz-btn" class="btn btn-success px-4 rounded-pill fw-bold d-none">
+                        <i class="bi bi-check2-circle me-1"></i> Submit Quiz
+                    </button>
+                </div>
+            </div>
+        </div>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-dark py-3 text-white border-top border-secondary mt-auto">
+        <div class="container text-center">
+            <p class="mb-0 small text-white-50">
+                All rights reserved with BuildwithSachin45
+            </p>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/script.js"></script>
+</body>
+</html>

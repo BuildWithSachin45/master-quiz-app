@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "Which gas is most abundantly present in the Earth's atmosphere?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Hydrogen"
+    ],
+    "answer": "Nitrogen"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "Which atmospheric layer contains the ozone layer that protects Earth from harmful ultraviolet radiation?",
+    "options": [
+      "Troposphere",
+      "Stratosphere",
+      "Mesosphere",
+      "Thermosphere"
+    ],
+    "answer": "Stratosphere"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "What is the primary greenhouse gas released by burning fossil fuels like coal, oil, and natural gas?",
+    "options": [
+      "Carbon Dioxide",
+      "Methane",
+      "Nitrous Oxide",
+      "Ozone"
+    ],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "World Environment Day is celebrated internationally every year on which date?",
+    "options": [
+      "April 22",
+      "June 5",
+      "March 22",
+      "September 16"
+    ],
+    "answer": "June 5"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "Which organism serves as the primary producer in most land-based food chains?",
+    "options": [
+      "Fungi",
+      "Green Plants",
+      "Herbivores",
+      "Decomposers"
+    ],
+    "answer": "Green Plants"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "Which national park in India is famous for being the last refuge of the endangered One-horned Rhinoceros?",
+    "options": [
+      "Jim Corbett National Park",
+      "Kaziranga National Park",
+      "Gir National Park",
+      "Sundarbans National Park"
+    ],
+    "answer": "Kaziranga National Park"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "The process by which green plants use sunlight, water, and carbon dioxide to synthesize food is called:",
+    "options": [
+      "Respiration",
+      "Photosynthesis",
+      "Transpiration",
+      "Fermentation"
+    ],
+    "answer": "Photosynthesis"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "What is the main source of energy that drives Earth's climate system and water cycle?",
+    "options": [
+      "Geothermal Energy",
+      "The Sun",
+      "Ocean Currents",
+      "Wind Energy"
+    ],
+    "answer": "The Sun"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "Which term describes animals that feed exclusively on plants?",
+    "options": [
+      "Carnivores",
+      "Herbivores",
+      "Omnivores",
+      "Decomposers"
+    ],
+    "answer": "Herbivores"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "Which global day is dedicated to spreading awareness about Earth conservation on April 22?",
+    "options": [
+      "World Water Day",
+      "Earth Day",
+      "World Wildlife Day",
+      "Ozone Day"
+    ],
+    "answer": "Earth Day"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "Rainwater that has become acidic due to atmospheric pollution from sulfur dioxide and nitrogen oxides is known as:",
+    "options": [
+      "Smog",
+      "Acid Rain",
+      "Particulate Rain",
+      "Siltation"
+    ],
+    "answer": "Acid Rain"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "Which process involves converting organic waste like food scraps and dry leaves into rich natural fertilizer?",
+    "options": [
+      "Incineration",
+      "Composting",
+      "Pyrolysis",
+      "Landfilling"
+    ],
+    "answer": "Composting"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "Which chemical compound group, previously widely used in refrigerants and aerosols, caused severe depletion of the ozone layer?",
+    "options": [
+      "Chlorofluorocarbons (CFCs)",
+      "Methane",
+      "Nitrates",
+      "Carbon Monoxide"
+    ],
+    "answer": "Chlorofluorocarbons (CFCs)"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "Which major river delta in West Bengal and Bangladesh is home to the world's largest mangrove forest?",
+    "options": [
+      "Kaveri Delta",
+      "Sundarbans",
+      "Mekong Delta",
+      "Godavari Delta"
+    ],
+    "answer": "Sundarbans"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "Which practice refers to planting trees in areas where forests have been cleared or destroyed?",
+    "options": [
+      "Deforestation",
+      "Reforestation",
+      "Desertification",
+      "Urbanization"
+    ],
+    "answer": "Reforestation"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "Which form of energy is harnessed from natural, heat-generating underground volcanic and hot spring processes?",
+    "options": [
+      "Hydroelectric Energy",
+      "Geothermal Energy",
+      "Biomass Energy",
+      "Solar Energy"
+    ],
+    "answer": "Geothermal Energy"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "What is the term for the variety of living organisms, including plants, animals, and microorganisms, in an ecosystem?",
+    "options": [
+      "Biomass",
+      "Biodiversity",
+      "Biosphere",
+      "Biome"
+    ],
+    "answer": "Biodiversity"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "Project Tiger, a major wildlife conservation initiative launched in India to protect Bengal Tigers, was started in which year?",
+    "options": [
+      "1973",
+      "1985",
+      "1992",
+      "2001"
+    ],
+    "answer": "1973"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "Which toxic gas produced by incomplete combustion of fossil fuels is colorless, odorless, and dangerous to human health?",
+    "options": [
+      "Carbon Dioxide",
+      "Carbon Monoxide",
+      "Sulphur Dioxide",
+      "Methane"
+    ],
+    "answer": "Carbon Monoxide"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "Which national park in Gujarat is the exclusive natural habitat of the Asiatic Lion?",
+    "options": [
+      "Jim Corbett National Park",
+      "Gir National Park",
+      "Ranthambore National Park",
+      "Bandhavgarh National Park"
+    ],
+    "answer": "Gir National Park"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "Which natural phenomenon involves the gradual warming of Earth's surface due to trapped atmospheric heat?",
+    "options": [
+      "El Niño",
+      "Greenhouse Effect",
+      "Ocean Acidification",
+      "Thermal Inversion"
+    ],
+    "answer": "Greenhouse Effect"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "What is the primary cause of soil erosion on agricultural land and hillsides?",
+    "options": [
+      "Afforestation",
+      "Deforestation and overgrazing",
+      "Crop rotation",
+      "Organic farming"
+    ],
+    "answer": "Deforestation and overgrazing"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "Which energy source is non-renewable?",
+    "options": [
+      "Wind Energy",
+      "Coal",
+      "Solar Power",
+      "Hydroelectric Power"
+    ],
+    "answer": "Coal"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "Which gas is consumed by trees during photosynthesis and released during respiration?",
+    "options": [
+      "Oxygen",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Argon"
+    ],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "Which international agreement signed in 1987 aimed to protect the ozone layer by phasing out CFC production?",
+    "options": [
+      "Kyoto Protocol",
+      "Montreal Protocol",
+      "Paris Agreement",
+      "Basel Convention"
+    ],
+    "answer": "Montreal Protocol"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "Which phenomenon describes the accumulation of non-biodegradable synthetic plastics in marine ecosystems?",
+    "options": [
+      "Eutrophication",
+      "Plastic Pollution",
+      "Salinization",
+      "Thermal Pollution"
+    ],
+    "answer": "Plastic Pollution"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "Which famous environmental movement in Uttarakhand in the 1970s saw villagers hug trees to prevent commercial logging?",
+    "options": [
+      "Appiko Movement",
+      "Chipko Movement",
+      "Narmada Bachao Andolan",
+      "Silent Valley Movement"
+    ],
+    "answer": "Chipko Movement"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "Which metric measures the total human demand on Earth's natural ecosystems and resources?",
+    "options": [
+      "Carbon Credit",
+      "Ecological Footprint",
+      "Biomass Index",
+      "Ecosystem Service Value"
+    ],
+    "answer": "Ecological Footprint"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "Which aquatic ecosystem is known as the 'Rainforest of the Sea' due to its incredible species diversity?",
+    "options": [
+      "Kelp Forests",
+      "Coral Reefs",
+      "Mangroves",
+      "Estuaries"
+    ],
+    "answer": "Coral Reefs"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "Which global organization maintains the 'Red List' of Threatened Species across the world?",
+    "options": [
+      "UNEP",
+      "IUCN",
+      "WWF",
+      "UNESCO"
+    ],
+    "answer": "IUCN"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "Eutrophication in freshwater bodies is primarily caused by excessive runoff containing which two nutrients?",
+    "options": [
+      "Calcium and Sodium",
+      "Nitrogen and Phosphorus",
+      "Carbon and Potassium",
+      "Magnesium and Iron"
+    ],
+    "answer": "Nitrogen and Phosphorus"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "Which phenomenon occurs when the concentration of non-biodegradable toxins increases at higher trophic levels in a food chain?",
+    "options": [
+      "Bioaccumulation",
+      "Biomagnification",
+      "Bioremediation",
+      "Eutrophication"
+    ],
+    "answer": "Biomagnification"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "Ramsar Convention is an international treaty specifically dedicated to the conservation and sustainable use of:",
+    "options": [
+      "Forests",
+      "Wetlands",
+      "Coral Reefs",
+      "Deserts"
+    ],
+    "answer": "Wetlands"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "Minamata disease, a neurological syndrome discovered in Japan, was caused by industrial poisoning from which heavy metal?",
+    "options": [
+      "Lead",
+      "Mercury",
+      "Cadmium",
+      "Arsenic"
+    ],
+    "answer": "Mercury"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "Which concept proposed by Norman Myers identifies regions with exceptionally high endemic species levels under severe habitat threat?",
+    "options": [
+      "Biosphere Reserves",
+      "Biodiversity Hotspots",
+      "Eco-Sensitive Zones",
+      "Key Biodiversity Areas"
+    ],
+    "answer": "Biodiversity Hotspots"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "Which layer of the atmosphere contains almost all water vapor and is where weather phenomena like clouds and rain occur?",
+    "options": [
+      "Stratosphere",
+      "Troposphere",
+      "Mesosphere",
+      "Exosphere"
+    ],
+    "answer": "Troposphere"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "Which landmark environmental act was passed by the Indian Parliament in response to the 1984 Bhopal Gas Tragedy?",
+    "options": [
+      "Water Act 1974",
+      "Environment (Protection) Act 1986",
+      "Forest Conservation Act 1980",
+      "Air Act 1981"
+    ],
+    "answer": "Environment (Protection) Act 1986"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "Which type of ecological succession occurs on a surface where no soil or living organisms previously existed, such as fresh lava?",
+    "options": [
+      "Secondary Succession",
+      "Primary Succession",
+      "Autogenic Succession",
+      "Allogenic Succession"
+    ],
+    "answer": "Primary Succession"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "Which international agreement adopted under UNFCCC in 1997 committed industrialized countries to reduce greenhouse gas emissions?",
+    "options": [
+      "Kyoto Protocol",
+      "Paris Agreement",
+      "Copenhagen Accord",
+      "Vienna Convention"
+    ],
+    "answer": "Kyoto Protocol"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "The CITES agreement focuses on regulating international trade in which category?",
+    "options": [
+      "Hazardous Waste",
+      "Endangered Species of Wild Fauna and Flora",
+      "Persistent Organic Pollutants",
+      "Genetically Modified Organisms"
+    ],
+    "answer": "Endangered Species of Wild Fauna and Flora"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "Photochemical smog is primarily formed through atmospheric interactions between sunlight, Nitrogen Oxides (NOx), and:",
+    "options": [
+      "Volatile Organic Compounds (VOCs)",
+      "Sulfur Dioxide",
+      "Carbon Monoxide",
+      "Chlorofluorocarbons"
+    ],
+    "answer": "Volatile Organic Compounds (VOCs)"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "Which ecological principle states that only approximately 10% of energy is transferred from one trophic level to the next?",
+    "options": [
+      "Lindeman's Efficiency Law",
+      "Liebig's Law of the Minimum",
+      "Shelford's Law of Tolerance",
+      "Gause's Principle"
+    ],
+    "answer": "Lindeman's Efficiency Law"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "Which national park located in Jammu and Kashmir is world-famous as the habitat of the Hangul (Kashmir Stag)?",
+    "options": [
+      "Hemis National Park",
+      "Dachigam National Park",
+      "Kishtwar National Park",
+      "Salim Ali National Park"
+    ],
+    "answer": "Dachigam National Park"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "BOD (Biochemical Oxygen Demand) is an indicator used to measure:",
+    "options": [
+      "Organic pollution levels in water bodies",
+      "Heavy metal toxicity in soil",
+      "Particulate matter density in air",
+      "Dissolved carbon dioxide in oceans"
+    ],
+    "answer": "Organic pollution levels in water bodies"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "The Keibul Lamjao National Park in Manipur, the world's only floating national park, is situated on which famous lake?",
+    "options": [
+      "Chilika Lake",
+      "Loktak Lake",
+      "Wular Lake",
+      "Pulicat Lake"
+    ],
+    "answer": "Loktak Lake"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "Which form of pollution is caused by discharging heated water from thermal power plants into rivers and lakes?",
+    "options": [
+      "Thermal Pollution",
+      "Chemical Pollution",
+      "Eutrophication",
+      "Radioactive Contamination"
+    ],
+    "answer": "Thermal Pollution"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "Which international treaty adopted in 2001 aims to restrict and eliminate Persistent Organic Pollutants (POPs) like DDT?",
+    "options": [
+      "Stockholm Convention",
+      "Rotterdam Convention",
+      "Minamata Convention",
+      "Basel Convention"
+    ],
+    "answer": "Stockholm Convention"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "Which Indian state has the largest total forest cover by area according to official Forest Survey reports?",
+    "options": [
+      "Arunachal Pradesh",
+      "Madhya Pradesh",
+      "Chhattisgarh",
+      "Odisha"
+    ],
+    "answer": "Madhya Pradesh"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "The term 'Ecological Niche' refers to:",
+    "options": [
+      "The physical area where an organism lives",
+      "The functional role and position of a species in its ecosystem",
+      "The total biomass of a community",
+      "The migration path of a species"
+    ],
+    "answer": "The functional role and position of a species in its ecosystem"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "Itai-Itai disease, characterized by severe bone softening and kidney failure, was caused by chronic exposure to which element?",
+    "options": [
+      "Lead",
+      "Cadmium",
+      "Arsenic",
+      "Chromium"
+    ],
+    "answer": "Cadmium"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "Which specialized roots allow mangrove trees to absorb oxygen directly from the air in waterlogged, anaerobic mud?",
+    "options": [
+      "Taproots",
+      "Pneumatophores",
+      "Prop roots",
+      "Fibrous roots"
+    ],
+    "answer": "Pneumatophores"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "Which greenhouse gas, with a global warming potential over 25 times higher than CO2 over 100 years, is produced by livestock digestion and rice paddies?",
+    "options": [
+      "Methane",
+      "Nitrous Oxide",
+      "Ozone",
+      "Sulfur Hexafluoride"
+    ],
+    "answer": "Methane"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "The Great Barrier Reef, the world's largest coral reef system, faces severe degradation primarily from coral bleaching caused by:",
+    "options": [
+      "Rising sea surface temperatures",
+      "Oil spills",
+      "Overfishing of herbivorous fish",
+      "Plastic waste dumping"
+    ],
+    "answer": "Rising sea surface temperatures"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "Which Indian environmental movement was launched in Karnataka in 1983 as a southern derivative of the Chipko Movement?",
+    "options": [
+      "Narmada Bachao Andolan",
+      "Appiko Movement",
+      "Silent Valley Movement",
+      "Jungle Bachao Andolan"
+    ],
+    "answer": "Appiko Movement"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "Which term describes a species whose presence or absence strongly exerts influence over the entire ecosystem structure and balance?",
+    "options": [
+      "Indicator Species",
+      "Keystone Species",
+      "Flagship Species",
+      "Umbrella Species"
+    ],
+    "answer": "Keystone Species"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "The Basel Convention primarily governs international regulation and cross-border movement of:",
+    "options": [
+      "Migratory birds",
+      "Transboundary movement of hazardous wastes",
+      "Genetically modified seeds",
+      "Greenhouse gas emissions"
+    ],
+    "answer": "Transboundary movement of hazardous wastes"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "The Blue Baby Syndrome (Methemoglobinemia) in infants is caused by consuming water contaminated with excess levels of:",
+    "options": [
+      "Fluoride",
+      "Nitrates",
+      "Arsenic",
+      "Chlorides"
+    ],
+    "answer": "Nitrates"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "Which Biosphere Reserve in India was the first to be established under UNESCO's Man and the Biosphere (MAB) framework in 1986?",
+    "options": [
+      "Sundarbans Biosphere Reserve",
+      "Nilgiri Biosphere Reserve",
+      "Nanda Devi Biosphere Reserve",
+      "Gulf of Mannar Biosphere Reserve"
+    ],
+    "answer": "Nilgiri Biosphere Reserve"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "What is the term for the process where a water body acquires high nutrient levels, leading to algal blooms and oxygen depletion?",
+    "options": [
+      "Salinization",
+      "Eutrophication",
+      "Acidification",
+      "Biomagnification"
+    ],
+    "answer": "Eutrophication"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "Which specialized Indian statutory body was established in 2010 for environmental protection and forest conservation cases?",
+    "options": [
+      "Central Pollution Control Board",
+      "National Green Tribunal (NGT)",
+      "Animal Welfare Board of India",
+      "National Biodiversity Authority"
+    ],
+    "answer": "National Green Tribunal (NGT)"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "Which ecosystem parameter measures the total rate of organic matter production by photosynthesis minus the respiration losses of autotrophs?",
+    "options": [
+      "Gross Primary Productivity (GPP)",
+      "Net Primary Productivity (NPP)",
+      "Net Community Productivity (NCP)",
+      "Secondary Productivity"
+    ],
+    "answer": "Net Primary Productivity (NPP)"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "The Nagoya Protocol, adopted under the Convention on Biological Diversity (CBD), focuses specifically on:",
+    "options": [
+      "Biosecurity and living modified organisms",
+      "Access to Genetic Resources and Fair/Equitable Sharing of Benefits (ABS)",
+      "Elimination of Mercury emissions",
+      "Protection of migratory bird flyways"
+    ],
+    "answer": "Access to Genetic Resources and Fair/Equitable Sharing of Benefits (ABS)"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "Which ecological law states that population growth is constrained not by total resources available, but by the scarcest critical resource (limiting factor)?",
+    "options": [
+      "Shelford's Law of Tolerance",
+      "Liebig's Law of the Minimum",
+      "Allen's Rule",
+      "Bergmann's Rule"
+    ],
+    "answer": "Liebig's Law of the Minimum"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "Which atmospheric phenomenon occurs when a warm air layer traps cooler air near the ground, worsening urban air pollution and smog?",
+    "options": [
+      "Thermal Inversion",
+      "Adiabatic Lapse",
+      "Coriolis Effect",
+      "Geostrophic Flow"
+    ],
+    "answer": "Thermal Inversion"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "The Cartagena Protocol on Biosafety regulates transboundary movement and handling of:",
+    "options": [
+      "Electronic waste",
+      "Living Modified Organisms (LMOs) resulting from modern biotechnology",
+      "Chemical pesticides",
+      "Endangered species trophies"
+    ],
+    "answer": "Living Modified Organisms (LMOs) resulting from modern biotechnology"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "Which biogeochemical cycle has no significant gaseous phase in Earth's atmosphere, cycling almost entirely through sedimentary rocks and soil?",
+    "options": [
+      "Nitrogen Cycle",
+      "Phosphorus Cycle",
+      "Carbon Cycle",
+      "Sulfur Cycle"
+    ],
+    "answer": "Phosphorus Cycle"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "In the context of climate change science, what does 'Radiative Forcing' measure?",
+    "options": [
+      "The rate of ozone layer depletion",
+      "The net change in Earth's energy balance caused by external drivers",
+      "The speed of ocean current movements",
+      "The total solar radiation absorbed by plants"
+    ],
+    "answer": "The net change in Earth's energy balance caused by external drivers"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "Under the Wildlife Protection Act (1972) of India, which Schedule historically accorded the highest legal protection to endangered species like tigers and rhinos?",
+    "options": [
+      "Schedule I",
+      "Schedule III",
+      "Schedule V",
+      "Schedule VI"
+    ],
+    "answer": "Schedule I"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "Which international environmental treaty regulates the prior informed consent procedure for certain hazardous chemicals and pesticides in international trade?",
+    "options": [
+      "Rotterdam Convention",
+      "Stockholm Convention",
+      "Minamata Convention",
+      "Vienna Convention"
+    ],
+    "answer": "Rotterdam Convention"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "Which specific zone in a deep lake ecosystem lies below the effective light penetration level, where respiration exceeds photosynthesis?",
+    "options": [
+      "Littoral Zone",
+      "Limnetic Zone",
+      "Profundal Zone",
+      "Benthic Zone"
+    ],
+    "answer": "Profundal Zone"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "The Montreux Record is a register maintained as part of the Ramsar Convention to list wetland sites where:",
+    "options": [
+      "Migratory birds lay eggs exclusively",
+      "Changes in ecological character have occurred, are occurring, or are likely to occur",
+      "Freshwater fish are extinct",
+      "Ecotourism is strictly banned"
+    ],
+    "answer": "Changes in ecological character have occurred, are occurring, or are likely to occur"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "Which chemical compound is responsible for 'Blackfoot Disease', an endemic peripheral vascular disorder associated with groundwater contamination?",
+    "options": [
+      "Arsenic",
+      "Fluoride",
+      "Lead",
+      "Nitrate"
+    ],
+    "answer": "Arsenic"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "Which ecogeographical rule states that endothermic animals in colder climates tend to have shorter limbs and appendages to minimize heat loss?",
+    "options": [
+      "Bergmann's Rule",
+      "Allen's Rule",
+      "Gause's Law",
+      "Thorson's Rule"
+    ],
+    "answer": "Allen's Rule"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "Ocean Acidification occurs as seawater absorbs anthropogenic CO2, resulting in a reduction of pH and a decrease in the concentration of which vital ion required by shell-building organisms?",
+    "options": [
+      "Sulfate ions",
+      "Carbonate ions",
+      "Nitrate ions",
+      "Sodium ions"
+    ],
+    "answer": "Carbonate ions"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "Which specialized symbiotic nitrogen-fixing bacterium forms root nodules in leguminous plants?",
+    "options": [
+      "Azotobacter",
+      "Rhizobium",
+      "Clostridium",
+      "Nitrosomonas"
+    ],
+    "answer": "Rhizobium"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "The 2016 Kigali Amendment to the Montreal Protocol mandates the worldwide phase-down of which category of greenhouse gases?",
+    "options": [
+      "Hydrofluorocarbons (HFCs)",
+      "Chlorofluorocarbons (CFCs)",
+      "Perfluorocarbons (PFCs)",
+      "Sulfur Hexafluoride (SF6)"
+    ],
+    "answer": "Hydrofluorocarbons (HFCs)"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "Which type of ecological pyramid is ALWAYS upright in stable natural ecosystems and can never be inverted?",
+    "options": [
+      "Pyramid of Numbers",
+      "Pyramid of Biomass",
+      "Pyramid of Energy",
+      "Pyramid of Density"
+    ],
+    "answer": "Pyramid of Energy"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "Which Indian state launched the famous 'Green Bonus' demand and pioneered Payment for Ecosystem Services (PES) concepts in mountain ecology?",
+    "options": [
+      "Himachal Pradesh",
+      "Uttarakhand",
+      "Sikkim",
+      "Meghalaya"
+    ],
+    "answer": "Uttarakhand"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "What is the term for the transitional zone where two distinct ecological communities or biomes meet and integrate?",
+    "options": [
+      "Ecotype",
+      "Ecotone",
+      "Ecocline",
+      "Ecosere"
+    ],
+    "answer": "Ecotone"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "Which marine environment condition causes 'Red Tides', producing potent neurotoxins that harm shellfish and marine mammals?",
+    "options": [
+      "Harmful Dinoflagellate Algal Blooms",
+      "Submarine volcanic eruptions",
+      "Methane hydrate release",
+      "Thermal ocean inversions"
+    ],
+    "answer": "Harmful Dinoflagellate Algal Blooms"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "Which specific soil horizon is known as the 'Zone of Eluavation', where minerals and organic matter leach downward due to percolating water?",
+    "options": [
+      "O Horizon",
+      "A Horizon",
+      "E Horizon",
+      "B Horizon"
+    ],
+    "answer": "E Horizon"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "In the carbon cycle, what is the term for the large-scale removal and long-term storage of atmospheric CO2 in geological formations or biological sinks?",
+    "options": [
+      "Carbon Sequestration",
+      "Carbon Offsetting",
+      "Carbon Neutrality",
+      "Carbon Intensity"
+    ],
+    "answer": "Carbon Sequestration"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "Which national park in India, located in the Western Ghats, was saved from ecological destruction caused by a proposed hydroelectric dam following a famous 1970s environmental campaign?",
+    "options": [
+      "Periyar National Park",
+      "Silent Valley National Park",
+      "Eravikulam National Park",
+      "Bandipur National Park"
+    ],
+    "answer": "Silent Valley National Park"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "Which global environmental initiative launched at Rio Earth Summit 1992 serves as a comprehensive blueprint for sustainable development in the 21st century?",
+    "options": [
+      "Agenda 21",
+      "Millennium Development Goals",
+      "Kyoto Protocol",
+      "Bonn Convention"
+    ],
+    "answer": "Agenda 21"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "Which mathematical index is widely used by ecologists to measure species diversity taking into account both richness and evenness?",
+    "options": [
+      "Shannon-Wiener Index",
+      "Gini Coefficient",
+      "Richter Index",
+      "Linnaeus Index"
+    ],
+    "answer": "Shannon-Wiener Index"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "Which Indian coastal ecosystem is famous as the mass nesting site (Arribada) of the Olive Ridley sea turtles?",
+    "options": [
+      "Gahirmatha Marine Sanctuary",
+      "Gulf of Kutch Marine Park",
+      "Sundarbans Biosphere Reserve",
+      "Kovalam Beach"
+    ],
+    "answer": "Gahirmatha Marine Sanctuary"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "Which group of synthetic chemical compounds, governed by the Stockholm Convention, is known as the 'Dirty Dozen'?",
+    "options": [
+      "Chlorofluorocarbons",
+      "Persistent Organic Pollutants (POPs)",
+      "Heavy Metal Oxides",
+      "Volatile Organic Compounds"
+    ],
+    "answer": "Persistent Organic Pollutants (POPs)"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "What is the biological term for organisms that derive energy by oxidizing inorganic chemical compounds rather than utilizing light energy?",
+    "options": [
+      "Photoautotrophs",
+      "Chemoautotrophs",
+      "Heterotrophs",
+      "Saprophytes"
+    ],
+    "answer": "Chemoautotrophs"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "The Minamata Convention on Mercury entered into force internationally in which year to protect human health from anthropogenic mercury emissions?",
+    "options": [
+      "2005",
+      "2013",
+      "2017",
+      "2020"
+    ],
+    "answer": "2017"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "Which concept formulated by Garrett Hardin describes a situation where individual users, acting independently according to self-interest, deplete a shared limited resource?",
+    "options": [
+      "Tragedy of the Commons",
+      "Competitive Exclusion Principle",
+      "Ecology of Scale",
+      "Resource Partitioning"
+    ],
+    "answer": "Tragedy of the Commons"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "Which pioneer environmental scientist wrote the seminal 1962 book 'Silent Spring', alerting the world to the ecological hazards of synthetic pesticides like DDT?",
+    "options": [
+      "Aldo Leopold",
+      "Rachel Carson",
+      "E.O. Wilson",
+      "James Lovelock"
+    ],
+    "answer": "Rachel Carson"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "Which enzyme plays the central role in fixing inorganic atmospheric carbon dioxide during the Calvin cycle of C3 plants?",
+    "options": [
+      "PEP Carboxylase",
+      "RuBisCO",
+      "ATP Synthase",
+      "Nitrogenase"
+    ],
+    "answer": "RuBisCO"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "Which Indian Act mandates Biological Diversity Heritage Sites and establishes a three-tier system comprising NBA, SBBs, and BMCs?",
+    "options": [
+      "Forest Rights Act 2006",
+      "Biological Diversity Act 2002",
+      "Environment Protection Act 1986",
+      "Wildlife Protection Act 1972"
+    ],
+    "answer": "Biological Diversity Act 2002"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "Which ecological principle states that two species competing for the exact same limited resource cannot coexist indefinitely at constant population values?",
+    "options": [
+      "Competitive Exclusion Principle (Gause's Law)",
+      "Intermediate Disturbance Hypothesis",
+      "Margalef's Diversity Rule",
+      "MacArthur-Wilson Theory"
+    ],
+    "answer": "Competitive Exclusion Principle (Gause's Law)"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "In the atmosphere, hydroxyl radicals (OH) are frequently referred to as the 'detergent of the atmosphere' because they:",
+    "options": [
+      "Break down stratospheric ozone",
+      "Oxidize and clear atmospheric pollutants like methane and carbon monoxide",
+      "Form cloud condensation nuclei",
+      "Absorb incoming solar UV-C rays"
+    ],
+    "answer": "Oxidize and clear atmospheric pollutants like methane and carbon monoxide"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "Which specialized agreement signed in 1979 under UNEP protection provides a global platform for the conservation of wild species that cross international borders?",
+    "options": [
+      "Bonn Convention (CMS)",
+      "Ramsar Convention",
+      "Bern Convention",
+      "Espoo Convention"
+    ],
+    "answer": "Bonn Convention (CMS)"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "The 'Gaia Hypothesis', proposing that Earth and its living organisms behave as a self-regulating complex system, was formulated by:",
+    "options": [
+      "James Lovelock and Lynn Margulis",
+      "Charles Darwin and Alfred Wallace",
+      "Arthur Tansley and Eugene Odum",
+      "Robert MacArthur and Edward Wilson"
+    ],
+    "answer": "James Lovelock and Lynn Margulis"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "Which type of aquatic organism floats passively near the ocean surface and cannot swim against prevailing currents?",
+    "options": [
+      "Nekton",
+      "Plankton",
+      "Benthos",
+      "Periphyton"
+    ],
+    "answer": "Plankton"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "Which landmark 1987 UN report by the World Commission on Environment and Development first popularized the formal definition of 'Sustainable Development'?",
+    "options": [
+      "Our Common Future (Brundtland Report)",
+      "Limits to Growth",
+      "The Silent Spring Report",
+      "Stern Review"
+    ],
+    "answer": "Our Common Future (Brundtland Report)"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "In atmospheric science, what does 'Dobson Unit' (DU) measure?",
+    "options": [
+      "Particulate Matter (PM 2.5) density",
+      "Total column amount of atmospheric ozone",
+      "Carbon dioxide intensity",
+      "Solar radiation flux"
+    ],
+    "answer": "Total column amount of atmospheric ozone"
+  }
+]

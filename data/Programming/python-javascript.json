@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "Which keyword is used to define a function in Python?",
+    "options": [
+      "func",
+      "def",
+      "function",
+      "define"
+    ],
+    "answer": "def"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "Which JavaScript keyword is used to declare a block-scoped variable that can be reassigned?",
+    "options": [
+      "var",
+      "let",
+      "const",
+      "static"
+    ],
+    "answer": "let"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "What is the correct file extension for standard Python source code files?",
+    "options": [
+      ".pyt",
+      ".py",
+      ".python",
+      ".p"
+    ],
+    "answer": ".py"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "In JavaScript, what value is returned by `typeof null`?",
+    "options": [
+      "\"null\"",
+      "\"undefined\"",
+      "\"object\"",
+      "\"number\""
+    ],
+    "answer": "\"object\""
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "Which built-in Python data structure is immutable after creation?",
+    "options": [
+      "List",
+      "Dictionary",
+      "Tuple",
+      "Set"
+    ],
+    "answer": "Tuple"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "Which array method in JavaScript adds one or more elements to the end of an array?",
+    "options": [
+      "push()",
+      "append()",
+      "unshift()",
+      "insert()"
+    ],
+    "answer": "push()"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "How do you define a key-value dictionary literal in Python?",
+    "options": [
+      "[\"key\" => \"value\"]",
+      "{\"key\": \"value\"}",
+      "(\"key\": \"value\")",
+      "<\"key\", \"value\">"
+    ],
+    "answer": "{\"key\": \"value\"}"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "Which JavaScript equality operator checks both value and type without automatic coercion?",
+    "options": [
+      "==",
+      "===",
+      "=",
+      "!=="
+    ],
+    "answer": "==="
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "Which built-in function returns the total count of items in a Python collection?",
+    "options": [
+      "count()",
+      "size()",
+      "len()",
+      "length()"
+    ],
+    "answer": "len()"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "How do you write a single-line comment in JavaScript?",
+    "options": [
+      "# comment",
+      "<!-- comment -->",
+      "// comment",
+      "/* comment */"
+    ],
+    "answer": "// comment"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "What does `type([])` evaluate to in Python?",
+    "options": [
+      "<class 'array'>",
+      "<class 'list'>",
+      "<class 'vector'>",
+      "<class 'sequence'>"
+    ],
+    "answer": "<class 'list'>"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "Which global method parses a JSON string into a native JavaScript object?",
+    "options": [
+      "JSON.toObject()",
+      "JSON.parse()",
+      "JSON.stringify()",
+      "JSON.decode()"
+    ],
+    "answer": "JSON.parse()"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "Which keyword is used to import modules into a Python script?",
+    "options": [
+      "include",
+      "require",
+      "import",
+      "using"
+    ],
+    "answer": "import"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "What is the boolean evaluation of an empty string `\"\"` in JavaScript?",
+    "options": [
+      "true",
+      "false",
+      "undefined",
+      "NaN"
+    ],
+    "answer": "false"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "Which statement block structure handles runtime errors in Python?",
+    "options": [
+      "try / catch",
+      "try / except",
+      "do / catch",
+      "try / handle"
+    ],
+    "answer": "try / except"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "Which JavaScript array method joins all elements into a single string separated by a specified string?",
+    "options": [
+      "concat()",
+      "join()",
+      "toString()",
+      "split()"
+    ],
+    "answer": "join()"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "Which operator performs floor division in Python?",
+    "options": [
+      "/",
+      "//",
+      "%",
+      "div"
+    ],
+    "answer": "//"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "Which function executes a callback after a specified delay in milliseconds in JavaScript?",
+    "options": [
+      "setInterval()",
+      "setTimeout()",
+      "setDelay()",
+      "sleep()"
+    ],
+    "answer": "setTimeout()"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "Which string method converts characters to lowercase in Python?",
+    "options": [
+      "toLowerCase()",
+      "lower()",
+      "casefold()",
+      "toLower()"
+    ],
+    "answer": "lower()"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "Which statement terminates the execution of a loop prematurely in JavaScript?",
+    "options": [
+      "stop",
+      "exit",
+      "break",
+      "return"
+    ],
+    "answer": "break"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "What sequence of numbers is generated by `range(5)` in Python?",
+    "options": [
+      "1, 2, 3, 4, 5",
+      "0, 1, 2, 3, 4",
+      "0, 1, 2, 3, 4, 5",
+      "1, 2, 3, 4"
+    ],
+    "answer": "0, 1, 2, 3, 4"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "Which ES6 syntax feature defines modern class objects in JavaScript?",
+    "options": [
+      "struct",
+      "interface",
+      "class",
+      "prototype"
+    ],
+    "answer": "class"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "How do you append a single object to the end of a list in Python?",
+    "options": [
+      "list.add(item)",
+      "list.push(item)",
+      "list.append(item)",
+      "list.insert(item)"
+    ],
+    "answer": "list.append(item)"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "Which array method creates a new array filled with results of calling a function on every element?",
+    "options": [
+      "forEach()",
+      "map()",
+      "filter()",
+      "reduce()"
+    ],
+    "answer": "map()"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "What is the output of `3 ** 2` in Python?",
+    "options": [
+      "6",
+      "9",
+      "8",
+      "5"
+    ],
+    "answer": "9"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "What does `NaN` represent in JavaScript?",
+    "options": [
+      "Null and Nil",
+      "Not-a-Number",
+      "Negative-and-Null",
+      "No-Assigned-Name"
+    ],
+    "answer": "Not-a-Number"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "Which keyword is used to create inline anonymous functions in Python?",
+    "options": [
+      "lambda",
+      "anon",
+      "func",
+      "inline"
+    ],
+    "answer": "lambda"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "How do you access the total element count of an array `arr` in JavaScript?",
+    "options": [
+      "arr.len",
+      "arr.length",
+      "arr.size()",
+      "arr.count"
+    ],
+    "answer": "arr.length"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "Which Python string method removes surrounding whitespace from both ends?",
+    "options": [
+      "trim()",
+      "strip()",
+      "clean()",
+      "chop()"
+    ],
+    "answer": "strip()"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "Which keyword declares a variable whose reference cannot be reassigned in JavaScript?",
+    "options": [
+      "static",
+      "var",
+      "const",
+      "immutable"
+    ],
+    "answer": "const"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "What is the primary benefit of Python list comprehensions?",
+    "options": [
+      "Providing a concise syntax for creating new lists from existing iterables",
+      "Automatically multithreading list iteration loops",
+      "Restricting list element types at runtime",
+      "Compressing memory footprint of integer arrays"
+    ],
+    "answer": "Providing a concise syntax for creating new lists from existing iterables"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "What is hoisting in JavaScript?",
+    "options": [
+      "Moving variable and function declarations to the top of their scope during compilation",
+      "Executing asynchronous callbacks before main thread tasks",
+      "Optimizing global scope memory usage dynamically",
+      "Converting implicit types into explicit primitives"
+    ],
+    "answer": "Moving variable and function declarations to the top of their scope during compilation"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "What does specifying `*args` in a Python function parameter list permit?",
+    "options": [
+      "Passing arbitrary positional arguments as a tuple inside the function",
+      "Passing arbitrary keyword arguments as a dictionary",
+      "Enforcing type annotations on positional arguments",
+      "Creating global variable references automatically"
+    ],
+    "answer": "Passing arbitrary positional arguments as a tuple inside the function"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "How does `map()` differ from `forEach()` on JavaScript arrays?",
+    "options": [
+      "`map()` returns a new array with transformed items; `forEach()` executes side effects and returns `undefined`",
+      "`forEach()` mutates original array in place; `map()` freezes the array",
+      "`map()` operates asynchronously; `forEach()` operates synchronously",
+      "`forEach()` cannot accept arrow functions"
+    ],
+    "answer": "`map()` returns a new array with transformed items; `forEach()` executes side effects and returns `undefined`"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "What is the role of the `__init__` method in Python classes?",
+    "options": [
+      "Serving as an instance initializer constructor to assign initial attributes",
+      "Destructing class objects before garbage collection",
+      "Compiling class methods into C bytecode",
+      "Setting static class variable overrides"
+    ],
+    "answer": "Serving as an instance initializer constructor to assign initial attributes"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "What constitutes a Closure in JavaScript?",
+    "options": [
+      "A function bundled together with references to its surrounding lexical environment",
+      "A method designed strictly to close socket connections",
+      "A private variable declared inside a class constructor",
+      "A syntax lock preventing global scope pollution"
+    ],
+    "answer": "A function bundled together with references to its surrounding lexical environment"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "What comparison does the `is` operator perform in Python?",
+    "options": [
+      "Object identity (checking if two variables reference the exact same memory location)",
+      "Structural equality check equivalent to `==`",
+      "Data type comparison only",
+      "Lexicographical string sorting"
+    ],
+    "answer": "Object identity (checking if two variables reference the exact same memory location)"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "What is the output of `console.log(1 + \"2\" + 3)` in JavaScript?",
+    "options": [
+      "\"6\"",
+      "\"123\"",
+      "15",
+      "NaN"
+    ],
+    "answer": "\"123\""
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "What distinguishes shallow copy from deep copy in Python's `copy` module?",
+    "options": [
+      "Shallow copy creates a new object referencing original nested items; deep copy recursively duplicates all nested items",
+      "Shallow copy applies only to dictionaries; deep copy applies to lists",
+      "Deep copy mutates original objects; shallow copy remains read-only",
+      "Shallow copy is faster because it bypasses memory allocation"
+    ],
+    "answer": "Shallow copy creates a new object referencing original nested items; deep copy recursively duplicates all nested items"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "What is the purpose of `Array.prototype.reduce()` in JavaScript?",
+    "options": [
+      "Iteratively processing array elements to accumulate a single consolidated output value",
+      "Removing duplicate elements from an array",
+      "Truncating array length to save memory",
+      "Sorting elements in descending numerical order"
+    ],
+    "answer": "Iteratively processing array elements to accumulate a single consolidated output value"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "Which Python standard library module provides memory-efficient functions for iterators and combination looping?",
+    "options": [
+      "functools",
+      "itertools",
+      "collections",
+      "sys"
+    ],
+    "answer": "itertools"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "How is the `this` context binding determined inside an ES6 Arrow Function?",
+    "options": [
+      "Inherited lexically from the enclosing outer execution context",
+      "Bound dynamically depending on how the function is invoked",
+      "Always set to global `window` or `globalThis` object",
+      "Set to `undefined` regardless of invocation scope"
+    ],
+    "answer": "Inherited lexically from the enclosing outer execution context"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "What is a decorator in Python?",
+    "options": [
+      "A callable taking a function object as an argument to extend its behavior without direct modification",
+      "A graphical user interface layout theme component",
+      "A static type checking annotation syntax",
+      "A garbage collection memory optimization rule"
+    ],
+    "answer": "A callable taking a function object as an argument to extend its behavior without direct modification"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "What initial status does a JavaScript `Promise` hold prior to completion?",
+    "options": [
+      "fulfilled",
+      "pending",
+      "rejected",
+      "settled"
+    ],
+    "answer": "pending"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "What is the function of the `pass` statement in Python?",
+    "options": [
+      "Serving as a no-operation placeholder where executable code is syntactically required",
+      "Skipping current loop iterations equivalent to `continue`",
+      "Bypassing runtime exception handling blocks",
+      "Passing variables from inner to outer scopes"
+    ],
+    "answer": "Serving as a no-operation placeholder where executable code is syntactically required"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "How does `Object.freeze()` differ from `Object.seal()` in JavaScript?",
+    "options": [
+      "`freeze()` prevents property additions/deletions/modifications; `seal()` prevents additions/deletions but allows existing property value edits",
+      "`seal()` makes objects immutable; `freeze()` locks only object prototypes",
+      "`freeze()` works on arrays only; `seal()` works on functions",
+      "There is no difference in operational behavior"
+    ],
+    "answer": "`freeze()` prevents property additions/deletions/modifications; `seal()` prevents additions/deletions but allows existing property value edits"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "What result does the Python built-in `zip()` function yield?",
+    "options": [
+      "An iterator combining elements from multiple iterables into tuples positionally",
+      "A compressed binary string representation of lists",
+      "A single flattened list of nested elements",
+      "A dictionary containing sorted unique keys"
+    ],
+    "answer": "An iterator combining elements from multiple iterables into tuples positionally"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "What primary problem does the ES6 primitive type `Symbol` solve?",
+    "options": [
+      "Creating guaranteed unique identifiers for object property keys to prevent collision",
+      "Replacing double-precision floating numbers with arbitrary precision",
+      "Generating secure cryptographic hash signatures",
+      "Optimizing string storage in V8 engine heap memory"
+    ],
+    "answer": "Creating guaranteed unique identifiers for object property keys to prevent collision"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "What default return value is returned by a Python function lacking an explicit `return` statement?",
+    "options": [
+      "0",
+      "False",
+      "None",
+      "undefined"
+    ],
+    "answer": "None"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "What action occurs when applying the spread operator (`...`) to an object inside an object literal in JavaScript?",
+    "options": [
+      "Shallowly copying own enumerable properties into the target object literal",
+      "Deeply cloning prototype properties into a new instance",
+      "Merging prototype methods across inheritance hierarchies",
+      "Freezing nested properties automatically"
+    ],
+    "answer": "Shallowly copying own enumerable properties into the target object literal"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "Which Python collection type enforces unique element membership and is fundamentally unordered?",
+    "options": [
+      "List",
+      "Tuple",
+      "Set",
+      "Dictionary"
+    ],
+    "answer": "Set"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "What distinguishes `null` from `undefined` in JavaScript?",
+    "options": [
+      "`undefined` signifies variable declaration without assignment; `null` represents an explicit intentional absence of value",
+      "`null` is an primitive type; `undefined` is a complex object class",
+      "`undefined` is used strictly in functions; `null` is used in arrays",
+      "They are identical in both strict type and semantic value"
+    ],
+    "answer": "`undefined` signifies variable declaration without assignment; `null` represents an explicit intentional absence of value"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "What pair of items does `enumerate(iterable)` yield during iteration in Python?",
+    "options": [
+      "Tuples containing index counter and item value",
+      "Key-value dictionary mappings",
+      "Items matched with their data types",
+      "Memory pointer addresses and values"
+    ],
+    "answer": "Tuples containing index counter and item value"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "What is event bubbling in JavaScript DOM event propagation?",
+    "options": [
+      "Event dispatching starting from target node and bubbling upward through parent hierarchy",
+      "Event triggering downward from root document to target node",
+      "Event execution jumping across browser worker threads",
+      "Asynchronous queuing of UI repaint cycles"
+    ],
+    "answer": "Event dispatching starting from target node and bubbling upward through parent hierarchy"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "How does a generator function produce values in Python?",
+    "options": [
+      "By using the `yield` keyword to return stateful values sequentially without destroying function state",
+      "By returning a completed tuple via `return` statement",
+      "By storing output values inside global memory caches",
+      "By spawning daemon background threads"
+    ],
+    "answer": "By using the `yield` keyword to return stateful values sequentially without destroying function state"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "How does `Promise.all()` behave if one promise within the input array rejects?",
+    "options": [
+      "Rejects immediately with the rejection reason of the first rejected promise",
+      "Waits for remaining promises to complete before returning errors",
+      "Ignores rejected promises and returns fulfilled ones",
+      "Retries the rejected promise three times automatically"
+    ],
+    "answer": "Rejects immediately with the rejection reason of the first rejected promise"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "What automation feature does the `@dataclass` decorator introduce in Python 3.7+?",
+    "options": [
+      "Automatically generating boilerplate special methods like `__init__`, `__repr__`, and `__eq__`",
+      "Enforcing strict compile-time C-types execution",
+      "Converting python classes directly into SQL tables",
+      "Optimizing variable garbage collection performance"
+    ],
+    "answer": "Automatically generating boilerplate special methods like `__init__`, `__repr__`, and `__eq__`"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "How does a JavaScript `Set` differ fundamentally from a standard JavaScript `Array`?",
+    "options": [
+      "Set stores unique values exclusively and provides $O(1)$ fast lookup without index ordering",
+      "Array stores unique values exclusively with immutable indexing",
+      "Set keys are auto-incremented integers starting at 1",
+      "Set cannot store objects or primitive types"
+    ],
+    "answer": "Set stores unique values exclusively and provides $O(1)$ fast lookup without index ordering"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "How do `append()` and `extend()` differ when operating on Python lists?",
+    "options": [
+      "`append()` inserts argument as a single element; `extend()` iterates argument appending each item individually",
+      "`extend()` mutates original list; `append()` returns a new list copy",
+      "`append()` works on strings only; `extend()` works on numbers",
+      "There is no difference in operational output"
+    ],
+    "answer": "`append()` inserts argument as a single element; `extend()` iterates argument appending each item individually"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "What is the boolean result of `0.1 + 0.2 === 0.3` in JavaScript?",
+    "options": [
+      "true",
+      "false",
+      "TypeError",
+      "NaN"
+    ],
+    "answer": "false"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "What is the operational purpose of the Global Interpreter Lock (GIL) in CPython?",
+    "options": [
+      "A thread-safety mutex preventing multiple native OS threads from executing CPython bytecodes concurrently",
+      "A compiler security layer blocking unauthorized file system read operations",
+      "A memory allocator locking global variable access across separate worker processes",
+      "A runtime optimizer dynamic compiler executing C code paths"
+    ],
+    "answer": "A thread-safety mutex preventing multiple native OS threads from executing CPython bytecodes concurrently"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "How does the JavaScript Event Loop prioritize microtask queue execution relative to macrotasks?",
+    "options": [
+      "Drains ALL pending microtasks in the microtask queue completely before rendering or picking the next macrotask",
+      "Executes microtasks and macrotasks in strict round-robin alternating order",
+      "Executes macrotasks first and delays microtasks until CPU idle status",
+      "Processes microtasks only when macrotask queue length reaches zero"
+    ],
+    "answer": "Drains ALL pending microtasks in the microtask queue completely before rendering or picking the next macrotask"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "What memory optimization mechanism does defining `__slots__` inside a Python class provide?",
+    "options": [
+      "Suppresses instance `__dict__` and `__weakref__` creation, allocating fixed space for declared attributes",
+      "Compresses class method definitions into static C pointers",
+      "Enforces atomic thread locks on instance property modifications",
+      "Bypasses CPython garbage collection reference counting"
+    ],
+    "answer": "Suppresses instance `__dict__` and `__weakref__` creation, allocating fixed space for declared attributes"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "What mechanism causes Prototype Pollution security vulnerabilities in JavaScript applications?",
+    "options": [
+      "Unsanitized modification of `Object.prototype`, injecting or altering properties inherited across all objects",
+      "Overflowing stack memory through infinite recursive prototype lookups",
+      "Overwriting global window bindings via unsafe `var` declarations",
+      "Corrupting binary buffer buffers in WebGL rendering contexts"
+    ],
+    "answer": "Unsanitized modification of `Object.prototype`, injecting or altering properties inherited across all objects"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "How does `__str__` differ semantically from `__repr__` in Python special method implementations?",
+    "options": [
+      "`__str__` targets user-friendly informal string output; `__repr__` targets unambiguous developer representation (ideally valid Python code)",
+      "`__repr__` is called by print(); `__str__` is called by debugger inspection",
+      "`__str__` converts strings to bytes; `__repr__` converts bytes to UTF-8",
+      "They are identical aliases invoked interchangeably by Python interpreter"
+    ],
+    "answer": "`__str__` targets user-friendly informal string output; `__repr__` targets unambiguous developer representation (ideally valid Python code)"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "What occurs when attempting to read a non-existent property on a plain JavaScript object?",
+    "options": [
+      "Traverses prototype chain to top (`Object.prototype`), returning `undefined` when unresolvable",
+      "Throws a `ReferenceError` exception immediately",
+      "Returns `null` value without traversing prototype chain",
+      "Creates the property automatically and assigns `void 0`"
+    ],
+    "answer": "Traverses prototype chain to top (`Object.prototype`), returning `undefined` when unresolvable"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "What is a Metaclass in Python object-oriented programming?",
+    "options": [
+      "A class whose instances are classes themselves, controlling class definition creation and customization",
+      "An abstract base class containing purely virtual methods",
+      "A decorator wrapper converting instances into singletons",
+      "A dynamic module importer resolving runtime dependencies"
+    ],
+    "answer": "A class whose instances are classes themselves, controlling class definition creation and customization"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "How does garbage collection handle key references held within a JavaScript `WeakMap`?",
+    "options": [
+      "Keys are held weakly; if no other strong references exist to a key object, it is eligible for garbage collection",
+      "Keys are retained permanently until `WeakMap.clear()` is called",
+      "Keys are converted to primitive strings to prevent memory leaks",
+      "Keys are moved to old generation heap memory after 10 execution loops"
+    ],
+    "answer": "Keys are held weakly; if no other strong references exist to a key object, it is eligible for garbage collection"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "How does Python's `contextlib.contextmanager` decorator implement context manager protocol using generators?",
+    "options": [
+      "Code before `yield` runs in `__enter__()`, yielded value is assigned, code after `yield` executes in `__exit__()`",
+      "Code inside `yield` runs inside an isolated OS sub-process thread",
+      "The generator creates an automatic retry loop for exception handling",
+      "It converts synchronous functions into `asyncio` coroutines automatically"
+    ],
+    "answer": "Code before `yield` runs in `__enter__()`, yielded value is assigned, code after `yield` executes in `__exit__()`"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "What is the Temporal Dead Zone (TDZ) in JavaScript scope execution?",
+    "options": [
+      "The region from the start of a block scope until the variable declaration is initialized, where accessing `let`/`const` throws a `ReferenceError`",
+      "The delay window between microtask queue completion and repaint execution",
+      "The duration spent waiting for garbage collection cycles in V8",
+      "The period where `var` declarations return `null` instead of `undefined`"
+    ],
+    "answer": "The region from the start of a block scope until the variable declaration is initialized, where accessing `let`/`const` throws a `ReferenceError`"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "Which algorithm computes Python's Method Resolution Order (MRO) for multiple inheritance resolution?",
+    "options": [
+      "C3 Linearization algorithm",
+      "Depth-First Search with backtracking",
+      "Dijkstra's Shortest Path algorithm",
+      "Breadth-First Topological Sort"
+    ],
+    "answer": "C3 Linearization algorithm"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "What is the evaluation result of `(function(){ return typeof arguments; })()` in JavaScript?",
+    "options": [
+      "\"object\"",
+      "\"array\"",
+      "\"arguments\"",
+      "\"undefined\""
+    ],
+    "answer": "\"object\""
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "What functional behavior does `functools.lru_cache` decorator add to a Python function?",
+    "options": [
+      "Memoizes function calls using a Least Recently Used (LRU) cache based on positional/keyword argument keys",
+      "Limits function execution rate to a maximum frequency per second",
+      "Logs parameter inputs and execution time into standard error",
+      "Enforces atomic locks for concurrent multi-threaded invocation"
+    ],
+    "answer": "Memoizes function calls using a Least Recently Used (LRU) cache based on positional/keyword argument keys"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "In `Object.defineProperty()`, what does setting the `configurable` descriptor flag to `false` prevent?",
+    "options": [
+      "Prevents deleting the property or altering property descriptor attributes (except `writable`)",
+      "Prevents reading property value during assignment operations",
+      "Prevents modifying `value` or `writable` descriptors strictly",
+      "Forces property to automatically appear in `for...in` loops"
+    ],
+    "answer": "Prevents deleting the property or altering property descriptor attributes (except `writable`)"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "How do `@classmethod` and `@staticmethod` decorators differ in Python method signatures?",
+    "options": [
+      "`@classmethod` receives implicit class object (`cls`) as first argument; `@staticmethod` receives no implicit first argument",
+      "`@staticmethod` can mutate class state; `@classmethod` access is read-only",
+      "`@classmethod` works on instances only; `@staticmethod` works on modules",
+      "There is no difference in runtime argument passing"
+    ],
+    "answer": "`@classmethod` receives implicit class object (`cls`) as first argument; `@staticmethod` receives no implicit first argument"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "What is the result of expression `[] == ![]` in JavaScript coercion semantics?",
+    "options": [
+      "true",
+      "false",
+      "TypeError",
+      "NaN"
+    ],
+    "answer": "true"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "Why are mutable default argument values (e.g., `def func(lst=[])`) considered dangerous traps in Python?",
+    "options": [
+      "Default arguments are evaluated once at function definition time, sharing the same mutable instance across all calls",
+      "Mutable values trigger runtime memory overflow inside CPython AST compiler",
+      "CPython garbage collector deletes mutable defaults after first invocation",
+      "Keyword arguments lose type hints when defaults are modified"
+    ],
+    "answer": "Default arguments are evaluated once at function definition time, sharing the same mutable instance across all calls"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "How do `Function.prototype.call()` and `Function.prototype.apply()` differ in argument invocation structure?",
+    "options": [
+      "`call()` accepts function arguments individually separated by commas; `apply()` accepts arguments as an array",
+      "`apply()` binds context permanently; `call()` binds context temporarily",
+      "`call()` works asynchronously; `apply()` operates synchronously",
+      "`apply()` accepts object parameters only; `call()` accepts primitive types"
+    ],
+    "answer": "`call()` accepts function arguments individually separated by commas; `apply()` accepts arguments as an array"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "What primary memory management system does CPython use supplemented by cyclic GC?",
+    "options": [
+      "Reference Counting mechanism",
+      "Tracing Mark-and-Sweep garbage collector",
+      "Stop-the-World generational compact collector",
+      "Manual pointer allocation and deallocation"
+    ],
+    "answer": "Reference Counting mechanism"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "What capability does the ES6 `Proxy` object provide in JavaScript Metaprogramming?",
+    "options": [
+      "Enables wrapping target objects to intercept and customize fundamental operations (get, set, apply)",
+      "Creates encrypted network proxy tunnels for HTTP client connections",
+      "Facilitates multithreaded shared memory operations across web workers",
+      "Provides automated database ORM mappings"
+    ],
+    "answer": "Enables wrapping target objects to intercept and customize fundamental operations (get, set, apply)"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "What capability does defining `__call__` special method grant to a Python class instance?",
+    "options": [
+      "Allows instance to be invoked directly using function call parentheses syntax `instance()`",
+      "Intercepts remote procedure protocol API network calls",
+      "Permits instance to act as a system thread entry point",
+      "Automates class method logging to standard output"
+    ],
+    "answer": "Allows instance to be invoked directly using function call parentheses syntax `instance()`"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "What is the primary role of JavaScript `Reflect` built-in target object?",
+    "options": [
+      "Providing clean static methods matching Proxy traps to perform default internal object operations",
+      "Exposing low-level WebAssembly memory buffer reflections",
+      "Managing DOM tree mutations during virtual DOM diffing",
+      "Inspecting stack frame traces during runtime debugging"
+    ],
+    "answer": "Providing clean static methods matching Proxy traps to perform default internal object operations"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "How does `asyncio.gather()` handle raised exceptions when `return_exceptions=False` in Python?",
+    "options": [
+      "First raised exception propagates immediately to caller, while remaining ongoing tasks continue running",
+      "Cancels all running tasks instantly and returns empty list",
+      "Suppresses exceptions and replaces failed values with `None`",
+      "Converts async failures into synchronous thread panics"
+    ],
+    "answer": "First raised exception propagates immediately to caller, while remaining ongoing tasks continue running"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "How does strict mode (`'use strict'`) alter `this` evaluation inside standalone plain function calls in JavaScript?",
+    "options": [
+      "Evaluates `this` as `undefined` instead of coercing it to global object",
+      "Coerces `this` into empty object `{}`",
+      "Sets `this` to strict window target reference",
+      "Throws immediate `TypeError` during function parsing"
+    ],
+    "answer": "Evaluates `this` as `undefined` instead of coercing it to global object"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "What runtime limit does `sys.setrecursionlimit()` configure in Python execution context?",
+    "options": [
+      "Maximum depth limit of Python interpreter call stack frames",
+      "Maximum number of thread allocations in runtime pool",
+      "Maximum memory allocation per generator instance",
+      "Maximum nested loop block depth supported by AST compiler"
+    ],
+    "answer": "Maximum depth limit of Python interpreter call stack frames"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "What are the output values of `1 < 2 < 3` and `3 > 2 > 1` in JavaScript evaluation order?",
+    "options": [
+      "`true` and `false`",
+      "`true` and `true`",
+      "`false` and `false`",
+      "`false` and `true`"
+    ],
+    "answer": "`true` and `false`"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "What operation does implementing `__getitem__` special method enable on custom Python class instances?",
+    "options": [
+      "Subscript index, slice, and key access using bracket operator `instance[key]`",
+      "Automatic generation of getter methods for private attributes",
+      "Intercepting attribute assignment operations `instance.key = val`",
+      "Enabling context management with `with` syntax"
+    ],
+    "answer": "Subscript index, slice, and key access using bracket operator `instance[key]`"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "What architectural constraint applies to Web Workers running in browser JavaScript environments?",
+    "options": [
+      "They run on background worker threads isolated completely from direct DOM tree access",
+      "They share identical memory thread pool with main UI engine",
+      "They cannot execute network requests via `fetch()` API",
+      "They terminate automatically after 5 seconds of execution"
+    ],
+    "answer": "They run on background worker threads isolated completely from direct DOM tree access"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "What unique advantage does `yield from` sub-generator delegator syntax provide in Python?",
+    "options": [
+      "Establishes direct transparent bidirectional channel for passing values and exceptions between caller and sub-generator",
+      "Parallelizes sub-generator loops across multiple CPU cores",
+      "Automatically memoizes sub-generator output values",
+      "Converts generator loops into C-compiled binary structures"
+    ],
+    "answer": "Establishes direct transparent bidirectional channel for passing values and exceptions between caller and sub-generator"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "What is the evaluation difference between `Object.is(-0, +0)` and `-0 === +0` in JavaScript?",
+    "options": [
+      "`Object.is(-0, +0)` returns `false`; `-0 === +0` returns `true`",
+      "`Object.is(-0, +0)` returns `true`; `-0 === +0` returns `false`",
+      "Both expressions evaluate to `true`",
+      "Both expressions evaluate to `false`"
+    ],
+    "answer": "`Object.is(-0, +0)` returns `false`; `-0 === +0` returns `true`"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "Which language statement structure introduced in Python 3.10 enables structural pattern matching?",
+    "options": [
+      "`match / case`",
+      "`switch / case`",
+      "`select / case`",
+      "`pattern / match`"
+    ],
+    "answer": "`match / case`"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "What operational guarantee does `queueMicrotask()` offer in JavaScript asynchronous programming?",
+    "options": [
+      "Queues microtask execution ahead of event loop continuation and macrotask processing",
+      "Guarantees microtask execution on isolated Web Worker thread pool",
+      "Executes task after layout engine repaint cycle finishes",
+      "Schedules task strictly for next browser animation frame"
+    ],
+    "answer": "Queues microtask execution ahead of event loop continuation and macrotask processing"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "In Python typing semantics, what does defining a generic type variable as Covariant control?",
+    "options": [
+      "Preserves subtyping direction relationship ($A \\le B \\implies C[A] \\le C[B]$)",
+      "Reverses subtyping direction relationship ($A \\le B \\implies C[B] \\le C[A]$)",
+      "Blocks type checking inheritance completely",
+      "Forces implicit dynamic cast conversions"
+    ],
+    "answer": "Preserves subtyping direction relationship ($A \\le B \\implies C[A] \\le C[B]$)"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "In the V8 engine garbage collector, how are short-lived objects managed in New Space memory?",
+    "options": [
+      "Collected frequently and efficiently using Scavenger copy algorithm across semi-spaces",
+      "Scanned slowly using full Mark-Sweep-Compact cycles",
+      "Deleted manually upon block termination",
+      "Pushed directly to OS swap file storage"
+    ],
+    "answer": "Collected frequently and efficiently using Scavenger copy algorithm across semi-spaces"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "How does overriding `__getattribute__` differ from overriding `__getattr__` in Python classes?",
+    "options": [
+      "`__getattribute__` is called unconditionally for every attribute lookup; `__getattr__` is called only when attribute is missing",
+      "`__getattr__` is called for private attributes only; `__getattribute__` handles public attributes",
+      "`__getattribute__` works on static methods only; `__getattr__` handles instances",
+      "They are identical hooks executed in parallel"
+    ],
+    "answer": "`__getattribute__` is called unconditionally for every attribute lookup; `__getattr__` is called only when attribute is missing"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "What is the primary utility of `SharedArrayBuffer` in modern browser JavaScript?",
+    "options": [
+      "Sharing raw binary memory buffers directly across threads without message serialization overhead",
+      "Persisting large JSON document stores inside IndexedDB storage",
+      "Accelerating WebSocket payload encryption handshakes",
+      "Caching DOM nodes across iframe frames"
+    ],
+    "answer": "Sharing raw binary memory buffers directly across threads without message serialization overhead"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "What main functionality does Python's built-in `weakref` module provide?",
+    "options": [
+      "Creating references to target objects without incrementing their reference count, avoiding circular reference retention",
+      "Compressing memory footprint of weak typing attributes",
+      "Lowering execution priority of non-critical thread workers",
+      "Profiling garbage collection sweep execution latency"
+    ],
+    "answer": "Creating references to target objects without incrementing their reference count, avoiding circular reference retention"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "In JavaScript ES Modules (`import`/`export`), how are imported variable bindings treated within importing module?",
+    "options": [
+      "As read-only live bindings that cannot be reassigned directly by importer module",
+      "As deep cloned immutable constants",
+      "As mutable local copy variables",
+      "As dynamic lazy pointers evaluated on access"
+    ],
+    "answer": "As read-only live bindings that cannot be reassigned directly by importer module"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "What specific class attribute exposes the resolved linear inheritance hierarchy path in Python?",
+    "options": [
+      "`__mro__`",
+      "`__bases__`",
+      "`__class__`",
+      "`__hierarchy__`"
+    ],
+    "answer": "`__mro__`"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "What functionality does the modern JavaScript `FinalizationRegistry` API offer?",
+    "options": [
+      "Registering cleanup callbacks that execute after target registered objects have been garbage collected",
+      "Forcing immediate garbage collection sweep cycles programmatically",
+      "Locking class instances from undergoing property deletions",
+      "Terminating hanging worker threads during page unload"
+    ],
+    "answer": "Registering cleanup callbacks that execute after target registered objects have been garbage collected"
+  }
+]

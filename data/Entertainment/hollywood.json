@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "Which actor played the role of Tony Stark/Iron Man in the Marvel Cinematic Universe?",
+    "options": [
+      "Chris Evans",
+      "Robert Downey Jr.",
+      "Chris Hemsworth",
+      "Mark Ruffalo"
+    ],
+    "answer": "Robert Downey Jr."
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "Who directed the 1997 epic romance and disaster film 'Titanic'?",
+    "options": [
+      "Steven Spielberg",
+      "James Cameron",
+      "Christopher Nolan",
+      "Quentin Tarantino"
+    ],
+    "answer": "James Cameron"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "Which animated movie features the famous song 'Let It Go'?",
+    "options": [
+      "Tangled",
+      "Moana",
+      "Frozen",
+      "Brave"
+    ],
+    "answer": "Frozen"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "Which actor starred as Captain Jack Sparrow in the 'Pirates of the Caribbean' franchise?",
+    "options": [
+      "Johnny Depp",
+      "Orlando Bloom",
+      "Brad Pitt",
+      "Tom Cruise"
+    ],
+    "answer": "Johnny Depp"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "What is the name of the fictional kingdom in Marvel's 'Black Panther'?",
+    "options": [
+      "Asgard",
+      "Wakanda",
+      "Genovia",
+      "Zamunda"
+    ],
+    "answer": "Wakanda"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "Which movie won the Academy Award for Best Picture in 1994?",
+    "options": [
+      "Pulp Fiction",
+      "The Shawshank Redemption",
+      "Forrest Gump",
+      "The Lion King"
+    ],
+    "answer": "Forrest Gump"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "Who played the character of Hermione Granger in the 'Harry Potter' film series?",
+    "options": [
+      "Emma Stone",
+      "Emma Watson",
+      "Saoirse Ronan",
+      "Florence Pugh"
+    ],
+    "answer": "Emma Watson"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "Which famous dinosaur park movie was directed by Steven Spielberg in 1993?",
+    "options": [
+      "Jurassic Park",
+      "King Kong",
+      "Godzilla",
+      "The Land Before Time"
+    ],
+    "answer": "Jurassic Park"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "What is the name of the ogre voiced by Mike Myers in the 2001 animated film?",
+    "options": [
+      "Donkey",
+      "Shrek",
+      "Fiona",
+      "Farquaad"
+    ],
+    "answer": "Shrek"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "Which actor played the Joker in 'The Dark Knight' (2008)?",
+    "options": [
+      "Joaquin Phoenix",
+      "Heath Ledger",
+      "Jared Leto",
+      "Jack Nicholson"
+    ],
+    "answer": "Heath Ledger"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "Which movie company created the iconic mascot 'Mickey Mouse'?",
+    "options": [
+      "Universal Pictures",
+      "Warner Bros.",
+      "Walt Disney Studios",
+      "Paramount Pictures"
+    ],
+    "answer": "Walt Disney Studios"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "Who played Wolverine in the 'X-Men' movie franchise?",
+    "options": [
+      "Hugh Jackman",
+      "Ryan Reynolds",
+      "Patrick Stewart",
+      "James McAvoy"
+    ],
+    "answer": "Hugh Jackman"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "What is the highest-grossing film of all time worldwide (unadjusted for inflation)?",
+    "options": [
+      "Avengers: Endgame",
+      "Titanic",
+      "Avatar",
+      "Star Wars: The Force Awakens"
+    ],
+    "answer": "Avatar"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "Which actor voiced the cowboy Woody in Pixar's 'Toy Story'?",
+    "options": [
+      "Tim Allen",
+      "Tom Hanks",
+      "Billy Crystal",
+      "John Goodman"
+    ],
+    "answer": "Tom Hanks"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "What is the name of Batman's butler?",
+    "options": [
+      "Jarvis",
+      "Alfred Pennyworth",
+      "Giles",
+      "Lucius Fox"
+    ],
+    "answer": "Alfred Pennyworth"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "Which actress played Katniss Everdeen in 'The Hunger Games' series?",
+    "options": [
+      "Jennifer Lawrence",
+      "Kristen Stewart",
+      "Shailene Woodley",
+      "Emma Stone"
+    ],
+    "answer": "Jennifer Lawrence"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "What color is the pill Neo chooses to take in 'The Matrix'?",
+    "options": [
+      "Blue",
+      "Red",
+      "Green",
+      "Yellow"
+    ],
+    "answer": "Red"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "Which iconic sci-fi movie features the phrase 'May the Force be with you'?",
+    "options": [
+      "Star Trek",
+      "Star Wars",
+      "Interstellar",
+      "Dune"
+    ],
+    "answer": "Star Wars"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "Who played the title role in the 'Indiana Jones' franchise?",
+    "options": [
+      "Harrison Ford",
+      "Sean Connery",
+      "George Clooney",
+      "Mel Gibson"
+    ],
+    "answer": "Harrison Ford"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "Which superhero is also known as Peter Parker?",
+    "options": [
+      "Superman",
+      "Batman",
+      "Spider-Man",
+      "The Flash"
+    ],
+    "answer": "Spider-Man"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "What is the main setting for the movie 'The Shining'?",
+    "options": [
+      "Bates Motel",
+      "Overlook Hotel",
+      "Shutter Island",
+      "Camp Arawak"
+    ],
+    "answer": "Overlook Hotel"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "Who voiced Po the Panda in the 'Kung Fu Panda' series?",
+    "options": [
+      "Jack Black",
+      "Seth Rogen",
+      "Dustin Hoffman",
+      "Will Ferrell"
+    ],
+    "answer": "Jack Black"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "In 'The Avengers' (2012), who is the main villain from Asgard?",
+    "options": [
+      "Thanos",
+      "Loki",
+      "Hela",
+      "Ultron"
+    ],
+    "answer": "Loki"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "Which film feature key characters named Mia Wallace, Vincent Vega, and Jules Winnfield?",
+    "options": [
+      "Goodfellas",
+      "Pulp Fiction",
+      "Fight Club",
+      "Reservoir Dogs"
+    ],
+    "answer": "Pulp Fiction"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "What kind of animal is Remy in Pixar's 'Ratatouille'?",
+    "options": [
+      "Mouse",
+      "Rat",
+      "Raccoon",
+      "Squirrel"
+    ],
+    "answer": "Rat"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "Which actress played Barbie in the 2023 live-action 'Barbie' movie?",
+    "options": [
+      "Margot Robbie",
+      "Emma Stone",
+      "Gal Gadot",
+      "Florence Pugh"
+    ],
+    "answer": "Margot Robbie"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "Who plays the lead role of Ethan Hunt in the 'Mission: Impossible' series?",
+    "options": [
+      "Keanu Reeves",
+      "Tom Cruise",
+      "Matt Damon",
+      "Daniel Craig"
+    ],
+    "answer": "Tom Cruise"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "Which movie features the song 'Eye of the Tiger'?",
+    "options": [
+      "Rocky III",
+      "Top Gun",
+      "Footloose",
+      "Karate Kid"
+    ],
+    "answer": "Rocky III"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "What object serves as a portkey in the opening scenes of 'Harry Potter and the Goblet of Fire'?",
+    "options": [
+      "An old boot",
+      "A tin can",
+      "A book",
+      "A pocket watch"
+    ],
+    "answer": "An old boot"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "Which superhero group consists of Mr. Incredible, Elastigirl, Violet, Dash, and Jack-Jack?",
+    "options": [
+      "The Avengers",
+      "The Fantastic Four",
+      "The Incredibles",
+      "Justice League"
+    ],
+    "answer": "The Incredibles"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "Which movie earned Leonardo DiCaprio his first Oscar for Best Actor?",
+    "options": [
+      "The Wolf of Wall Street",
+      "Titanic",
+      "The Revenant",
+      "Inception"
+    ],
+    "answer": "The Revenant"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "Who directed the 2023 biographical film 'Oppenheimer'?",
+    "options": [
+      "Martin Scorsese",
+      "Christopher Nolan",
+      "Denis Villeneuve",
+      "Ridley Scott"
+    ],
+    "answer": "Christopher Nolan"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "Which movie was mistakenly announced as the Best Picture winner before 'Moonlight' won at the 89th Academy Awards?",
+    "options": [
+      "La La Land",
+      "Arrival",
+      "Manchester by the Sea",
+      "Lion"
+    ],
+    "answer": "La La Land"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "What is the name of the fictional town where 'Stranger Things' takes place?",
+    "options": [
+      "Springfield",
+      "Hawkins",
+      "Riverdale",
+      "Sunnydale"
+    ],
+    "answer": "Hawkins"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "Which actor played the character of Tyler Durden in 'Fight Club'?",
+    "options": [
+      "Edward Norton",
+      "Brad Pitt",
+      "Jared Leto",
+      "Christian Bale"
+    ],
+    "answer": "Brad Pitt"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "What rule is famously stated first in 'Fight Club'?",
+    "options": [
+      "Always respect your opponent",
+      "You do not talk about Fight Club",
+      "Only two guys to a fight",
+      "No shirts, no shoes"
+    ],
+    "answer": "You do not talk about Fight Club"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "Who composed the iconic musical score for 'Jaws', 'Star Wars', and 'Jurassic Park'?",
+    "options": [
+      "Hans Zimmer",
+      "John Williams",
+      "Ennio Morricone",
+      "Howard Shore"
+    ],
+    "answer": "John Williams"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "Which film features the famous line 'Here's looking at you, kid'?",
+    "options": [
+      "Gone with the Wind",
+      "Casablanca",
+      "Citizen Kane",
+      "The Godfather"
+    ],
+    "answer": "Casablanca"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "Who played James Bond in 'Casino Royale' (2006)?",
+    "options": [
+      "Pierce Brosnan",
+      "Daniel Craig",
+      "Timothy Dalton",
+      "Colin Firth"
+    ],
+    "answer": "Daniel Craig"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "In 'The Matrix', what is the name of the ship commanded by Morpheus?",
+    "options": [
+      "Nebuchadnezzar",
+      "Endeavour",
+      "Nautilus",
+      "Enterprise"
+    ],
+    "answer": "Nebuchadnezzar"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "Which film won the Best Picture Oscar at the 92nd Academy Awards, making history as the first non-English language film to win?",
+    "options": [
+      "Roma",
+      "Parasite",
+      "Minari",
+      "Drive My Car"
+    ],
+    "answer": "Parasite"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "Which director is famous for non-linear storytelling in movies like 'Memento', 'Inception', and 'Tenet'?",
+    "options": [
+      "David Fincher",
+      "Christopher Nolan",
+      "Denis Villeneuve",
+      "Guillermo del Toro"
+    ],
+    "answer": "Christopher Nolan"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "Who played the character of Mia Thermopolis in 'The Princess Diaries'?",
+    "options": [
+      "Anne Hathaway",
+      "Julie Andrews",
+      "Mandy Moore",
+      "Reese Witherspoon"
+    ],
+    "answer": "Anne Hathaway"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "What is the title of Quentin Tarantino's 1992 directorial debut film?",
+    "options": [
+      "Pulp Fiction",
+      "Reservoir Dogs",
+      "Jackie Brown",
+      "Kill Bill: Vol. 1"
+    ],
+    "answer": "Reservoir Dogs"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "Which actor starred as the lead in 'Drive' (2011) and 'La La Land' (2016)?",
+    "options": [
+      "Ryan Gosling",
+      "Jake Gyllenhaal",
+      "Bradley Cooper",
+      "Christian Bale"
+    ],
+    "answer": "Ryan Gosling"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "Who played the Wicked Witch of the West in the original 1939 film 'The Wizard of Oz'?",
+    "options": [
+      "Margaret Hamilton",
+      "Judy Garland",
+      "Billie Burke",
+      "Bette Davis"
+    ],
+    "answer": "Margaret Hamilton"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "What speed must the bus maintain in the movie 'Speed' (1994) to avoid detonating the bomb?",
+    "options": [
+      "40 mph",
+      "50 mph",
+      "60 mph",
+      "70 mph"
+    ],
+    "answer": "50 mph"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "Which actor portrayed Hannibal Lecter in 'The Silence of the Lambs'?",
+    "options": [
+      "Anthony Hopkins",
+      "Mads Mikkelsen",
+      "Brian Cox",
+      "Jack Nicholson"
+    ],
+    "answer": "Anthony Hopkins"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "What is the name of the fictional African country in 'Coming to America'?",
+    "options": [
+      "Wakanda",
+      "Zamunda",
+      "Genovia",
+      "Elbonia"
+    ],
+    "answer": "Zamunda"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "Which Pixar movie features a robot left behind to clean up a deserted Earth?",
+    "options": [
+      "Up",
+      "WALL-E",
+      "Cars",
+      "Inside Out"
+    ],
+    "answer": "WALL-E"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "Who directed the 2014 sci-fi film 'Interstellar'?",
+    "options": [
+      "Ridley Scott",
+      "Christopher Nolan",
+      "Denis Villeneuve",
+      "Alfonso Cuarón"
+    ],
+    "answer": "Christopher Nolan"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "Which actress won an Oscar for her role as Margaret Thatcher in 'The Iron Lady'?",
+    "options": [
+      "Judi Dench",
+      "Meryl Streep",
+      "Helen Mirren",
+      "Kate Winslet"
+    ],
+    "answer": "Meryl Streep"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "What key component powers Iron Man's suit and keeps him alive?",
+    "options": [
+      "Tesseract",
+      "Arc Reactor",
+      "Vibranium Core",
+      "Pym Particles"
+    ],
+    "answer": "Arc Reactor"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "Who played Batman/Bruce Wayne in Christopher Nolan's 'The Dark Knight' trilogy?",
+    "options": [
+      "Ben Affleck",
+      "Christian Bale",
+      "Robert Pattinson",
+      "Michael Keaton"
+    ],
+    "answer": "Christian Bale"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "Which Alfred Hitchcock film is famous for its shower murder scene?",
+    "options": [
+      "Vertigo",
+      "Rear Window",
+      "Psycho",
+      "The Birds"
+    ],
+    "answer": "Psycho"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "What is the name of the fictional hotel in the 2014 Wes Anderson film starring Ralph Fiennes?",
+    "options": [
+      "The Grand Budapest Hotel",
+      "The Overlook Hotel",
+      "The Continental",
+      "The Plaza Hotel"
+    ],
+    "answer": "The Grand Budapest Hotel"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "Who played the character of Kylo Ren in the 'Star Wars' sequel trilogy?",
+    "options": [
+      "Adam Driver",
+      "Oscar Isaac",
+      "John Boyega",
+      "Domhnall Gleeson"
+    ],
+    "answer": "Adam Driver"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "Which horror movie features a killer wearing a 'Ghostface' mask?",
+    "options": [
+      "Halloween",
+      "Scream",
+      "Friday the 13th",
+      "A Nightmare on Elm Street"
+    ],
+    "answer": "Scream"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "What is the name of the computer system that turns rogue in '2001: A Space Odyssey'?",
+    "options": [
+      "JARVIS",
+      "HAL 9000",
+      "SK YNET",
+      "VIKI"
+    ],
+    "answer": "HAL 9000"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "Which movie was awarded Best Picture at the 95th Academy Awards in 2023?",
+    "options": [
+      "All Quiet on the Western Front",
+      "Top Gun: Maverick",
+      "Everything Everywhere All at Once",
+      "The Fabelmans"
+    ],
+    "answer": "Everything Everywhere All at Once"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "Which actor won three Best Actor Academy Awards for 'My Left Foot', 'There Will Be Blood', and 'Lincoln'?",
+    "options": [
+      "Jack Nicholson",
+      "Daniel Day-Lewis",
+      "Marlon Brando",
+      "Dustin Hoffman"
+    ],
+    "answer": "Daniel Day-Lewis"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "Which film won 11 Academy Awards from 11 nominations at the 76th Academy Awards?",
+    "options": [
+      "Titanic",
+      "Ben-Hur",
+      "The Lord of the Rings: The Return of the King",
+      "La La Land"
+    ],
+    "answer": "The Lord of the Rings: The Return of the King"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "Who was the first female director to win the Academy Award for Best Director?",
+    "options": [
+      "Greta Gerwig",
+      "Kathryn Bigelow",
+      "Chloé Zhao",
+      "Jane Campion"
+    ],
+    "answer": "Kathryn Bigelow"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "In 'The Godfather Part II', who portrayed the younger version of Vito Corleone?",
+    "options": [
+      "Al Pacino",
+      "Robert De Niro",
+      "James Caan",
+      "Robert Duvall"
+    ],
+    "answer": "Robert De Niro"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "Which cinematographer won three consecutive Academy Awards for Best Cinematography for 'Gravity', 'Birdman', and 'The Revenant'?",
+    "options": [
+      "Roger Deakins",
+      "Emmanuel Lubezki",
+      "Robert Richardson",
+      "Janusz Kamiński"
+    ],
+    "answer": "Emmanuel Lubezki"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "What was the first feature-length animated film ever released?",
+    "options": [
+      "Pinocchio",
+      "Snow White and the Seven Dwarfs",
+      "Fantasia",
+      "Steamboat Willie"
+    ],
+    "answer": "Snow White and the Seven Dwarfs"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "Who served as the head of the jury at the 2023 Cannes Film Festival?",
+    "options": [
+      "Spike Lee",
+      "Ruben Östlund",
+      "Greta Gerwig",
+      "Cate Blanchett"
+    ],
+    "answer": "Ruben Östlund"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "Which film directed by Orson Welles in 1941 is famously considered one of the greatest movies ever made?",
+    "options": [
+      "Touch of Evil",
+      "Citizen Kane",
+      "The Magnificent Ambersons",
+      "The Third Man"
+    ],
+    "answer": "Citizen Kane"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "What key phrase is spoken by Charles Foster Kane on his deathbed at the start of 'Citizen Kane'?",
+    "options": [
+      "Xanadu",
+      "Rosebud",
+      "Nevermore",
+      "Goodbye"
+    ],
+    "answer": "Rosebud"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "Who scored the music for 'Blade Runner' (1982)?",
+    "options": [
+      "John Williams",
+      "Vangelis",
+      "Hans Zimmer",
+      "Giorgio Moroder"
+    ],
+    "answer": "Vangelis"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "Which 1968 film directed by Stanley Kubrick is subtitled 'A Space Odyssey'?",
+    "options": [
+      "1984",
+      "2001",
+      "2010",
+      "2012"
+    ],
+    "answer": "2001"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "Who was the first African American to win the Academy Award for Best Actor?",
+    "options": [
+      "Denzel Washington",
+      "Sidney Poitier",
+      "Morgan Freeman",
+      "Jamie Foxx"
+    ],
+    "answer": "Sidney Poitier"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "Which famous classic movie was filmed in Technicolor and features the song 'Over the Rainbow'?",
+    "options": [
+      "Singin' in the Rain",
+      "The Wizard of Oz",
+      "Gone with the Wind",
+      "Meet Me in St. Louis"
+    ],
+    "answer": "The Wizard of Oz"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "Which movie holds the record for the most Oscar nominations in history (14 nominations), tied with 'Titanic' and 'La La Land'?",
+    "options": [
+      "All About Eve",
+      "Ben-Hur",
+      "Gone with the Wind",
+      "The Godfather"
+    ],
+    "answer": "All About Eve"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "Who played the main character Travis Bickle in the 1976 film 'Taxi Driver'?",
+    "options": [
+      "Al Pacino",
+      "Robert De Niro",
+      "Dustin Hoffman",
+      "Harvey Keitel"
+    ],
+    "answer": "Robert De Niro"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "Which science fiction film directed by Denis Villeneuve won 6 Academy Awards at the 94th Academy Awards?",
+    "options": [
+      "Arrival",
+      "Blade Runner 2049",
+      "Dune",
+      "Ex Machina"
+    ],
+    "answer": "Dune"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "Who directed the iconic 1979 sci-fi horror film 'Alien'?",
+    "options": [
+      "James Cameron",
+      "Ridley Scott",
+      "David Fincher",
+      "John Carpenter"
+    ],
+    "answer": "Ridley Scott"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "Which film won the Palme d'Or at the 2023 Cannes Film Festival?",
+    "options": [
+      "Anatomy of a Fall",
+      "The Zone of Interest",
+      "Fallen Leaves",
+      "Monster"
+    ],
+    "answer": "Anatomy of a Fall"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "In 'The Matrix', what is the real name of the character Neo?",
+    "options": [
+      "Thomas Anderson",
+      "John Doe",
+      "Agent Smith",
+      "David Bowman"
+    ],
+    "answer": "Thomas Anderson"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "Who composed the score for Christopher Nolan's 'Oppenheimer' (2023)?",
+    "options": [
+      "Hans Zimmer",
+      "Ludwig Göransson",
+      "Max Richter",
+      "Trent Reznor"
+    ],
+    "answer": "Ludwig Göransson"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "Which actress holds the record for the most Academy Award nominations for acting in history (21 nominations)?",
+    "options": [
+      "Katharine Hepburn",
+      "Meryl Streep",
+      "Bette Davis",
+      "Cate Blanchett"
+    ],
+    "answer": "Meryl Streep"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "Which actor won four Academy Awards for Best Actress, the most acting Oscars won by a single performer?",
+    "options": [
+      "Meryl Streep",
+      "Katharine Hepburn",
+      "Ingrid Bergman",
+      "Frances McDormand"
+    ],
+    "answer": "Katharine Hepburn"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "What was the title of David Fincher's 1995 crime thriller centered around the seven deadly sins?",
+    "options": [
+      "Zodiac",
+      "Se7en",
+      "Mindhunter",
+      "The Game"
+    ],
+    "answer": "Se7en"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "Which film directed by Steven Spielberg won the Academy Award for Best Picture in 1993?",
+    "options": [
+      "Jurassic Park",
+      "Schindler's List",
+      "Saving Private Ryan",
+      "The Color Purple"
+    ],
+    "answer": "Schindler's List"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "Who played the character of Roy Batty in the original 'Blade Runner' (1982)?",
+    "options": [
+      "Harrison Ford",
+      "Rutger Hauer",
+      "Edward James Olmos",
+      "Deckard Shaw"
+    ],
+    "answer": "Rutger Hauer"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "Which movie was directed by Guillermo del Toro and won Best Picture at the 90th Academy Awards (2018)?",
+    "options": [
+      "Pan's Labyrinth",
+      "The Shape of Water",
+      "Nightmare Alley",
+      "Pacific Rim"
+    ],
+    "answer": "The Shape of Water"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "Who won the Academy Award for Best Director for the 2015 film 'The Revenant'?",
+    "options": [
+      "Alejandro González Iñárritu",
+      "Alfonso Cuarón",
+      "Guillermo del Toro",
+      "George Miller"
+    ],
+    "answer": "Alejandro González Iñárritu"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "In 'Inception', what item serves as Cobb's (Leonardo DiCaprio) main totem?",
+    "options": [
+      "A loaded die",
+      "A spinning top",
+      "A chess piece",
+      "A gold coin"
+    ],
+    "answer": "A spinning top"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "Which movie starring Marlon Brando features the famous line 'I coulda been a contender'?",
+    "options": [
+      "The Godfather",
+      "On the Waterfront",
+      "A Streetcar Named Desire",
+      "Apocalypse Now"
+    ],
+    "answer": "On the Waterfront"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "Which 1927 film is widely considered the first feature-length motion picture with synchronized dialogue ('talkie')?",
+    "options": [
+      "The Jazz Singer",
+      "Metropolis",
+      "Sunrise",
+      "Singin' in the Rain"
+    ],
+    "answer": "The Jazz Singer"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "Who directed the 2001 musical film 'Moulin Rouge!'?",
+    "options": [
+      "Baz Luhrmann",
+      "Rob Marshall",
+      "Damien Chazelle",
+      "Tom Hooper"
+    ],
+    "answer": "Baz Luhrmann"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "Which film won the Best Picture Oscar at the 96th Academy Awards held in March 2024?",
+    "options": [
+      "Barbie",
+      "Oppenheimer",
+      "Poor Things",
+      "The Holdovers"
+    ],
+    "answer": "Oppenheimer"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "Which actor starred as Anton Chigurh in 'No Country for Old Men' (2007)?",
+    "options": [
+      "Javier Bardem",
+      "Tommy Lee Jones",
+      "Josh Brolin",
+      "Woody Harrelson"
+    ],
+    "answer": "Javier Bardem"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "Who was the director of the classic 1960 psychological horror movie 'Psycho'?",
+    "options": [
+      "Alfred Hitchcock",
+      "Stanley Kubrick",
+      "Roman Polanski",
+      "William Friedkin"
+    ],
+    "answer": "Alfred Hitchcock"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "What was the name of the fictional ship in the 1979 film 'Alien'?",
+    "options": [
+      "Nostromo",
+      "Sulaco",
+      "Prometheus",
+      "Covenant"
+    ],
+    "answer": "Nostromo"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "Which female director was awarded the Best Director Oscar for 'Nomadland' (2020)?",
+    "options": [
+      "Greta Gerwig",
+      "Chloé Zhao",
+      "Jane Campion",
+      "Emerald Fennell"
+    ],
+    "answer": "Chloé Zhao"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "In 'The Shawshank Redemption', what tool does Andy Dufresne use to dig his escape tunnel over 19 years?",
+    "options": [
+      "A rock hammer",
+      "A screwdriver",
+      "A pocket knife",
+      "A spoon"
+    ],
+    "answer": "A rock hammer"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "Who played the primary villain Hans Landa in Quentin Tarantino's 'Inglourious Basterds'?",
+    "options": [
+      "Christoph Waltz",
+      "Brad Pitt",
+      "Michael Fassbender",
+      "Daniel Brühl"
+    ],
+    "answer": "Christoph Waltz"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "Which famous 1939 film opens with the line 'There's no place like home'?",
+    "options": [
+      "Gone with the Wind",
+      "The Wizard of Oz",
+      "Mr. Smith Goes to Washington",
+      "Stagecoach"
+    ],
+    "answer": "The Wizard of Oz"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "Who directed the 2019 black comedy thriller 'Parasite'?",
+    "options": [
+      "Bong Joon-ho",
+      "Park Chan-wook",
+      "Lee Chang-dong",
+      "Kim Jee-woon"
+    ],
+    "answer": "Bong Joon-ho"
+  }
+]

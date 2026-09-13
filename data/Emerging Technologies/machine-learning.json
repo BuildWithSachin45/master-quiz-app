@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "Which machine learning paradigm uses labeled training data to train models that predict outcomes for unseen data?",
+    "options": [
+      "Supervised Learning",
+      "Unsupervised Learning",
+      "Reinforcement Learning",
+      "Self-Supervised Learning"
+    ],
+    "answer": "Supervised Learning"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "Which machine learning paradigm aims to discover hidden structures or patterns in data without pre-existing target labels?",
+    "options": [
+      "Unsupervised Learning",
+      "Supervised Learning",
+      "Reinforcement Learning",
+      "Semi-Supervised Learning"
+    ],
+    "answer": "Unsupervised Learning"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "What type of supervised learning problem predicts continuous numerical values as target outputs?",
+    "options": [
+      "Regression",
+      "Classification",
+      "Clustering",
+      "Dimensionality Reduction"
+    ],
+    "answer": "Regression"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "What type of supervised learning problem maps inputs into discrete categorical class labels?",
+    "options": [
+      "Classification",
+      "Regression",
+      "Density Estimation",
+      "Association Rule Mining"
+    ],
+    "answer": "Classification"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "What term describes a model that performs exceptionally well on training data but fails to generalize to new, unseen test data?",
+    "options": [
+      "Overfitting",
+      "Underfitting",
+      "Generalization",
+      "Convergence"
+    ],
+    "answer": "Overfitting"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "What term describes a model that is too simple to capture the underlying structure and patterns of the data?",
+    "options": [
+      "Underfitting",
+      "Overfitting",
+      "Regularization",
+      "Optimization"
+    ],
+    "answer": "Underfitting"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "In machine learning, what is the term for individual measurable properties or characteristics used as inputs for models?",
+    "options": [
+      "Features",
+      "Labels",
+      "Hyperparameters",
+      "Losses"
+    ],
+    "answer": "Features"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "In a supervised dataset, what term refers to the target answer or ground truth variable being predicted?",
+    "options": [
+      "Label",
+      "Feature",
+      "Weight",
+      "Bias"
+    ],
+    "answer": "Label"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "What is the main purpose of splitting a dataset into training and testing sets?",
+    "options": [
+      "To evaluate how well the trained model generalizes to unseen data",
+      "To reduce the computational memory required to train the model",
+      "To increase the total volume of training examples available",
+      "To automatically perform feature selection"
+    ],
+    "answer": "To evaluate how well the trained model generalizes to unseen data"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "Which evaluation metric represents the ratio of correctly predicted instances to the total number of instances?",
+    "options": [
+      "Accuracy",
+      "Precision",
+      "Recall",
+      "Mean Absolute Error"
+    ],
+    "answer": "Accuracy"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "In a binary confusion matrix, what does a 'False Positive' represent?",
+    "options": [
+      "A negative instance incorrectly predicted as positive",
+      "A positive instance correctly predicted as positive",
+      "A positive instance incorrectly predicted as negative",
+      "A negative instance correctly predicted as negative"
+    ],
+    "answer": "A negative instance incorrectly predicted as positive"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "In a binary confusion matrix, what does a 'False Negative' represent?",
+    "options": [
+      "A positive instance incorrectly predicted as negative",
+      "A negative instance incorrectly predicted as positive",
+      "A positive instance correctly predicted as positive",
+      "A negative instance correctly predicted as negative"
+    ],
+    "answer": "A positive instance incorrectly predicted as negative"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "Which evaluation metric formula is calculated as $\\frac{\\text{True Positives}}{\\text{True Positives} + \\text{False Positives}}$?",
+    "options": [
+      "Precision",
+      "Recall",
+      "Accuracy",
+      "Specificity"
+    ],
+    "answer": "Precision"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "Which evaluation metric formula is calculated as $\\frac{\\text{True Positives}}{\\text{True Positives} + \\text{False Negatives}}$?",
+    "options": [
+      "Recall (Sensitivity)",
+      "Precision",
+      "Accuracy",
+      "F1-Score"
+    ],
+    "answer": "Recall (Sensitivity)"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "What evaluation metric calculates the harmonic mean of Precision and Recall?",
+    "options": [
+      "F1-Score",
+      "ROC-AUC",
+      "Mean Squared Error",
+      "R-Squared"
+    ],
+    "answer": "F1-Score"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "Which linear regression model fits a straight line by minimizing the sum of squared distances between observed and predicted values?",
+    "options": [
+      "Ordinary Least Squares (OLS) Linear Regression",
+      "Logistic Regression",
+      "K-Nearest Neighbors",
+      "Decision Tree Regression"
+    ],
+    "answer": "Ordinary Least Squares (OLS) Linear Regression"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "Which algorithm applies a Sigmoid activation function to linear outputs to predict binary classification probabilities?",
+    "options": [
+      "Logistic Regression",
+      "Linear Regression",
+      "K-Means",
+      "Principal Component Analysis"
+    ],
+    "answer": "Logistic Regression"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "Which non-parametric algorithm classifies a sample based on the majority class among its $K$ closest training instances?",
+    "options": [
+      "K-Nearest Neighbors (KNN)",
+      "K-Means Clustering",
+      "Naïve Bayes",
+      "Support Vector Machine"
+    ],
+    "answer": "K-Nearest Neighbors (KNN)"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "Which unsupervised algorithm partitions a dataset into $K$ distinct clusters by iteratively updating cluster centroids?",
+    "options": [
+      "K-Means Clustering",
+      "K-Nearest Neighbors",
+      "Linear Discriminant Analysis",
+      "Decision Tree"
+    ],
+    "answer": "K-Means Clustering"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "What fundamental tradeoff in machine learning balances model errors caused by oversimplified assumptions against sensitivity to training set noise?",
+    "options": [
+      "Bias-Variance Tradeoff",
+      "Precision-Recall Tradeoff",
+      "Speed-Accuracy Tradeoff",
+      "Feature-Sample Tradeoff"
+    ],
+    "answer": "Bias-Variance Tradeoff"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "What feature scaling method rescales feature values to a bounded range between 0 and 1 using min and max bounds?",
+    "options": [
+      "Min-Max Normalization",
+      "Standardization (Z-Score)",
+      "Robust Scaling",
+      "Log Transformation"
+    ],
+    "answer": "Min-Max Normalization"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "What feature scaling technique centers feature values around zero mean with unit variance?",
+    "options": [
+      "Standardization (Z-Score)",
+      "Min-Max Normalization",
+      "Binarization",
+      "Max Abs Scaling"
+    ],
+    "answer": "Standardization (Z-Score)"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "What encoding technique converts categorical variables with $N$ categories into $N$ binary columns?",
+    "options": [
+      "One-Hot Encoding",
+      "Label Encoding",
+      "Ordinal Encoding",
+      "Target Encoding"
+    ],
+    "answer": "One-Hot Encoding"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "What standard loss function calculates the average of squared differences between actual and predicted target values in regression?",
+    "options": [
+      "Mean Squared Error (MSE)",
+      "Binary Cross-Entropy",
+      "Hinge Loss",
+      "Categorical Cross-Entropy"
+    ],
+    "answer": "Mean Squared Error (MSE)"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "What cross-validation method splits data into $K$ subsets, using $K-1$ folds for training and 1 fold for validation iteratively?",
+    "options": [
+      "K-Fold Cross-Validation",
+      "Leave-One-Out Cross-Validation",
+      "Holdout Method",
+      "Bootstrap Sampling"
+    ],
+    "answer": "K-Fold Cross-Validation"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "Which tree-based supervised learning model splits features recursively using decision rules at internal nodes?",
+    "options": [
+      "Decision Tree",
+      "Logistic Regression",
+      "K-Means",
+      "Naïve Bayes"
+    ],
+    "answer": "Decision Tree"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "Which probabilistic classifier applies Bayes' Theorem under the strong assumption that features are conditionally independent given the class label?",
+    "options": [
+      "Naïve Bayes",
+      "Logistic Regression",
+      "Decision Tree",
+      "Support Vector Machine"
+    ],
+    "answer": "Naïve Bayes"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "In the Bias-Variance tradeoff, what type of error arises when a model makes overly simplistic assumptions about target relationships?",
+    "options": [
+      "Bias Error",
+      "Variance Error",
+      "Irreducible Error",
+      "Bayes Error"
+    ],
+    "answer": "Bias Error"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "In the Bias-Variance tradeoff, what type of error arises from high sensitivity to small fluctuations in the training dataset?",
+    "options": [
+      "Variance Error",
+      "Bias Error",
+      "Irreducible Error",
+      "Systematic Error"
+    ],
+    "answer": "Variance Error"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "What optimization algorithm iteratively adjusts parameters in the direction of steepest loss function reduction?",
+    "options": [
+      "Gradient Descent",
+      "Grid Search",
+      "Random Search",
+      "Forward Selection"
+    ],
+    "answer": "Gradient Descent"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "Which regularization technique adds a penalty equal to the sum of absolute values of model weights ($L_1$ penalty) to the loss function?",
+    "options": [
+      "Lasso Regularization",
+      "Ridge Regularization",
+      "ElasticNet Regularization",
+      "Early Stopping"
+    ],
+    "answer": "Lasso Regularization"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "Which regularization technique adds a penalty equal to the sum of squared values of model weights ($L_2$ penalty) to the loss function?",
+    "options": [
+      "Ridge Regularization",
+      "Lasso Regularization",
+      "Dropout",
+      "Batch Normalization"
+    ],
+    "answer": "Ridge Regularization"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "Why is Lasso ($L_1$) regularization frequently used for feature selection compared to Ridge ($L_2$) regularization?",
+    "options": [
+      "Lasso forces coefficients of unimportant features exactly to zero, producing sparse models",
+      "Lasso works faster on large datasets than Ridge",
+      "Lasso prevents gradient descent from reaching local minima",
+      "Lasso transforms non-linear relationships into linear ones"
+    ],
+    "answer": "Lasso forces coefficients of unimportant features exactly to zero, producing sparse models"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "What ensemble technique builds multiple decision trees independently using bootstrap samples and feature randomization to aggregate predictions?",
+    "options": [
+      "Random Forest",
+      "Gradient Boosting Machine",
+      "AdaBoost",
+      "Stacking Classifier"
+    ],
+    "answer": "Random Forest"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "What is the primary operational difference between Bagging and Boosting ensemble algorithms?",
+    "options": [
+      "Bagging builds models in parallel independently; Boosting builds models sequentially to correct previous errors",
+      "Bagging combines different algorithms; Boosting uses only decision trees",
+      "Bagging minimizes bias; Boosting strictly minimizes variance",
+      "Bagging is used only for regression; Boosting is used only for classification"
+    ],
+    "answer": "Bagging builds models in parallel independently; Boosting builds models sequentially to correct previous errors"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "In Support Vector Machines (SVM), what is the definition of the 'margin'?",
+    "options": [
+      "The distance between the decision boundary hyperplane and the nearest data points of any class",
+      "The total area occupied by all training data points",
+      "The misclassification error rate on the validation set",
+      "The difference between precision and recall scores"
+    ],
+    "answer": "The distance between the decision boundary hyperplane and the nearest data points of any class"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "What node split criterion in Decision Trees measures impurity by evaluating $1 - \\sum (p_i)^2$ across target classes?",
+    "options": [
+      "Gini Impurity",
+      "Information Gain",
+      "Entropy",
+      "Variance Reduction"
+    ],
+    "answer": "Gini Impurity"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "What popular oversampling technique mitigates class imbalance by synthesizing artificial minority class samples along feature lines?",
+    "options": [
+      "SMOTE (Synthetic Minority Over-sampling Technique)",
+      "Random Undersampling",
+      "NearMiss Algorithm",
+      "Tomek Links"
+    ],
+    "answer": "SMOTE (Synthetic Minority Over-sampling Technique)"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "What curve plots the True Positive Rate against the False Positive Rate across varying classification threshold values?",
+    "options": [
+      "Receiver Operating Characteristic (ROC) Curve",
+      "Precision-Recall Curve",
+      "Validation Curve",
+      "Learning Curve"
+    ],
+    "answer": "Receiver Operating Characteristic (ROC) Curve"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "What does an Area Under the ROC Curve (ROC-AUC) score of 0.5 indicate about binary classifier performance?",
+    "options": [
+      "The model performs no better than random guessing",
+      "The model achieves perfect classification accuracy",
+      "The model suffers from complete overfitting",
+      "The model predicts only positive class labels"
+    ],
+    "answer": "The model performs no better than random guessing"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "Which dimensionality reduction method computes orthogonal principal axes to capture maximum feature variance?",
+    "options": [
+      "Principal Component Analysis (PCA)",
+      "Linear Discriminant Analysis (LDA)",
+      "t-SNE",
+      "Multidimensional Scaling"
+    ],
+    "answer": "Principal Component Analysis (PCA)"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "How does the 'Elbow Method' assist in configuring the K-Means clustering algorithm?",
+    "options": [
+      "By plotting within-cluster sum of squares against $K$ to identify optimal cluster count bends",
+      "By calculating the exact execution time required for different $K$ values",
+      "By eliminating outlier instances prior to running cluster assignments",
+      "By converting unsupervised cluster groups into supervised classification labels"
+    ],
+    "answer": "By plotting within-cluster sum of squares against $K$ to identify optimal cluster count bends"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "What metric evaluates clustering quality by comparing average intra-cluster distance against nearest neighbor cluster distance (ranging from -1 to 1)?",
+    "options": [
+      "Silhouette Score",
+      "Inertia",
+      "Adjusted Rand Index",
+      "Davies-Bouldin Index"
+    ],
+    "answer": "Silhouette Score"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "Which activation function maps real-valued linear outputs into continuous probability estimates between 0 and 1?",
+    "options": [
+      "Sigmoid Function",
+      "ReLU Function",
+      "Softmax Function",
+      "Hyperbolic Tangent (Tanh) Function"
+    ],
+    "answer": "Sigmoid Function"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "Which loss function evaluates model output error for multi-class classification using probability distributions?",
+    "options": [
+      "Categorical Cross-Entropy Loss",
+      "Mean Squared Error",
+      "Binary Cross-Entropy Loss",
+      "Mean Absolute Error"
+    ],
+    "answer": "Categorical Cross-Entropy Loss"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "What model training strategy halts iteration execution when validation loss metrics stop improving to prevent overfitting?",
+    "options": [
+      "Early Stopping",
+      "Gradient Clipping",
+      "Learning Rate Decay",
+      "Warm Restarts"
+    ],
+    "answer": "Early Stopping"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "What gradient descent variant computes loss gradients using the entire training dataset during each parameter update iteration?",
+    "options": [
+      "Batch Gradient Descent",
+      "Stochastic Gradient Descent",
+      "Mini-Batch Gradient Descent",
+      "Coordinate Descent"
+    ],
+    "answer": "Batch Gradient Descent"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "What gradient descent variant balances computational efficiency and stability by computing updates over small subset batches?",
+    "options": [
+      "Mini-Batch Gradient Descent",
+      "Full Batch Gradient Descent",
+      "Stochastic Gradient Descent",
+      "Newtonian Optimization"
+    ],
+    "answer": "Mini-Batch Gradient Descent"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "Which clustering algorithm identifies clusters of arbitrary shapes based on dense regions and flags low-density points as noise?",
+    "options": [
+      "DBSCAN",
+      "K-Means",
+      "Agglomerative Clustering",
+      "Gaussian Mixture Models"
+    ],
+    "answer": "DBSCAN"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "What primary advantage does a Random Forest model offer over a single individual Decision Tree?",
+    "options": [
+      "Lower prediction variance and higher robustness against overfitting",
+      "Faster execution time and lower memory consumption",
+      "Complete model interpretability and simple visual representation",
+      "Elimination of feature scaling requirements"
+    ],
+    "answer": "Lower prediction variance and higher robustness against overfitting"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "Which iterative algorithm computes maximum likelihood estimates in statistical models containing unobserved latent variables?",
+    "options": [
+      "Expectation-Maximization (EM) Algorithm",
+      "Backpropagation Algorithm",
+      "Apriori Algorithm",
+      "PageRank Algorithm"
+    ],
+    "answer": "Expectation-Maximization (EM) Algorithm"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "Why is the Naïve Bayes classifier described as 'naïve'?",
+    "options": [
+      "It assumes all input features are independent given the class target",
+      "It cannot handle categorical or discrete feature attributes",
+      "It does not require training data parameter estimations",
+      "It assigns equal probabilities to all target output classes"
+    ],
+    "answer": "It assumes all input features are independent given the class target"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "What optimization issue arises when features have wildly different scales in gradient-descent-based models?",
+    "options": [
+      "Gradient descent paths oscillate inefficiently along steep slopes, slowing convergence",
+      "The loss function develops multiple global minimum points",
+      "Features with smaller numerical ranges dominate model predictions completely",
+      "The model converts automatically into a linear classifier"
+    ],
+    "answer": "Gradient descent paths oscillate inefficiently along steep slopes, slowing convergence"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "What process removes branches with low predictive importance from a decision tree to reduce overfitting?",
+    "options": [
+      "Pruning",
+      "Splitting",
+      "Binning",
+      "Bootstrapping"
+    ],
+    "answer": "Pruning"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "In Support Vector Machines, what mechanism permits controlled training error misclassifications via slack variables?",
+    "options": [
+      "Soft Margin",
+      "Hard Margin",
+      "Kernel Trick",
+      "Feature Map"
+    ],
+    "answer": "Soft Margin"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "Which multi-class evaluation approach calculates F1-scores for each class independently and averages them with equal weight?",
+    "options": [
+      "Macro-Averaged F1",
+      "Micro-Averaged F1",
+      "Weighted-Averaged F1",
+      "Binary F1"
+    ],
+    "answer": "Macro-Averaged F1"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "Which multi-class evaluation metric calculates class F1-scores weighted by each class's sample frequency?",
+    "options": [
+      "Weighted-Averaged F1",
+      "Macro-Averaged F1",
+      "Micro-Averaged F1",
+      "Cumulative F1"
+    ],
+    "answer": "Weighted-Averaged F1"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "In linear regression models, what condition occurs when two or more independent predictor features are highly correlated?",
+    "options": [
+      "Multicollinearity",
+      "Heteroscedasticity",
+      "Autocorrelation",
+      "Endogeneity"
+    ],
+    "answer": "Multicollinearity"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "Which clustering method builds nested cluster trees displayed graphically using a dendrogram?",
+    "options": [
+      "Hierarchical Clustering",
+      "K-Means Clustering",
+      "DBSCAN",
+      "Spectral Clustering"
+    ],
+    "answer": "Hierarchical Clustering"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "In tree-based algorithms, what hyperparameter limits maximum path distance from roots to leaves to control complexity?",
+    "options": [
+      "Max Depth",
+      "Min Samples Split",
+      "Learning Rate",
+      "Number of Estimators"
+    ],
+    "answer": "Max Depth"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "Geometrically, why does $L_1$ regularization produce sparse model parameters while $L_2$ regularization does not?",
+    "options": [
+      "The $L_1$ constraint region contains sharp corners along coordinate axes where loss contours hit zero parameters first",
+      "The $L_2$ loss surface contains non-differentiable points along origin boundaries",
+      "$L_1$ uses exponential decay functions for high feature weights",
+      "$L_2$ regularizers eliminate negative parameter gradients completely"
+    ],
+    "answer": "The $L_1$ constraint region contains sharp corners along coordinate axes where loss contours hit zero parameters first"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "Which mathematical conditions must hold for inequality-constrained convex optimization problems to guarantee strong duality in Support Vector Machines?",
+    "options": [
+      "Karush-Kuhn-Tucker (KKT) Conditions",
+      "Euler-Lagrange Equations",
+      "Cauchy-Riemann Equations",
+      "Navier-Stokes Conditions"
+    ],
+    "answer": "Karush-Kuhn-Tucker (KKT) Conditions"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "Which loss function behaves quadratically for small residuals and linearly for large errors, combining benefits of MSE and MAE?",
+    "options": [
+      "Huber Loss",
+      "Hinge Loss",
+      "Log Loss",
+      "Cross-Entropy Loss"
+    ],
+    "answer": "Huber Loss"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "Which loss function addresses extreme class imbalance by introducing a modulating factor $(1 - p_t)^\\gamma$ to down-weight easy negative examples?",
+    "options": [
+      "Focal Loss",
+      "Contrastive Loss",
+      "Triplet Loss",
+      "Kullback-Leibler Loss"
+    ],
+    "answer": "Focal Loss"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "Which loss function, defined as $\\max(0, 1 - y \\cdot f(x))$, is minimized in maximum-margin classifiers like Support Vector Machines?",
+    "options": [
+      "Hinge Loss",
+      "Log Loss",
+      "Squared Error Loss",
+      "Exponential Loss"
+    ],
+    "answer": "Hinge Loss"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "Which adaptive optimization algorithm tracks exponential moving averages of both past gradients ($m_t$) and squared gradients ($v_t$)?",
+    "options": [
+      "Adam Optimizer",
+      "RMSprop",
+      "AdaGrad",
+      "Stochastic Gradient Descent with Momentum"
+    ],
+    "answer": "Adam Optimizer"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "How does the AdamW optimizer modify the original Adam optimization algorithm?",
+    "options": [
+      "It decouples weight decay parameter updates directly from gradient calculations",
+      "It replaces first moment estimates with second-order Hessian matrices",
+      "It enforces static learning rate parameters throughout training epochs",
+      "It eliminates momentum accumulation terms from parameter updates"
+    ],
+    "answer": "It decouples weight decay parameter updates directly from gradient calculations"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "Which non-linear dimensionality reduction algorithm converts data point similarities into joint probabilities and minimizes KL divergence for visualization?",
+    "options": [
+      "t-SNE (t-Distributed Stochastic Neighbor Embedding)",
+      "PCA",
+      "Linear Discriminant Analysis",
+      "Factor Analysis"
+    ],
+    "answer": "t-SNE (t-Distributed Stochastic Neighbor Embedding)"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "What probabilistic model assumes instances originate from a finite mixture of Gaussian distributions with unknown mean and covariance parameters?",
+    "options": [
+      "Gaussian Mixture Model (GMM)",
+      "Hidden Markov Model",
+      "Bayesian Network",
+      "Kernel Density Estimator"
+    ],
+    "answer": "Gaussian Mixture Model (GMM)"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "What model selection criterion penalizes model complexity using the metric formula $\\text{BIC} = k \\ln(n) - 2 \\ln(\\widehat{L})$?",
+    "options": [
+      "Bayesian Information Criterion (BIC)",
+      "Akaike Information Criterion (AIC)",
+      "Cross-Validation Error",
+      "Adjusted R-Squared"
+    ],
+    "answer": "Bayesian Information Criterion (BIC)"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "In gradient boosting implementations like XGBoost, how are decision tree additions optimized during training iterations?",
+    "options": [
+      "By minimizing second-order Taylor expansion approximations of the loss function",
+      "By calculating exact global minima using full inverse Hessian matrices",
+      "By randomizing split thresholds across all feature dimensions",
+      "By applying Monte Carlo tree search algorithms"
+    ],
+    "answer": "By minimizing second-order Taylor expansion approximations of the loss function"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "What explainability method calculates additive feature importance scores based on cooperative game theory principles?",
+    "options": [
+      "SHAP (SHapley Additive exPlanations)",
+      "LIME",
+      "Partial Dependence Plots",
+      "Permutation Feature Importance"
+    ],
+    "answer": "SHAP (SHapley Additive exPlanations)"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "Which information-theoretic metric quantifies asymmetric divergence between target distribution $P(x)$ and approximating distribution $Q(x)$?",
+    "options": [
+      "Kullback-Leibler (KL) Divergence",
+      "Jensen-Shannon Divergence",
+      "Cross-Entropy",
+      "Mutual Information"
+    ],
+    "answer": "Kullback-Leibler (KL) Divergence"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "In kernel methods, what theorem asserts that minimizers of regularized empirical risk functions can be expressed as linear combinations of kernel functions?",
+    "options": [
+      "Representer Theorem",
+      "Mercer's Theorem",
+      "Cover's Theorem",
+      "Universal Approximation Theorem"
+    ],
+    "answer": "Representer Theorem"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "What structural issue arises when a decision tree grows without depth limits or minimum sample split constraints?",
+    "options": [
+      "Leaf nodes memorize noise, driving training entropy to zero and causing severe overfitting",
+      "Underfitting occurs due to excessive tree depth averaging",
+      "The model degenerates into a linear regression function",
+      "Gradient descent iterations fail to converge"
+    ],
+    "answer": "Leaf nodes memorize noise, driving training entropy to zero and causing severe overfitting"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "In Gradient Descent with Momentum, how does the momentum parameter $\\beta$ accelerate parameter convergence?",
+    "options": [
+      "By accumulating fractions of past update vectors to dampen oscillations along high-curvature directions",
+      "By scaling individual learning rates inversely to historical gradient sums",
+      "By resetting feature weights to zero whenever loss changes sign",
+      "By randomizing step directions when reaching plateau regions"
+    ],
+    "answer": "By accumulating fractions of past update vectors to dampen oscillations along high-curvature directions"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "What manifold learning technique constructs fuzzy simplicial sets to preserve both local and global data structures in low dimensions?",
+    "options": [
+      "UMAP (Uniform Manifold Approximation and Projection)",
+      "PCA",
+      "Isomap",
+      "Locally Linear Embedding (LLE)"
+    ],
+    "answer": "UMAP (Uniform Manifold Approximation and Projection)"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "What silhouette coefficient value $s(i)$ indicates that an instance is correctly assigned to its own cluster and far from neighboring clusters?",
+    "options": [
+      "Close to $+1$",
+      "Close to $0$",
+      "Close to $-1$",
+      "Greater than $+10$"
+    ],
+    "answer": "Close to $+1$"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "In Cost-Sensitive Learning, how are asymmetric misclassification costs incorporated into model optimization?",
+    "options": [
+      "By incorporating explicit cost penalty matrices $C_{ij}$ into empirical risk loss calculations",
+      "By removing high-cost feature columns from training datasets",
+      "By scaling all target labels to range strictly between 0 and 1",
+      "By retraining models on synthetic datasets generated via PCA"
+    ],
+    "answer": "By incorporating explicit cost penalty matrices $C_{ij}$ into empirical risk loss calculations"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "What kernel technique property allows algorithms to evaluate inner products in high-dimensional feature spaces without computing explicit transformations $\\phi(x)$?",
+    "options": [
+      "Kernel Trick (Mercer's Theorem)",
+      "Representer Theorem",
+      "Fourier Transformation",
+      "Singular Value Decomposition"
+    ],
+    "answer": "Kernel Trick (Mercer's Theorem)"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "What mathematical formula defines the Radial Basis Function (RBF) kernel in Support Vector Machines?",
+    "options": [
+      "$K(x, x') = \\exp(-\\gamma ||x - x'||^2)$",
+      "$K(x, x') = (x^T x' + c)^d$",
+      "$K(x, x') = \\tanh(\\alpha x^T x' + c)$",
+      "$K(x, x') = x^T x'$"
+    ],
+    "answer": "$K(x, x') = \\exp(-\\gamma ||x - x'||^2)$"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "Which matrix factorization technique factors a real matrix $X$ into orthogonal matrices $U, \\Sigma, V^T$ used in collaborative filtering and PCA?",
+    "options": [
+      "Singular Value Decomposition (SVD)",
+      "LU Decomposition",
+      "Cholesky Decomposition",
+      "QR Decomposition"
+    ],
+    "answer": "Singular Value Decomposition (SVD)"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "What non-parametric method estimates probability density functions of continuous random variables using kernel smoothing bandwidth parameters $h$?",
+    "options": [
+      "Kernel Density Estimation (KDE)",
+      "Gaussian Process Regression",
+      "Histogram Binning",
+      "Markov Chain Monte Carlo"
+    ],
+    "answer": "Kernel Density Estimation (KDE)"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "What mathematical matrix contains all second-order partial derivatives of a scalar-valued loss function with respect to parameter vectors?",
+    "options": [
+      "Hessian Matrix",
+      "Jacobian Matrix",
+      "Covariance Matrix",
+      "Gram Matrix"
+    ],
+    "answer": "Hessian Matrix"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "In optimization, if a critical point's Hessian matrix exhibits both positive and negative real eigenvalues, what type of point is it?",
+    "options": [
+      "Saddle Point",
+      "Local Minimum",
+      "Local Maximum",
+      "Global Maximum"
+    ],
+    "answer": "Saddle Point"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "What key architectural feature enables LightGBM to achieve faster training speeds than traditional XGBoost algorithms?",
+    "options": [
+      "Histogram-based feature binning and leaf-wise (best-first) tree growth",
+      "Level-wise symmetric tree growth execution",
+      "Full exact greedy feature split evaluations",
+      "Exclusive reliance on $L_1$ regularization"
+    ],
+    "answer": "Histogram-based feature binning and leaf-wise (best-first) tree growth"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "In semi-supervised learning, what technique assigns confident model predictions on unlabeled instances as target labels to expand training sets?",
+    "options": [
+      "Pseudo-Labeling (Self-Training)",
+      "Co-Training",
+      "Active Learning",
+      "Label Propagation"
+    ],
+    "answer": "Pseudo-Labeling (Self-Training)"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "In linear regression evaluation, what formula calculates the Coefficient of Determination ($R^2$ Score)?",
+    "options": [
+      "$R^2 = 1 - \\frac{SS_{\\text{res}}}{SS_{\\text{tot}}}$",
+      "$R^2 = \\frac{SS_{\\text{res}}}{SS_{\\text{tot}}}$",
+      "$R^2 = 1 - \\sqrt{MSE}$",
+      "$R^2 = \\frac{MSE}{MAE}$"
+    ],
+    "answer": "$R^2 = 1 - \\frac{SS_{\\text{res}}}{SS_{\\text{tot}}}$"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "Which regularized linear regression model combines both $L_1$ and $L_2$ penalties controlled by mixing hyperparameter $\\alpha$?",
+    "options": [
+      "ElasticNet",
+      "Lasso Regression",
+      "Ridge Regression",
+      "Stepwise Regression"
+    ],
+    "answer": "ElasticNet"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "Which non-parametric statistical test evaluates whether two binary classification models have significantly different error rates on paired test data?",
+    "options": [
+      "McNemar's Test",
+      "Student's t-Test",
+      "Mann-Whitney U Test",
+      "Analysis of Variance (ANOVA)"
+    ],
+    "answer": "McNemar's Test"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "In Active Learning, what query strategy selects unlabeled instances for human annotation where model prediction entropy or uncertainty is highest?",
+    "options": [
+      "Uncertainty Sampling",
+      "Query-by-Committee",
+      "Expected Model Change",
+      "Random Density Sampling"
+    ],
+    "answer": "Uncertainty Sampling"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "What statistical phenomenon explains why averaging predictions across diverse uncorrelated models reduces variance without altering expected bias?",
+    "options": [
+      "Ensemble Averaging / Condorcet's Jury Theorem",
+      "Central Limit Theorem",
+      "Law of Large Numbers",
+      "Jensen's Inequality"
+    ],
+    "answer": "Ensemble Averaging / Condorcet's Jury Theorem"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "In probabilistic machine learning, what framework approximates intractable true posterior distributions by optimizing lower bounds (ELBO)?",
+    "options": [
+      "Variational Inference",
+      "Markov Chain Monte Carlo",
+      "Particle Filtering",
+      "Laplace Approximation"
+    ],
+    "answer": "Variational Inference"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "Which statistical inequality provides upper bounds on the probability that empirical error differs from generalization error by more than $\\epsilon$?",
+    "options": [
+      "Hoeffding's Inequality",
+      "Markov's Inequality",
+      "Chebyshev's Inequality",
+      "Cauchy-Schwarz Inequality"
+    ],
+    "answer": "Hoeffding's Inequality"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "How does Gaussian Mixture Model (GMM) clustering differ fundamentally from standard K-Means clustering?",
+    "options": [
+      "GMM provides soft probabilistic assignments; K-Means enforces hard cluster assignments",
+      "GMM uses Euclidean distance metrics exclusively; K-Means uses Manhattan distance",
+      "GMM is a supervised algorithm; K-Means is an unsupervised algorithm",
+      "GMM requires binary input features; K-Means accepts continuous inputs"
+    ],
+    "answer": "GMM provides soft probabilistic assignments; K-Means enforces hard cluster assignments"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "In multi-label classification, what transformation strategy trains independent binary classifiers for each output label separately?",
+    "options": [
+      "Binary Relevance",
+      "Label Powerset",
+      "Classifier Chains",
+      "Multi-Output Regression"
+    ],
+    "answer": "Binary Relevance"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "In multi-label classification, what transformation strategy maps every unique label combination present in training sets into single distinct classes?",
+    "options": [
+      "Label Powerset",
+      "Binary Relevance",
+      "Pairwise Classification",
+      "One-vs-Rest"
+    ],
+    "answer": "Label Powerset"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "In metric learning, what loss function minimizes distances between anchor-positive pairs while enforcing distance margins against anchor-negative pairs?",
+    "options": [
+      "Triplet Loss",
+      "Contrastive Loss",
+      "Cosine Loss",
+      "Center Loss"
+    ],
+    "answer": "Triplet Loss"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "Which learning rate decay schedule periodically reduces learning rates following a cosine curve before resetting or terminating iterations?",
+    "options": [
+      "Cosine Annealing Scheduler",
+      "Step Decay Scheduler",
+      "Exponential Decay Scheduler",
+      "Polynomial Decay Scheduler"
+    ],
+    "answer": "Cosine Annealing Scheduler"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "In machine learning operations (MLOps), what term describes performance degradation caused by shifts in statistical relationships $P(Y|X)$ over time?",
+    "options": [
+      "Concept Drift",
+      "Covariate Shift",
+      "Data Leakage",
+      "Prior Probability Shift"
+    ],
+    "answer": "Concept Drift"
+  }
+]

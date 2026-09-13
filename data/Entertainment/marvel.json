@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "What is the real name of Iron Man in the Marvel Cinematic Universe?",
+    "options": [
+      "Steve Rogers",
+      "Tony Stark",
+      "Bruce Banner",
+      "Peter Parker"
+    ],
+    "answer": "Tony Stark"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "Which indestructible metal is Captain America's shield made of?",
+    "options": [
+      "Adamantium",
+      "Vibranium",
+      "Uru",
+      "Titanium"
+    ],
+    "answer": "Vibranium"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "What is Thor's iconic magical hammer called?",
+    "options": [
+      "Stormbreaker",
+      "Mjolnir",
+      "Gungnir",
+      "Jarnbjorn"
+    ],
+    "answer": "Mjolnir"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "Which actor plays Peter Parker / Spider-Man in 'Spider-Man' (2002)?",
+    "options": [
+      "Tom Holland",
+      "Andrew Garfield",
+      "Tobey Maguire",
+      "Jake Gyllenhaal"
+    ],
+    "answer": "Tobey Maguire"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "Which actor plays Peter Parker / Spider-Man in 'The Amazing Spider-Man' (2012)?",
+    "options": [
+      "Tobey Maguire",
+      "Andrew Garfield",
+      "Tom Holland",
+      "Miles Teller"
+    ],
+    "answer": "Andrew Garfield"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "What radioactively exposed attorney is known as the 'Man Without Fear' in Hell's Kitchen?",
+    "options": [
+      "Matt Murdock",
+      "Foggy Nelson",
+      "Frank Castle",
+      "Luke Cage"
+    ],
+    "answer": "Matt Murdock"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "What vigilante alias does blind lawyer Matt Murdock operate under?",
+    "options": [
+      "Punisher",
+      "Daredevil",
+      "Bullseye",
+      "Moon Knight"
+    ],
+    "answer": "Daredevil"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "What iconic skull symbol is worn on the chest of Frank Castle?",
+    "options": [
+      "The Punisher",
+      "Crossbones",
+      "Ghost Rider",
+      "Taskmaster"
+    ],
+    "answer": "The Punisher"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "What is the green-skinned alter ego of gamma-irradiated scientist Dr. Bruce Banner?",
+    "options": [
+      "The Abomination",
+      "The Hulk",
+      "Drax",
+      "Gamora"
+    ],
+    "answer": "The Hulk"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "Who was the director of S.H.I.E.L.D. that brought the Avengers together?",
+    "options": [
+      "Phil Coulson",
+      "Nick Fury",
+      "Maria Hill",
+      "Alexander Pierce"
+    ],
+    "answer": "Nick Fury"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "Which Infinity Stone is contained within the Eye of Agamotto worn by Doctor Strange?",
+    "options": [
+      "Space Stone",
+      "Time Stone",
+      "Mind Stone",
+      "Reality Stone"
+    ],
+    "answer": "Time Stone"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "What object houses the Space Stone in 'Captain America: The First Avenger' and 'The Avengers'?",
+    "options": [
+      "The Orb",
+      "The Tesseract",
+      "The Aether",
+      "The Scepter"
+    ],
+    "answer": "The Tesseract"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "Who is the main villain that seeks to collect all six Infinity Stones in 'Avengers: Infinity War'?",
+    "options": [
+      "Loki",
+      "Ultron",
+      "Thanos",
+      "Ronan"
+    ],
+    "answer": "Thanos"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "What superhero team includes Star-Lord, Gamora, Drax, Rocket, and Groot?",
+    "options": [
+      "The Avengers",
+      "Guardians of the Galaxy",
+      "The Defenders",
+      "Eternals"
+    ],
+    "answer": "Guardians of the Galaxy"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "What word is the only phrase tree-giant Groot typically speaks?",
+    "options": [
+      "I am Groot",
+      "We are One",
+      "I am Tree",
+      "Groot is King"
+    ],
+    "answer": "I am Groot"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "Which archer hero is played by Jeremy Renner in the MCU?",
+    "options": [
+      "Hawkeye",
+      "Falcon",
+      "Bullseye",
+      "Winter Soldier"
+    ],
+    "answer": "Hawkeye"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "What is the real name of the master assassin Black Widow played by Scarlett Johansson?",
+    "options": [
+      "Yelena Belova",
+      "Natasha Romanoff",
+      "Wanda Maximoff",
+      "Kate Bishop"
+    ],
+    "answer": "Natasha Romanoff"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "What sub-atomic suit wearer can shrink down to the size of an insect?",
+    "options": [
+      "Ant-Man",
+      "Wasp",
+      "Yellowjacket",
+      "Spider-Man"
+    ],
+    "answer": "Ant-Man"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "What is Scott Lang's superhero name in the MCU?",
+    "options": [
+      "Falcon",
+      "Ant-Man",
+      "Hawkeye",
+      "War Machine"
+    ],
+    "answer": "Ant-Man"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "Who is Steve Rogers' best friend who became brainwashed as the Winter Soldier?",
+    "options": [
+      "Sam Wilson",
+      "Bucky Barnes",
+      "James Rhodes",
+      "Clint Barton"
+    ],
+    "answer": "Bucky Barnes"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "What AI assistant created by Tony Stark eventually inhabits the physical body of Vision?",
+    "options": [
+      "KAREN",
+      "FRIDAY",
+      "J.A.R.V.I.S.",
+      "E.D.I.T.H."
+    ],
+    "answer": "J.A.R.V.I.S."
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "Which villainous AI robot was created by Tony Stark and Bruce Banner in 'Avengers: Age of Ultron'?",
+    "options": [
+      "Vision",
+      "Ultron",
+      "Zola",
+      "Kang"
+    ],
+    "answer": "Ultron"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "Which street-level hero in Harlem possesses unbreakable skin and super strength?",
+    "options": [
+      "Luke Cage",
+      "Iron Fist",
+      "Daredevil",
+      "Jessica Jones"
+    ],
+    "answer": "Luke Cage"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "Which private investigator super-heroine runs Alias Investigations in New York City?",
+    "options": [
+      "Jessica Jones",
+      "Trish Walker",
+      "Karen Page",
+      "Elektra Natchios"
+    ],
+    "answer": "Jessica Jones"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "Danny Rand wields a glowing mystical fist as which martial artist hero?",
+    "options": [
+      "Shang-Chi",
+      "Iron Fist",
+      "Moon Knight",
+      "Daredevil"
+    ],
+    "answer": "Iron Fist"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "What powerful crime lord, real name Wilson Fisk, is the main enemy of Daredevil?",
+    "options": [
+      "Kingpin",
+      "Hammerhead",
+      "Tombstone",
+      "Jigsaw"
+    ],
+    "answer": "Kingpin"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "Who is Tobey Maguire's Peter Parker's main love interest in the original Spider-Man trilogy?",
+    "options": [
+      "Gwen Stacy",
+      "Mary Jane Watson",
+      "Liz Allan",
+      "Betty Brant"
+    ],
+    "answer": "Mary Jane Watson"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "Who is Andrew Garfield's Peter Parker's main love interest in 'The Amazing Spider-Man'?",
+    "options": [
+      "Mary Jane Watson",
+      "Gwen Stacy",
+      "Felicia Hardy",
+      "Michelle Jones"
+    ],
+    "answer": "Gwen Stacy"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "Who is Thor's adopted mischievous brother and God of Mischief?",
+    "options": [
+      "Loki",
+      "Odin",
+      "Heimdall",
+      "Hela"
+    ],
+    "answer": "Loki"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "What realm is Thor native to in the MCU?",
+    "options": [
+      "Midgard",
+      "Asgard",
+      "Jotunheim",
+      "Xandar"
+    ],
+    "answer": "Asgard"
+  },
+  {
+    "id": 31,
+    "difficulty": "easy",
+    "question": "What character does Sam Wilson initially operate as before becoming Captain America?",
+    "options": [
+      "War Machine",
+      "Falcon",
+      "U.S. Agent",
+      "Hawkeye"
+    ],
+    "answer": "Falcon"
+  },
+  {
+    "id": 32,
+    "difficulty": "easy",
+    "question": "What weapon does Thor forge in Nidavellir during 'Avengers: Infinity War'?",
+    "options": [
+      "Mjolnir",
+      "Stormbreaker",
+      "Gungnir",
+      "Necrosword"
+    ],
+    "answer": "Stormbreaker"
+  },
+  {
+    "id": 33,
+    "difficulty": "easy",
+    "question": "What twin sister of Pietro Maximoff uses chaos magic and becomes the Scarlet Witch?",
+    "options": [
+      "Wanda Maximoff",
+      "Agatha Harkness",
+      "Sylvie",
+      "Clea"
+    ],
+    "answer": "Wanda Maximoff"
+  },
+  {
+    "id": 34,
+    "difficulty": "easy",
+    "question": "What speedster is the brother of Wanda Maximoff introduced in 'Avengers: Age of Ultron'?",
+    "options": [
+      "Pietro Maximoff",
+      "Tommy Maximoff",
+      "Billy Maximoff",
+      "Speed"
+    ],
+    "answer": "Pietro Maximoff"
+  },
+  {
+    "id": 35,
+    "difficulty": "easy",
+    "question": "What iconic villain with mechanical tentacles does Otto Octavius become in Tobey Maguire's 'Spider-Man 2'?",
+    "options": [
+      "Green Goblin",
+      "Doctor Octopus",
+      "Electro",
+      "Venom"
+    ],
+    "answer": "Doctor Octopus"
+  },
+  {
+    "id": 36,
+    "difficulty": "easy",
+    "question": "What team is formed when Daredevil, Jessica Jones, Luke Cage, and Iron Fist join forces?",
+    "options": [
+      "The Avengers",
+      "The Defenders",
+      "The Thunderbolts",
+      "The Inhumans"
+    ],
+    "answer": "The Defenders"
+  },
+  {
+    "id": 37,
+    "difficulty": "easy",
+    "question": "Who plays Tony Stark / Iron Man across the MCU films?",
+    "options": [
+      "Chris Evans",
+      "Robert Downey Jr.",
+      "Mark Ruffalo",
+      "Chris Hemsworth"
+    ],
+    "answer": "Robert Downey Jr."
+  },
+  {
+    "id": 38,
+    "difficulty": "easy",
+    "question": "Who plays Steve Rogers / Captain America in the MCU?",
+    "options": [
+      "Chris Pratt",
+      "Chris Evans",
+      "Chris Hemsworth",
+      "Sebastian Stan"
+    ],
+    "answer": "Chris Evans"
+  },
+  {
+    "id": 39,
+    "difficulty": "easy",
+    "question": "What is the real name of Star-Lord in 'Guardians of the Galaxy'?",
+    "options": [
+      "Peter Quill",
+      "Yondu Udonta",
+      "Drax",
+      "Richard Rider"
+    ],
+    "answer": "Peter Quill"
+  },
+  {
+    "id": 40,
+    "difficulty": "easy",
+    "question": "What organization was secretly growing inside S.H.I.E.L.D. for decades as revealed in 'Captain America: The Winter Soldier'?",
+    "options": [
+      "HYDRA",
+      "A.I.M.",
+      "The Hand",
+      "Ten Rings"
+    ],
+    "answer": "HYDRA"
+  },
+  {
+    "id": 41,
+    "difficulty": "easy",
+    "question": "What ancient ninja order serves as the primary adversary in 'Daredevil' Season 2 and 'The Defenders'?",
+    "options": [
+      "The Hand",
+      "Ten Rings",
+      "League of Shadows",
+      "HYDRA"
+    ],
+    "answer": "The Hand"
+  },
+  {
+    "id": 42,
+    "difficulty": "easy",
+    "question": "Which villain alters his genetics to turn into the Lizard in Andrew Garfield's 'The Amazing Spider-Man'?",
+    "options": [
+      "Dr. Curt Connors",
+      "Norman Osborn",
+      "Max Dillon",
+      "Adrian Toomes"
+    ],
+    "answer": "Dr. Curt Connors"
+  },
+  {
+    "id": 43,
+    "difficulty": "easy",
+    "question": "Marc Spector serves as the avatar for the Egyptian moon god Khonshu under what identity?",
+    "options": [
+      "Moon Knight",
+      "Black Knight",
+      "Sun Spot",
+      "Anubis"
+    ],
+    "answer": "Moon Knight"
+  },
+  {
+    "id": 44,
+    "difficulty": "easy",
+    "question": "Who plays Norman Osborn / Green Goblin in Tobey Maguire's 'Spider-Man' (2002)?",
+    "options": [
+      "Willem Dafoe",
+      "Alfred Molina",
+      "Thomas Haden Church",
+      "James Franco"
+    ],
+    "answer": "Willem Dafoe"
+  },
+  {
+    "id": 45,
+    "difficulty": "easy",
+    "question": "What teenager from Jersey City gets light-based powers from a family bangle?",
+    "options": [
+      "Kamala Khan",
+      "America Chavez",
+      "Riri Williams",
+      "Cassie Lang"
+    ],
+    "answer": "Kamala Khan"
+  },
+  {
+    "id": 46,
+    "difficulty": "easy",
+    "question": "What electric villain does Jamie Foxx play in Andrew Garfield's 'The Amazing Spider-Man 2'?",
+    "options": [
+      "Electro",
+      "Shocker",
+      "Rhino",
+      "Electro-Knight"
+    ],
+    "answer": "Electro"
+  },
+  {
+    "id": 47,
+    "difficulty": "easy",
+    "question": "Who is the Master of the Mystical Arts based in Kamar-Taj before Stephen Strange?",
+    "options": [
+      "The Ancient One",
+      "Wong",
+      "Kaecilius",
+      "Mordo"
+    ],
+    "answer": "The Ancient One"
+  },
+  {
+    "id": 48,
+    "difficulty": "easy",
+    "question": "What former military pilot operates the War Machine suit?",
+    "options": [
+      "James Rhodes",
+      "Sam Wilson",
+      "John Walker",
+      "Nick Fury"
+    ],
+    "answer": "James Rhodes"
+  },
+  {
+    "id": 49,
+    "difficulty": "easy",
+    "question": "What is the main source of power in Tony Stark's chest that keeps shrapnel from entering his heart?",
+    "options": [
+      "Arc Reactor",
+      "Tesseract",
+      "Quantum Core",
+      "Vibranium Battery"
+    ],
+    "answer": "Arc Reactor"
+  },
+  {
+    "id": 50,
+    "difficulty": "easy",
+    "question": "Which intergalactic army attacks New York City in the 2012 film 'The Avengers'?",
+    "options": [
+      "Chitauri",
+      "Outriders",
+      "Sakarans",
+      "Kree"
+    ],
+    "answer": "Chitauri"
+  },
+  {
+    "id": 51,
+    "difficulty": "easy",
+    "question": "What newspaper does Peter Parker sell photos of Spider-Man to in Tobey Maguire's movies?",
+    "options": [
+      "Daily Bugle",
+      "Daily Planet",
+      "New York Bulletin",
+      "Gotham Gazette"
+    ],
+    "answer": "Daily Bugle"
+  },
+  {
+    "id": 52,
+    "difficulty": "easy",
+    "question": "What restaurant location do the Avengers visit to eat after the Battle of New York?",
+    "options": [
+      "Shawarma Joint",
+      "Pizza Poppa",
+      "Joe's Pizza",
+      "Clint's Diner"
+    ],
+    "answer": "Shawarma Joint"
+  },
+  {
+    "id": 53,
+    "difficulty": "easy",
+    "question": "What famous quote does Uncle Ben tell Peter Parker in Tobey Maguire's 'Spider-Man'?",
+    "options": [
+      "With great power comes great responsibility",
+      "I am Spider-Man",
+      "Heroes are born, not made",
+      "Never give up, never surrender"
+    ],
+    "answer": "With great power comes great responsibility"
+  },
+  {
+    "id": 54,
+    "difficulty": "easy",
+    "question": "Which villain mind-controls Jessica Jones using his command abilities in 'Jessica Jones' Season 1?",
+    "options": [
+      "Kilgrave",
+      "Nuke",
+      "Kingpin",
+      "Bushmaster"
+    ],
+    "answer": "Kilgrave"
+  },
+  {
+    "id": 55,
+    "difficulty": "easy",
+    "question": "Who plays the Merc with a Mouth, Deadpool / Wade Wilson?",
+    "options": [
+      "Ryan Reynolds",
+      "Hugh Jackman",
+      "Channing Tatum",
+      "T.J. Miller"
+    ],
+    "answer": "Ryan Reynolds"
+  },
+  {
+    "id": 56,
+    "difficulty": "easy",
+    "question": "What female variant of Loki is introduced in the 'Loki' Disney+ series?",
+    "options": [
+      "Sylvie",
+      "Hela",
+      "Frigga",
+      "Sigyn"
+    ],
+    "answer": "Sylvie"
+  },
+  {
+    "id": 57,
+    "difficulty": "easy",
+    "question": "What is the organization monitoring time anomalies introduced in the 'Loki' series called?",
+    "options": [
+      "TVA",
+      "S.H.I.E.L.D.",
+      "S.W.O.R.D.",
+      "S.A.B.R.E."
+    ],
+    "answer": "TVA"
+  },
+  {
+    "id": 58,
+    "difficulty": "easy",
+    "question": "What does the abbreviation TVA stand for in the MCU 'Loki' series?",
+    "options": [
+      "Time Variance Authority",
+      "Total Virtual Assembly",
+      "Temporal Velocity Agency",
+      "Time Verification Association"
+    ],
+    "answer": "Time Variance Authority"
+  },
+  {
+    "id": 59,
+    "difficulty": "easy",
+    "question": "Which Marvel creator made iconic cameo appearances in MCU films and original Spider-Man movies?",
+    "options": [
+      "Stan Lee",
+      "Jack Kirby",
+      "Steve Ditko",
+      "Roy Thomas"
+    ],
+    "answer": "Stan Lee"
+  },
+  {
+    "id": 60,
+    "difficulty": "easy",
+    "question": "Which master martial artist utilizes mystical weapons handed down by his father Wenwu?",
+    "options": [
+      "Shang-Chi",
+      "Iron Fist",
+      "Wong",
+      "Baron Mordo"
+    ],
+    "answer": "Shang-Chi"
+  },
+  {
+    "id": 61,
+    "difficulty": "medium",
+    "question": "In 'Daredevil' Season 2, what military unit were Frank Castle, Ray Schoonover, and Billy Russo part of in Kandahar?",
+    "options": [
+      "Cerberus Squad",
+      "Howling Commandos",
+      "Strike Team Delta",
+      "Vanguard Squad"
+    ],
+    "answer": "Cerberus Squad"
+  },
+  {
+    "id": 62,
+    "difficulty": "medium",
+    "question": "What is the name of the law firm formed by Matt Murdock and Foggy Nelson in Hell's Kitchen?",
+    "options": [
+      "Nelson & Murdock",
+      "Murdock & Page",
+      "Hogarth & Associates",
+      "Goodman & Walters"
+    ],
+    "answer": "Nelson & Murdock"
+  },
+  {
+    "id": 63,
+    "difficulty": "medium",
+    "question": "Which powerful attorney at Jeri Hogarth's firm hired Jessica Jones as a private investigator?",
+    "options": [
+      "Jeri Hogarth",
+      "J. Jonah Jameson",
+      "Franklin Nelson",
+      "Jennifer Walters"
+    ],
+    "answer": "Jeri Hogarth"
+  },
+  {
+    "id": 64,
+    "difficulty": "medium",
+    "question": "What is the real name of the mercenary assassin Bullseye introduced in 'Daredevil' Season 3?",
+    "options": [
+      "Benjamin Poindexter",
+      "Willie Lincoln",
+      "Lester McGraw",
+      "Melvin Potter"
+    ],
+    "answer": "Benjamin Poindexter"
+  },
+  {
+    "id": 65,
+    "difficulty": "medium",
+    "question": "What former friend of Frank Castle becomes his primary villainous rival, known as Jigsaw in 'The Punisher'?",
+    "options": [
+      "Billy Russo",
+      "Curtis Hoyle",
+      "Rawlins",
+      "John Pilgrim"
+    ],
+    "answer": "Billy Russo"
+  },
+  {
+    "id": 66,
+    "difficulty": "medium",
+    "question": "What is the alias of Micro, the hacker who teams up with Frank Castle in 'The Punisher' Season 1?",
+    "options": [
+      "David Lieberman",
+      "Leo Fitz",
+      "Elliot Alderson",
+      "Jasper Sitwell"
+    ],
+    "answer": "David Lieberman"
+  },
+  {
+    "id": 67,
+    "difficulty": "medium",
+    "question": "Which blind martial artist master trained Matt Murdock as a child?",
+    "options": [
+      "Stick",
+      "Stone",
+      "Shaft",
+      "Master Izo"
+    ],
+    "answer": "Stick"
+  },
+  {
+    "id": 68,
+    "difficulty": "medium",
+    "question": "What specific drug trade operation does Madame Gao run in 'Daredevil' and 'Iron Fist'?",
+    "options": [
+      "Steel Serpent Heroin",
+      "Nightshade Juice",
+      "Super Soldier Serum",
+      "Centipede Formula"
+    ],
+    "answer": "Steel Serpent Heroin"
+  },
+  {
+    "id": 69,
+    "difficulty": "medium",
+    "question": "What compound substance does The Hand extract beneath Manhattan to resurrect the dead and achieve immortality?",
+    "options": [
+      "Dragon Bones (The Substance)",
+      "Terrigen Mist",
+      "Vibranium Ore",
+      "Tesseract Energy"
+    ],
+    "answer": "Dragon Bones (The Substance)"
+  },
+  {
+    "id": 70,
+    "difficulty": "medium",
+    "question": "In Tobey Maguire's 'Spider-Man 3', what alien parasitic entity attaches to Peter Parker's suit?",
+    "options": [
+      "Symbiote",
+      "Carnage",
+      "Riot",
+      "Chitauri Parasite"
+    ],
+    "answer": "Symbiote"
+  },
+  {
+    "id": 71,
+    "difficulty": "medium",
+    "question": "In Andrew Garfield's 'The Amazing Spider-Man 2', what company is behind the creation of Electro and Rhino's suit?",
+    "options": [
+      "Oscorp",
+      "Stark Industries",
+      "Roxxon",
+      "Hammer Industries"
+    ],
+    "answer": "Oscorp"
+  },
+  {
+    "id": 72,
+    "difficulty": "medium",
+    "question": "Which actor plays Harry Osborn / New Goblin in Tobey Maguire's 'Spider-Man 3'?",
+    "options": [
+      "James Franco",
+      "Dane DeHaan",
+      "Topher Grace",
+      "Willem Dafoe"
+    ],
+    "answer": "James Franco"
+  },
+  {
+    "id": 73,
+    "difficulty": "medium",
+    "question": "Which actor plays Harry Osborn / Green Goblin in Andrew Garfield's 'The Amazing Spider-Man 2'?",
+    "options": [
+      "Dane DeHaan",
+      "James Franco",
+      "Topher Grace",
+      "Tom Hardy"
+    ],
+    "answer": "Dane DeHaan"
+  },
+  {
+    "id": 74,
+    "difficulty": "medium",
+    "question": "In Tobey Maguire's 'Spider-Man 3', who turns out to be the actual killer of Uncle Ben?",
+    "options": [
+      "Flint Marko (Sandman)",
+      "Dennis Carradine",
+      "Eddie Brock",
+      "Norman Osborn"
+    ],
+    "answer": "Flint Marko (Sandman)"
+  },
+  {
+    "id": 75,
+    "difficulty": "medium",
+    "question": "What clock tower tragedy occurs during the battle between Spider-Man and Green Goblin in 'The Amazing Spider-Man 2'?",
+    "options": [
+      "Gwen Stacy falls to her death",
+      "Uncle Ben dies",
+      "Aunt May is injured",
+      "Captain Stacy dies"
+    ],
+    "answer": "Gwen Stacy falls to her death"
+  },
+  {
+    "id": 76,
+    "difficulty": "medium",
+    "question": "Who crafted the original red and yellow suit for Matt Murdock in 'Daredevil' Season 1?",
+    "options": [
+      "Melvin Potter",
+      "Turk Barrett",
+      "Luke Cage",
+      "Leo Fitz"
+    ],
+    "answer": "Melvin Potter"
+  },
+  {
+    "id": 77,
+    "difficulty": "medium",
+    "question": "Which recurring small-time criminal appears across 'Daredevil', 'Luke Cage', 'The Punisher', and 'Iron Fist'?",
+    "options": [
+      "Turk Barrett",
+      "Grotto",
+      "Lando",
+      "Dutch"
+    ],
+    "answer": "Turk Barrett"
+  },
+  {
+    "id": 78,
+    "difficulty": "medium",
+    "question": "In 'Loki' Season 1, what clock-shaped AI mascot acts as the animated face of the TVA?",
+    "options": [
+      "Miss Minutes",
+      "Clockwork",
+      "Timey",
+      "Tick-Tock"
+    ],
+    "answer": "Miss Minutes"
+  },
+  {
+    "id": 79,
+    "difficulty": "medium",
+    "question": "Which TVA analyst, played by Owen Wilson, forms a close friendship with Loki?",
+    "options": [
+      "Mobius M. Mobius",
+      "Hunter B-15",
+      "O.B. (Ouroboros)",
+      "Casey"
+    ],
+    "answer": "Mobius M. Mobius"
+  },
+  {
+    "id": 80,
+    "difficulty": "medium",
+    "question": "Which Sokovian intelligence officer orchestrated the break-up of the Avengers in 'Captain America: Civil War'?",
+    "options": [
+      "Helmut Zemo",
+      "Crossbones",
+      "Alexander Pierce",
+      "Arnim Zola"
+    ],
+    "answer": "Helmut Zemo"
+  },
+  {
+    "id": 81,
+    "difficulty": "medium",
+    "question": "What accord signed by international governments regulates super-powered individuals in 'Captain America: Civil War'?",
+    "options": [
+      "Sokovia Accords",
+      "S.H.I.E.L.D. Protocols",
+      "Vibranium Treaty",
+      "Mutant Registration Act"
+    ],
+    "answer": "Sokovia Accords"
+  },
+  {
+    "id": 82,
+    "difficulty": "medium",
+    "question": "What former HYDRA officer and mercenary is Brock Rumlow known as in 'Captain America: Civil War'?",
+    "options": [
+      "Crossbones",
+      "Taskmaster",
+      "Batroc",
+      "Whiplash"
+    ],
+    "answer": "Crossbones"
+  },
+  {
+    "id": 83,
+    "difficulty": "medium",
+    "question": "What dwarf king at Nidavellir helps Thor, Rocket, and Groot forge Stormbreaker?",
+    "options": [
+      "Eitri",
+      "Buri",
+      "Bor",
+      "Miek"
+    ],
+    "answer": "Eitri"
+  },
+  {
+    "id": 84,
+    "difficulty": "medium",
+    "question": "Which elemental entity is trapped inside the Orb in 'Guardians of the Galaxy'?",
+    "options": [
+      "Power Stone",
+      "Space Stone",
+      "Reality Stone",
+      "Mind Stone"
+    ],
+    "answer": "Power Stone"
+  },
+  {
+    "id": 85,
+    "difficulty": "medium",
+    "question": "What is the fluid-like state of the Reality Stone called in 'Thor: The Dark World'?",
+    "options": [
+      "The Aether",
+      "The Tesseract",
+      "The Cosmic Cube",
+      "The Darkforce"
+    ],
+    "answer": "The Aether"
+  },
+  {
+    "id": 86,
+    "difficulty": "medium",
+    "question": "Which elder of the universe collects rare species and artifacts at Knowhere?",
+    "options": [
+      "The Collector (Taneleer Tivan)",
+      "The Grandmaster",
+      "Ego",
+      "Eternity"
+    ],
+    "answer": "The Collector (Taneleer Tivan)"
+  },
+  {
+    "id": 87,
+    "difficulty": "medium",
+    "question": "Who rules the gladiatorial trash planet Sakaar in 'Thor: Ragnarok'?",
+    "options": [
+      "The Grandmaster",
+      "The Collector",
+      "Korg",
+      "Topaz"
+    ],
+    "answer": "The Grandmaster"
+  },
+  {
+    "id": 88,
+    "difficulty": "medium",
+    "question": "What stone-skinned Kronan warrior befriends Thor in the gladiatorial pits of Sakaar?",
+    "options": [
+      "Korg",
+      "Miek",
+      "Surtur",
+      "Skurge"
+    ],
+    "answer": "Korg"
+  },
+  {
+    "id": 89,
+    "difficulty": "medium",
+    "question": "What fire demon's crown is placed into the Eternal Flame to trigger Ragnarok and defeat Hela?",
+    "options": [
+      "Surtur",
+      "Ymir",
+      "Laufey",
+      "Malekith"
+    ],
+    "answer": "Surtur"
+  },
+  {
+    "id": 90,
+    "difficulty": "medium",
+    "question": "What is the real name of Taskmaster revealed in 'Black Widow'?",
+    "options": [
+      "Antonia Dreykov",
+      "Taskmaster Tony",
+      "Rick Mason",
+      "Melina Vostokoff"
+    ],
+    "answer": "Antonia Dreykov"
+  },
+  {
+    "id": 91,
+    "difficulty": "medium",
+    "question": "What Russian super-soldier counterpart to Captain America is the adoptive father of Natasha and Yelena?",
+    "options": [
+      "Red Guardian (Alexei Shostakov)",
+      "U.S. Agent",
+      "Titanium Man",
+      "Crimson Dynamo"
+    ],
+    "answer": "Red Guardian (Alexei Shostakov)"
+  },
+  {
+    "id": 92,
+    "difficulty": "medium",
+    "question": "Who takes up the mantle of Hawkeye alongside Clint Barton after her family is restored?",
+    "options": [
+      "Kate Bishop",
+      "Echo",
+      "Cassie Lang",
+      "Maya Lopez"
+    ],
+    "answer": "Kate Bishop"
+  },
+  {
+    "id": 93,
+    "difficulty": "medium",
+    "question": "What alias does Clint Barton use during his dark vigilante spree after the Snap?",
+    "options": [
+      "Ronin",
+      "Gunslinger",
+      "Night Thrasher",
+      "Ghost Rider"
+    ],
+    "answer": "Ronin"
+  },
+  {
+    "id": 94,
+    "difficulty": "medium",
+    "question": "What form of tech allows Scott Lang and the Avengers to travel through time in 'Avengers: Endgame'?",
+    "options": [
+      "Pym Particles & Quantum Realm",
+      "Tesseract Wormhole",
+      "Darkforce Gateway",
+      "Kree Jump Point"
+    ],
+    "answer": "Pym Particles & Quantum Realm"
+  },
+  {
+    "id": 95,
+    "difficulty": "medium",
+    "question": "What is the name of Tony Stark and Pepper Potts' daughter introduced in 'Avengers: Endgame'?",
+    "options": [
+      "Morgan Stark",
+      "Cassie Stark",
+      "Lila Stark",
+      "Maya Stark"
+    ],
+    "answer": "Morgan Stark"
+  },
+  {
+    "id": 96,
+    "difficulty": "medium",
+    "question": "What villain uses projector technology and drones to fabricate elemental attacks in 'Spider-Man: Far From Home'?",
+    "options": [
+      "Mysterio (Quentin Beck)",
+      "Vulture (Adrian Toomes)",
+      "Shocker",
+      "Chameleon"
+    ],
+    "answer": "Mysterio (Quentin Beck)"
+  },
+  {
+    "id": 97,
+    "difficulty": "medium",
+    "question": "What salvage company owner uses alien tech wings as the Vulture in 'Spider-Man: Homecoming'?",
+    "options": [
+      "Adrian Toomes",
+      "Herman Schultz",
+      "Phineas Mason",
+      "Mac Gargan"
+    ],
+    "answer": "Adrian Toomes"
+  },
+  {
+    "id": 98,
+    "difficulty": "medium",
+    "question": "What defense system AI sunglasses are given to Peter Parker by Tony Stark's estate?",
+    "options": [
+      "E.D.I.T.H.",
+      "KAREN",
+      "F.R.I.D.A.Y.",
+      "V.I.S.I.O.N."
+    ],
+    "answer": "E.D.I.T.H."
+  },
+  {
+    "id": 99,
+    "difficulty": "medium",
+    "question": "Which Sorcerer Supreme is killed by Kaecilius in 'Doctor Strange'?",
+    "options": [
+      "The Ancient One",
+      "Wong",
+      "Dr. Strange",
+      "Agamotto"
+    ],
+    "answer": "The Ancient One"
+  },
+  {
+    "id": 100,
+    "difficulty": "medium",
+    "question": "Who becomes Sorcerer Supreme during the five-year Blip gap when Strange vanished?",
+    "options": [
+      "Wong",
+      "Mordo",
+      "Ned Leeds",
+      "Clea"
+    ],
+    "answer": "Wong"
+  },
+  {
+    "id": 101,
+    "difficulty": "medium",
+    "question": "What dimension is dark magic ruler Dormammu from in 'Doctor Strange'?",
+    "options": [
+      "Dark Dimension",
+      "Quantum Realm",
+      "Mirror Dimension",
+      "Ta Lo"
+    ],
+    "answer": "Dark Dimension"
+  },
+  {
+    "id": 102,
+    "difficulty": "medium",
+    "question": "What mythical realm hidden in China is protected by the Great Protector in 'Shang-Chi'?",
+    "options": [
+      "Ta Lo",
+      "K'un-Lun",
+      "Kamar-Taj",
+      "Madripoor"
+    ],
+    "answer": "Ta Lo"
+  },
+  {
+    "id": 103,
+    "difficulty": "medium",
+    "question": "What criminal island nation filled with lawlessness appears in 'The Falcon and the Winter Soldier'?",
+    "options": [
+      "Madripoor",
+      "Genosha",
+      "Sokovia",
+      "Savage Land"
+    ],
+    "answer": "Madripoor"
+  },
+  {
+    "id": 104,
+    "difficulty": "medium",
+    "question": "What Anti-Patriot group led by Karli Morgenthau advocates for unified world borders after the Blip?",
+    "options": [
+      "Flag Smashers",
+      "The Tracksuit Mafia",
+      "Watchdogs",
+      "Wrecking Crew"
+    ],
+    "answer": "Flag Smashers"
+  },
+  {
+    "id": 105,
+    "difficulty": "medium",
+    "question": "What former soldier was appointed as the new Captain America by the government before taking the name U.S. Agent?",
+    "options": [
+      "John Walker",
+      "Lemar Hoskins",
+      "Jack Duquesne",
+      "Joaquim Torres"
+    ],
+    "answer": "John Walker"
+  },
+  {
+    "id": 106,
+    "difficulty": "medium",
+    "question": "In 'Spider-Man: No Way Home', which spell-casting disaster brings Tobey Maguire and Andrew Garfield's Spider-Men into the MCU?",
+    "options": [
+      "Doctor Strange's Runes of Kof-Kol spell",
+      "Tesseract explosion",
+      "Time Stone loop",
+      "Quantum Realm rupture"
+    ],
+    "answer": "Doctor Strange's Runes of Kof-Kol spell"
+  },
+  {
+    "id": 107,
+    "difficulty": "medium",
+    "question": "In 'The Falcon and the Winter Soldier', Sharon Carter is revealed to be operating as what crime boss in Madripoor?",
+    "options": [
+      "The Power Broker",
+      "Madame Masque",
+      "Nightshade",
+      "The Contessa"
+    ],
+    "answer": "The Power Broker"
+  },
+  {
+    "id": 108,
+    "difficulty": "medium",
+    "question": "Which town in New Jersey does Wanda Maximoff transform into a sit-com hex world?",
+    "options": [
+      "Westview",
+      "Rose Hill",
+      "Broad Sky",
+      "Ridgefield"
+    ],
+    "answer": "Westview"
+  },
+  {
+    "id": 109,
+    "difficulty": "medium",
+    "question": "Which ancient witch trapped in Westview was disguised as noisy neighbor 'Agnes'?",
+    "options": [
+      "Agatha Harkness",
+      "Morgan le Fay",
+      "Jennifer Kale",
+      "Lilia Calderu"
+    ],
+    "answer": "Agatha Harkness"
+  },
+  {
+    "id": 110,
+    "difficulty": "medium",
+    "question": "What book of dark magic corrupts Wanda Maximoff during 'Doctor Strange in the Multiverse of Madness'?",
+    "options": [
+      "The Darkhold",
+      "Book of Vishanti",
+      "Necronomicon",
+      "Tome of Oshtur"
+    ],
+    "answer": "The Darkhold"
+  },
+  {
+    "id": 111,
+    "difficulty": "medium",
+    "question": "What quirky TVA repair technician is played by Ke Huy Quan in 'Loki' Season 2?",
+    "options": [
+      "Ouroboros (O.B.)",
+      "Mobius",
+      "Victor Timely",
+      "Casey"
+    ],
+    "answer": "Ouroboros (O.B.)"
+  },
+  {
+    "id": 112,
+    "difficulty": "medium",
+    "question": "What young heroine possesses the innate ability to punch star-shaped portals through the Multiverse?",
+    "options": [
+      "America Chavez",
+      "Kamala Khan",
+      "Cassie Lang",
+      "Clea"
+    ],
+    "answer": "America Chavez"
+  },
+  {
+    "id": 113,
+    "difficulty": "medium",
+    "question": "What designation is given to the main timeline universe of the MCU in 'Multiverse of Madness'?",
+    "options": [
+      "Earth-616",
+      "Earth-838",
+      "Earth-1610",
+      "Earth-199999"
+    ],
+    "answer": "Earth-616"
+  },
+  {
+    "id": 114,
+    "difficulty": "medium",
+    "question": "In 'Loki' Season 2, what 19th-century inventor variant of Kang does Loki and Mobius track down in Chicago?",
+    "options": [
+      "Victor Timely",
+      "He Who Remains",
+      "Immortus",
+      "Iron Lad"
+    ],
+    "answer": "Victor Timely"
+  },
+  {
+    "id": 115,
+    "difficulty": "medium",
+    "question": "What alias does Marc Spector'alternate mild-mannered gift-shop employee personality use?",
+    "options": [
+      "Steven Grant",
+      "Jake Lockley",
+      "Arthur Harrow",
+      "Layla El-Faouly"
+    ],
+    "answer": "Steven Grant"
+  },
+  {
+    "id": 116,
+    "difficulty": "medium",
+    "question": "What third ruthless personality of Marc Spector is revealed in the end credits of 'Moon Knight'?",
+    "options": [
+      "Jake Lockley",
+      "Steven Grant",
+      "Khonshu",
+      "Ammit"
+    ],
+    "answer": "Jake Lockley"
+  },
+  {
+    "id": 117,
+    "difficulty": "medium",
+    "question": "Who plays the main villain Gorr the God Butcher in 'Thor: Love and Thunder'?",
+    "options": [
+      "Christian Bale",
+      "Russell Crowe",
+      "Jeff Goldblum",
+      "Matt Damon"
+    ],
+    "answer": "Christian Bale"
+  },
+  {
+    "id": 118,
+    "difficulty": "medium",
+    "question": "What weapon does Gorr the God Butcher wield to slay celestial beings?",
+    "options": [
+      "All-Black the Necrosword",
+      "Stormbreaker",
+      "Twilight Sword",
+      "Corvus Glaive"
+    ],
+    "answer": "All-Black the Necrosword"
+  },
+  {
+    "id": 119,
+    "difficulty": "medium",
+    "question": "Who takes over as the new Black Panther following the death of King T'Challa in 'Wakanda Forever'?",
+    "options": [
+      "Shuri",
+      "Okoye",
+      "Nakia",
+      "M'Baku"
+    ],
+    "answer": "Shuri"
+  },
+  {
+    "id": 120,
+    "difficulty": "medium",
+    "question": "What underwater king of Talokan serves as the antagonist in 'Black Panther: Wakanda Forever'?",
+    "options": [
+      "Namor",
+      "Attuma",
+      "Karkull",
+      "Ulysses Klaue"
+    ],
+    "answer": "Namor"
+  },
+  {
+    "id": 121,
+    "difficulty": "hard",
+    "question": "In 'Daredevil' Season 1, what specific alias did Wilson Fisk's father make him repeat before forcing him to hit his dad with a hammer?",
+    "options": [
+      "Keep staring at the wall",
+      "Fisk men don't cry",
+      "Protect your mother",
+      "Be a man"
+    ],
+    "answer": "Keep staring at the wall"
+  },
+  {
+    "id": 122,
+    "difficulty": "hard",
+    "question": "What is the exact name of the street gang led by Karen Page's brother, Todd, in her backstory episode in 'Daredevil' Season 3?",
+    "options": [
+      "The Penny-Ante Mob",
+      "Fisk's Crew",
+      "The Kitchen Irish",
+      "The Dogs of Hell"
+    ],
+    "answer": "The Penny-Ante Mob"
+  },
+  {
+    "id": 123,
+    "difficulty": "hard",
+    "question": "In 'The Punisher' Season 1, what alias does Frank Castle use while working on a construction site?",
+    "options": [
+      "Pete Castiglione",
+      "Frank Russo",
+      "John Miller",
+      "Charles Crane"
+    ],
+    "answer": "Pete Castiglione"
+  },
+  {
+    "id": 124,
+    "difficulty": "hard",
+    "question": "What was the name of the covert CIA operation led by William Rawlins in Afghanistan featured in 'The Punisher'?",
+    "options": [
+      "Operation Cerberus",
+      "Operation Rebirth",
+      "Operation Paperclip",
+      "Operation Insight"
+    ],
+    "answer": "Operation Cerberus"
+  },
+  {
+    "id": 125,
+    "difficulty": "hard",
+    "question": "In 'Daredevil', what is the formal name of the orphanage where Matt Murdock was raised after his father died?",
+    "options": [
+      "Saint Agnes Orphanage",
+      "Saint Charles Home",
+      "Saint Jude Sanctuary",
+      "Hell's Kitchen Youth Center"
+    ],
+    "answer": "Saint Agnes Orphanage"
+  },
+  {
+    "id": 126,
+    "difficulty": "hard",
+    "question": "What boxing opponent did Jack Murdock refuse to throw a fight against, leading to his assassination by mobsters?",
+    "options": [
+      "Carl 'Crusher' Creel",
+      "Battlin' Jack Jones",
+      "Roderick Kingsley",
+      "Mac Gargan"
+    ],
+    "answer": "Carl 'Crusher' Creel"
+  },
+  {
+    "id": 127,
+    "difficulty": "hard",
+    "question": "In Tobey Maguire's 'Spider-Man 2', what fusion reactor element does Otto Octavius need to stabilize his artificial sun project?",
+    "options": [
+      "Tritium",
+      "Vibranium",
+      "Palladium",
+      "Uranium-235"
+    ],
+    "answer": "Tritium"
+  },
+  {
+    "id": 128,
+    "difficulty": "hard",
+    "question": "In Andrew Garfield's 'The Amazing Spider-Man', what specific decay rate algorithm formula did Peter Parker give Dr. Curt Connors?",
+    "options": [
+      "Roosevelt Decay Rate Algorithm (0=0)",
+      "Parker-Osborn Matrix",
+      "Reptilian Cross-Species Formula",
+      "Connors Equation 41"
+    ],
+    "answer": "Roosevelt Decay Rate Algorithm (0=0)"
+  },
+  {
+    "id": 129,
+    "difficulty": "hard",
+    "question": "In Tobey Maguire's 'Spider-Man' (2002), what underground wrestling name does Peter Parker initially register under?",
+    "options": [
+      "The Human Spider",
+      "Spider-Man",
+      "The Web Slinger",
+      "Arachnid Boy"
+    ],
+    "answer": "The Human Spider"
+  },
+  {
+    "id": 130,
+    "difficulty": "hard",
+    "question": "In 'Luke Cage' Season 2, what Jamaica-based herbal concoction grants Bushmaster his strength and invulnerability?",
+    "options": [
+      "Nightshade",
+      "Heart-Shaped Herb",
+      "Terrigen Solution",
+      "Extremis Serum"
+    ],
+    "answer": "Nightshade"
+  },
+  {
+    "id": 131,
+    "difficulty": "hard",
+    "question": "What was the name of the barber who ran the neutral barbershop sanctuary in Harlem before his death in 'Luke Cage' Season 1?",
+    "options": [
+      "Henry 'Pop' Hunter",
+      "Bobby Fish",
+      "Lonnie Wilson",
+      "Duaane"
+    ],
+    "answer": "Henry 'Pop' Hunter"
+  },
+  {
+    "id": 132,
+    "difficulty": "hard",
+    "question": "In 'Iron Fist' Season 1, what corporate empire is owned by the Rand family alongside Harold and Ward Meachum?",
+    "options": [
+      "Rand Enterprises",
+      "Roxxon Corp",
+      "Hammer Industries",
+      "Stark International"
+    ],
+    "answer": "Rand Enterprises"
+  },
+  {
+    "id": 133,
+    "difficulty": "hard",
+    "question": "Who are the five fingers (leaders) of The Hand as revealed across 'Daredevil', 'Iron Fist', and 'The Defenders'?",
+    "options": [
+      "Alexandra, Madame Gao, Bakuto, Sowande, Murakami",
+      "Nobu, Stick, Elektra, Gao, Fisk",
+      "Ying Lin, Bakuto, Kirigi, Sowande, Zhou",
+      "Coleen, Danny, Davos, Alexandra, Murakami"
+    ],
+    "answer": "Alexandra, Madame Gao, Bakuto, Sowande, Murakami"
+  },
+  {
+    "id": 134,
+    "difficulty": "hard",
+    "question": "What specialized task force unit does FBI Agent Ray Nadeem work for in 'Daredevil' Season 3?",
+    "options": [
+      "Federal Bureau of Investigation (NYC Field Office)",
+      "S.H.I.E.L.D. Tactical",
+      "Homeland Security Division 4",
+      "NYPD Anti-Gang Taskforce"
+    ],
+    "answer": "Federal Bureau of Investigation (NYC Field Office)"
+  },
+  {
+    "id": 135,
+    "difficulty": "hard",
+    "question": "In 'Daredevil' Season 3, what is Sister Maggie's true biological relationship to Matt Murdock?",
+    "options": [
+      "His Mother (Maggie Murdock)",
+      "His Aunt",
+      "His Foster Guardian",
+      "No relation"
+    ],
+    "answer": "His Mother (Maggie Murdock)"
+  },
+  {
+    "id": 136,
+    "difficulty": "hard",
+    "question": "In 'The Punisher' Season 2, what fundamentalist Christian hitman is hired by the Schultz family to kill Amy Bendix?",
+    "options": [
+      "John Pilgrim",
+      "Billy Russo",
+      "Rawlins",
+      "Maurice O'Brien"
+    ],
+    "answer": "John Pilgrim"
+  },
+  {
+    "id": 137,
+    "difficulty": "hard",
+    "question": "What chemical company is referenced throughout multiple MCU street-level shows including 'Daredevil' and 'Iron Fist'?",
+    "options": [
+      "Roxxon Corporation",
+      "Pym Technologies",
+      "Cross Technologies",
+      "Accitech"
+    ],
+    "answer": "Roxxon Corporation"
+  },
+  {
+    "id": 138,
+    "difficulty": "hard",
+    "question": "In 'Loki' Season 2, what device built by O.B. and Victor Timely is designed to expand TVA capacity to handle branching timelines?",
+    "options": [
+      "Temporal Loom Throughput Multiplier",
+      "Reset Charge Injector",
+      "Time Ripper",
+      "Quantum Harvester"
+    ],
+    "answer": "Temporal Loom Throughput Multiplier"
+  },
+  {
+    "id": 139,
+    "difficulty": "hard",
+    "question": "What is the real name of Hunter B-15 before her timeline memories were restored in 'Loki'?",
+    "options": [
+      "Dr. Verity Willis",
+      "Dr. Willis",
+      "Rebecca Tourminet",
+      "Sylvie Laufeydottir"
+    ],
+    "answer": "Rebecca Tourminet"
+  },
+  {
+    "id": 140,
+    "difficulty": "hard",
+    "question": "In 'Hawkeye', what valuable artifact recovered from the Avengers Compound ruins was auctioned off at the black market gala?",
+    "options": [
+      "Ronin's Suit and Retractable Sword",
+      "Captain America's broken shield",
+      "Iron Man's Mark 50 Arc Reactor",
+      "Loki's Scepter Fragment"
+    ],
+    "answer": "Ronin's Suit and Retractable Sword"
+  },
+  {
+    "id": 141,
+    "difficulty": "hard",
+    "question": "What specific Rolex watch engraving confirms it belonged to Laura Barton (Agent 19 / Mockingbird) in 'Hawkeye'?",
+    "options": [
+      "S.H.I.E.L.D. Logo with '19'",
+      "Avengers Initiative Stamp",
+      "Clint & Laura Forever",
+      "Stark Industries Serial No. 19"
+    ],
+    "answer": "S.H.I.E.L.D. Logo with '19'"
+  },
+  {
+    "id": 142,
+    "difficulty": "hard",
+    "question": "What specific node sequence phrase activates Bucky Barnes' Winter Soldier brainwashing code in Russian?",
+    "options": [
+      "Longing, rusted, seventeen, daybreak, furnace, nine, benign, homecoming, one, freight car",
+      "Whiskey, hotel, november, tango, sierra, delta, alpha, foxtrot, uniform, charlie",
+      "Red, winter, shield, hydra, soldier, crown, star, march, zero, iron",
+      "Sokovia, scepter, mission, shadow, ghost, frost, ice, nine, weapon, start"
+    ],
+    "answer": "Longing, rusted, seventeen, daybreak, furnace, nine, benign, homecoming, one, freight car"
+  },
+  {
+    "id": 143,
+    "difficulty": "hard",
+    "question": "In 'Iron Man 2', what element does Tony Stark synthesize in his basement particle accelerator to replace palladium?",
+    "options": [
+      "Badassium (Synthesized element)",
+      "Vibranium",
+      "Adamantium",
+      "Promethium"
+    ],
+    "answer": "Badassium (Synthesized element)"
+  },
+  {
+    "id": 144,
+    "difficulty": "hard",
+    "question": "What exact date did Howard and Maria Stark die at the hands of the Winter Soldier?",
+    "options": [
+      "December 16, 1991",
+      "November 11, 1993",
+      "July 4, 1990",
+      "December 25, 1989"
+    ],
+    "answer": "December 16, 1991"
+  },
+  {
+    "id": 145,
+    "difficulty": "hard",
+    "question": "What is the name of the German airfield where the Avengers battle in 'Captain America: Civil War'?",
+    "options": [
+      "Leipzig/Halle Airport",
+      "Berlin Brandenburg Airport",
+      "Frankfurt Airport",
+      "Munich Central Airport"
+    ],
+    "answer": "Leipzig/Halle Airport"
+  },
+  {
+    "id": 146,
+    "difficulty": "hard",
+    "question": "In 'Captain America: The Winter Soldier', what is the name of Arnim Zola's predictive targeting algorithm?",
+    "options": [
+      "Algorithm Insight",
+      "Project Insight",
+      "Zola's Matrix",
+      "Target Protocol Zero"
+    ],
+    "answer": "Project Insight"
+  },
+  {
+    "id": 147,
+    "difficulty": "hard",
+    "question": "What is the name of the S.H.I.E.L.D. floating ocean prison platform where Clint Barton and Wanda were held after Civil War?",
+    "options": [
+      "The Raft",
+      "Seagate",
+      "The Cube",
+      "The Vault"
+    ],
+    "answer": "The Raft"
+  },
+  {
+    "id": 148,
+    "difficulty": "hard",
+    "question": "What is the name of the ancient device used by Kaecilius to summon Dormammu from the Dark Dimension?",
+    "options": [
+      "Zealot's Ritual Pages from the Book of Cagliostro",
+      "Darkhold Chants",
+      "Orb of Agamotto",
+      "Wand of Watoomb"
+    ],
+    "answer": "Zealot's Ritual Pages from the Book of Cagliostro"
+  },
+  {
+    "id": 149,
+    "difficulty": "hard",
+    "question": "In Tobey Maguire's 'Spider-Man 3', what hospital setting does Eddie Brock visit to pray for Peter Parker's death?",
+    "options": [
+      "Church of the Holy Redeemer",
+      "Saint Patrick's Cathedral",
+      "Grace Church",
+      "Trinity Church"
+    ],
+    "answer": "Grace Church"
+  },
+  {
+    "id": 150,
+    "difficulty": "hard",
+    "question": "In 'Guardians of the Galaxy Vol. 2', what drug substance does Ego plant across thousands of worlds to execute his Expansion?",
+    "options": [
+      "Celestial Seedling Plant",
+      "Terrigen Crystal",
+      "Super-Ego Spore",
+      "Vibranium Root"
+    ],
+    "answer": "Celestial Seedling Plant"
+  },
+  {
+    "id": 151,
+    "difficulty": "hard",
+    "question": "What was the name of the Ravager captain who originally banished Yondu Udonta for child trafficking?",
+    "options": [
+      "Stakar Ogord",
+      "Charlie-27",
+      "Martinex",
+      "Mainframe"
+    ],
+    "answer": "Stakar Ogord"
+  },
+  {
+    "id": 152,
+    "difficulty": "hard",
+    "question": "In Andrew Garfield's 'The Amazing Spider-Man 2', what secret subway car hiding place contains Richard Parker's research videos?",
+    "options": [
+      "Roosevelt Underground Station (DUMBO)",
+      "City Hall Station",
+      "Track 61",
+      "Cortlandt Street Station"
+    ],
+    "answer": "Roosevelt Underground Station (DUMBO)"
+  },
+  {
+    "id": 153,
+    "difficulty": "hard",
+    "question": "What is the exact name of the High Evolutionary's perfected planet colony in 'Guardians of the Galaxy Vol. 3'?",
+    "options": [
+      "Counter-Earth",
+      "Halfworld",
+      "Knowhere",
+      "Orgocorp"
+    ],
+    "answer": "Counter-Earth"
+  },
+  {
+    "id": 154,
+    "difficulty": "hard",
+    "question": "What organic space station headquarters is controlled by the High Evolutionary in 'Guardians of the Galaxy Vol. 3'?",
+    "options": [
+      "Arete Laboratories / Orgocorp Headquarters",
+      "The Hub",
+      "S.A.B.R.E. Station",
+      "Kree-Lar"
+    ],
+    "answer": "Arete Laboratories / Orgocorp Headquarters"
+  },
+  {
+    "id": 155,
+    "difficulty": "hard",
+    "question": "What batch designation code was given to Rocket Raccoon by the High Evolutionary?",
+    "options": [
+      "Subject 89P13",
+      "Subject 89P12",
+      "Batch 41",
+      "Raccoon 001"
+    ],
+    "answer": "Subject 89P13"
+  },
+  {
+    "id": 156,
+    "difficulty": "hard",
+    "question": "Who were Rocket's three caged friends in Batch 89?",
+    "options": [
+      "Lylla, Teefs, and Floor",
+      "Groot, Drax, and Mantis",
+      "Cosmo, Howard, and Kraglin",
+      "Lyla, teeth, and Paws"
+    ],
+    "answer": "Lylla, Teefs, and Floor"
+  },
+  {
+    "id": 157,
+    "difficulty": "hard",
+    "question": "In 'Avengers: Endgame', on what planet does Thanos retreat to live as a farmer before the Avengers track him down?",
+    "options": [
+      "The Garden (Planet 0259-S)",
+      "Titan",
+      "Vormir",
+      "Xandar"
+    ],
+    "answer": "The Garden (Planet 0259-S)"
+  },
+  {
+    "id": 158,
+    "difficulty": "hard",
+    "question": "What entity guards the Soul Stone on Vormir?",
+    "options": [
+      "Red Skull (Stonekeeper)",
+      "Hela",
+      "Mephisto",
+      "Eternity"
+    ],
+    "answer": "Red Skull (Stonekeeper)"
+  },
+  {
+    "id": 159,
+    "difficulty": "hard",
+    "question": "What is the name of the cosmic entity residing at the center of the universe that grants one wish to whoever reaches it first in 'Thor: Love and Thunder'?",
+    "options": [
+      "Eternity",
+      "The Living Tribunal",
+      "Infinity",
+      "Death"
+    ],
+    "answer": "Eternity"
+  },
+  {
+    "id": 160,
+    "difficulty": "hard",
+    "question": "In 'Loki' Season 1, what variant of Loki created the void beyond the end of time by eating entire pruned timelines?",
+    "options": [
+      "Alioth",
+      "Sylvie",
+      "Classic Loki",
+      "Kid Loki"
+    ],
+    "answer": "Alioth"
+  },
+  {
+    "id": 161,
+    "difficulty": "hard",
+    "question": "What is the name of He Who Remains' citadel located at the End of Time?",
+    "options": [
+      "Citadel at the End of Time",
+      "Chronopolis",
+      "Qeng Tower",
+      "Temporal Core"
+    ],
+    "answer": "Citadel at the End of Time"
+  },
+  {
+    "id": 162,
+    "difficulty": "hard",
+    "question": "In 'Loki' Season 2, what throne form does Loki assume to hold together all branching timelines at the center of time?",
+    "options": [
+      "God of Stories / Tree of Yggdrasil",
+      "King of Asgard",
+      "Time Master",
+      "Conqueror of Timelines"
+    ],
+    "answer": "God of Stories / Tree of Yggdrasil"
+  },
+  {
+    "id": 163,
+    "difficulty": "hard",
+    "question": "In 'Ant-Man and the Wasp: Quantumania', what identity does Darren Cross (formerly Yellowjacket) adopt inside the Quantum Realm?",
+    "options": [
+      "M.O.D.O.K.",
+      "Krylar",
+      "Lord Krylar",
+      "Psycho-Man"
+    ],
+    "answer": "M.O.D.O.K."
+  },
+  {
+    "id": 164,
+    "difficulty": "hard",
+    "question": "What does M.O.D.O.K. stand for in the MCU?",
+    "options": [
+      "Mechanized Organism Designed Only for Killing",
+      "Machine Operated Device Only for Conquest",
+      "Mechanical Organism Designed for Online Destruction",
+      "Master Organism Designed Only for Knowledge"
+    ],
+    "answer": "Mechanized Organism Designed Only for Killing"
+  },
+  {
+    "id": 165,
+    "difficulty": "hard",
+    "question": "In 'Shang-Chi', what is the actual name of Shang-Chi's father who led the Ten Rings organization for thousands of years?",
+    "options": [
+      "Xu Wenwu",
+      "Xu Xialing",
+      "Razor Fist",
+      "Death Dealer"
+    ],
+    "answer": "Xu Wenwu"
+  },
+  {
+    "id": 166,
+    "difficulty": "hard",
+    "question": "What actor was hired by Trevor Slattery to act as the fake 'Mandarin' front for Aldrich Killian in 'Iron Man 3'?",
+    "options": [
+      "Trevor Slattery himself",
+      "Jackson Norriss",
+      "Eric Savin",
+      "Xu Wenwu"
+    ],
+    "answer": "Trevor Slattery himself"
+  },
+  {
+    "id": 167,
+    "difficulty": "hard",
+    "question": "Who played Trevor Slattery in 'Iron Man 3' and 'Shang-Chi'?",
+    "options": [
+      "Ben Kingsley",
+      "Guy Pearce",
+      "Sam Rockwell",
+      "Paul Bettany"
+    ],
+    "answer": "Ben Kingsley"
+  },
+  {
+    "id": 168,
+    "difficulty": "hard",
+    "question": "In 'Moon Knight', what ancient judgment deity does Arthur Harrow serve as an avatar for?",
+    "options": [
+      "Ammit",
+      "Taweret",
+      "Khonshu",
+      "Osiris"
+    ],
+    "answer": "Ammit"
+  },
+  {
+    "id": 169,
+    "difficulty": "hard",
+    "question": "Which hippopotamus-headed Egyptian goddess guides souls on the boat through the Duat in 'Moon Knight'?",
+    "options": [
+      "Taweret",
+      "Hathor",
+      "Isis",
+      "Sekhmet"
+    ],
+    "answer": "Taweret"
+  },
+  {
+    "id": 170,
+    "difficulty": "hard",
+    "question": "What superhero moniker does Layla El-Faouly adopt after becoming Taweret's temporary avatar in 'Moon Knight'?",
+    "options": [
+      "Scarlet Scarab",
+      "White Tiger",
+      "Moon Maiden",
+      "Sphinx"
+    ],
+    "answer": "Scarlet Scarab"
+  },
+  {
+    "id": 171,
+    "difficulty": "hard",
+    "question": "In Tobey Maguire's 'Spider-Man', what wrestling promotion match is Peter Parker attempting to win money from?",
+    "options": [
+      "NYWL (New York Wrestling League)",
+      "Bone Saw Championship Wrestling",
+      "Metro Wrestling Alliance",
+      "Ultimate Fighting Federation"
+    ],
+    "answer": "NYWL (New York Wrestling League)"
+  },
+  {
+    "id": 172,
+    "difficulty": "hard",
+    "question": "What wrestler played 'Bone Saw McGraw' in Tobey Maguire's 'Spider-Man'?",
+    "options": [
+      "Randy 'Macho Man' Savage",
+      "Hulk Hogan",
+      "The Undertaker",
+      "Stone Cold Steve Austin"
+    ],
+    "answer": "Randy 'Macho Man' Savage"
+  },
+  {
+    "id": 173,
+    "difficulty": "hard",
+    "question": "In 'Ms. Marvel', what extra-dimensional race of beings are Kamala Khan's great-grandmother Aisha and Najma?",
+    "options": [
+      "Clandestines (Djinn)",
+      "Kree",
+      "Skrulls",
+      "Inhumans"
+    ],
+    "answer": "Clandestines (Djinn)"
+  },
+  {
+    "id": 174,
+    "difficulty": "hard",
+    "question": "What dimension do the Clandestines originate from and seek to return to in 'Ms. Marvel'?",
+    "options": [
+      "Noor Dimension",
+      "Dark Dimension",
+      "Ta Lo",
+      "Quantum Realm"
+    ],
+    "answer": "Noor Dimension"
+  },
+  {
+    "id": 175,
+    "difficulty": "hard",
+    "question": "In 'Eternals', what massive Celestial attempts to emerge from Earth's core before being petrified by Sersi?",
+    "options": [
+      "Tiamut",
+      "Arishem",
+      "Jemiah",
+      "Eson"
+    ],
+    "answer": "Tiamut"
+  },
+  {
+    "id": 176,
+    "difficulty": "hard",
+    "question": "Who is the Prime Celestial that created the Eternals and Deviants?",
+    "options": [
+      "Arishem the Judge",
+      "Tiamut",
+      "Hargen",
+      "Nezarr"
+    ],
+    "answer": "Arishem the Judge"
+  },
+  {
+    "id": 177,
+    "difficulty": "hard",
+    "question": "In 'Spider-Man: No Way Home', what cures do the Spider-Men engineer for Electro and Doctor Octopus?",
+    "options": [
+      "Energy Siphon and Replacement Inhibitor Chip",
+      "Serum Reversal and Arc Reactor",
+      "Quantum Neutralizer and Nanotech Cure",
+      "Neural Inhibitor and Particle Draining Device"
+    ],
+    "answer": "Energy Siphon and Replacement Inhibitor Chip"
+  },
+  {
+    "id": 178,
+    "difficulty": "hard",
+    "question": "In Andrew Garfield's 'The Amazing Spider-Man 2', what song does Max Dillon (Electro) create electrically using power transformers?",
+    "options": [
+      "Itsy Bitsy Spider",
+      "Happy Birthday",
+      "Flight of the Bumblebee",
+      "Pop Goes the Weasel"
+    ],
+    "answer": "Itsy Bitsy Spider"
+  },
+  {
+    "id": 179,
+    "difficulty": "hard",
+    "question": "In 'Spider-Man: No Way Home', what statue is under construction during the final battle climax?",
+    "options": [
+      "Statue of Liberty holding Captain America's Shield",
+      "Empire State Building",
+      "Avengers Tower",
+      "Brooklyn Bridge Monument"
+    ],
+    "answer": "Statue of Liberty holding Captain America's Shield"
+  },
+  {
+    "id": 180,
+    "difficulty": "hard",
+    "question": "In 'She-Hulk: Attorney at Law', what incel cyber-group run by Todd Phelps targets Jennifer Walters' blood?",
+    "options": [
+      "Intelligencia",
+      "Advanced Idea Mechanics",
+      "Ten Rings",
+      "The Wrecking Crew"
+    ],
+    "answer": "Intelligencia"
+  },
+  {
+    "id": 181,
+    "difficulty": "hard",
+    "question": "What is the name of the Fourth-Wall breaking AI algorithm Jennifer Walters confronts in the finale of 'She-Hulk'?",
+    "options": [
+      "K.E.V.I.N.",
+      "J.A.R.V.I.S.",
+      "U.L.T.R.O.N.",
+      "S.T.A.N."
+    ],
+    "answer": "K.E.V.I.N."
+  },
+  {
+    "id": 182,
+    "difficulty": "hard",
+    "question": "What does K.E.V.I.N. stand for in the She-Hulk Season 1 finale?",
+    "options": [
+      "Knowledge Enhanced Visual Interconnected Network",
+      "Key Educational Virtual Intelligence Network",
+      "Kinetic Electronic Virtual Interactive Node",
+      "Known Entity Visual Interactive Narrative"
+    ],
+    "answer": "Knowledge Enhanced Visual Interconnected Network"
+  },
+  {
+    "id": 183,
+    "difficulty": "hard",
+    "question": "In 'The Defenders', what structural building in New York serves as the front over the buried Dragon Bones?",
+    "options": [
+      "Midland Circle Financial",
+      "Roxxon Plaza",
+      "Rand Tower",
+      "Fisk Tower"
+    ],
+    "answer": "Midland Circle Financial"
+  },
+  {
+    "id": 184,
+    "difficulty": "hard",
+    "question": "In 'The Defenders', who executes Alexandra to assume full control over The Hand?",
+    "options": [
+      "Elektra (The Black Sky)",
+      "Madame Gao",
+      "Bakuto",
+      "Murakami"
+    ],
+    "answer": "Elektra (The Black Sky)"
+  },
+  {
+    "id": 185,
+    "difficulty": "hard",
+    "question": "In 'Loki' Season 2, what temporal device does Victor Timely create as a child after receiving the TVA guidebook?",
+    "options": [
+      "Early prototype Temporal Loom model",
+      "Time-Pad",
+      "Prune Baton",
+      "Reset Charge"
+    ],
+    "answer": "Early prototype Temporal Loom model"
+  },
+  {
+    "id": 186,
+    "difficulty": "hard",
+    "question": "In Andrew Garfield's 'The Amazing Spider-Man', what is the name of Peter Parker's high school bully who later becomes a fan of Spider-Man?",
+    "options": [
+      "Flash Thompson",
+      "Kong",
+      "Seymour",
+      "Abe Brown"
+    ],
+    "answer": "Flash Thompson"
+  },
+  {
+    "id": 187,
+    "difficulty": "hard",
+    "question": "In Tobey Maguire's 'Spider-Man 2', what restaurant location does Peter Parker get fired from as a delivery boy?",
+    "options": [
+      "Joe's Pizza",
+      "Luigi's Italian",
+      "Gino's Pizzeria",
+      "Uncle Sal's"
+    ],
+    "answer": "Joe's Pizza"
+  },
+  {
+    "id": 188,
+    "difficulty": "hard",
+    "question": "In Tobey Maguire's 'Spider-Man 2', how many extra minutes late was Peter Parker when delivering pizzas to 29th Street?",
+    "options": [
+      "8 minutes late",
+      "5 minutes late",
+      "15 minutes late",
+      "2 minutes late"
+    ],
+    "answer": "8 minutes late"
+  },
+  {
+    "id": 189,
+    "difficulty": "hard",
+    "question": "In 'Werewolf by Night', what family bloodline heirloom confers leadership over monster hunters upon its possessor?",
+    "options": [
+      "The Bloodstone",
+      "The Darkhold",
+      "The Ebony Blade",
+      "The Opal of Doom"
+    ],
+    "answer": "The Bloodstone"
+  },
+  {
+    "id": 190,
+    "difficulty": "hard",
+    "question": "What is the real name of Werewolf by Night introduced in the Marvel Special Presentation?",
+    "options": [
+      "Jack Russell",
+      "Ted Sallis",
+      "Verussa Stone",
+      "Elsa Bloodstone"
+    ],
+    "answer": "Jack Russell"
+  },
+  {
+    "id": 191,
+    "difficulty": "hard",
+    "question": "What swamp creature monster (Ted Sallis) is Jack Russell's best friend in 'Werewolf by Night'?",
+    "options": [
+      "Man-Thing",
+      "Abomination",
+      "Gargoyle",
+      "Chupacabra"
+    ],
+    "answer": "Man-Thing"
+  },
+  {
+    "id": 192,
+    "difficulty": "hard",
+    "question": "In 'Black Panther: Wakanda Forever', what university does Riri Williams attend when she builds her Vibranium detector?",
+    "options": [
+      "MIT (Massachusetts Institute of Technology)",
+      "Caltech",
+      "Columbia University",
+      "Oxford University"
+    ],
+    "answer": "MIT (Massachusetts Institute of Technology)"
+  },
+  {
+    "id": 193,
+    "difficulty": "hard",
+    "question": "What is the exact Mayan-inspired name given to Namor by his people, meaning 'The Boy Without Love'?",
+    "options": [
+      "K'uk'ulkan",
+      "Namor",
+      "Talokan",
+      "Chaac"
+    ],
+    "answer": "K'uk'ulkan"
+  },
+  {
+    "id": 194,
+    "difficulty": "hard",
+    "question": "In 'The Defenders', what key asset did The Hand use to open the ancient underground dragon gate?",
+    "options": [
+      "Danny Rand's glowing Iron Fist",
+      "Elektra's blood",
+      "Tesseract power",
+      "A Dragon Tooth key"
+    ],
+    "answer": "Danny Rand's glowing Iron Fist"
+  },
+  {
+    "id": 195,
+    "difficulty": "hard",
+    "question": "In Tobey Maguire's 'Spider-Man', what exact green performance-enhancing serum turned Norman Osborn into Green Goblin?",
+    "options": [
+      "Human Performance Enhancer (Formula 07)",
+      "Super Soldier Serum",
+      "Globulin Green",
+      "Oscorp Serum X"
+    ],
+    "answer": "Human Performance Enhancer (Formula 07)"
+  },
+  {
+    "id": 196,
+    "difficulty": "hard",
+    "question": "In Andrew Garfield's 'The Amazing Spider-Man', what species of spider bit Peter Parker inside the secret Oscorp lab?",
+    "options": [
+      "Genetically modified Biocable Spider",
+      "Radioactive Super-Spider",
+      "Vibranium-infused Spider",
+      "Quantum Spider"
+    ],
+    "answer": "Genetically modified Biocable Spider"
+  },
+  {
+    "id": 197,
+    "difficulty": "hard",
+    "question": "In 'Daredevil' Season 2, what nickname is given to Frank Castle by the media before his official trial?",
+    "options": [
+      "The Punisher",
+      "The Hell's Kitchen Reaper",
+      "The Executioner",
+      "The Death Vigilante"
+    ],
+    "answer": "The Punisher"
+  },
+  {
+    "id": 198,
+    "difficulty": "hard",
+    "question": "In 'Agatha All Along', what legendary trial must witches navigate to reclaim their lost magic powers?",
+    "options": [
+      "The Witches' Road",
+      "The Dark Descent",
+      "Salem's Path",
+      "The Hex Trial"
+    ],
+    "answer": "The Witches' Road"
+  },
+  {
+    "id": 199,
+    "difficulty": "hard",
+    "question": "In 'Agatha All Along', who is revealed to be the true identity of 'Teen' (played by Joe Locke)?",
+    "options": [
+      "Billy Maximoff (Wiccan)",
+      "Tommy Maximoff (Speed)",
+      "Nicholas Scratch",
+      "Mephisto"
+    ],
+    "answer": "Billy Maximoff (Wiccan)"
+  },
+  {
+    "id": 200,
+    "difficulty": "hard",
+    "question": "Who plays Rio Vidal, the Green Witch / embodiment of Death, in 'Agatha All Along'?",
+    "options": [
+      "Aubrey Plaza",
+      "Patti LuPone",
+      "Sasheer Zamata",
+      "Ali Ahn"
+    ],
+    "answer": "Aubrey Plaza"
+  }
+]

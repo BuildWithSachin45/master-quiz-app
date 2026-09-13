@@ -1,0 +1,787 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "Which word is a noun in the sentence: 'The red car stopped quickly.'?",
+    "options": ["red", "car", "stopped", "quickly"],
+    "answer": "car"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "Identify the verb in the sentence: 'The children play in the garden.'",
+    "options": ["children", "play", "in", "garden"],
+    "answer": "play"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "Which of these is a pronoun?",
+    "options": ["She", "Happy", "Run", "Table"],
+    "answer": "She"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "What is the plural form of the word 'cat'?",
+    "options": ["Cats", "Cates", "Caties", "Cat"],
+    "answer": "Cats"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "Choose the correct article: 'I saw ___ elephant at the zoo.'",
+    "options": ["a", "an", "the", "no article"],
+    "answer": "an"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "Which word is an adjective in the sentence: 'She wore a beautiful dress.'?",
+    "options": ["She", "wore", "beautiful", "dress"],
+    "answer": "beautiful"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "What is the opposite (antonym) of 'hot'?",
+    "options": ["Warm", "Cold", "Dry", "Sun"],
+    "answer": "Cold"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "Choose the correct verb: 'He ___ to school every day.'",
+    "options": ["go", "goes", "going", "gone"],
+    "answer": "goes"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "Which punctuation mark ends a statement sentence?",
+    "options": ["Question mark (?)", "Exclamation mark (!)", "Period/Full stop (.)", "Comma (,)"],
+    "answer": "Period/Full stop (.)"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "What is the past tense of the verb 'jump'?",
+    "options": ["Jumping", "Jumps", "Jumped", "Jumper"],
+    "answer": "Jumped"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "Which word is a preposition in: 'The book is on the table.'?",
+    "options": ["book", "is", "on", "table"],
+    "answer": "on"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "Choose the correct pronoun: 'Mary is smart. ___ is good at math.'",
+    "options": ["He", "She", "It", "They"],
+    "answer": "She"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "What is the plural form of 'child'?",
+    "options": ["Childs", "Children", "Childrens", "Childes"],
+    "answer": "Children"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "Which word is a conjunction in: 'I like tea and coffee.'?",
+    "options": ["I", "like", "tea", "and"],
+    "answer": "and"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "Choose the correct spelling:",
+    "options": ["Beautifull", "Beautiful", "Beutiful", "Beautifu"],
+    "answer": "Beautiful"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "Identify the proper noun: 'Paris is a famous city.'",
+    "options": ["Paris", "is", "famous", "city"],
+    "answer": "Paris"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "Fill in the blank: 'They ___ playing football.'",
+    "options": ["is", "am", "are", "was"],
+    "answer": "are"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "Which word is an adverb in: 'He runs fast.'?",
+    "options": ["He", "runs", "fast", "none"],
+    "answer": "fast"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "What is a synonym for 'big'?",
+    "options": ["Small", "Large", "Tiny", "Little"],
+    "answer": "Large"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "Choose the correct article: 'This is ___ useful book.'",
+    "options": ["a", "an", "the", "no article"],
+    "answer": "a"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "What is the past tense of 'see'?",
+    "options": ["Seed", "Saw", "Seen", "Seeing"],
+    "answer": "Saw"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "Which word is a common noun?",
+    "options": ["London", "Dog", "Monday", "John"],
+    "answer": "Dog"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "Fill in the blank: 'I ___ a student.'",
+    "options": ["am", "is", "are", "be"],
+    "answer": "am"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "What type of sentence is: 'Close the door!'?",
+    "options": ["Declarative", "Interrogative", "Imperative", "Exclamatory"],
+    "answer": "Imperative"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "Which word represents a feeling?",
+    "options": ["Happy", "Table", "Walk", "Red"],
+    "answer": "Happy"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "What is the plural of 'box'?",
+    "options": ["Boxs", "Boxes", "Boxies", "Boxen"],
+    "answer": "Boxes"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "Fill in the blank: 'The sun ___ in the east.'",
+    "options": ["rise", "rises", "rising", "rose"],
+    "answer": "rises"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "Which word is an interjection?",
+    "options": ["Wow", "Run", "Slowly", "Cat"],
+    "answer": "Wow"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "Choose the correct possessive form: 'This is the ___ toy.' (belonging to one boy)",
+    "options": ["boys", "boy's", "boys'", "boies"],
+    "answer": "boy's"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "What is the antonym of 'fast'?",
+    "options": ["Quick", "Rapid", "Slow", "Swift"],
+    "answer": "Slow"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "Choose the correct comparative form: 'This test is ___ than the last one.'",
+    "options": ["easier", "more easy", "easiest", "most easy"],
+    "answer": "easier"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "Identify the tense: 'She has completed her homework.'",
+    "options": ["Simple Present", "Present Continuous", "Present Perfect", "Past Perfect"],
+    "answer": "Present Perfect"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "Which sentence uses the correct relative pronoun?",
+    "options": [
+      "The boy which won the race is my friend.",
+      "The boy who won the race is my friend.",
+      "The boy whose won the race is my friend.",
+      "The boy whom won the race is my friend."
+    ],
+    "answer": "The boy who won the race is my friend."
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "Choose the correct preposition: 'He is afraid ___ dogs.'",
+    "options": ["with", "from", "of", "by"],
+    "answer": "of"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "Identify the collective noun in: 'A herd of cattle was grazing in the field.'",
+    "options": ["herd", "cattle", "grazing", "field"],
+    "answer": "herd"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "What is the passive form of: 'The cat chased the mouse'?",
+    "options": [
+      "The mouse chased the cat.",
+      "The mouse is chased by the cat.",
+      "The mouse was chased by the cat.",
+      "The cat was chased by the mouse."
+    ],
+    "answer": "The mouse was chased by the cat."
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "Choose the correct conjunction: 'He worked hard, ___ he failed the exam.'",
+    "options": ["and", "but", "so", "or"],
+    "answer": "but"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "What is the plural form of 'knife'?",
+    "options": ["Knifes", "Knives", "Knive", "Knifess"],
+    "answer": "Knives"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "Fill in the blank: 'Neither Tom nor his brothers ___ present yesterday.'",
+    "options": ["was", "were", "is", "are"],
+    "answer": "were"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "Which degree of comparison is used here? 'She is the most intelligent girl in the class.'",
+    "options": ["Positive", "Comparative", "Superlative", "Absolute"],
+    "answer": "Superlative"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "Identify the reflex pronoun in: 'He hurt himself while playing.'",
+    "options": ["He", "hurt", "himself", "playing"],
+    "answer": "himself"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "Select the correct option: 'Each of the students ___ received a medal.'",
+    "options": ["has", "have", "are", "were"],
+    "answer": "has"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "What is the past participle of the verb 'fly'?",
+    "options": ["Flew", "Flown", "Flying", "Flies"],
+    "answer": "Flown"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "Identify the sentence type: 'How beautiful this flower is!'",
+    "options": ["Assertive", "Interrogative", "Imperative", "Exclamatory"],
+    "answer": "Exclamatory"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "Choose the correct option: 'I have been living here ___ 2015.'",
+    "options": ["for", "since", "from", "in"],
+    "answer": "since"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "Which prefix can be added to 'happy' to form its opposite?",
+    "options": ["dis-", "un-", "in-", "im-"],
+    "answer": "un-"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "Identify the modal verb showing obligation: 'You ___ obey the traffic rules.'",
+    "options": ["can", "might", "must", "may"],
+    "answer": "must"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "What is the subject in the sentence: 'Under the tree sat an old man.'?",
+    "options": ["the tree", "sat", "an old man", "Under"],
+    "answer": "an old man"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "Choose the correct phrase: 'She is good ___ playing the piano.'",
+    "options": ["in", "at", "on", "with"],
+    "answer": "at"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "Find the abstract noun in: 'Honesty is the best policy.'",
+    "options": ["Honesty", "best", "policy", "is"],
+    "answer": "Honesty"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "Choose the correct option: 'Bread and butter ___ his favorite breakfast.'",
+    "options": ["is", "are", "were", "have"],
+    "answer": "is"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "Convert to reported speech: He said, 'I am busy.'",
+    "options": [
+      "He said that he was busy.",
+      "He said that I am busy.",
+      "He says that he is busy.",
+      "He told that he was busy."
+    ],
+    "answer": "He said that he was busy."
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "Which option is an example of an uncountable noun?",
+    "options": ["Water", "Chair", "Apple", "Book"],
+    "answer": "Water"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "Identify the gerund in: 'Swimming is a great exercise.'",
+    "options": ["Swimming", "is", "great", "exercise"],
+    "answer": "Swimming"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "Fill in the blank: 'He jumped ___ the river.'",
+    "options": ["in", "into", "on", "to"],
+    "answer": "into"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "Select the correct tag question: 'You are coming, ___?'",
+    "options": ["aren't you", "don't you", "isn't it", "are you"],
+    "answer": "aren't you"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "What is the antonym of 'ancient'?",
+    "options": ["Old", "Modern", "Historic", "Aged"],
+    "answer": "Modern"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "Choose the correct word: 'The weather is ___ cold today.'",
+    "options": ["too", "two", "to", "tow"],
+    "answer": "too"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "Identify the direct object in: 'She gave me a gift.'",
+    "options": ["She", "me", "a gift", "gave"],
+    "answer": "a gift"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "Choose the correct possessive pronoun: 'This book belongs to me. It is ___.'",
+    "options": ["my", "mine", "me", "myself"],
+    "answer": "mine"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "Identify the type of underlined clause: 'I know a man **who can speak five languages**.'",
+    "options": ["Noun clause", "Adjective clause", "Adverb clause", "Prepositional clause"],
+    "answer": "Adjective clause"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "Choose the correct conditional structure: 'If I ___ rich, I would buy a yacht.'",
+    "options": ["am", "was", "were", "had been"],
+    "answer": "were"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "Identify the non-finite verb form (infinitive) in: 'She tried to solve the puzzle.'",
+    "options": ["tried", "to solve", "solve", "puzzle"],
+    "answer": "to solve"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "Convert to indirect speech: 'She said, \"Will you help me?\"'",
+    "options": [
+      "She asked if I will help her.",
+      "She asked if I would help her.",
+      "She asked that I would help her.",
+      "She asked to help her."
+    ],
+    "answer": "She asked if I would help her."
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "Choose the correct subjunctive mood usage: 'The doctor suggested that he ___ rest for a week.'",
+    "options": ["takes", "take", "took", "taking"],
+    "answer": "take"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "Which sentence contains a transitive verb?",
+    "options": [
+      "The sun shines brightly.",
+      "She sleeps early.",
+      "He wrote a letter.",
+      "Birds fly in the sky."
+    ],
+    "answer": "He wrote a letter."
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "Identify the figure of speech: 'The wind whispered through the trees.'",
+    "options": ["Simile", "Metaphor", "Personification", "Hyperbole"],
+    "answer": "Personification"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "Choose the correct idiom meaning: 'To bite the bullet' means:",
+    "options": [
+      "To eat something hard",
+      "To face a difficult situation with courage",
+      "To fight violently",
+      "To waste time"
+    ],
+    "answer": "To face a difficult situation with courage"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "Find the error: 'Neither the teacher nor the students was present in the meeting.'",
+    "options": ["Neither", "nor", "was", "in the meeting"],
+    "answer": "was"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "Identify the past perfect continuous tense sentence:",
+    "options": [
+      "He has been working for three hours.",
+      "He had been working for three hours.",
+      "He was working for three hours.",
+      "He had worked for three hours."
+    ],
+    "answer": "He had been working for three hours."
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "Choose the correct phrasal verb: 'They had to ___ the meeting due to heavy rain.'",
+    "options": ["call off", "call in", "call on", "call out"],
+    "answer": "call off"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "What is the function of 'Having completed his work' in: 'Having completed his work, he left the office'?",
+    "options": ["Gerund phrase", "Participle phrase", "Infinitive phrase", "Prepositional phrase"],
+    "answer": "Participle phrase"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "Identify the compound-complex sentence:",
+    "options": [
+      "I like tea, but my sister likes coffee.",
+      "When the bell rang, the students left.",
+      "Because it was raining, we stayed indoors, and we played board games.",
+      "She works hard to achieve good marks."
+    ],
+    "answer": "Because it was raining, we stayed indoors, and we played board games."
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "Choose the correct sentence with proper modifier placement:",
+    "options": [
+      "Walking down the street, a dog bit him.",
+      "Walking down the street, he was bitten by a dog.",
+      "A dog bit him walking down the street.",
+      "Bitten by a dog, the street was walked down by him."
+    ],
+    "answer": "Walking down the street, he was bitten by a dog."
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "What is the passive form of: 'Who broke this beautiful vase?'",
+    "options": [
+      "By whom this beautiful vase was broken?",
+      "By whom was this beautiful vase broken?",
+      "Who was this beautiful vase broken by?",
+      "Whom broke this beautiful vase?"
+    ],
+    "answer": "By whom was this beautiful vase broken?"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "Identify the function of 'running' in: 'The running water was cold.'",
+    "options": ["Noun", "Verb", "Participial Adjective", "Adverb"],
+    "answer": "Participial Adjective"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "Choose the correct preposition: 'He was accused ___ theft.'",
+    "options": ["for", "with", "of", "about"],
+    "answer": "of"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "Select the sentence with correct punctuation:",
+    "options": [
+      "Its a wise child that knows it's own father.",
+      "It's a wise child that knows its own father.",
+      "Its a wise child that knows its own father.",
+      "It's a wise child that knows it's own father."
+    ],
+    "answer": "It's a wise child that knows its own father."
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "What is the antonym of the word 'Meticulous'?",
+    "options": ["Careful", "Sloppy", "Detailed", "Precise"],
+    "answer": "Sloppy"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "Choose the correct inversion structure: 'Scarcely had I arrived at the station ___ the train left.'",
+    "options": ["than", "when", "then", "before"],
+    "answer": "when"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "Identify the error in tense: 'By next month, she will complete her graduation.'",
+    "options": [
+      "will complete should be will have completed",
+      "will complete should be completed",
+      "next month should be last month",
+      "No error"
+    ],
+    "answer": "will complete should be will have completed"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "Which word is an adverb of degree?",
+    "options": ["Quickly", "Extremely", "Yesterday", "Everywhere"],
+    "answer": "Extremely"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "Choose the correct sentence:",
+    "options": [
+      "He is senior than me.",
+      "He is senior to me.",
+      "He is senior from me.",
+      "He is more senior than me."
+    ],
+    "answer": "He is senior to me."
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "Identify the type of underlined noun phrase: 'He wanted **to win the first prize**.'",
+    "options": ["Subject", "Direct object", "Subject complement", "Object of preposition"],
+    "answer": "Direct object"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "Fill in the blank: 'No sooner did he see the police ___ he ran away.'",
+    "options": ["when", "than", "then", "before"],
+    "answer": "than"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "Identify the mood expressed in: 'Long live the King!'",
+    "options": ["Indicative", "Imperative", "Subjunctive", "Interrogative"],
+    "answer": "Subjunctive"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "Which word is a synonym for 'Ephemeral'?",
+    "options": ["Permanent", "Transient", "Eternal", "Constant"],
+    "answer": "Transient"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "Choose the correct usage: 'Hardly had she entered the room ___ the lights went out.'",
+    "options": ["than", "when", "then", "as"],
+    "answer": "when"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "What part of speech is 'near' in: 'The station is near the park.'?",
+    "options": ["Adjective", "Adverb", "Preposition", "Verb"],
+    "answer": "Preposition"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "Select the correct option for subject-verb agreement: 'Physics ___ an interesting subject.'",
+    "options": ["is", "are", "were", "have been"],
+    "answer": "is"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "Identify the error: 'One of my friends are going to London.'",
+    "options": ["One", "friends", "are", "going"],
+    "answer": "are"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "Choose the sentence that contains an intransitive verb:",
+    "options": [
+      "She baked a cake.",
+      "The baby slept peacefully.",
+      "He kicked the ball.",
+      "They bought a new car."
+    ],
+    "answer": "The baby slept peacefully."
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "Identify the type of conjunction used: 'Either...or'",
+    "options": ["Coordinating", "Subordinating", "Correlative", "Conjunctive adverb"],
+    "answer": "Correlative"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "Choose the correct phrase to complete: 'In spite of ___ late, he managed to catch the train.'",
+    "options": ["being", "he was", "his being", "be"],
+    "answer": "being"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "What figure of speech is present in: 'As brave as a lion'?",
+    "options": ["Metaphor", "Simile", "Alliteration", "Oxymoron"],
+    "answer": "Simile"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "Identify the correct reported question: 'Where do you live?' she asked me.",
+    "options": [
+      "She asked me where I lived.",
+      "She asked me where I do live.",
+      "She asked me where did I live.",
+      "She asked me that where I live."
+    ],
+    "answer": "She asked me where I lived."
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "Choose the correct option: 'I would rather play football ___ watch television.'",
+    "options": ["to", "than", "then", "instead"],
+    "answer": "than"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "Identify the correct order of adjectives: 'She bought a ___ sweater.'",
+    "options": [
+      "woolen comfortable red",
+      "comfortable red woolen",
+      "red comfortable woolen",
+      "woolen red comfortable"
+    ],
+    "answer": "comfortable red woolen"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "Which sentence demonstrates the correct use of a semicolon?",
+    "options": [
+      "I have a big test tomorrow; I can't go out tonight.",
+      "I have a big test tomorrow; and I can't go out tonight.",
+      "I have; a big test tomorrow I can't go out tonight.",
+      "I have a big test; tomorrow, I can't go out tonight."
+    ],
+    "answer": "I have a big test tomorrow; I can't go out tonight."
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "Choose the correct word: 'The principal's speech had a deep ___ on the students.'",
+    "options": ["affect", "effect", "affected", "effected"],
+    "answer": "effect"
+  }
+]

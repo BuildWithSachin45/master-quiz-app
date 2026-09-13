@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "What is considered the basic structural and functional unit of all living organisms?",
+    "options": [
+      "Tissue",
+      "Cell",
+      "Organ",
+      "Molecule"
+    ],
+    "answer": "Cell"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "Which organelle is known as the powerhouse of the cell due to its role in ATP production?",
+    "options": [
+      "Nucleus",
+      "Ribosome",
+      "Mitochondrion",
+      "Golgi apparatus"
+    ],
+    "answer": "Mitochondrion"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "What green pigment in plant cells absorbs light energy required for photosynthesis?",
+    "options": [
+      "Carotene",
+      "Chlorophyll",
+      "Xanthophyll",
+      "Anthocyanin"
+    ],
+    "answer": "Chlorophyll"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "Which molecule carries genetic information in almost all living organisms?",
+    "options": [
+      "RNA",
+      "DNA",
+      "ATP",
+      "Hemoglobin"
+    ],
+    "answer": "DNA"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "What process do plants use to convert light energy, carbon dioxide, and water into glucose and oxygen?",
+    "options": [
+      "Respiration",
+      "Photosynthesis",
+      "Fermentation",
+      "Transpiration"
+    ],
+    "answer": "Photosynthesis"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "Which organelle contains the cell's genetic material and controls cellular activity?",
+    "options": [
+      "Cytoplasm",
+      "Nucleus",
+      "Endoplasmic reticulum",
+      "Lysosome"
+    ],
+    "answer": "Nucleus"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "What type of cell division produces two genetically identical daughter cells for growth and repair?",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Binary fission",
+      "Budding"
+    ],
+    "answer": "Mitosis"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "Which organ in the human body is primarily responsible for pumping blood through the circulatory system?",
+    "options": [
+      "Lungs",
+      "Liver",
+      "Heart",
+      "Kidney"
+    ],
+    "answer": "Heart"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "What simple relationship defines the building blocks of proteins?",
+    "options": [
+      "Proteins are Polymers made of Amino Acid Monomers",
+      "Proteins are Chains made of Fatty Acid Monomers",
+      "Proteins are Polymers made of Monosaccharides",
+      "Proteins are Sequences made of Nucleotides"
+    ],
+    "answer": "Proteins are Polymers made of Amino Acid Monomers"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "Which biological macromolecule group includes sugars, starches, and cellulose?",
+    "options": [
+      "Proteins",
+      "Lipids",
+      "Carbohydrates",
+      "Nucleic acids"
+    ],
+    "answer": "Carbohydrates"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "What structural component distinguishes plant cells from animal cells by providing rigid outer support?",
+    "options": [
+      "Plasma membrane",
+      "Cell wall",
+      "Cytoskeleton",
+      "Nuclear envelope"
+    ],
+    "answer": "Cell wall"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "Which organelle is responsible for synthesizing proteins within the cell?",
+    "options": [
+      "Ribosome",
+      "Lysosome",
+      "Vacuole",
+      "Peroxisome"
+    ],
+    "answer": "Ribosome"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "What gas do humans inhale for cellular respiration and use as a final electron acceptor?",
+    "options": [
+      "Carbon dioxide",
+      "Nitrogen",
+      "Oxygen",
+      "Hydrogen"
+    ],
+    "answer": "Oxygen"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "What simple formula relates Cardiac Output to Heart Rate and Stroke Volume?",
+    "options": [
+      "Cardiac Output = Heart Rate × Stroke Volume",
+      "Cardiac Output = Heart Rate / Stroke Volume",
+      "Cardiac Output = Heart Rate + Stroke Volume",
+      "Cardiac Output = Stroke Volume / Heart Rate"
+    ],
+    "answer": "Cardiac Output = Heart Rate × Stroke Volume"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "Which biological process converts glucose into pyruvate in the cytoplasm without requiring oxygen?",
+    "options": [
+      "Krebs cycle",
+      "Glycolysis",
+      "Electron transport chain",
+      "Calvin cycle"
+    ],
+    "answer": "Glycolysis"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "What vascular tissue in plants is responsible for transporting water and dissolved minerals upward from roots?",
+    "options": [
+      "Phloem",
+      "Xylem",
+      "Cambium",
+      "Epidermis"
+    ],
+    "answer": "Xylem"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "What biological term describes organisms that produce their own food using light or chemical energy?",
+    "options": [
+      "Heterotrophs",
+      "Autotrophs",
+      "Decomposers",
+      "Saprophytes"
+    ],
+    "answer": "Autotrophs"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "In human genetics, how many total chromosomes are present in a normal diploid somatic cell?",
+    "options": [
+      "23",
+      "46",
+      "92",
+      "12"
+    ],
+    "answer": "46"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "Which blood cells are primarily responsible for transporting oxygen throughout the body?",
+    "options": [
+      "Leukocytes",
+      "Erythrocytes",
+      "Thrombocytes",
+      "Lymphocytes"
+    ],
+    "answer": "Erythrocytes"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "What type of cell division reduces the chromosome number by half to produce haploid gametes?",
+    "options": [
+      "Mitosis",
+      "Meiosis",
+      "Binary fission",
+      "Fragmentation"
+    ],
+    "answer": "Meiosis"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "Which organ in the human body filters waste products from the blood to produce urine?",
+    "options": [
+      "Liver",
+      "Kidney",
+      "Pancreas",
+      "Spleen"
+    ],
+    "answer": "Kidney"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "What simple relationship gives the phenotype ratio of a monohybrid cross between two heterozygous parents (Aa × Aa)?",
+    "options": [
+      "1 Dominant : 1 Recessive",
+      "3 Dominant : 1 Recessive",
+      "1 Dominant : 2 Intermediate : 1 Recessive",
+      "9 Dominant : 3 Mixed : 3 Mixed : 1 Recessive"
+    ],
+    "answer": "3 Dominant : 1 Recessive"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "Which macromolecule is the primary short-term energy storage compound in animal cells?",
+    "options": [
+      "Starch",
+      "Glycogen",
+      "Cellulose",
+      "Chitin"
+    ],
+    "answer": "Glycogen"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "What cellular process moves water molecules across a selectively permeable membrane from lower solute to higher solute concentration?",
+    "options": [
+      "Active transport",
+      "Osmosis",
+      "Facilitated diffusion",
+      "Endocytosis"
+    ],
+    "answer": "Osmosis"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "Which organelle contains digestive enzymes to break down waste materials and cellular debris?",
+    "options": [
+      "Peroxisome",
+      "Lysosome",
+      "Vacuole",
+      "Centrosome"
+    ],
+    "answer": "Lysosome"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "What kingdom of organisms includes unicellular prokaryotes lacking a membrane-bound nucleus?",
+    "options": [
+      "Protista",
+      "Fungi",
+      "Eubacteria",
+      "Plantae"
+    ],
+    "answer": "Eubacteria"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "Using the relation Chromosome Number (Diploid) = 2n, how many chromosomes are in a human gamete if 2n = 46?",
+    "options": [
+      "23",
+      "46",
+      "92",
+      "11.5"
+    ],
+    "answer": "23"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "Which plant tissue is responsible for transporting synthesized sugars and organic nutrients from leaves to other parts?",
+    "options": [
+      "Xylem",
+      "Phloem",
+      "Sclerenchyma",
+      "Collenchyma"
+    ],
+    "answer": "Phloem"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "What enzyme in human saliva begins the chemical digestion of dietary starches into maltose?",
+    "options": [
+      "Pepsin",
+      "Salivary Amylase",
+      "Lipase",
+      "Trypsin"
+    ],
+    "answer": "Salivary Amylase"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "Which nitrogenous base is present in RNA but absent in DNA?",
+    "options": [
+      "Adenine",
+      "Thymine",
+      "Uracil",
+      "Guanine"
+    ],
+    "answer": "Uracil"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "According to Chargaff's rules, if a double-stranded DNA sample contains 30% Adenine, what percentage of Cytosine does it contain?",
+    "options": [
+      "30%",
+      "20%",
+      "40%",
+      "60%"
+    ],
+    "answer": "20%"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "In enzyme kinetics, what term describes the specific region of an enzyme where the substrate binds and undergoes a reaction?",
+    "options": [
+      "Allosteric site",
+      "Active site",
+      "Regulatory site",
+      "Inhibitory domain"
+    ],
+    "answer": "Active site"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "According to the central dogma of molecular biology, what process converts information in mRNA into a specific polypeptide chain?",
+    "options": [
+      "Replication",
+      "Transcription",
+      "Translation",
+      "Reverse transcription"
+    ],
+    "answer": "Translation"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "What simple equation defines Net Primary Productivity (NPP) in an ecosystem?",
+    "options": [
+      "NPP = Gross Primary Productivity - Autotrophic Respiration",
+      "NPP = Gross Primary Productivity + Autotrophic Respiration",
+      "NPP = Gross Primary Productivity / Heterotrophic Consumption",
+      "NPP = Autotrophic Respiration - Decomposition Rate"
+    ],
+    "answer": "NPP = Gross Primary Productivity - Autotrophic Respiration"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "Which hormone produced by the beta cells of the pancreas lowers blood glucose levels by promoting glucose uptake?",
+    "options": [
+      "Glucagon",
+      "Insulin",
+      "Cortisol",
+      "Epinephrine"
+    ],
+    "answer": "Insulin"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "During which phase of mitosis do sister chromatids separate and move toward opposite poles of the cell?",
+    "options": [
+      "Prophase",
+      "Metaphase",
+      "Anaphase",
+      "Telophase"
+    ],
+    "answer": "Anaphase"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "What type of ecological relationship benefits one species while leaving the other species unaffected?",
+    "options": [
+      "Mutualism",
+      "Commensalism",
+      "Parasitism",
+      "Amensalism"
+    ],
+    "answer": "Commensalism"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "According to the fluid mosaic model, what is the primary structural bilayer of cell membranes?",
+    "options": [
+      "Glycoprotein bilayer",
+      "Phospholipid bilayer",
+      "Cholesterol matrix",
+      "Lipoprotein monolayer"
+    ],
+    "answer": "Phospholipid bilayer"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "Which metabolic pathway in cellular respiration produces the majority of ATP molecules via oxidative phosphorylation?",
+    "options": [
+      "Glycolysis",
+      "Pyruvate oxidation",
+      "Krebs cycle",
+      "Electron transport chain"
+    ],
+    "answer": "Electron transport chain"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "According to Mendel's Law of Independent Assortment, what is the expected phenotypic ratio in a dihybrid cross (AaBb × AaBb)?",
+    "options": [
+      "3 : 1",
+      "1 : 2 : 1",
+      "9 : 3 : 3 : 1",
+      "9 : 7"
+    ],
+    "answer": "9 : 3 : 3 : 1"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "What functional unit of the human kidney is responsible for filtering blood and forming urine?",
+    "options": [
+      "Alveolus",
+      "Nephron",
+      "Hepatocyte",
+      "Villus"
+    ],
+    "answer": "Nephron"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "Which enzyme unzips and unwinds the DNA double helix during DNA replication?",
+    "options": [
+      "DNA Polymerase",
+      "Helicase",
+      "Ligase",
+      "Primase"
+    ],
+    "answer": "Helicase"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "Using the relation Respiratory Quotient (RQ) = Carbon Dioxide Produced / Oxygen Consumed, what is the typical RQ value for carbohydrate oxidation?",
+    "options": [
+      "0.7",
+      "0.85",
+      "1.0",
+      "1.2"
+    ],
+    "answer": "1.0"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "What simple formula gives the Hardy-Weinberg allele frequency equilibrium for two alleles p and q?",
+    "options": [
+      "p + q = 1",
+      "p^2 + q^2 = 1",
+      "p × q = 0.5",
+      "2pq = 1"
+    ],
+    "answer": "p + q = 1"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "Which plant hormone is primarily responsible for promoting cell elongation and phototropism?",
+    "options": [
+      "Cytokinin",
+      "Auxin",
+      "Abscisic acid",
+      "Ethylene"
+    ],
+    "answer": "Auxin"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "Which structure in mammalian lungs provides a large surface area for gas exchange between air and blood?",
+    "options": [
+      "Bronchioles",
+      "Alveoli",
+      "Trachea",
+      "Larynx"
+    ],
+    "answer": "Alveoli"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "In an enzyme-catalyzed reaction, competitive inhibitors affect reaction kinetics by doing what to Km and Vmax?",
+    "options": [
+      "Increases Km, leaves Vmax unchanged",
+      "Decreases Km, decreases Vmax",
+      "Leaves Km unchanged, decreases Vmax",
+      "Increases Km, decreases Vmax"
+    ],
+    "answer": "Increases Km, leaves Vmax unchanged"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "Which photosynthetic process occurs in the stroma of chloroplasts to fix carbon dioxide into sugars?",
+    "options": [
+      "Light-dependent reactions",
+      "Calvin cycle",
+      "Photophosphorylation",
+      "Glycolysis"
+    ],
+    "answer": "Calvin cycle"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "According to the sliding filament theory of muscle contraction, which protein filaments slide past each other?",
+    "options": [
+      "Actin and Myosin",
+      "Tubulin and Dynein",
+      "Kinesin and Collagen",
+      "Keratin and Elastin"
+    ],
+    "answer": "Actin and Myosin"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "What type of natural selection favors extreme phenotypes over intermediate phenotypes in a population?",
+    "options": [
+      "Stabilizing selection",
+      "Directional selection",
+      "Disruptive selection",
+      "Sexual selection"
+    ],
+    "answer": "Disruptive selection"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "What basic equation defines the Hardy-Weinberg genotype frequencies in a gene pool?",
+    "options": [
+      "p^2 + 2pq + q^2 = 1",
+      "p + 2pq + q = 1",
+      "(p + q)^2 = 2",
+      "p^2 + q^2 = 2pq"
+    ],
+    "answer": "p^2 + 2pq + q^2 = 1"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "Which cell organelle processes, sorts, and packages proteins received from the endoplasmic reticulum?",
+    "options": [
+      "Golgi apparatus",
+      "Peroxisome",
+      "Lysosome",
+      "Nucleolus"
+    ],
+    "answer": "Golgi apparatus"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "What hormone triggers ovulation in human females during the middle of the ovarian cycle?",
+    "options": [
+      "Progesterone",
+      "Luteinizing Hormone (LH)",
+      "Oxytocin",
+      "Prolactin"
+    ],
+    "answer": "Luteinizing Hormone (LH)"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "Using the relation Osmotic Pressure = iMRT, placing a mammalian red blood cell in a hypertonic solution causes it to:",
+    "options": [
+      "Swell and burst (Lyse)",
+      "Shrink and shrivel (Crenate)",
+      "Maintain constant volume",
+      "Divide rapidly"
+    ],
+    "answer": "Shrink and shrivel (Crenate)"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "Which cellular junction prevents leakage of extracellular fluid between adjacent animal epithelial cells?",
+    "options": [
+      "Desmosome",
+      "Gap junction",
+      "Tight junction",
+      "Plasmodesmata"
+    ],
+    "answer": "Tight junction"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "What gaseous plant hormone promotes fruit ripening and senescence?",
+    "options": [
+      "Gibberellin",
+      "Ethylene",
+      "Abscisic acid",
+      "Cytokinin"
+    ],
+    "answer": "Ethylene"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "According to the ecological 10% rule, about what percentage of energy is transferred from one trophic level to the next?",
+    "options": [
+      "1%",
+      "10%",
+      "50%",
+      "90%"
+    ],
+    "answer": "10%"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "Which immunoglobulin class is most abundant in human blood plasma and provides long-term immunity?",
+    "options": [
+      "IgA",
+      "IgE",
+      "IgG",
+      "IgM"
+    ],
+    "answer": "IgG"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "Using the relation Glomerular Filtration Rate (GFR) = Filtration Fraction × Renal Plasma Flow, what happens to GFR if filtration fraction increases while flow remains constant?",
+    "options": [
+      "Decreases",
+      "Increases",
+      "Remains constant",
+      "Drops to zero"
+    ],
+    "answer": "Increases"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "Which subphase of Interphase is dedicated to DNA synthesis and chromosomal replication?",
+    "options": [
+      "G1 phase",
+      "S phase",
+      "G2 phase",
+      "M phase"
+    ],
+    "answer": "S phase"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "According to the Chemiosmotic Hypothesis, what gradient drives ATP synthesis across the inner mitochondrial membrane via ATP Synthase?",
+    "options": [
+      "Sodium ion concentration gradient",
+      "Proton (H+) electrochemical gradient",
+      "Potassium ion electrical gradient",
+      "Calcium ion concentration gradient"
+    ],
+    "answer": "Proton (H+) electrochemical gradient"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "In C4 plants, initial carbon fixation is catalyzed by PEP carboxylase in mesophyll cells to produce which 4-carbon compound?",
+    "options": [
+      "Glycerate-3-phosphate",
+      "Oxaloacetate",
+      "RuBP",
+      "Pyruvate"
+    ],
+    "answer": "Oxaloacetate"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "According to the Michaelis-Menten equation (v = Vmax[S] / (Km + [S])), when substrate concentration [S] equals Km, the reaction velocity v equals:",
+    "options": [
+      "Vmax",
+      "1/2 Vmax",
+      "2 Vmax",
+      "Zero"
+    ],
+    "answer": "1/2 Vmax"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "In the lac operon model, binding of allolactose to the repressor protein causes the repressor to:",
+    "options": [
+      "Bind tightly to the operator",
+      "Change shape and detach from the operator",
+      "Inhibit RNA polymerase activity directly",
+      "Degrade the lacZ gene"
+    ],
+    "answer": "Change shape and detach from the operator"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "What is the precise role of the enzyme Rubisco during the Calvin cycle of photosynthesis?",
+    "options": [
+      "Photolysis of water molecules",
+      "Carboxylation of Ribulose-1,5-bisphosphate (RuBP)",
+      "Reduction of NADP+ to NADPH",
+      "Phosphorylation of ADP to ATP"
+    ],
+    "answer": "Carboxylation of Ribulose-1,5-bisphosphate (RuBP)"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "In non-competitive enzyme inhibition, how are the kinetic parameters Km and Vmax altered by the inhibitor?",
+    "options": [
+      "Km increases, Vmax decreases",
+      "Km remains unchanged, Vmax decreases",
+      "Km decreases, Vmax decreases",
+      "Km increases, Vmax remains unchanged"
+    ],
+    "answer": "Km remains unchanged, Vmax decreases"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "According to the Bohr effect, what happens to hemoglobin's affinity for oxygen in regions with increased PCO2 and lower pH?",
+    "options": [
+      "Affinity increases, binding more oxygen",
+      "Affinity decreases, releasing oxygen to tissues",
+      "Affinity remains completely unchanged",
+      "Hemoglobin denatures immediately"
+    ],
+    "answer": "Affinity decreases, releasing oxygen to tissues"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "In eukaryotic post-transcriptional processing, what structure is added to the 5' end of pre-mRNA?",
+    "options": [
+      "Poly-A tail",
+      "7-Methylguanosine cap",
+      "Spliceosome complex",
+      "Intron sequence"
+    ],
+    "answer": "7-Methylguanosine cap"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "What molecular mechanism allows a single gene to encode multiple distinct protein isoforms in eukaryotic cells?",
+    "options": [
+      "RNA interference",
+      "Alternative splicing",
+      "DNA methylation",
+      "Gene duplication"
+    ],
+    "answer": "Alternative splicing"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "According to the Cohesion-Tension Theory, what creates the negative pressure (tension) that pulls water up xylem vessels?",
+    "options": [
+      "Active root pressure",
+      "Transpiration from leaf stomata",
+      "Phloem translocation",
+      "Capillary action alone"
+    ],
+    "answer": "Transpiration from leaf stomata"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "Using the relation Map Units = (Recombinant Offspring / Total Offspring) × 100, if 50 out of 1000 total testcross offspring show recombinant phenotypes, what is the genetic distance?",
+    "options": [
+      "0.5 cM",
+      "5 cM",
+      "50 cM",
+      "500 cM"
+    ],
+    "answer": "5 cM"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "Which enzyme synthesizes short RNA primers required for initiating Okazaki fragment synthesis on the lagging strand?",
+    "options": [
+      "DNA Polymerase I",
+      "Primase",
+      "DNA Ligase",
+      "Topoisomerase"
+    ],
+    "answer": "Primase"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "In immunology, Major Histocompatibility Complex Class I (MHC-I) molecules present endogenous antigens to which cell type?",
+    "options": [
+      "Helper T cells (CD4+)",
+      "Cytotoxic T cells (CD8+)",
+      "B lymphocytes",
+      "Natural Killer cells only"
+    ],
+    "answer": "Cytotoxic T cells (CD8+)"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "According to the Nernst equation for membrane potentials, increasing extracellular K+ concentration causes the resting membrane potential of a neuron to:",
+    "options": [
+      "Hyperpolarize (become more negative)",
+      "Depolarize (become less negative)",
+      "Remain completely unchanged",
+      "Oscillate endlessly"
+    ],
+    "answer": "Depolarize (become less negative)"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "Which enzyme prevents supercoiling and relieves torsional strain ahead of the replication fork during DNA synthesis?",
+    "options": [
+      "DNA Topoisomerase (Gyrase)",
+      "Single-Strand Binding Protein",
+      "Helicase",
+      "Telomerase"
+    ],
+    "answer": "DNA Topoisomerase (Gyrase)"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "What is the primary function of the countercurrent multiplier mechanism in the Loop of Henle?",
+    "options": [
+      "Active secretion of glucose",
+      "Establishment of a hyperosmotic renal medullary gradient",
+      "Filtration of plasma proteins",
+      "Regulation of blood pH"
+    ],
+    "answer": "Establishment of a hyperosmotic renal medullary gradient"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "In animal development, what process converts the blastula into a three-layered embryo containing ectoderm, mesoderm, and endoderm?",
+    "options": [
+      "Cleavage",
+      "Gastrulation",
+      "Neurulation",
+      "Organogenesis"
+    ],
+    "answer": "Gastrulation"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "Which second messenger is generated when G-protein coupled receptors activate Phospholipase C (PLC)?",
+    "options": [
+      "cAMP",
+      "IP3 and DAG",
+      "cGMP",
+      "Nitric Oxide"
+    ],
+    "answer": "IP3 and DAG"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "By the relationship Line-Weaver Burk Plot (1/v vs 1/[S]), the y-intercept of the double reciprocal plot equals:",
+    "options": [
+      "1 / Vmax",
+      "-1 / Km",
+      "Km / Vmax",
+      "Vmax / Km"
+    ],
+    "answer": "1 / Vmax"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "Which evolutionary force reduces genetic variation between populations while increasing variation within a population?",
+    "options": [
+      "Genetic drift",
+      "Gene flow",
+      "Mutation",
+      "Non-random mating"
+    ],
+    "answer": "Gene flow"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "Using the relation Clearance = (Urine Conc × V) / Plasma Conc, doubling plasma concentration of a substance without changing urine excretion halves its clearance because:",
+    "options": [
+      "Clearance is inversely proportional to plasma concentration",
+      "Clearance is directly proportional to plasma concentration",
+      "Plasma concentration determines kidney mass",
+      "Filtration rate drops to zero"
+    ],
+    "answer": "Clearance is inversely proportional to plasma concentration"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "According to the operon model, what type of gene regulates operon expression by coding for a repressor or activator protein?",
+    "options": [
+      "Structural gene",
+      "Regulatory gene",
+      "Operator gene",
+      "Promoter gene"
+    ],
+    "answer": "Regulatory gene"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "What is the primary role of telomeres and telomerase in eukaryotic chromosomes?",
+    "options": [
+      "Promoting crossover during meiosis",
+      "Preventing end-replication chromosome shortening in dividing cells",
+      "Initiating transcription of structural genes",
+      "Packaging DNA around histone octamers"
+    ],
+    "answer": "Preventing end-replication chromosome shortening in dividing cells"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "According to Haldane's rule, if one sex in an interspecific hybrid is sterile or inviable, that sex is usually the:",
+    "options": [
+      "Homogametic sex",
+      "Heterogametic sex",
+      "Female sex in mammals",
+      "Male sex in birds"
+    ],
+    "answer": "Heterogametic sex"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "What amino acid residue is always introduced first during eukaryotic translation initiation?",
+    "options": [
+      "Formylmethionine",
+      "Methionine",
+      "Alanine",
+      "Valine"
+    ],
+    "answer": "Methionine"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "Which plant photoreceptor family is primarily responsible for sensing red and far-red light to regulate photomorphogenesis?",
+    "options": [
+      "Cryptochromes",
+      "Phytocromes",
+      "Phototropins",
+      "UV-R8"
+    ],
+    "answer": "Phytocromes"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "By the relationship Cardiac Output = Oxygen Consumption / (Arterial O2 - Venous O2), increasing tissue oxygen extraction widens the arteriovenous difference, which for constant consumption means Cardiac Output:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains constant",
+      "Doubles"
+    ],
+    "answer": "Decreases"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "In neurophysiology, what event directly triggers synaptic vesicle exocytosis at the presynaptic terminal?",
+    "options": [
+      "Influx of Sodium ions",
+      "Influx of Calcium ions",
+      "Efflux of Potassium ions",
+      "Influx of Chloride ions"
+    ],
+    "answer": "Influx of Calcium ions"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "What type of mutation converts a codon specifying an amino acid into a premature stop codon?",
+    "options": [
+      "Missense mutation",
+      "Nonsense mutation",
+      "Silent mutation",
+      "Frameshift mutation"
+    ],
+    "answer": "Nonsense mutation"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "According to the Pressure Flow Hypothesis, phloem loading of sucrose into sieve tube elements occurs via active transport, causing water to enter by osmosis and creating:",
+    "options": [
+      "High hydrostatic pressure at the source",
+      "Negative pressure (tension) at the source",
+      "Low hydrostatic pressure at the source",
+      "Capillary pull"
+    ],
+    "answer": "High hydrostatic pressure at the source"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "In developmental genetics, HOX (Homeobox) genes are essential because they dictate:",
+    "options": [
+      "Metabolic rate during cleavage",
+      "Positional identity along the anterior-posterior axis",
+      "Rate of cell division in blastomeres",
+      "Chromatin condensation in somatic cells"
+    ],
+    "answer": "Positional identity along the anterior-posterior axis"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "Using the relation Net Filtration Pressure = (Hydrostatic Pressure Capillary - Hydrostatic Pressure Interstitial) - (Oncotic Pressure Capillary - Oncotic Pressure Interstitial), a decrease in plasma proteins reduces Capillary Oncotic Pressure, which:",
+    "options": [
+      "Decreases Net Filtration Pressure",
+      "Increases Net Filtration Pressure, causing edema",
+      "Has zero impact on fluid exchange",
+      "Prevents lymph formation"
+    ],
+    "answer": "Increases Net Filtration Pressure, causing edema"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "What mitochondrial enzyme complex uses the proton motive force to synthesize ATP from ADP and inorganic phosphate?",
+    "options": [
+      "Complex I (NADH Dehydrogenase)",
+      "Complex IV (Cytochrome c Oxidase)",
+      "Complex V (ATP Synthase)",
+      "Succinate Dehydrogenase"
+    ],
+    "answer": "Complex V (ATP Synthase)"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "Which specific cell type in human testes secretes testosterone in response to Luteinizing Hormone (LH)?",
+    "options": [
+      "Sertoli cells",
+      "Leydig (Interstitial) cells",
+      "Spermatogonia",
+      "Granulosa cells"
+    ],
+    "answer": "Leydig (Interstitial) cells"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "By the relationship Exponential Population Growth (dN/dt = rN), if the intrinsic growth rate r is positive and constant, population size N over time exhibits a graph shape of:",
+    "options": [
+      "Linear line",
+      "J-shaped curve",
+      "S-shaped (Sigmoidal) curve",
+      "Horizontal asymptote"
+    ],
+    "answer": "J-shaped curve"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "According to the double-helix model of B-DNA, what is the vertical distance (pitch) per complete 360-degree helical turn?",
+    "options": [
+      "0.34 nm",
+      "2.0 nm",
+      "3.4 nm",
+      "20 nm"
+    ],
+    "answer": "3.4 nm"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "What epigenetic modification typically leads to transcriptional repression by tightening chromatin structure (forming heterochromatin)?",
+    "options": [
+      "Histone acetylation",
+      "DNA methylation",
+      "Histone phosphorylation",
+      "Ubiquitination of RNA polymerase"
+    ],
+    "answer": "DNA methylation"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "In ecological modeling, the Logistic Growth Equation (dN/dt = rN[(K - N)/K]) accounts for carrying capacity K. What happens to population growth rate dN/dt when N equals K?",
+    "options": [
+      "It reaches maximum",
+      "It drops to zero",
+      "It becomes negative infinite",
+      "It equals r"
+    ],
+    "answer": "It drops to zero"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "Which complex of proteins forms on centromeric DNA to attach sister chromatids to spindle microtubules during cell division?",
+    "options": [
+      "Kinetochore",
+      "Centrosome",
+      "Aster",
+      "Telomere"
+    ],
+    "answer": "Kinetochore"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "According to the endosymbiotic theory, mitochondria and chloroplasts originated from free-living prokaryotes because they possess:",
+    "options": [
+      "Linear chromosomes and 80S ribosomes",
+      "Circular DNA molecules and 70S ribosomes",
+      "Cell walls made of peptidoglycan",
+      "Single lipid-monolayer membranes"
+    ],
+    "answer": "Circular DNA molecules and 70S ribosomes"
+  }
+]

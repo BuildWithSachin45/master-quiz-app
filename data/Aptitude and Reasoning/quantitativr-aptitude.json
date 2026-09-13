@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "What is 15% of 240?",
+    "options": [
+      "36",
+      "32",
+      "40",
+      "30"
+    ],
+    "answer": "36"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "If a item is purchased for $80 and sold for $100, what is the profit percentage?",
+    "options": [
+      "25%",
+      "20%",
+      "15%",
+      "30%"
+    ],
+    "answer": "25%"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "Find the average of the numbers 12, 18, 24, 30, and 36.",
+    "options": [
+      "24",
+      "22",
+      "26",
+      "28"
+    ],
+    "answer": "24"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "If $a : b = 3 : 4$ and $b : c = 8 : 9$, what is $a : c$?",
+    "options": [
+      "2 : 3",
+      "1 : 2",
+      "3 : 5",
+      "4 : 9"
+    ],
+    "answer": "2 : 3"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "What is the Simple Interest on $1,200 at an annual rate of 5% for 3 years?",
+    "options": [
+      "$180",
+      "$150",
+      "$200",
+      "$160"
+    ],
+    "answer": "$180"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "A car covers a distance of 180 km in 3 hours. What is its speed in m/s?",
+    "options": [
+      "16.67 m/s",
+      "20 m/s",
+      "15 m/s",
+      "25 m/s"
+    ],
+    "answer": "16.67 m/s"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "If 12 men can complete a project in 20 days, how many days will 15 men take to complete the same work at the same rate?",
+    "options": [
+      "16 days",
+      "18 days",
+      "14 days",
+      "15 days"
+    ],
+    "answer": "16 days"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "What is the Greatest Common Divisor (GCD) of 48 and 72?",
+    "options": [
+      "24",
+      "12",
+      "16",
+      "36"
+    ],
+    "answer": "24"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "What is the Least Common Multiple (LCM) of 12, 15, and 20?",
+    "options": [
+      "60",
+      "120",
+      "90",
+      "180"
+    ],
+    "answer": "60"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "Evaluate: $(25)^{3/2}$.",
+    "options": [
+      "125",
+      "25",
+      "625",
+      "75"
+    ],
+    "answer": "125"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "A student scores 45 marks out of 60 in an exam. What is their percentage score?",
+    "options": [
+      "75%",
+      "70%",
+      "80%",
+      "65%"
+    ],
+    "answer": "75%"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "What is the area of a circle with a radius of 7 cm? (Use $\\pi = 22/7$)",
+    "options": [
+      "154 cm²",
+      "144 cm²",
+      "176 cm²",
+      "132 cm²"
+    ],
+    "answer": "154 cm²"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "Find the perimeter of a rectangle with length 14 m and width 8 m.",
+    "options": [
+      "44 m",
+      "56 m",
+      "112 m",
+      "40 m"
+    ],
+    "answer": "44 m"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "If the sum of two numbers is 45 and their difference is 9, what is the larger number?",
+    "options": [
+      "27",
+      "18",
+      "30",
+      "24"
+    ],
+    "answer": "27"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "What is the value of $\\sqrt{0.0064}$?",
+    "options": [
+      "0.08",
+      "0.8",
+      "0.008",
+      "0.64"
+    ],
+    "answer": "0.08"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "If a train 150 meters long passes a telegraph pole in 10 seconds, what is its speed in km/h?",
+    "options": [
+      "54 km/h",
+      "60 km/h",
+      "45 km/h",
+      "50 km/h"
+    ],
+    "answer": "54 km/h"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "What single discount is equivalent to two successive discounts of 10% and 20%?",
+    "options": [
+      "28%",
+      "30%",
+      "25%",
+      "32%"
+    ],
+    "answer": "28%"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "The ratio of ages of A and B is 4 : 5. If the sum of their ages is 36, what is B's age?",
+    "options": [
+      "20",
+      "16",
+      "24",
+      "18"
+    ],
+    "answer": "20"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "Solve for $x$: $3x + 15 = 45$.",
+    "options": [
+      "10",
+      "15",
+      "12",
+      "20"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "A shopkeeper marks a product at $500 and offers a 10% discount. What is the selling price?",
+    "options": [
+      "$450",
+      "$400",
+      "$475",
+      "$460"
+    ],
+    "answer": "$450"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "In a class of 50 students, 60% are girls. How many boys are in the class?",
+    "options": [
+      "20",
+      "30",
+      "25",
+      "15"
+    ],
+    "answer": "20"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "What is the volume of a cube whose side length is 6 cm?",
+    "options": [
+      "216 cm³",
+      "144 cm³",
+      "36 cm³",
+      "256 cm³"
+    ],
+    "answer": "216 cm³"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "What fraction is equivalent to 35% in its lowest terms?",
+    "options": [
+      "7/20",
+      "3/10",
+      "7/25",
+      "1/3"
+    ],
+    "answer": "7/20"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "If Pipe A can fill a tank in 6 hours and Pipe B can fill it in 12 hours, how long will both take together?",
+    "options": [
+      "4 hours",
+      "3 hours",
+      "5 hours",
+      "4.5 hours"
+    ],
+    "answer": "4 hours"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "Find the compound interest on $1,000 for 2 years at 10% per annum compounded annually.",
+    "options": [
+      "$210",
+      "$200",
+      "$220",
+      "$190"
+    ],
+    "answer": "$210"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "What is the median of the data set: 3, 7, 11, 15, 19, 23, 27?",
+    "options": [
+      "15",
+      "11",
+      "19",
+      "14"
+    ],
+    "answer": "15"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "If 5 apples cost $3.50, how much will 12 apples cost?",
+    "options": [
+      "$8.40",
+      "$7.20",
+      "$8.00",
+      "$9.00"
+    ],
+    "answer": "$8.40"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "A fair six-sided die is rolled. What is the probability of rolling a prime number?",
+    "options": [
+      "1/2",
+      "1/3",
+      "2/3",
+      "1/6"
+    ],
+    "answer": "1/2"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "Find the third proportional to 9 and 12.",
+    "options": [
+      "16",
+      "15",
+      "18",
+      "14"
+    ],
+    "answer": "16"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "What is the sum of the interior angles of a pentagon?",
+    "options": [
+      "540°",
+      "360°",
+      "720°",
+      "180°"
+    ],
+    "answer": "540°"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "By selling a watch for $1,440, a trader loses 10%. At what price should he sell it to gain 15%?",
+    "options": [
+      "$1,840",
+      "$1,760",
+      "$1,800",
+      "$1,920"
+    ],
+    "answer": "$1,840"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "A sum of money doubles itself in 8 years at simple interest. What is the rate of interest per annum?",
+    "options": [
+      "12.5%",
+      "10%",
+      "15%",
+      "8.33%"
+    ],
+    "answer": "12.5%"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "Two trains of lengths 120 m and 180 m are running in opposite directions on parallel tracks at 40 km/h and 50 km/h. How long will they take to cross each other?",
+    "options": [
+      "12 seconds",
+      "10 seconds",
+      "15 seconds",
+      "14 seconds"
+    ],
+    "answer": "12 seconds"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "A boat can travel at 12 km/h in still water. If the speed of the current is 3 km/h, how long will it take to travel 45 km downstream?",
+    "options": [
+      "3 hours",
+      "3.75 hours",
+      "4 hours",
+      "2.5 hours"
+    ],
+    "answer": "3 hours"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "A container holds 80 liters of pure milk. 8 liters are drawn out and replaced with water. This process is repeated once more. How much pure milk remains in the container?",
+    "options": [
+      "64.8 liters",
+      "64.0 liters",
+      "65.2 liters",
+      "68.0 liters"
+    ],
+    "answer": "64.8 liters"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "A can complete a work in 12 days and B in 18 days. They work together for 4 days, and then A leaves. How many days will B take to finish the remaining work?",
+    "options": [
+      "8 days",
+      "10 days",
+      "6 days",
+      "7 days"
+    ],
+    "answer": "8 days"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "Find the compound interest on $8,000 for 1.5 years at 10% per annum, compounded half-yearly.",
+    "options": [
+      "$1,261",
+      "$1,200",
+      "$1,250",
+      "$1,280"
+    ],
+    "answer": "$1,261"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "The average weight of 8 persons increases by 2.5 kg when a new person comes in place of one weighing 65 kg. What is the weight of the new person?",
+    "options": [
+      "85 kg",
+      "80 kg",
+      "75 kg",
+      "90 kg"
+    ],
+    "answer": "85 kg"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "In what ratio must tea worth $60/kg be mixed with tea worth $75/kg so that the mixture is worth $65/kg?",
+    "options": [
+      "2 : 1",
+      "1 : 2",
+      "3 : 2",
+      "2 : 3"
+    ],
+    "answer": "2 : 1"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "In how many different ways can the letters of the word 'LEADER' be arranged?",
+    "options": [
+      "360",
+      "720",
+      "180",
+      "120"
+    ],
+    "answer": "360"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "From a deck of 52 cards, two cards are drawn at random. What is the probability that both are red cards?",
+    "options": [
+      "25/102",
+      "1/4",
+      "1/2",
+      "26/102"
+    ],
+    "answer": "25/102"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "If $x + \\frac{1}{x} = 5$, what is the value of $x^2 + \\frac{1}{x^2}$?",
+    "options": [
+      "23",
+      "25",
+      "27",
+      "21"
+    ],
+    "answer": "23"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "The diagonal of a square is $8\\sqrt{2}$ cm. What is its area?",
+    "options": [
+      "64 cm²",
+      "32 cm²",
+      "128 cm²",
+      "16 cm²"
+    ],
+    "answer": "64 cm²"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "A wheel makes 360 revolutions in one minute. Through how many radians does it turn in one second?",
+    "options": [
+      "12π",
+      "6π",
+      "24π",
+      "18π"
+    ],
+    "answer": "12π"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "A trader marks goods 40% above cost price and allows a discount of 15% on the marked price. What is his net profit percentage?",
+    "options": [
+      "19%",
+      "25%",
+      "20%",
+      "18%"
+    ],
+    "answer": "19%"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "Find the angle between the hour hand and the minute hand of a clock at 3:30.",
+    "options": [
+      "75°",
+      "90°",
+      "80°",
+      "70°"
+    ],
+    "answer": "75°"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "What day of the week was 15th August 1947?",
+    "options": [
+      "Friday",
+      "Thursday",
+      "Saturday",
+      "Sunday"
+    ],
+    "answer": "Friday"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "Three numbers are in the ratio 2 : 3 : 4 and the sum of their cubes is 33,957. What is the largest number?",
+    "options": [
+      "28",
+      "21",
+      "14",
+      "35"
+    ],
+    "answer": "28"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "A man buys 6 apples for $5 and sells 5 apples for $6. What is his profit percentage?",
+    "options": [
+      "44%",
+      "20%",
+      "30%",
+      "50%"
+    ],
+    "answer": "44%"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "Pipe A fills a tank in 10 hours and Pipe B in 15 hours. Pipe C empties it in 20 hours. If all three pipes are opened together, how long will it take to fill the tank?",
+    "options": [
+      "8.57 hours",
+      "7.5 hours",
+      "9 hours",
+      "6 hours"
+    ],
+    "answer": "8.57 hours"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "A father is 3 times as old as his son. 12 years hence, his age will be twice that of his son. What is the current age of the son?",
+    "options": [
+      "12 years",
+      "15 years",
+      "10 years",
+      "14 years"
+    ],
+    "answer": "12 years"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "If $2^x = 8^{y+1}$ and $9^y = 3^{x-9}$, find the value of $x + y$.",
+    "options": [
+      "27",
+      "21",
+      "24",
+      "18"
+    ],
+    "answer": "27"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "A right circular cylinder of height 12 cm and base radius 7 cm is melted and recast into a sphere. What is the radius of the sphere?",
+    "options": [
+      "6.3 cm",
+      "7 cm",
+      "5.5 cm",
+      "6 cm"
+    ],
+    "answer": "6.3 cm"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "How many numbers between 100 and 500 are divisible by both 6 and 8?",
+    "options": [
+      "16",
+      "15",
+      "17",
+      "18"
+    ],
+    "answer": "16"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "A sum of money placed at compound interest doubles itself in 5 years. In how many years will it become 8 times itself?",
+    "options": [
+      "15 years",
+      "10 years",
+      "20 years",
+      "25 years"
+    ],
+    "answer": "15 years"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "The total surface area of a solid hemisphere is 462 cm². What is its diameter? (Use $\\pi = 22/7$)",
+    "options": [
+      "14 cm",
+      "7 cm",
+      "21 cm",
+      "10.5 cm"
+    ],
+    "answer": "14 cm"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "Find the unit digit in the expansion of $(2467)^{153} \\times (341)^{72}$.",
+    "options": [
+      "7",
+      "1",
+      "3",
+      "9"
+    ],
+    "answer": "7"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "Two numbers are 20% and 50% more than a third number respectively. What is the ratio of the first two numbers?",
+    "options": [
+      "4 : 5",
+      "3 : 5",
+      "2 : 5",
+      "5 : 6"
+    ],
+    "answer": "4 : 5"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "A man can row 6 km/h in still water. It takes him twice as long to row upstream as to row downstream. What is the speed of the stream?",
+    "options": [
+      "2 km/h",
+      "3 km/h",
+      "1.5 km/h",
+      "2.5 km/h"
+    ],
+    "answer": "2 km/h"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "Out of 7 consonants and 4 vowels, how many different words of 3 consonants and 2 vowels can be formed?",
+    "options": [
+      "25,200",
+      "210",
+      "1,050",
+      "5,040"
+    ],
+    "answer": "25,200"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "A person covers three equal distances at speeds of 20 km/h, 30 km/h, and 60 km/h respectively. What is the average speed for the entire journey?",
+    "options": [
+      "30 km/h",
+      "35.5 km/h",
+      "28 km/h",
+      "36 km/h"
+    ],
+    "answer": "30 km/h"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "A and B walk around a circular track of perimeter 1,200 m starting simultaneously from the same point in the same direction at 2 m/s and 5 m/s. After how much time will they meet at the starting point for the first time?",
+    "options": [
+      "400 seconds",
+      "600 seconds",
+      "240 seconds",
+      "1,200 seconds"
+    ],
+    "answer": "600 seconds"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "The difference between CI (compounded annually) and SI on a certain sum at 10% per annum for 3 years is $186. Find the principal sum.",
+    "options": [
+      "$6,000",
+      "$5,000",
+      "$6,500",
+      "$7,000"
+    ],
+    "answer": "$6,000"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "A milkman has 20 liters of a mixture of milk and water containing 10% water. How much pure milk must be added to lower the water content to 5%?",
+    "options": [
+      "20 liters",
+      "10 liters",
+      "15 liters",
+      "25 liters"
+    ],
+    "answer": "20 liters"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "Three pipes A, B, and C can fill a reservoir in 12, 15, and 20 hours respectively. If A is open all the time and B and C are open for one hour each alternately, in how many hours will the reservoir be filled?",
+    "options": [
+      "7 hours",
+      "6.5 hours",
+      "8 hours",
+      "7.5 hours"
+    ],
+    "answer": "7 hours"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "Find the number of integral solutions to the equation $x + y + z = 20$, where $x \\ge 1, y \\ge 1, z \\ge 1$.",
+    "options": [
+      "171",
+      "190",
+      "210",
+      "153"
+    ],
+    "answer": "171"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "If $\\log_{10} 2 = 0.30103$, how many digits are there in $2^{50}$?",
+    "options": [
+      "16",
+      "15",
+      "17",
+      "14"
+    ],
+    "answer": "16"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "A, B, and C enter into a partnership. A invests 3 times as much as B, and B invests 2/3 of what C invests. At the end of the year, the profit is $6,600. What is B's share?",
+    "options": [
+      "$1,200",
+      "$1,800",
+      "$3,600",
+      "$1,500"
+    ],
+    "answer": "$1,200"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "A dishonest dealer professes to sell his goods at cost price, but uses a false weight of 900 grams for a 1 kg weight. Find his gain percentage.",
+    "options": [
+      "11.11%",
+      "10%",
+      "12.5%",
+      "9.09%"
+    ],
+    "answer": "11.11%"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "The remainder when $7^{84}$ is divided by 342 is:",
+    "options": [
+      "1",
+      "7",
+      "49",
+      "341"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "If $x = 3 + 2\\sqrt{2}$, find the value of $\\sqrt{x} - \\frac{1}{\\sqrt{x}}$.",
+    "options": [
+      "2",
+      "2√2",
+      "1",
+      "√2"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "A cone and a hemisphere have equal bases and equal volumes. What is the ratio of their heights?",
+    "options": [
+      "2 : 1",
+      "1 : 2",
+      "3 : 1",
+      "1 : 1"
+    ],
+    "answer": "2 : 1"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "Find the sum of all two-digit numbers which leave a remainder of 1 when divided by 4.",
+    "options": [
+      "1,210",
+      "1,188",
+      "1,232",
+      "1,254"
+    ],
+    "answer": "1,210"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "How many trailing zeros are there in $100!$?",
+    "options": [
+      "24",
+      "20",
+      "25",
+      "22"
+    ],
+    "answer": "24"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "A bag contains 4 red, 5 green, and 6 blue balls. Three balls are drawn at random. What is the probability that all three are of different colors?",
+    "options": [
+      "24/91",
+      "12/65",
+      "18/91",
+      "30/91"
+    ],
+    "answer": "24/91"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "A person travels from town A to town B at $v_1$ km/h and returns at $v_2$ km/h. If the total time taken is $T$ hours, what is the distance between A and B?",
+    "options": [
+      "$\\frac{v_1 v_2 T}{v_1 + v_2}$",
+      "$\\frac{v_1 v_2 T}{2(v_1 + v_2)}$",
+      "$\\frac{(v_1 + v_2)T}{v_1 v_2}$",
+      "$\\frac{2 v_1 v_2 T}{v_1 + v_2}$"
+    ],
+    "answer": "\\frac{v_1 v_2 T}{v_1 + v_2}"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "If $\\alpha$ and $\\beta$ are the roots of $x^2 - 6x + 2 = 0$, find the value of $\\alpha^3 + \\beta^3$.",
+    "options": [
+      "180",
+      "216",
+      "144",
+      "192"
+    ],
+    "answer": "180"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "In a competitive exam, 3 marks are awarded for every correct answer and 1 mark is deducted for every wrong answer. A student attempts 100 questions and scores 180 marks. How many questions did they answer correctly?",
+    "options": [
+      "70",
+      "65",
+      "75",
+      "60"
+    ],
+    "answer": "70"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "What is the area of the region bounded by $|x| + |y| = 4$ in the Cartesian plane?",
+    "options": [
+      "32 sq units",
+      "16 sq units",
+      "64 sq units",
+      "24 sq units"
+    ],
+    "answer": "32 sq units"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "Find the harmonic mean of 4, 6, and 12.",
+    "options": [
+      "6",
+      "5.5",
+      "6.5",
+      "7"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "Two sides of a triangle are 8 cm and 11 cm. How many integer values can the third side take?",
+    "options": [
+      "15",
+      "16",
+      "14",
+      "17"
+    ],
+    "answer": "15"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "A sum of money compounded annually amounts to $4,840 in 2 years and to $5,324 in 3 years. What is the rate of interest?",
+    "options": [
+      "10%",
+      "12%",
+      "8%",
+      "15%"
+    ],
+    "answer": "10%"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "What is the maximum number of points of intersection of 8 distinct straight lines in a plane?",
+    "options": [
+      "28",
+      "56",
+      "36",
+      "24"
+    ],
+    "answer": "28"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "If $\\tan \\theta + \\cot \\theta = 2$, find the value of $\\tan^{100} \\theta + \\cot^{100} \\theta$.",
+    "options": [
+      "2",
+      "1",
+      "0",
+      "100"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "An article is sold at a profit of 25%. If both cost price and selling price are reduced by $20, the profit percentage becomes 30%. What was the original cost price?",
+    "options": [
+      "$120",
+      "$100",
+      "$150",
+      "$140"
+    ],
+    "answer": "$120"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "Find the last two digits of $3^{400}$.",
+    "options": [
+      "01",
+      "03",
+      "09",
+      "81"
+    ],
+    "answer": "01"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "In a group of 100 people, 70 like tea, 60 like coffee, and 20 like neither. How many people like both tea and coffee?",
+    "options": [
+      "50",
+      "40",
+      "30",
+      "45"
+    ],
+    "answer": "50"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "The ratio of the speed of a boat in still water to that of the current is 8 : 1. If it takes 3.5 hours to go 31.5 km downstream, what is the speed of the current?",
+    "options": [
+      "1 km/h",
+      "1.5 km/h",
+      "2 km/h",
+      "2.5 km/h"
+    ],
+    "answer": "1 km/h"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "What is the length of the longest rod that can be placed in a room of dimensions 12 m × 9 m × 8 m?",
+    "options": [
+      "17 m",
+      "15 m",
+      "18 m",
+      "20 m"
+    ],
+    "answer": "17 m"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "In an Arithmetic Progression (AP), if the 5th term is 19 and the 11th term is 43, what is the 20th term?",
+    "options": [
+      "79",
+      "83",
+      "75",
+      "81"
+    ],
+    "answer": "79"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "A clock gains 5 minutes every 3 hours. If it is set correctly at 8:00 AM, what time will it show at 8:00 PM on the same day?",
+    "options": [
+      "8:20 PM",
+      "8:15 PM",
+      "8:25 PM",
+      "8:30 PM"
+    ],
+    "answer": "8:20 PM"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "Evaluate the infinite geometric series: $12 + 4 + \\frac{4}{3} + \\frac{4}{9} + \\dots$",
+    "options": [
+      "18",
+      "16",
+      "20",
+      "24"
+    ],
+    "answer": "18"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "How many four-digit numbers greater than 5000 can be formed using the digits 2, 4, 5, 7, and 8 without repetition?",
+    "options": [
+      "72",
+      "96",
+      "48",
+      "60"
+    ],
+    "answer": "72"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "Three pipes A, B, and C together can fill a tank in 6 hours. After working together for 2 hours, C is closed, and A and B fill the remaining part in 7 hours. How many hours will C alone take to fill the tank?",
+    "options": [
+      "14 hours",
+      "12 hours",
+      "16 hours",
+      "18 hours"
+    ],
+    "answer": "14 hours"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "If $\\log_2 x + \\log_4 x + \\log_{16} x = 21/4$, what is the value of $x$?",
+    "options": [
+      "8",
+      "16",
+      "4",
+      "2"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "A sphere is inscribed inside a cube of side length $a$. What is the ratio of the volume of the cube to the volume of the sphere?",
+    "options": [
+      "6 : π",
+      "4 : π",
+      "3 : π",
+      "8 : π"
+    ],
+    "answer": "6 : π"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "A sum of $10,000 is lent in two parts—one at 8% simple interest per annum and the other at 10% per annum. If the annual income from interest is $880, how much was lent at 10%?",
+    "options": [
+      "$4,000",
+      "$6,000",
+      "$5,000",
+      "$4,500"
+    ],
+    "answer": "$4,000"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "The speed of a train is 20% more than that of a car. Both start from point A at the same time and reach point B (75 km away) at the same time because the train stopped for 12.5 minutes at stations. What is the speed of the car?",
+    "options": [
+      "120 km/h",
+      "100 km/h",
+      "110 km/h",
+      "90 km/h"
+    ],
+    "answer": "120 km/h"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "Find the number of non-negative integer solutions to $x + y = 100$ such that $x$ and $y$ are both even.",
+    "options": [
+      "51",
+      "50",
+      "101",
+      "49"
+    ],
+    "answer": "51"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "What is the probability of getting a sum of 9 when three unbiased six-sided dice are rolled simultaneously?",
+    "options": [
+      "25/216",
+      "1/8",
+      "7/54",
+      "11/108"
+    ],
+    "answer": "25/216"
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "What does the abbreviation 'CPU' stand for?",
+    "options": [
+      "Central Processing Unit",
+      "Computer Power Unit",
+      "Central Program Unit",
+      "Control Process Unit"
+    ],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "Which device is primarily used to type letters and numbers into a computer?",
+    "options": [
+      "Monitor",
+      "Keyboard",
+      "Mouse",
+      "Printer"
+    ],
+    "answer": "Keyboard"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "Which component is known as the 'brain' of the computer?",
+    "options": [
+      "Hard Disk",
+      "CPU",
+      "Monitor",
+      "RAM"
+    ],
+    "answer": "CPU"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "Which of these is an output device?",
+    "options": [
+      "Mouse",
+      "Keyboard",
+      "Monitor",
+      "Scanner"
+    ],
+    "answer": "Monitor"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "What is the primary function of a computer printer?",
+    "options": [
+      "To display images on screen",
+      "To record audio",
+      "To produce hard copies on paper",
+      "To connect to the internet"
+    ],
+    "answer": "To produce hard copies on paper"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "Which key on a standard keyboard is pressed to start a new line while typing?",
+    "options": [
+      "Shift key",
+      "Spacebar",
+      "Enter key",
+      "Escape key"
+    ],
+    "answer": "Enter key"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "What type of computer hardware is a mouse?",
+    "options": [
+      "Input device",
+      "Output device",
+      "Storage device",
+      "Processing device"
+    ],
+    "answer": "Input device"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "Which key is used to create spaces between words when typing?",
+    "options": [
+      "Tab key",
+      "Enter key",
+      "Backspace key",
+      "Spacebar"
+    ],
+    "answer": "Spacebar"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "Which part of a computer displays visual output like pictures and videos?",
+    "options": [
+      "Monitor",
+      "Speaker",
+      "Hard Drive",
+      "Keyboard"
+    ],
+    "answer": "Monitor"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "What temporary memory is lost when a computer is powered off?",
+    "options": [
+      "ROM",
+      "Hard Drive",
+      "RAM",
+      "Flash Drive"
+    ],
+    "answer": "RAM"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "Which key deletes characters to the left of the cursor position?",
+    "options": [
+      "Delete key",
+      "Backspace key",
+      "Escape key",
+      "Shift key"
+    ],
+    "answer": "Backspace key"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "Which device allows a computer to play audio output to a room?",
+    "options": [
+      "Microphone",
+      "Speakers",
+      "Webcam",
+      "Scanner"
+    ],
+    "answer": "Speakers"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "What is the smallest unit of digital data in computing?",
+    "options": [
+      "Byte",
+      "Bit",
+      "Nibble",
+      "Kilobyte"
+    ],
+    "answer": "Bit"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "Which icon represents a folder used to hold files in an operating system?",
+    "options": [
+      "Yellow folder icon",
+      "Blue globe icon",
+      "Gear icon",
+      "Trash can icon"
+    ],
+    "answer": "Yellow folder icon"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "What does 'WWW' stand for in a web address?",
+    "options": [
+      "World Wide Web",
+      "World Web Wide",
+      "Wide World Web",
+      "World With Web"
+    ],
+    "answer": "World Wide Web"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "Which device is used to record sound into a computer?",
+    "options": [
+      "Speaker",
+      "Microphone",
+      "Headphones",
+      "Monitor"
+    ],
+    "answer": "Microphone"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "Which button action opens a file or program on a desktop computer?",
+    "options": [
+      "Single click",
+      "Double click",
+      "Right click",
+      "Hovering cursor"
+    ],
+    "answer": "Double click"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "What type of software is Microsoft Windows?",
+    "options": [
+      "Web browser",
+      "Operating System",
+      "Antivirus",
+      "Word processor"
+    ],
+    "answer": "Operating System"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "Which of these is a popular internet browser?",
+    "options": [
+      "Google Chrome",
+      "Microsoft Word",
+      "Adobe Photoshop",
+      "MS Paint"
+    ],
+    "answer": "Google Chrome"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "What is the primary purpose of a computer mouse scroll wheel?",
+    "options": [
+      "To select text",
+      "To scroll pages up and down",
+      "To shut down the computer",
+      "To change screen brightness"
+    ],
+    "answer": "To scroll pages up and down"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "How many bits are in one single byte?",
+    "options": [
+      "4 bits",
+      "8 bits",
+      "16 bits",
+      "32 bits"
+    ],
+    "answer": "8 bits"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "Which application is commonly used for basic drawing on Windows PC?",
+    "options": [
+      "MS Paint",
+      "MS Excel",
+      "MS PowerPoint",
+      "MS Access"
+    ],
+    "answer": "MS Paint"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "Which portable storage device plugs directly into a USB port?",
+    "options": [
+      "RAM card",
+      "Pen Drive",
+      "Internal Hard Drive",
+      "Motherboard"
+    ],
+    "answer": "Pen Drive"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "What action moves deleted files on Windows before permanent removal?",
+    "options": [
+      "Control Panel",
+      "Recycle Bin",
+      "My Computer",
+      "Taskbar"
+    ],
+    "answer": "Recycle Bin"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "What key is pressed to lock typing into uppercase letters?",
+    "options": [
+      "Caps Lock",
+      "Num Lock",
+      "Scroll Lock",
+      "Control key"
+    ],
+    "answer": "Caps Lock"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "Which component supplies physical power to all computer parts inside the cabinet?",
+    "options": [
+      "Power Supply Unit",
+      "Hard Disk",
+      "Sound Card",
+      "Network Card"
+    ],
+    "answer": "Power Supply Unit"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "What is a portable computer that can be carried easily called?",
+    "options": [
+      "Mainframe",
+      "Desktop",
+      "Laptop",
+      "Supercomputer"
+    ],
+    "answer": "Laptop"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "Which device captures digital photos and videos directly into a computer?",
+    "options": [
+      "Webcam",
+      "Monitor",
+      "Printer",
+      "Plotter"
+    ],
+    "answer": "Webcam"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "What symbol is always included in an email address?",
+    "options": [
+      "#",
+      "@",
+      "&",
+      "$"
+    ],
+    "answer": "@"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "Which shortcut key combination copies selected text on Windows?",
+    "options": [
+      "Ctrl + X",
+      "Ctrl + V",
+      "Ctrl + C",
+      "Ctrl + Z"
+    ],
+    "answer": "Ctrl + C"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "What does 'RAM' stand for in computer memory?",
+    "options": [
+      "Read Access Memory",
+      "Random Access Memory",
+      "Rapid Access Memory",
+      "Run Access Memory"
+    ],
+    "answer": "Random Access Memory"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "Which keyboard shortcut is used to paste copied content?",
+    "options": [
+      "Ctrl + P",
+      "Ctrl + V",
+      "Ctrl + C",
+      "Ctrl + A"
+    ],
+    "answer": "Ctrl + V"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "What is the main circuit board containing the CPU and memory called?",
+    "options": [
+      "Expansion Card",
+      "Motherboard",
+      "Hard Drive",
+      "Control Panel"
+    ],
+    "answer": "Motherboard"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "Which file extension usually represents an executable installation file on Windows?",
+    "options": [
+      ".txt",
+      ".exe",
+      ".docx",
+      ".jpg"
+    ],
+    "answer": ".exe"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "Which device converts printed paper documents into digital images?",
+    "options": [
+      "Printer",
+      "Scanner",
+      "Plotter",
+      "Projector"
+    ],
+    "answer": "Scanner"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "What software program protects a computer against malicious code?",
+    "options": [
+      "Antivirus",
+      "Web Browser",
+      "Operating System",
+      "Device Driver"
+    ],
+    "answer": "Antivirus"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "What keyboard shortcut selects all items in a active document or folder?",
+    "options": [
+      "Ctrl + S",
+      "Ctrl + A",
+      "Ctrl + F",
+      "Ctrl + N"
+    ],
+    "answer": "Ctrl + A"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "Which computer network covers a small physical area like a home or school building?",
+    "options": [
+      "WAN",
+      "LAN",
+      "MAN",
+      "PAN"
+    ],
+    "answer": "LAN"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "What is the primary purpose of a web browser?",
+    "options": [
+      "To edit videos",
+      "To access and view web pages",
+      "To compile programming code",
+      "To manage system hardware"
+    ],
+    "answer": "To access and view web pages"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "What type of non-volatile memory stores permanent startup instructions (BIOS)?",
+    "options": [
+      "RAM",
+      "Cache",
+      "ROM",
+      "Virtual Memory"
+    ],
+    "answer": "ROM"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "Which software protocol is used to securely browse webpages online?",
+    "options": [
+      "FTP",
+      "HTTPS",
+      "SMTP",
+      "IP"
+    ],
+    "answer": "HTTPS"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "What key combination undoes the last performed action on Windows?",
+    "options": [
+      "Ctrl + Y",
+      "Ctrl + Z",
+      "Ctrl + U",
+      "Ctrl + R"
+    ],
+    "answer": "Ctrl + Z"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "Which of these storage media has the fastest read/write speeds?",
+    "options": [
+      "Floppy Disk",
+      "Magnetic Tape",
+      "Hard Disk Drive (HDD)",
+      "Solid State Drive (SSD)"
+    ],
+    "answer": "Solid State Drive (SSD)"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "Which application is designed primarily for creating slide presentations?",
+    "options": [
+      "Microsoft Word",
+      "Microsoft Excel",
+      "Microsoft PowerPoint",
+      "Microsoft Publisher"
+    ],
+    "answer": "Microsoft PowerPoint"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "What is 1 Gigabyte (GB) equal to in Megabytes (MB)?",
+    "options": [
+      "100 MB",
+      "512 MB",
+      "1024 MB",
+      "2048 MB"
+    ],
+    "answer": "1024 MB"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "Which operating system is open-source and free to use?",
+    "options": [
+      "Windows 11",
+      "macOS",
+      "Linux",
+      "iOS"
+    ],
+    "answer": "Linux"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "What does 'URL' stand for in web navigation?",
+    "options": [
+      "Universal Resource Locator",
+      "Uniform Resource Locator",
+      "Unified Resource Link",
+      "Uniform Real Link"
+    ],
+    "answer": "Uniform Resource Locator"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "Which port is standard for connecting mice, keyboards, and flash drives?",
+    "options": [
+      "HDMI Port",
+      "VGA Port",
+      "USB Port",
+      "Ethernet Port"
+    ],
+    "answer": "USB Port"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "What is the primary function of an email client?",
+    "options": [
+      "To create graphics",
+      "To send, receive, and organize emails",
+      "To scan local hard drives",
+      "To play video games"
+    ],
+    "answer": "To send, receive, and organize emails"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "What type of malware disguises itself as legitimate software?",
+    "options": [
+      "Worm",
+      "Trojan Horse",
+      "Spyware",
+      "Ransomware"
+    ],
+    "answer": "Trojan Horse"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "Which key combination opens the Windows Task Manager directly?",
+    "options": [
+      "Ctrl + Shift + Esc",
+      "Alt + F4",
+      "Ctrl + Alt + Delete",
+      "Win + R"
+    ],
+    "answer": "Ctrl + Shift + Esc"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "What is a single row in a relational database table called?",
+    "options": [
+      "Field",
+      "Record",
+      "Column",
+      "Attribute"
+    ],
+    "answer": "Record"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "Which display connector transmits both high-definition video and audio signals?",
+    "options": [
+      "VGA",
+      "DVI",
+      "HDMI",
+      "PS/2"
+    ],
+    "answer": "HDMI"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "What does 'IP' stand for in 'IP Address'?",
+    "options": [
+      "Internet Protocol",
+      "Internal Program",
+      "Interface Provider",
+      "Information Process"
+    ],
+    "answer": "Internet Protocol"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "Which software translates high-level code into machine code all at once before execution?",
+    "options": [
+      "Interpreter",
+      "Compiler",
+      "Assembler",
+      "Linker"
+    ],
+    "answer": "Compiler"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "What spreadsheet feature automatically adds numbers in a range of cells?",
+    "options": [
+      "AutoFormat",
+      "AutoSum",
+      "AutoCorrect",
+      "AutoFill"
+    ],
+    "answer": "AutoSum"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "Which memory type resides directly inside or near the CPU for ultra-fast access?",
+    "options": [
+      "Cache Memory",
+      "Virtual Memory",
+      "Secondary Memory",
+      "Flash Memory"
+    ],
+    "answer": "Cache Memory"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "What is the process of restarting a computer that is already powered on called?",
+    "options": [
+      "Cold Booting",
+      "Warm Booting",
+      "Safe Booting",
+      "Hard Booting"
+    ],
+    "answer": "Warm Booting"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "Which cloud storage service is developed by Microsoft?",
+    "options": [
+      "Google Drive",
+      "iCloud",
+      "OneDrive",
+      "Dropbox"
+    ],
+    "answer": "OneDrive"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "What is the shortcut key to permanently delete a file without sending it to Recycle Bin?",
+    "options": [
+      "Shift + Delete",
+      "Ctrl + Delete",
+      "Alt + Delete",
+      "Tab + Delete"
+    ],
+    "answer": "Shift + Delete"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "What is the primary function of the ALU (Arithmetic Logic Unit) inside a CPU?",
+    "options": [
+      "To control data movement between components",
+      "To perform mathematical calculations and logical operations",
+      "To manage power distribution",
+      "To store long-term files"
+    ],
+    "answer": "To perform mathematical calculations and logical operations"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "Which OSI layer is responsible for routing data packets across different networks?",
+    "options": [
+      "Data Link Layer",
+      "Network Layer",
+      "Transport Layer",
+      "Session Layer"
+    ],
+    "answer": "Network Layer"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "In networking, what does the 'DNS' protocol do?",
+    "options": [
+      "Encrypts network communication",
+      "Translates domain names to IP addresses",
+      "Assigns dynamic IP addresses to devices",
+      "Transfers files between clients and servers"
+    ],
+    "answer": "Translates domain names to IP addresses"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "What fundamental computing concept states that CPU performance doubles approximately every two years?",
+    "options": [
+      "Metcalfe's Law",
+      "Moore's Law",
+      "Amdahl's Law",
+      "Wirth's Law"
+    ],
+    "answer": "Moore's Law"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "Which of these is a low-level programming language directly executed by hardware?",
+    "options": [
+      "Python",
+      "Java",
+      "Machine Language",
+      "C++"
+    ],
+    "answer": "Machine Language"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "What system process runs during startup to perform hardware checks on RAM and devices?",
+    "options": [
+      "POST (Power-On Self-Test)",
+      "Kernel Loading",
+      "GUI Initialization",
+      "Interrupt Vectoring"
+    ],
+    "answer": "POST (Power-On Self-Test)"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "Which data structure operates strictly on a Last-In, First-Out (LIFO) basis?",
+    "options": [
+      "Queue",
+      "Stack",
+      "Array",
+      "Linked List"
+    ],
+    "answer": "Stack"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "What type of cyberattack floods a target server with bogus traffic to disrupt service?",
+    "options": [
+      "Phishing Attack",
+      "DDoS Attack",
+      "Man-in-the-Middle Attack",
+      "SQL Injection"
+    ],
+    "answer": "DDoS Attack"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "Which component of an operating system sits between user applications and hardware?",
+    "options": [
+      "Shell",
+      "Kernel",
+      "BIOS",
+      "API"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "What is the hexadecimal equivalent of the binary number '1111'?",
+    "options": [
+      "E",
+      "F",
+      "10",
+      "15"
+    ],
+    "answer": "F"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "Which protocol assigns dynamic IP addresses automatically to devices on a local network?",
+    "options": [
+      "DHCP",
+      "DNS",
+      "FTP",
+      "HTTP"
+    ],
+    "answer": "DHCP"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "What is the term for space on a hard drive used as extra RAM when RAM fills up?",
+    "options": [
+      "Cache Memory",
+      "Virtual Memory",
+      "Read-Only Memory",
+      "Flash Memory"
+    ],
+    "answer": "Virtual Memory"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "Which logic gate outputs TRUE only when both inputs are TRUE?",
+    "options": [
+      "OR Gate",
+      "AND Gate",
+      "XOR Gate",
+      "NAND Gate"
+    ],
+    "answer": "AND Gate"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "What database command is used to retrieve data from a relational database?",
+    "options": [
+      "INSERT",
+      "UPDATE",
+      "SELECT",
+      "DELETE"
+    ],
+    "answer": "SELECT"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "Which solid-state bus interface standard allows modern NVMe SSDs to achieve high speeds?",
+    "options": [
+      "SATA",
+      "PCIe",
+      "IDE",
+      "AGP"
+    ],
+    "answer": "PCIe"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "What RAID level provides disk striping with distributed parity for fault tolerance?",
+    "options": [
+      "RAID 0",
+      "RAID 1",
+      "RAID 5",
+      "RAID 10"
+    ],
+    "answer": "RAID 5"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "Which encryption key system uses a public key for encryption and a private key for decryption?",
+    "options": [
+      "Symmetric Encryption",
+      "Asymmetric Encryption",
+      "Hashing",
+      "Steganography"
+    ],
+    "answer": "Asymmetric Encryption"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "What is the standard port number for unencrypted HTTP web traffic?",
+    "options": [
+      "Port 21",
+      "Port 80",
+      "Port 443",
+      "Port 8080"
+    ],
+    "answer": "Port 80"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "Which sorting algorithm has a worst-case time complexity of O(n^2)?",
+    "options": [
+      "Merge Sort",
+      "Quick Sort",
+      "Bubble Sort",
+      "Heap Sort"
+    ],
+    "answer": "Bubble Sort"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "What type of interrupt is generated directly by hardware devices like a keyboard press?",
+    "options": [
+      "Software Interrupt",
+      "Hardware Interrupt (IRQ)",
+      "Trap",
+      "Exception"
+    ],
+    "answer": "Hardware Interrupt (IRQ)"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "What is the decimal value of the binary number '101010'?",
+    "options": [
+      "32",
+      "42",
+      "52",
+      "64"
+    ],
+    "answer": "42"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "Which security measure acts as a protective boundary between a trusted internal network and untrusted internet?",
+    "options": [
+      "Switch",
+      "Firewall",
+      "Bridge",
+      "Repeater"
+    ],
+    "answer": "Firewall"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "In operating systems, what state occurs when two processes are each waiting for resources held by the other?",
+    "options": [
+      "Starvation",
+      "Deadlock",
+      "Thrashing",
+      "Paging"
+    ],
+    "answer": "Deadlock"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "What network device operates primarily at Layer 2 of the OSI model to forward frames based on MAC addresses?",
+    "options": [
+      "Hub",
+      "Switch",
+      "Router",
+      "Gateway"
+    ],
+    "answer": "Switch"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "Which file system format is native to modern Windows operating systems?",
+    "options": [
+      "FAT32",
+      "ext4",
+      "NTFS",
+      "APFS"
+    ],
+    "answer": "NTFS"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "What is the main advantage of 64-bit architecture over 32-bit architecture?",
+    "options": [
+      "Slower power consumption",
+      "Support for significantly more system RAM",
+      "Smaller physical CPU size",
+      "Elimination of computer viruses"
+    ],
+    "answer": "Support for significantly more system RAM"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "Which protocol is primarily used for transferring files between client and server over a network?",
+    "options": [
+      "SMTP",
+      "FTP",
+      "SNMP",
+      "POP3"
+    ],
+    "answer": "FTP"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "What is the purpose of the CMOS battery on a motherboard?",
+    "options": [
+      "To power the cooling fan",
+      "To power the main CPU during intense tasks",
+      "To preserve system time and BIOS settings when powered off",
+      "To charge the laptop battery"
+    ],
+    "answer": "To preserve system time and BIOS settings when powered off"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "Which data structure organizes items using parent-child relationships?",
+    "options": [
+      "Array",
+      "Tree",
+      "Stack",
+      "Queue"
+    ],
+    "answer": "Tree"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "What is the standard port number used by HTTPS for secure encrypted web traffic?",
+    "options": [
+      "Port 80",
+      "Port 22",
+      "Port 443",
+      "Port 25"
+    ],
+    "answer": "Port 443"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "Which command line utility checks network connectivity between a source and a destination IP address?",
+    "options": [
+      "ipconfig",
+      "ping",
+      "tracert",
+      "netstat"
+    ],
+    "answer": "ping"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "What is the physical address permanently assigned to a Network Interface Card (NIC)?",
+    "options": [
+      "IP Address",
+      "MAC Address",
+      "Port Address",
+      "Host ID"
+    ],
+    "answer": "MAC Address"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "In OOP (Object-Oriented Programming), what concept allows a class to derive properties from another class?",
+    "options": [
+      "Polymorphism",
+      "Encapsulation",
+      "Inheritance",
+      "Abstraction"
+    ],
+    "answer": "Inheritance"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "What phenomenon occurs when excessive page swapping degrades operating system performance?",
+    "options": [
+      "Thrashing",
+      "Spooling",
+      "Paging",
+      "Fragmentation"
+    ],
+    "answer": "Thrashing"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "Which hashing algorithm generates a 128-bit hash value commonly used to verify file integrity?",
+    "options": [
+      "SHA-256",
+      "MD5",
+      "AES",
+      "RSA"
+    ],
+    "answer": "MD5"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "What is the term for a soft copy document's print queue management system?",
+    "options": [
+      "Spooling",
+      "Caching",
+      "Buffering",
+      "Paging"
+    ],
+    "answer": "Spooling"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "Which non-volatile flash memory protocol is specifically designed for high-speed PCIe SSDs?",
+    "options": [
+      "AHCI",
+      "NVMe",
+      "SATA",
+      "SCSI"
+    ],
+    "answer": "NVMe"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "What is the function of an ARP (Address Resolution Protocol) in IPv4 networking?",
+    "options": [
+      "Resolves domain names to IP addresses",
+      "Resolves IP addresses to physical MAC addresses",
+      "Assigns dynamic IP addresses",
+      "Routes packets across internet routers"
+    ],
+    "answer": "Resolves IP addresses to physical MAC addresses"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "What type of database uses structured tables with rows and columns enforced by primary keys?",
+    "options": [
+      "NoSQL Database",
+      "Relational Database (RDBMS)",
+      "Graph Database",
+      "Document Database"
+    ],
+    "answer": "Relational Database (RDBMS)"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "Which component manages clock speed, instruction fetching, and execution timing inside the CPU?",
+    "options": [
+      "Control Unit (CU)",
+      "Arithmetic Logic Unit (ALU)",
+      "Cache Memory",
+      "Registers"
+    ],
+    "answer": "Control Unit (CU)"
+  }
+]

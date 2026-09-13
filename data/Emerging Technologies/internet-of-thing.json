@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "What does the abbreviation 'IoT' stand for?",
+    "options": [
+      "Internet of Things",
+      "Interconnection of Terminals",
+      "Integrated Operating Technology",
+      "Information on Transfer"
+    ],
+    "answer": "Internet of Things"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "What is the primary function of a sensor in an IoT system?",
+    "options": [
+      "Detect and measure physical parameters from the environment",
+      "Convert electrical signals into mechanical motion",
+      "Provide high-speed database query processing",
+      "Manage wireless IP routing tables"
+    ],
+    "answer": "Detect and measure physical parameters from the environment"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "What is the primary function of an actuator in an IoT system?",
+    "options": [
+      "Convert digital or electrical signals into physical action or movement",
+      "Collect environmental temperature data",
+      "Encrypt incoming network packets",
+      "Store historical time-series data"
+    ],
+    "answer": "Convert digital or electrical signals into physical action or movement"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "Which component acts as a bridge between local IoT devices and remote cloud servers?",
+    "options": [
+      "IoT Gateway",
+      "Actuator",
+      "Piezoelectric Sensor",
+      "Analog-to-Digital Converter"
+    ],
+    "answer": "IoT Gateway"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "Which of the following is considered an everyday example of an IoT device?",
+    "options": [
+      "Smart Thermostat (e.g., Nest)",
+      "Traditional offline desktop computer",
+      "Standard USB flash drive",
+      "Non-networked digital wristwatch"
+    ],
+    "answer": "Smart Thermostat (e.g., Nest)"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "What lightweight publish/subscribe messaging protocol is widely used in IoT applications?",
+    "options": [
+      "MQTT",
+      "FTP",
+      "SMTP",
+      "POP3"
+    ],
+    "answer": "MQTT"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "What does the abbreviation 'IIoT' stand for?",
+    "options": [
+      "Industrial Internet of Things",
+      "Integrated Information on Things",
+      "Intelligent Internet of Terminals",
+      "International Internet Organization Technology"
+    ],
+    "answer": "Industrial Internet of Things"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "Which wireless communication technology operates over extremely short distances (typically under 10 cm)?",
+    "options": [
+      "NFC (Near Field Communication)",
+      "LoRaWAN",
+      "Satellite Link",
+      "Zigbee"
+    ],
+    "answer": "NFC (Near Field Communication)"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "Which low-power wireless mesh network standard based on IEEE 802.15.4 is widely used in smart home automation?",
+    "options": [
+      "Zigbee",
+      "Ethernet",
+      "5G Sub-6GHz",
+      "Wi-Fi 6E"
+    ],
+    "answer": "Zigbee"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "What technology uses radio waves to automatically identify and track tags attached to objects?",
+    "options": [
+      "RFID (Radio-Frequency Identification)",
+      "GPS",
+      "LiFi",
+      "Sonar"
+    ],
+    "answer": "RFID (Radio-Frequency Identification)"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "Which protocol version of IP provides a virtually unlimited address space essential for billions of IoT devices?",
+    "options": [
+      "IPv6",
+      "IPv4",
+      "IPX/SPX",
+      "AppleTalk"
+    ],
+    "answer": "IPv6"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "Which short-range wireless protocol is designed for low-power consumer wearables and sensors?",
+    "options": [
+      "Bluetooth Low Energy (BLE)",
+      "WiMAX",
+      "Gigabit Ethernet",
+      "Satellite NB-IoT"
+    ],
+    "answer": "Bluetooth Low Energy (BLE)"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "What is the term for computing processing performed near the source of data generation rather than in distant cloud centers?",
+    "options": [
+      "Edge Computing",
+      "Mainframe Computing",
+      "Batch Processing",
+      "Centralized Data Mining"
+    ],
+    "answer": "Edge Computing"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "What type of sensor measures rotation or angular velocity?",
+    "options": [
+      "Gyroscope Sensor",
+      "Barometric Pressure Sensor",
+      "Thermocouple Sensor",
+      "Capacitive Humidity Sensor"
+    ],
+    "answer": "Gyroscope Sensor"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "Which sensor type measures linear acceleration and tilt?",
+    "options": [
+      "Accelerometer",
+      "Hygrometer",
+      "Photodiode",
+      "Galvanometer"
+    ],
+    "answer": "Accelerometer"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "What major risk arises when default manufacturer passwords are left unchanged on deployed IoT devices?",
+    "options": [
+      "Unauthorized access and inclusion in botnets",
+      "Increased hardware power consumption",
+      "Automatic physical battery destruction",
+      "Loss of wireless signal range"
+    ],
+    "answer": "Unauthorized access and inclusion in botnets"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "What open-source single-board computer running Linux is widely used for IoT prototyping?",
+    "options": [
+      "Raspberry Pi",
+      "Intel Core i9",
+      "Cisco Catalyst Router",
+      "NVIDIA GeForce GPU"
+    ],
+    "answer": "Raspberry Pi"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "What open-source microcontroller board ecosystem is heavily used for hardware-level sensor interfacing?",
+    "options": [
+      "Arduino",
+      "Android TV",
+      "Docker Engine",
+      "VMware ESXi"
+    ],
+    "answer": "Arduino"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "Which popular system-on-chip (SoC) micro-controller family features built-in Wi-Fi and Dual-mode Bluetooth?",
+    "options": [
+      "ESP32",
+      "ATmega328P",
+      "PIC16F877A",
+      "Intel 8051"
+    ],
+    "answer": "ESP32"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "What does LPWAN stand for in the context of IoT networking?",
+    "options": [
+      "Low-Power Wide-Area Network",
+      "Local Protocol Wide Access Node",
+      "Long Power Wireless Area Network",
+      "Linear Peer Wireless Access Network"
+    ],
+    "answer": "Low-Power Wide-Area Network"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "What sensor measures the amount of moisture present in the air?",
+    "options": [
+      "Humidity Sensor (Hygrometer)",
+      "Proximity Sensor",
+      "PIR Sensor",
+      "Thermistor"
+    ],
+    "answer": "Humidity Sensor (Hygrometer)"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "What type of sensor is commonly used in motion-activated security lights to detect human body heat?",
+    "options": [
+      "PIR (Passive Infrared) Sensor",
+      "Ultrasonic Sensor",
+      "Hall Effect Sensor",
+      "Strain Gauge Sensor"
+    ],
+    "answer": "PIR (Passive Infrared) Sensor"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "What does the abbreviation 'CoAP' stand for?",
+    "options": [
+      "Constrained Application Protocol",
+      "Central Object Access Protocol",
+      "Common Application Protocol",
+      "Connected Appliance Processing"
+    ],
+    "answer": "Constrained Application Protocol"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "Which cloud computing model offers pre-built IoT platforms for device management and data telemetry?",
+    "options": [
+      "PaaS / IoT Platform as a Service",
+      "IaaS Bare Metal",
+      "DaaS",
+      "Local LAN Storage"
+    ],
+    "answer": "PaaS / IoT Platform as a Service"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "What device component converts physical temperature variation into an electric voltage or resistance change?",
+    "options": [
+      "Thermocouple / Thermistor",
+      "Solenoid Valve",
+      "Stepper Motor",
+      "Solid State Relay"
+    ],
+    "answer": "Thermocouple / Thermistor"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "What type of motor allows precise control of angular position, acceleration, and velocity in robotic actuators?",
+    "options": [
+      "Stepper Motor / Servo Motor",
+      "Standard DC Shunt Motor",
+      "AC Induction Motor",
+      "Single-Phase Synchronous Motor"
+    ],
+    "answer": "Stepper Motor / Servo Motor"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "What does 'OTA' stand for regarding IoT software maintenance?",
+    "options": [
+      "Over-The-Air (wireless software/firmware updates)",
+      "On-Target Automation",
+      "Output Transfer Alignment",
+      "Optical Transit Architecture"
+    ],
+    "answer": "Over-The-Air (wireless software/firmware updates)"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "Which smart home interoperability standard backed by Apple, Google, Amazon, and the CSA unifies smart home protocol layers?",
+    "options": [
+      "Matter",
+      "HomeKit 1.0",
+      "AllJoyn",
+      "Brillo"
+    ],
+    "answer": "Matter"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "What electrical component measures magnetic field strength and is often used to detect open/close door states?",
+    "options": [
+      "Hall Effect Sensor",
+      "Piezoelectric Crystal",
+      "LDR (Light Dependent Resistor)",
+      "Gas Sensor"
+    ],
+    "answer": "Hall Effect Sensor"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "What is a Smart Grid?",
+    "options": [
+      "An electricity supply network using digital IoT communication technology to detect and react to local usage changes",
+      "A high-speed fiber internet backbone connecting data centers",
+      "A solar panel matrix without battery storage capabilities",
+      "An enclosed server rack cooling distribution system"
+    ],
+    "answer": "An electricity supply network using digital IoT communication technology to detect and react to local usage changes"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "In MQTT architecture, what central software entity receives all incoming messages and routes them to appropriate subscribers?",
+    "options": [
+      "MQTT Broker",
+      "MQTT Master Node",
+      "MQTT Gateway Router",
+      "MQTT Aggregator"
+    ],
+    "answer": "MQTT Broker"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "What underlying transport layer protocol does MQTT standardly rely on?",
+    "options": [
+      "TCP",
+      "UDP",
+      "ICMP",
+      "SCTP"
+    ],
+    "answer": "TCP"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "Unlike MQTT, what transport layer protocol does CoAP natively use to minimize overhead on constrained networks?",
+    "options": [
+      "UDP",
+      "TCP",
+      "HTTP/2",
+      "SSH"
+    ],
+    "answer": "UDP"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "In MQTT Quality of Service (QoS) levels, what guarantee does QoS 1 offer?",
+    "options": [
+      "At least once delivery",
+      "At most once delivery (fire and forget)",
+      "Exactly once delivery",
+      "Zero latency delivery"
+    ],
+    "answer": "At least once delivery"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "In MQTT Quality of Service (QoS) levels, what guarantee does QoS 2 provide?",
+    "options": [
+      "Exactly once delivery",
+      "At least once delivery",
+      "At most once delivery",
+      "Best-effort unacknowledged delivery"
+    ],
+    "answer": "Exactly once delivery"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "What adaptation layer protocol enables IPv6 packets to be transmitted over IEEE 802.15.4 low-power wireless networks?",
+    "options": [
+      "6LoWPAN",
+      "CoAP",
+      "LoRaWAN",
+      "WirelessHART"
+    ],
+    "answer": "6LoWPAN"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "What modulation technique is the physical layer of LoRa technology built upon?",
+    "options": [
+      "CSS (Chirp Spread Spectrum)",
+      "OFDM",
+      "FHSS",
+      "QAM-256"
+    ],
+    "answer": "CSS (Chirp Spread Spectrum)"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "What wide-area cellular IoT standard developed by 3GPP operates within existing LTE bands or guard bands with 180 kHz bandwidth?",
+    "options": [
+      "NB-IoT (Narrowband IoT)",
+      "Zigbee PRO",
+      "Z-Wave Long Range",
+      "Sigfox Ultra Narrowband"
+    ],
+    "answer": "NB-IoT (Narrowband IoT)"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "What serial communication protocol uses two lines—SDA (Data) and SCL (Clock)—for master-slave communication on boards?",
+    "options": [
+      "I2C (Inter-Integrated Circuit)",
+      "SPI",
+      "UART",
+      "CAN Bus"
+    ],
+    "answer": "I2C (Inter-Integrated Circuit)"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "Which synchronous 4-wire serial bus protocol uses MOSI, MISO, SCK, and SS lines for higher data transfer speeds between chips?",
+    "options": [
+      "SPI (Serial Peripheral Interface)",
+      "I2C",
+      "RS-232",
+      "1-Wire"
+    ],
+    "answer": "SPI (Serial Peripheral Interface)"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "Which automotive and industrial protocol standard allows microcontrollers to communicate without a host computer on a robust dual-wire bus?",
+    "options": [
+      "CAN Bus (Controller Area Network)",
+      "Modbus RTU",
+      "Profibus",
+      "EtherCAT"
+    ],
+    "answer": "CAN Bus (Controller Area Network)"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "In BLE (Bluetooth Low Energy) terminology, what does GAP stand for?",
+    "options": [
+      "Generic Access Profile",
+      "General Application Protocol",
+      "Global Gateway Protocol",
+      "Group Authentication Process"
+    ],
+    "answer": "Generic Access Profile"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "In BLE architecture, what protocol defines how two connected devices transfer data using Attributes, Services, and Characteristics?",
+    "options": [
+      "GATT (Generic Attribute Profile)",
+      "ATT (Attribute Protocol)",
+      "L2CAP",
+      "SM (Security Manager)"
+    ],
+    "answer": "GATT (Generic Attribute Profile)"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "What is the function of an Analog-to-Digital Converter (ADC) in an IoT micro-controller unit?",
+    "options": [
+      "Convert continuous analog voltage signals from physical sensors into discrete digital binary values",
+      "Convert micro-controller digital bits into proportional physical mechanical force",
+      "Amplify weak digital signals across serial bus wires",
+      "Filter out high-frequency radio noise from Wi-Fi antennas"
+    ],
+    "answer": "Convert continuous analog voltage signals from physical sensors into discrete digital binary values"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "What famous 2016 malware attack exploited weakly secured IoT devices (like IP cameras) to launch massive DDoS attacks?",
+    "options": [
+      "Mirai Botnet",
+      "Stuxnet",
+      "WannaCry",
+      "NotPetya"
+    ],
+    "answer": "Mirai Botnet"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "What binary data serialization format derived from JSON is commonly used in CoAP to minimize packet payload sizes?",
+    "options": [
+      "CBOR (Concise Binary Object Representation)",
+      "BSON",
+      "Protocol Buffers",
+      "Apache Avro"
+    ],
+    "answer": "CBOR (Concise Binary Object Representation)"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "What is a 'Digital Twin' in Industrial IoT context?",
+    "options": [
+      "A virtual, real-time digital replica of a physical asset, process, or system",
+      "A redundant backup hardware sensor running in parallel",
+      "A dual-core micro-controller execution unit",
+      "A mirrored git repository hosting IoT source code"
+    ],
+    "answer": "A virtual, real-time digital replica of a physical asset, process, or system"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "Which low-power sub-GHz mesh wireless technology standard operates in the ~900 MHz band (US) and ~868 MHz band (EU)?",
+    "options": [
+      "Z-Wave",
+      "Wi-Fi 4",
+      "Classic Bluetooth",
+      "NFC"
+    ],
+    "answer": "Z-Wave"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "What wireless mesh networking technology built on IPv6/IEEE 802.15.4 forms the underlying network foundation for Matter in smart home setups?",
+    "options": [
+      "Thread",
+      "LoRaWAN",
+      "Sigfox",
+      "WirelessHART"
+    ],
+    "answer": "Thread"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "What is the role of a hardware Watchdog Timer (WDT) in embedded IoT microcontrollers?",
+    "options": [
+      "Automatically reset the processor if the software hangs or freezes in an infinite loop",
+      "Synchronize system time with NTP servers over cellular connections",
+      "Measure high-speed pulse widths from optical encoders",
+      "Monitor temperature fluctuations inside the CPU package"
+    ],
+    "answer": "Automatically reset the processor if the software hangs or freezes in an infinite loop"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "What specialized industrial legacy protocol operates over master-slave serial (RS-485/RS-232) lines and Ethernet (TCP/IP)?",
+    "options": [
+      "Modbus",
+      "CoAP",
+      "LwM2M",
+      "XMPP"
+    ],
+    "answer": "Modbus"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "What standard protocol defined by the OMA (Open Mobile Alliance) is designed for IoT device management and service enablement over CoAP?",
+    "options": [
+      "LwM2M (Lightweight M2M)",
+      "TR-069",
+      "MQTT-SN",
+      "SNMP"
+    ],
+    "answer": "LwM2M (Lightweight M2M)"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "What MQTT message feature allows a client to register a message that the broker will publish automatically if the client abruptly disconnects?",
+    "options": [
+      "Last Will and Testament (LWT)",
+      "Retained Message",
+      "Keep Alive Ping",
+      "Clean Session Flag"
+    ],
+    "answer": "Last Will and Testament (LWT)"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "In MQTT, what happens when a message is published with the 'Retain' flag set to true?",
+    "options": [
+      "The broker stores the message and immediately delivers it to any new future subscribers of that topic",
+      "The message is stored permanently on disk for 30 days",
+      "The publisher is forced to re-send the payload every 60 seconds",
+      "The broker encrypts the payload using AES-256"
+    ],
+    "answer": "The broker stores the message and immediately delivers it to any new future subscribers of that topic"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "What micro-controller pin technique generates quasi-analog voltage signals by modulating digital pulse duty cycles?",
+    "options": [
+      "PWM (Pulse Width Modulation)",
+      "PPCM",
+      "Delta-Sigma Encoding",
+      "PAM (Pulse Amplitude Modulation)"
+    ],
+    "answer": "PWM (Pulse Width Modulation)"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "What specialized protocol allows wireless communication between low-cost IoT sensors using light-emitting diodes (visible light)?",
+    "options": [
+      "LiFi (Light Fidelity)",
+      "IrDA",
+      "Optical LoRa",
+      "Laser WAN"
+    ],
+    "answer": "LiFi (Light Fidelity)"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "Which 3GPP cellular standard provides higher throughput and mobility support compared to NB-IoT for mid-tier applications?",
+    "options": [
+      "LTE-M (eMTC)",
+      "GSM / GPRS",
+      "5G mmWave",
+      "CDMA2000"
+    ],
+    "answer": "LTE-M (eMTC)"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "What is the purpose of GPIO pins on microcontrollers like Raspberry Pi or ESP32?",
+    "options": [
+      "General Purpose Input/Output: generic pins configured via software to read inputs or drive outputs",
+      "Gigabit Packet In/Out: pins dedicated exclusively to network packet routing",
+      "General Power In/Out: pins used strictly for high-voltage battery charging",
+      "Graphics Processing Integration Offset: pins connecting external monitor chips"
+    ],
+    "answer": "General Purpose Input/Output: generic pins configured via software to read inputs or drive outputs"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "What security issue occurs when IoT devices lack cryptographic hardware elements like a Secure Element or TPM?",
+    "options": [
+      "Private keys and device identity certificates can be extracted from physical flash memory",
+      "Wireless signal range degrades by over 50%",
+      "Sensors report inaccurate temperature readings",
+      "Microcontroller clock frequencies drop permanently"
+    ],
+    "answer": "Private keys and device identity certificates can be extracted from physical flash memory"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "Which real-time open-source operating system (RTOS) kernel is widely deployed on resource-constrained embedded microcontrollers?",
+    "options": [
+      "FreeRTOS",
+      "Ubuntu Server",
+      "Windows 11 IoT Enterprise",
+      "Debian ARM"
+    ],
+    "answer": "FreeRTOS"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "In LoRaWAN network architecture, what class of end-devices provides continuous receive windows, offering the lowest downlink latency at the expense of highest power consumption?",
+    "options": [
+      "Class C",
+      "Class A",
+      "Class B",
+      "Class D"
+    ],
+    "answer": "Class C"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "In LoRaWAN, what defines Class A device communication behavior?",
+    "options": [
+      "Downlink receive windows open only briefly after an uplink transmission (most power-efficient)",
+      "Devices open scheduled receive windows at fixed periodic time beacons",
+      "Devices keep receive windows open continuously",
+      "Devices communicate strictly peer-to-peer without gateways"
+    ],
+    "answer": "Downlink receive windows open only briefly after an uplink transmission (most power-efficient)"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "What IPv6 routing protocol designed for Low-Power and Lossy Networks (LLNs) builds a Destination-Oriented Directed Acyclic Graph (DODAG)?",
+    "options": [
+      "RPL (Routing Protocol for Low-Power and Lossy Networks)",
+      "OSPFv3",
+      "BGP-4",
+      "RIPng"
+    ],
+    "answer": "RPL (Routing Protocol for Low-Power and Lossy Networks)"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "What security framework variant of TLS is adapted for UDP-based IoT transport protocols like CoAP?",
+    "options": [
+      "DTLS (Datagram Transport Layer Security)",
+      "IPsec AH",
+      "mTLS over TCP",
+      "SSH v2"
+    ],
+    "answer": "DTLS (Datagram Transport Layer Security)"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "In cellular IoT (NB-IoT/LTE-M), what feature allows a device to enter a ultra-low power state while remaining registered with the cellular network without re-attachment overhead?",
+    "options": [
+      "PSM (Power Saving Mode)",
+      "DRX (Discontinuous Reception)",
+      "Deep Sleep Mode",
+      "Flight Mode"
+    ],
+    "answer": "PSM (Power Saving Mode)"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "What power optimization technique in LTE-M/NB-IoT extends the paging cycle, allowing the device to sleep for minutes or hours while periodically waking to listen for network pages?",
+    "options": [
+      "eDRX (Extended Discontinuous Reception)",
+      "CSMA/CA",
+      "CoAP Observe",
+      "Adaptive Data Rate (ADR)"
+    ],
+    "answer": "eDRX (Extended Discontinuous Reception)"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "In LoRaWAN networks, what dynamic mechanism optimizes data rates, airtime, and energy consumption for stationary end-devices?",
+    "options": [
+      "ADR (Adaptive Data Rate)",
+      "FHSS Spreading",
+      "LBT (Listen-Before-Talk)",
+      "FEC Encoding"
+    ],
+    "answer": "ADR (Adaptive Data Rate)"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "What industrial machine-to-machine communication standard created by the OPC Foundation provides platform-independent, service-oriented interoperability?",
+    "options": [
+      "OPC UA (Open Platform Communications Unified Architecture)",
+      "Profibus DP",
+      "DeviceNet",
+      "AS-Interface"
+    ],
+    "answer": "OPC UA (Open Platform Communications Unified Architecture)"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "What is the purpose of the CoAP 'Observe' option (RFC 7641)?",
+    "options": [
+      "Enables a pub/sub-like mechanism where a client requests automatic state notifications from a server when a resource changes",
+      "Allows remote network administrators to spy on raw UDP packet flows",
+      "Forces CoAP servers to stream raw video feeds",
+      "Monitors system memory utilization inside microcontrollers"
+    ],
+    "answer": "Enables a pub/sub-like mechanism where a client requests automatic state notifications from a server when a resource changes"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "What framework enables executing machine learning models directly on microcontroller microprocessors with KB-to-MB memory constraints?",
+    "options": [
+      "TinyML (e.g., TensorFlow Lite for Microcontrollers)",
+      "PyTorch Distributed",
+      "CUDA Toolkit",
+      "TensorRT Enterprise"
+    ],
+    "answer": "TinyML (e.g., TensorFlow Lite for Microcontrollers)"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "What physical hardware security component integrated inside silicon chips protects cryptographic keys against side-channel and physical tampering attacks?",
+    "options": [
+      "Secure Element (SE) / Hardware Security Module (HSM)",
+      "Dual-Port SRAM",
+      "External EEPROM",
+      "SPI Flash Controller"
+    ],
+    "answer": "Secure Element (SE) / Hardware Security Module (HSM)"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "What cryptographic process verifies that device firmware binaries are authentic and unmodified by checking signatures against immutable ROM keys before execution?",
+    "options": [
+      "Secure Boot",
+      "Over-The-Air Pulling",
+      "Flash Partitioning",
+      "Symmetric Key Rotation"
+    ],
+    "answer": "Secure Boot"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "What standard protocol variant adapts MQTT specifically for low-cost non-TCP constrained sensor networks like Zigbee or Bluetooth?",
+    "options": [
+      "MQTT-SN (MQTT for Sensor Networks)",
+      "MQTT-UDP",
+      "MQTT-Lite",
+      "NanoMQTT"
+    ],
+    "answer": "MQTT-SN (MQTT for Sensor Networks)"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "What open-source IoT edge platform framework hosted by the Linux Foundation provides a modular microservice architecture for edge devices?",
+    "options": [
+      "EdgeX Foundry",
+      "KubeEdge",
+      "AWS Greengrass 1.0",
+      "Azure IoT Edge Core"
+    ],
+    "answer": "EdgeX Foundry"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "Which 6LoWPAN header compression mechanism compresses IPv6 and UDP headers down to just a few bytes over IEEE 802.15.4 links?",
+    "options": [
+      "LOWPAN_IPHC",
+      "ROHC (Robust Header Compression)",
+      "GZIP stream",
+      "Snappy Compression"
+    ],
+    "answer": "LOWPAN_IPHC"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "What mathematical model or technique is commonly used in energy harvesting IoT nodes to maximize power extracted from solar or thermal sources?",
+    "options": [
+      "MPPT (Maximum Power Point Tracking)",
+      "PID Loop Tuning",
+      "Kalman Filtering",
+      "Fast Fourier Transform"
+    ],
+    "answer": "MPPT (Maximum Power Point Tracking)"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "What type of attack exploits physical power consumption patterns or electromagnetic emissions of an IoT microcontroller during cryptographic operations?",
+    "options": [
+      "Side-Channel Attack (e.g., DPA - Differential Power Analysis)",
+      "Buffer Overflow Attack",
+      "Man-in-the-Middle Attack",
+      "Cross-Site Scripting"
+    ],
+    "answer": "Side-Channel Attack (e.g., DPA - Differential Power Analysis)"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "In Time-Sensitive Networking (TSN) for Industrial IoT (IEEE 802.1Qbv), what algorithm handles deterministic real-time packet scheduling across Ethernet links?",
+    "options": [
+      "Time-Aware Shaper (TAS)",
+      "Weighted Fair Queueing",
+      "Random Early Detection",
+      "Round Robin Dispatcher"
+    ],
+    "answer": "Time-Aware Shaper (TAS)"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "In Bluetooth Mesh networking, what mechanism is used to broadcast messages throughout the network without traditional routing tables?",
+    "options": [
+      "Managed Flooding",
+      "Distance Vector Routing",
+      "Link State Routing",
+      "DSR (Dynamic Source Routing)"
+    ],
+    "answer": "Managed Flooding"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "What zero-touch provisioning protocol standard defines secure onboarding of IoT devices into cloud management systems using unique hardware identities?",
+    "options": [
+      "FIDO Device Onboard (FDO)",
+      "OAuth 2.0 PKCE",
+      "SAML 2.0",
+      "RADIUS IEEE 802.1X"
+    ],
+    "answer": "FIDO Device Onboard (FDO)"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "What is the function of a PUF (Physically Unclonable Function) in semiconductor microcontrollers?",
+    "options": [
+      "Derives a unique, unclonable silicon fingerprint/key based on microscopic manufacturing variations",
+      "Protects against electrostatic discharge voltage spikes on pin pads",
+      "Increases CPU clock multiplier dynamically during high workload",
+      "Generates artificial thermal noise for analog sensor testing"
+    ],
+    "answer": "Derives a unique, unclonable silicon fingerprint/key based on microscopic manufacturing variations"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "In RPL routing, what metric/objective function calculates routing path cost based on expected transmission count and node power states?",
+    "options": [
+      "ETX (Expected Transmission Count) / OF0 / MRHOF",
+      "Hop Count only",
+      "Bandwidth Delay Product",
+      "Link RSSI Median"
+    ],
+    "answer": "ETX (Expected Transmission Count) / OF0 / MRHOF"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "What open standard industrial architecture (ISA-95) defines the multi-layer hierarchy from field sensors up to Enterprise Resource Planning (ERP)?",
+    "options": [
+      "Purdue Model / ISA-95 Architecture",
+      "OSI 7-Layer Reference Model",
+      "TOGAF Enterprise Model",
+      "COBIT 2019 Framework"
+    ],
+    "answer": "Purdue Model / ISA-95 Architecture"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "In MQTT 5.0, what feature allows clients and brokers to attach arbitrary key-value metadata to packet headers?",
+    "options": [
+      "User Properties",
+      "Topic Alias Mapping",
+      "Payload Format Indicators",
+      "Shared Subscriptions"
+    ],
+    "answer": "User Properties"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "What feature introduced in MQTT 5.0 load-balances message streams among a cluster of worker subscriber instances for a single topic?",
+    "options": [
+      "Shared Subscriptions",
+      "Topic Aliases",
+      "Session Expiry Intervals",
+      "Message Expiry Intervals"
+    ],
+    "answer": "Shared Subscriptions"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "What standard hardware interface provides a dedicated debugging and boundary-scan interface for programming microcontroller microprocessors directly?",
+    "options": [
+      "JTAG (Joint Test Action Group) / SWD",
+      "HDMI ARC",
+      "PCI Express x1",
+      "S/PDIF Optical"
+    ],
+    "answer": "JTAG (Joint Test Action Group) / SWD"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "What memory protection mechanism on ARM Cortex-M embedded processors isolates application code execution states from critical OS kernel resources?",
+    "options": [
+      "MPU (Memory Protection Unit) / TrustZone-M",
+      "Virtual Memory Page Table",
+      "MMU Swap Partition",
+      "ECC DRAM Controller"
+    ],
+    "answer": "MPU (Memory Protection Unit) / TrustZone-M"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "What open standard time-synchronization protocol achieves sub-microsecond clock synchronization accuracy across Industrial Ethernet networks?",
+    "options": [
+      "PTP (Precision Time Protocol / IEEE 1588)",
+      "NTP (Network Time Protocol)",
+      "SNTP",
+      "GPS NMEA Time String"
+    ],
+    "answer": "PTP (Precision Time Protocol / IEEE 1588)"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "In cellular IoT networks, what operates as the subscriber management database holding SIM profiles securely inside the mobile core network?",
+    "options": [
+      "HSS (Home Subscriber Server) / UDM",
+      "eNodeB",
+      "GGSN Router",
+      "PGW Gateway"
+    ],
+    "answer": "HSS (Home Subscriber Server) / UDM"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "What architecture framework enables programmable eSIM / eUICC remote provisioning without physically swapping SIM cards on deployed IoT assets?",
+    "options": [
+      "GSMA RSP (Remote SIM Provisioning)",
+      "OTA SMS Scripting",
+      "USSD Command Pipeline",
+      "APN Tunnel Switching"
+    ],
+    "answer": "GSMA RSP (Remote SIM Provisioning)"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "What specific sensor calibration parameter describes the unwanted change in output signal over time independent of physical property changes?",
+    "options": [
+      "Sensor Drift",
+      "Hysteresis Error",
+      "Non-linearity",
+      "Quantization Error"
+    ],
+    "answer": "Sensor Drift"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "What statistical filtering algorithm is universally applied in IoT robotics and tracking systems to estimate true state parameters from noisy sensor measurements?",
+    "options": [
+      "Kalman Filter / Extended Kalman Filter",
+      "Dijkstra's Algorithm",
+      "K-Means Clustering",
+      "Monte Carlo Localization"
+    ],
+    "answer": "Kalman Filter / Extended Kalman Filter"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "What open-source software stack allows building Kubernetes clusters specifically optimized for resource-constrained edge computing devices?",
+    "options": [
+      "K3s",
+      "OpenShift Dedicated",
+      "Docker Swarm Enterprise",
+      "Minikube Heavy"
+    ],
+    "answer": "K3s"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "What lightweight pub/sub protocol uses XML and is often applied in messaging setups requiring open Extensible Messaging and Presence Protocol standards?",
+    "options": [
+      "XMPP-IoT",
+      "AMQP 1.0",
+      "ZeroMQ",
+      "STOMP"
+    ],
+    "answer": "XMPP-IoT"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "Which messaging protocol standard provides enterprise-level queueing, transactional routing, and strict reliability (used by RabbitMQ in IoT backends)?",
+    "options": [
+      "AMQP (Advanced Message Queuing Protocol)",
+      "CoAP",
+      "MQTT",
+      "HTTP/1.1"
+    ],
+    "answer": "AMQP (Advanced Message Queuing Protocol)"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "In 6LoWPAN, what mechanism resolves 6LoWPAN sub-layer mesh routing headers when IP routing is handled at the network layer versus adaptation layer?",
+    "options": [
+      "Mesh-Under vs. Route-Over",
+      "Star-Topology vs. Ring-Topology",
+      "Tunnel-Mode vs. Transport-Mode",
+      "Layer-2 Bridging vs. Layer-3 NAT"
+    ],
+    "answer": "Mesh-Under vs. Route-Over"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "What cryptographic technique enables IoT devices to perform mathematical calculations on encrypted cloud data without decrypting it first?",
+    "options": [
+      "Homomorphic Encryption",
+      "Elliptic Curve Diffie-Hellman",
+      "Symmetric AES-GCM",
+      "RSA Blind Signatures"
+    ],
+    "answer": "Homomorphic Encryption"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "What type of wireless interference occurs when multiple nearby IoT radios operating in the un-licensed 2.4 GHz ISM band transmit simultaneously?",
+    "options": [
+      "Co-channel / Adjacent-channel Interference",
+      "Multipath Fading Distortion",
+      "Atmospheric Absorption",
+      "Ionospheric Refraction"
+    ],
+    "answer": "Co-channel / Adjacent-channel Interference"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "In Industrial Automation, what safety standard defines SIL (Safety Integrity Level) ratings for functional safety of electrical/electronic/programmable IoT safety systems?",
+    "options": [
+      "IEC 61508",
+      "ISO 27001",
+      "IEEE 802.11ah",
+      "NIST SP 800-53"
+    ],
+    "answer": "IEC 61508"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "What sub-GHz Wi-Fi standard (IEEE 802.11ah) operates in the 900 MHz band to provide long-range, low-power connectivity for IoT devices?",
+    "options": [
+      "Wi-Fi HaLow",
+      "Wi-Fi Direct",
+      "Wi-Fi 6",
+      "WiMAX 2"
+    ],
+    "answer": "Wi-Fi HaLow"
+  }
+]

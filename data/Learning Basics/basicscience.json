@@ -1,0 +1,1202 @@
+[
+{
+"id": 1,
+"difficulty": "easy",
+"question": "Which organ in the human body pumps blood to all other parts?",
+"options": [
+"Brain",
+"Heart",
+"Lungs",
+"Stomach"
+],
+"answer": "Heart"
+},
+{
+"id": 2,
+"difficulty": "easy",
+"question": "What process do green plants use to make their own food using sunlight?",
+"options": [
+"Respiration",
+"Photosynthesis",
+"Digestion",
+"Transpiration"
+],
+"answer": "Photosynthesis"
+},
+{
+"id": 3,
+"difficulty": "easy",
+"question": "Which gas do humans inhale to stay alive?",
+"options": [
+"Carbon dioxide",
+"Oxygen",
+"Nitrogen",
+"Hydrogen"
+],
+"answer": "Oxygen"
+},
+{
+"id": 4,
+"difficulty": "easy",
+"question": "What is the boiling point of pure water at standard sea-level pressure?",
+"options": [
+"50°C",
+"100°C",
+"0°C",
+"150°C"
+],
+"answer": "100°C"
+},
+{
+"id": 5,
+"difficulty": "easy",
+"question": "Which celestial body is at the center of our Solar System?",
+"options": [
+"Earth",
+"The Sun",
+"Jupiter",
+"The Moon"
+],
+"answer": "The Sun"
+},
+{
+"id": 6,
+"difficulty": "easy",
+"question": "Which state of matter has a fixed shape and a fixed volume?",
+"options": [
+"Liquid",
+"Solid",
+"Gas",
+"Plasma"
+],
+"answer": "Solid"
+},
+{
+"id": 7,
+"difficulty": "easy",
+"question": "What pigment gives plant leaves their green color?",
+"options": [
+"Melanin",
+"Chlorophyll",
+"Hemoglobin",
+"Carotene"
+],
+"answer": "Chlorophyll"
+},
+{
+"id": 8,
+"difficulty": "easy",
+"question": "What force causes objects to fall toward the ground when dropped?",
+"options": [
+"Friction",
+"Gravity",
+"Magnetism",
+"Tension"
+],
+"answer": "Gravity"
+},
+{
+"id": 9,
+"difficulty": "easy",
+"question": "Which animal group is characterized by having backbones?",
+"options": [
+"Invertebrates",
+"Vertebrates",
+"Arthropods",
+"Mollusks"
+],
+"answer": "Vertebrates"
+},
+{
+"id": 10,
+"difficulty": "easy",
+"question": "What is the chemical symbol for Water?",
+"options": [
+"CO2",
+"H2O",
+"O2",
+"NaCl"
+],
+"answer": "H2O"
+},
+{
+"id": 11,
+"difficulty": "easy",
+"question": "Which planet in our solar system is known as the 'Red Planet'?",
+"options": [
+"Venus",
+"Mars",
+"Saturn",
+"Mercury"
+],
+"answer": "Mars"
+},
+{
+"id": 12,
+"difficulty": "easy",
+"question": "What instrument is used to measure body temperature?",
+"options": [
+"Barometer",
+"Thermometer",
+"Speedometer",
+"Anemometer"
+],
+"answer": "Thermometer"
+},
+{
+"id": 13,
+"difficulty": "easy",
+"question": "Which main gas makes up about 78% of Earth's atmosphere?",
+"options": [
+"Oxygen",
+"Nitrogen",
+"Carbon dioxide",
+"Argon"
+],
+"answer": "Nitrogen"
+},
+{
+"id": 14,
+"difficulty": "easy",
+"question": "What part of a plant absorbs water and minerals from the soil?",
+"options": [
+"Leaves",
+"Roots",
+"Stem",
+"Flower"
+],
+"answer": "Roots"
+},
+{
+"id": 15,
+"difficulty": "easy",
+"question": "What type of energy is stored in a battery?",
+"options": [
+"Thermal energy",
+"Chemical energy",
+"Sound energy",
+"Light energy"
+],
+"answer": "Chemical energy"
+},
+{
+"id": 16,
+"difficulty": "easy",
+"question": "Which human sensory organ is responsible for hearing?",
+"options": [
+"Eyes",
+"Ears",
+"Nose",
+"Skin"
+],
+"answer": "Ears"
+},
+{
+"id": 17,
+"difficulty": "easy",
+"question": "What is the primary source of light and heat energy for Earth?",
+"options": [
+"The Moon",
+"The Sun",
+"Lightning",
+"Volcanoes"
+],
+"answer": "The Sun"
+},
+{
+"id": 18,
+"difficulty": "easy",
+"question": "Which animal group produces milk to feed its young?",
+"options": [
+"Reptiles",
+"Mammals",
+"Amphibians",
+"Birds"
+],
+"answer": "Mammals"
+},
+{
+"id": 19,
+"difficulty": "easy",
+"question": "What process turns liquid water into water vapor when heated?",
+"options": [
+"Condensation",
+"Evaporation",
+"Freezing",
+"Sublimation"
+],
+"answer": "Evaporation"
+},
+{
+"id": 20,
+"difficulty": "easy",
+"question": "What is the freezing point of water on the Celsius scale?",
+"options": [
+"-10°C",
+"0°C",
+"32°C",
+"100°C"
+],
+"answer": "0°C"
+},
+{
+"id": 21,
+"difficulty": "easy",
+"question": "Which part of the cell is often referred to as the 'brain' of the cell?",
+"options": [
+"Cytoplasm",
+"Nucleus",
+"Cell wall",
+"Vacuole"
+],
+"answer": "Nucleus"
+},
+{
+"id": 22,
+"difficulty": "easy",
+"question": "Which vitamin is synthesized in human skin when exposed to sunlight?",
+"options": [
+"Vitamin A",
+"Vitamin D",
+"Vitamin C",
+"Vitamin B12"
+],
+"answer": "Vitamin D"
+},
+{
+"id": 23,
+"difficulty": "easy",
+"question": "What simple machine is a flat slanted surface used to raise heavy objects?",
+"options": [
+"Lever",
+"Inclined plane",
+"Pulley",
+"Wedge"
+],
+"answer": "Inclined plane"
+},
+{
+"id": 24,
+"difficulty": "easy",
+"question": "How many legs do insects typically have?",
+"options": [
+"4",
+"6",
+"8",
+"10"
+],
+"answer": "6"
+},
+{
+"id": 25,
+"difficulty": "easy",
+"question": "Which natural phenomenon is caused by the vibration of sound waves?",
+"options": [
+"Light",
+"Sound",
+"Heat",
+"Electricity"
+],
+"answer": "Sound"
+},
+{
+"id": 26,
+"difficulty": "easy",
+"question": "What is the main function of red blood cells in the human body?",
+"options": [
+"Fight infections",
+"Carry oxygen",
+"Clot blood",
+"Digest food"
+],
+"answer": "Carry oxygen"
+},
+{
+"id": 27,
+"difficulty": "easy",
+"question": "What form of energy does an object possess due to its motion?",
+"options": [
+"Potential energy",
+"Kinetic energy",
+"Thermal energy",
+"Nuclear energy"
+],
+"answer": "Kinetic energy"
+},
+{
+"id": 28,
+"difficulty": "easy",
+"question": "Which planet is closest to the Sun?",
+"options": [
+"Venus",
+"Mercury",
+"Earth",
+"Mars"
+],
+"answer": "Mercury"
+},
+{
+"id": 29,
+"difficulty": "easy",
+"question": "What type of rock is formed from cooling magma or lava?",
+"options": [
+"Sedimentary",
+"Igneous",
+"Metamorphic",
+"Fossil"
+],
+"answer": "Igneous"
+},
+{
+"id": 30,
+"difficulty": "easy",
+"question": "Which organ filters waste products out of the blood to make urine?",
+"options": [
+"Liver",
+"Kidney",
+"Lungs",
+"Stomach"
+],
+"answer": "Kidneys"
+},
+{
+"id": 31,
+"difficulty": "medium",
+"question": "What is the functional unit of the human nervous system?",
+"options": [
+"Nephron",
+"Neuron",
+"Alveoli",
+"Axon"
+],
+"answer": "Neuron"
+},
+{
+"id": 32,
+"difficulty": "medium",
+"question": "Which organelle is famously known as the 'powerhouse of the cell'?",
+"options": [
+"Ribosome",
+"Mitochondria",
+"Golgi apparatus",
+"Endoplasmic reticulum"
+],
+"answer": "Mitochondria"
+},
+{
+"id": 33,
+"difficulty": "medium",
+"question": "What parameter is measured on the pH scale?",
+"options": [
+"Density of a liquid",
+"Acidity or basicity",
+"Temperature",
+"Electrical conductivity"
+],
+"answer": "Acidity or basicity"
+},
+{
+"id": 34,
+"difficulty": "medium",
+"question": "What is the pH value of pure, distilled water at 25°C?",
+"options": [
+"0",
+"7",
+"14",
+"5"
+],
+"answer": "7"
+},
+{
+"id": 35,
+"difficulty": "medium",
+"question": "Which plant tissue transports water and dissolved minerals from roots to leaves?",
+"options": [
+"Phloem",
+"Xylem",
+"Epidermis",
+"Cortex"
+],
+"answer": "Xylem"
+},
+{
+"id": 36,
+"difficulty": "medium",
+"question": "According to Newton's Second Law of Motion, Force equals mass multiplied by what?",
+"options": [
+"Velocity",
+"Acceleration",
+"Distance",
+"Time"
+],
+"answer": "Acceleration"
+},
+{
+"id": 37,
+"difficulty": "medium",
+"question": "Which chemical element has 'Na' as its official chemical symbol?",
+"options": [
+"Nickel",
+"Sodium",
+"Nitrogen",
+"Neon"
+],
+"answer": "Sodium"
+},
+{
+"id": 38,
+"difficulty": "medium",
+"question": "What phenomenon occurs when light bends as it passes from air into water?",
+"options": [
+"Reflection",
+"Refraction",
+"Diffraction",
+"Absorption"
+],
+"answer": "Refraction"
+},
+{
+"id": 39,
+"difficulty": "medium",
+"question": "Which atmospheric layer contains the Earth's protective ozone layer?",
+"options": [
+"Troposphere",
+"Stratosphere",
+"Mesosphere",
+"Thermosphere"
+],
+"answer": "Stratosphere"
+},
+{
+"id": 40,
+"difficulty": "medium",
+"question": "What deficiency in human diet causes the disease known as Scurvy?",
+"options": [
+"Vitamin A",
+"Vitamin C",
+"Vitamin D",
+"Iron"
+],
+"answer": "Vitamin C"
+},
+{
+"id": 41,
+"difficulty": "medium",
+"question": "What law states that energy cannot be created or destroyed, only transformed?",
+"options": [
+"Law of Inertia",
+"Law of Conservation of Energy",
+"Boyle's Law",
+"Law of Gravitation"
+],
+"answer": "Law of Conservation of Energy"
+},
+{
+"id": 42,
+"difficulty": "medium",
+"question": "Which constituent of blood helps form blood clots to stop bleeding?",
+"options": [
+"Red blood cells",
+"Platelets",
+"White blood cells",
+"Plasma"
+],
+"answer": "Platelets"
+},
+{
+"id": 43,
+"difficulty": "medium",
+"question": "What type of chemical bond forms when electrons are shared between two atoms?",
+"options": [
+"Ionic bond",
+"Covalent bond",
+"Metallic bond",
+"Hydrogen bond"
+],
+"answer": "Covalent bond"
+},
+{
+"id": 44,
+"difficulty": "medium",
+"question": "Which gland in the human body is often called the 'master gland'?",
+"options": [
+"Thyroid gland",
+"Pituitary gland",
+"Adrenal gland",
+"Pancreas"
+],
+"answer": "Pituitary gland"
+},
+{
+"id": 45,
+"difficulty": "medium",
+"question": "What physical quantity is measured in Hertz (Hz)?",
+"options": [
+"Wavelength",
+"Frequency",
+"Amplitude",
+"Wave speed"
+],
+"answer": "Frequency"
+},
+{
+"id": 46,
+"difficulty": "medium",
+"question": "What gas is released by green plants during the process of photosynthesis?",
+"options": [
+"Carbon dioxide",
+"Oxygen",
+"Methane",
+"Nitrogen"
+],
+"answer": "Oxygen"
+},
+{
+"id": 47,
+"difficulty": "medium",
+"question": "Which planet in the solar system has the most prominent ring system?",
+"options": [
+"Jupiter",
+"Saturn",
+"Uranus",
+"Neptune"
+],
+"answer": "Saturn"
+},
+{
+"id": 48,
+"difficulty": "medium",
+"question": "What is the SI unit of electrical resistance?",
+"options": [
+"Volt",
+"Ohm",
+"Ampere",
+"Watt"
+],
+"answer": "Ohm"
+},
+{
+"id": 49,
+"difficulty": "medium",
+"question": "Which organelle in plant cells is responsible for carrying out photosynthesis?",
+"options": [
+"Mitochondrion",
+"Chloroplast",
+"Vacuole",
+"Ribosome"
+],
+"answer": "Chloroplast"
+},
+{
+"id": 50,
+"difficulty": "medium",
+"question": "Which process describes solid ice turning directly into water vapor without melting first?",
+"options": [
+"Evaporation",
+"Sublimation",
+"Condensation",
+"Deposition"
+],
+"answer": "Sublimation"
+},
+{
+"id": 51,
+"difficulty": "medium",
+"question": "What mineral is required in human diet to build strong bones and teeth?",
+"options": [
+"Iron",
+"Calcium",
+"Potassium",
+"Iodine"
+],
+"answer": "Calcium"
+},
+{
+"id": 52,
+"difficulty": "medium",
+"question": "What is the main function of stomata located on plant leaves?",
+"options": [
+"Absorb sunlight",
+"Gas exchange and transpiration",
+"Store starch",
+"Protect against insects"
+],
+"answer": "Gas exchange and transpiration"
+},
+{
+"id": 53,
+"difficulty": "medium",
+"question": "Which fundamental particle carries a negative electrical charge inside an atom?",
+"options": [
+"Proton",
+"Electron",
+"Neutron",
+"Positron"
+],
+"answer": "Electron"
+},
+{
+"id": 54,
+"difficulty": "medium",
+"question": "What instrument is used to measure atmospheric air pressure?",
+"options": [
+"Anemometer",
+"Barometer",
+"Hygrometer",
+"Thermometer"
+],
+"answer": "Barometer"
+},
+{
+"id": 55,
+"difficulty": "medium",
+"question": "Which human digestive organ produces bile to help break down fats?",
+"options": [
+"Stomach",
+"Liver",
+"Pancreas",
+"Small intestine"
+],
+"answer": "Liver"
+},
+{
+"id": 56,
+"difficulty": "medium",
+"question": "What term describes animals that eat both plants and meat?",
+"options": [
+"Herbivores",
+"Omnivores",
+"Carnivores",
+"Decomposers"
+],
+"answer": "Omnivores"
+},
+{
+"id": 57,
+"difficulty": "medium",
+"question": "Which property of a mirror allows it to produce a sharp image?",
+"options": [
+"Diffuse reflection",
+"Specular reflection",
+"Refraction",
+"Absorption"
+],
+"answer": "Specular reflection"
+},
+{
+"id": 58,
+"difficulty": "medium",
+"question": "What metal is liquid at room temperature?",
+"options": [
+"Gallium",
+"Mercury",
+"Lead",
+"Sodium"
+],
+"answer": "Mercury"
+},
+{
+"id": 59,
+"difficulty": "medium",
+"question": "What is the structural functional unit of the human kidney?",
+"options": [
+"Neuron",
+"Nephron",
+"Alveolus",
+"Villus"
+],
+"answer": "Nephron"
+},
+{
+"id": 60,
+"difficulty": "medium",
+"question": "What type of lens is thicker at the center than at the edges and converges light rays?",
+"options": [
+"Concave lens",
+"Convex lens",
+"Cylindrical lens",
+"Plane lens"
+],
+"answer": "Convex lens"
+},
+{
+"id": 61,
+"difficulty": "hard",
+"question": "Which law states that the total volume of an ideal gas is inversely proportional to its pressure at constant temperature?",
+"options": [
+"Charles's Law",
+"Boyle's Law",
+"Avogadro's Law",
+"Gay-Lussac's Law"
+],
+"answer": "Boyle's Law"
+},
+{
+"id": 62,
+"difficulty": "hard",
+"question": "What type of cell division yields four genetically non-identical haploid daughter cells?",
+"options": [
+"Mitosis",
+"Meiosis",
+"Binary fission",
+"Budding"
+],
+"answer": "Meiosis"
+},
+{
+"id": 63,
+"difficulty": "hard",
+"question": "In the human eye, what structural component contains light-sensitive rods and cones?",
+"options": [
+"Cornea",
+"Retina",
+"Iris",
+"Sclera"
+],
+"answer": "Retina"
+},
+{
+"id": 64,
+"difficulty": "hard",
+"question": "What is the chemical name for common baking soda?",
+"options": [
+"Sodium carbonate",
+"Sodium bicarbonate",
+"Sodium chloride",
+"Calcium carbonate"
+],
+"answer": "Sodium bicarbonate"
+},
+{
+"id": 65,
+"difficulty": "hard",
+"question": "Which principle explains how an upward buoyant force on a submerged body equals the weight of displaced fluid?",
+"options": [
+"Pascal's Principle",
+"Archimedes' Principle",
+"Bernoulli's Principle",
+"Kepler's Law"
+],
+"answer": "Archimedes' Principle"
+},
+{
+"id": 66,
+"difficulty": "hard",
+"question": "What chemical bond type holds together the complementary base pairs along double-stranded DNA?",
+"options": [
+"Covalent bonds",
+"Hydrogen bonds",
+"Ionic bonds",
+"Peptide bonds"
+],
+"answer": "Hydrogen bonds"
+},
+{
+"id": 67,
+"difficulty": "hard",
+"question": "Which law of inheritance formulated by Gregor Mendel states that allele pairs separate independently during gamete formation?",
+"options": [
+"Law of Segregation",
+"Law of Independent Assortment",
+"Law of Dominance",
+"Law of Linkage"
+],
+"answer": "Law of Independent Assortment"
+},
+{
+"id": 68,
+"difficulty": "hard",
+"question": "What value represents the acceleration due to gravity on Earth's surface in SI units?",
+"options": [
+"8.9 m/s²",
+"9.8 m/s²",
+"10.8 m/s²",
+"9.8 cm/s²"
+],
+"answer": "9.8 m/s²"
+},
+{
+"id": 69,
+"difficulty": "hard",
+"question": "Which enzyme in human saliva begins the digestion of starches into simpler sugars?",
+"options": [
+"Pepsin",
+"Amylase",
+"Lipase",
+"Trypsin"
+],
+"answer": "Amylase"
+},
+{
+"id": 70,
+"difficulty": "hard",
+"question": "What term describes the minimum energy needed to initiate a chemical reaction?",
+"options": [
+"Kinetic energy",
+"Activation energy",
+"Potential energy",
+"Thermal energy"
+],
+"answer": "Activation energy"
+},
+{
+"id": 71,
+"difficulty": "hard",
+"question": "Which element has the highest electronegativity value on the Pauling scale?",
+"options": [
+"Oxygen",
+"Fluorine",
+"Chlorine",
+"Helium"
+],
+"answer": "Fluorine"
+},
+{
+"id": 72,
+"difficulty": "hard",
+"question": "What process occurs in the human lungs where gases are exchanged between alveoli and capillaries?",
+"options": [
+"Active transport",
+"Diffusion",
+"Osmosis",
+"Filtration"
+],
+"answer": "Diffusion"
+},
+{
+"id": 73,
+"difficulty": "hard",
+"question": "What eye condition causes light rays to focus in front of the retina, resulting in nearsightedness?",
+"options": [
+"Hypermetropia",
+"Myopia",
+"Presbyopia",
+"Astigmatism"
+],
+"answer": "Myopia"
+},
+{
+"id": 74,
+"difficulty": "hard",
+"question": "Which organelle synthesizes proteins inside a biological cell?",
+"options": [
+"Lysosome",
+"Ribosome",
+"Golgi apparatus",
+"Centrosome"
+],
+"answer": "Ribosome"
+},
+{
+"id": 75,
+"difficulty": "hard",
+"question": "What is the oxidation state of Nitrogen in nitric acid (HNO3)?",
+"options": [
+"+3",
+"+5",
+"-3",
+"+1"
+],
+"answer": "+5"
+},
+{
+"id": 76,
+"difficulty": "hard",
+"question": "Which law states that induced current always flows in a direction that opposes the magnetic flux change producing it?",
+"options": [
+"Faraday's Law",
+"Lenz's Law",
+"Ampere's Law",
+"Ohm's Law"
+],
+"answer": "Lenz's Law"
+},
+{
+"id": 77,
+"difficulty": "hard",
+"question": "In plant biology, what hormone promotes stem elongation and apical dominance?",
+"options": [
+"Cytokinin",
+"Auxin",
+"Abscisic acid",
+"Ethylene"
+],
+"answer": "Auxin"
+},
+{
+"id": 78,
+"difficulty": "hard",
+"question": "What is the equivalent resistance when two 6-Ohm resistors are connected in parallel?",
+"options": [
+"12 Ohms",
+"3 Ohms",
+"1 Ohm",
+"36 Ohms"
+],
+"answer": "3 Ohms"
+},
+{
+"id": 79,
+"difficulty": "hard",
+"question": "Which gas is predominantly produced by anaerobic decomposition in wetlands and landfills?",
+"options": [
+"Nitrous oxide",
+"Methane",
+"Sulfur dioxide",
+"Carbon monoxide"
+],
+"answer": "Methane"
+},
+{
+"id": 80,
+"difficulty": "hard",
+"question": "What structure in human cardiac anatomy acts as the heart's natural pacemaker?",
+"options": [
+"AV Node",
+"SA Node",
+"Bundle of His",
+"Purkinje fibers"
+],
+"answer": "SA Node"
+},
+{
+"id": 81,
+"difficulty": "hard",
+"question": "What general term refers to alternative forms of a single gene located at the same locus on homologous chromosomes?",
+"options": [
+"Phenotypes",
+"Alleles",
+"Genotypes",
+"Chromatids"
+],
+"answer": "Alleles"
+},
+{
+"id": 82,
+"difficulty": "hard",
+"question": "What organic acid builds up in human muscle tissues during intense anaerobic exercise causing fatigue?",
+"options": [
+"Citric acid",
+"Lactic acid",
+"Pyruvic acid",
+"Acetic acid"
+],
+"answer": "Lactic acid"
+},
+{
+"id": 83,
+"difficulty": "hard",
+"question": "Which phenomenon causes white light to split into rainbow colors when passing through a glass prism?",
+"options": [
+"Total internal reflection",
+"Dispersion",
+"Interference",
+"Polarization"
+],
+"answer": "Dispersion"
+},
+{
+"id": 84,
+"difficulty": "hard",
+"question": "What general formula represents the class of saturated hydrocarbons known as alkanes?",
+"options": [
+"CnH2n",
+"CnH2n+2",
+"CnH2n-2",
+"CnHn"
+],
+"answer": "CnH2n+2"
+},
+{
+"id": 85,
+"difficulty": "hard",
+"question": "Which part of the human brain controls involuntary life functions like heartbeat, breathing, and blood pressure?",
+"options": [
+"Cerebrum",
+"Medulla oblongata",
+"Cerebellum",
+"Thalamus"
+],
+"answer": "Medulla oblongata"
+},
+{
+"id": 86,
+"difficulty": "hard",
+"question": "What type of chemical reaction absorbs thermal energy from its surrounding environment?",
+"options": [
+"Exothermic reaction",
+"Endothermic reaction",
+"Combustion reaction",
+"Displacement reaction"
+],
+"answer": "Endothermic reaction"
+},
+{
+"id": 87,
+"difficulty": "hard",
+"question": "What is the speed of light in a vacuum, rounded to three significant figures?",
+"options": [
+"3.00 × 10^6 m/s",
+"3.00 × 10^8 m/s",
+"3.00 × 10^10 m/s",
+"1.50 × 10^8 m/s"
+],
+"answer": "3.00 × 10^8 m/s"
+},
+{
+"id": 88,
+"difficulty": "hard",
+"question": "Which hormone produced by the pancreas lowers blood glucose levels by promoting glucose uptake in cells?",
+"options": [
+"Glucagon",
+"Insulin",
+"Adrenaline",
+"Cortisol"
+],
+"answer": "Insulin"
+},
+{
+"id": 89,
+"difficulty": "hard",
+"question": "What phenomenon occurs when the angle of incidence exceeds the critical angle at a boundary between media?",
+"options": [
+"Diffraction",
+"Total internal reflection",
+"Refraction",
+"Polarization"
+],
+"answer": "Total internal reflection"
+},
+{
+"id": 90,
+"difficulty": "hard",
+"question": "What isotope of hydrogen contains one proton and one neutron in its nucleus?",
+"options": [
+"Protium",
+"Deuterium",
+"Tritium",
+"Hydron"
+],
+"answer": "Deuterium"
+},
+{
+"id": 91,
+"difficulty": "hard",
+"question": "Which human endocrine gland requires iodine to synthesize its metabolic regulating hormones?",
+"options": [
+"Adrenal gland",
+"Thyroid gland",
+"Pancreas",
+"Pituitary gland"
+],
+"answer": "Thyroid gland"
+},
+{
+"id": 92,
+"difficulty": "hard",
+"question": "In fluid dynamics, what principle asserts that an increase in fluid speed occurs simultaneously with a decrease in pressure?",
+"options": [
+"Pascal's Law",
+"Bernoulli's Principle",
+"Torricelli's Law",
+"Hooke's Law"
+],
+"answer": "Bernoulli's Principle"
+},
+{
+"id": 93,
+"difficulty": "hard",
+"question": "Which nitrogenous base is present in RNA molecules instead of Thymine?",
+"options": [
+"Adenine",
+"Uracil",
+"Guanine",
+"Cytosine"
+],
+"answer": "Uracil"
+},
+{
+"id": 94,
+"difficulty": "hard",
+"question": "What chemical property measures an atom's ability to attract shared electrons in a chemical bond?",
+"options": [
+"Electron affinity",
+"Electronegativity",
+"Ionization energy",
+"Atomic radius"
+],
+"answer": "Electronegativity"
+},
+{
+"id": 95,
+"difficulty": "hard",
+"question": "Which law of thermodynamics states that the entropy of an isolated system always increases over time?",
+"options": [
+"First Law",
+"Second Law",
+"Third Law",
+"Zeroth Law"
+],
+"answer": "Second Law"
+},
+{
+"id": 96,
+"difficulty": "hard",
+"question": "What structural feature of vascular plants transports synthesized sugars from leaves to non-photosynthetic tissue?",
+"options": [
+"Xylem",
+"Phloem",
+"Stomata",
+"Cambium"
+],
+"answer": "Phloem"
+},
+{
+"id": 97,
+"difficulty": "hard",
+"question": "What type of lens is used to correct hypermetropia (farsightedness)?",
+"options": [
+"Concave lens",
+"Convex lens",
+"Bifocal lens",
+"Cylindrical lens"
+],
+"answer": "Convex lens"
+},
+{
+"id": 98,
+"difficulty": "hard",
+"question": "What is the net gain of ATP molecules produced from one molecule of glucose during glycolysis alone?",
+"options": [
+"2 ATP",
+"4 ATP",
+"36 ATP",
+"38 ATP"
+],
+"answer": "2 ATP"
+},
+{
+"id": 99,
+"difficulty": "hard",
+"question": "Which substance acts as a biological catalyst to accelerate metabolic chemical reactions without being consumed?",
+"options": [
+"Hormone",
+"Enzyme",
+"Vitamin",
+"Antibody"
+],
+"answer": "Enzyme"
+},
+{
+"id": 100,
+"difficulty": "hard",
+"question": "What is the pH value of a 0.01 M solution of strong Hydrochloric Acid (HCl)?",
+"options": [
+"1",
+"2",
+"3",
+"4"
+],
+"answer": "2"
+}
+]

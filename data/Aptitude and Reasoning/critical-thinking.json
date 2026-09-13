@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "All dogs are mammals. All mammals are animals. Therefore:",
+    "options": [
+      "All animals are dogs.",
+      "All dogs are animals.",
+      "Some dogs are not animals.",
+      "No dogs are animals."
+    ],
+    "answer": "All dogs are animals."
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "Which of the following is the primary conclusion of this argument: 'It is raining outside, so we should take an umbrella to avoid getting wet.'?",
+    "options": [
+      "It is raining outside.",
+      "We should take an umbrella.",
+      "Getting wet is bad.",
+      "Umbrellas are effective in snow."
+    ],
+    "answer": "We should take an umbrella."
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "If all roses are flowers and some flowers fade quickly, which statement must be true?",
+    "options": [
+      "All roses fade quickly.",
+      "Some roses fade quickly.",
+      "No roses fade quickly.",
+      "None of the above necessarily follows."
+    ],
+    "answer": "None of the above necessarily follows."
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "Which cognitive bias involves searching only for information that confirms your pre-existing beliefs?",
+    "options": [
+      "Availability heuristic",
+      "Confirmation bias",
+      "Sunk cost fallacy",
+      "Anchoring bias"
+    ],
+    "answer": "Confirmation bias"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "Identify the implicit assumption: 'She studied for 10 hours, so she will pass the exam.'",
+    "options": [
+      "The exam is easy.",
+      "10 hours of studying is sufficient to pass this exam.",
+      "She always gets good grades.",
+      "Everyone who studies passes."
+    ],
+    "answer": "10 hours of studying is sufficient to pass this exam."
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "What is the contrapositive of the statement: 'If it rains, then the ground gets wet'?",
+    "options": [
+      "If the ground gets wet, then it rains.",
+      "If it does not rain, then the ground does not get wet.",
+      "If the ground does not get wet, then it did not rain.",
+      "It is raining and the ground is wet."
+    ],
+    "answer": "If the ground does not get wet, then it did not rain."
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "Which fallacy occurs when an opponent's argument is exaggerated or misrepresented to make it easier to attack?",
+    "options": [
+      "Ad Hominem",
+      "Straw Man",
+      "Slippery Slope",
+      "Begging the Question"
+    ],
+    "answer": "Straw Man"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "If 'No triangles are squares' and 'All squares are polygons', what can we definitively conclude?",
+    "options": [
+      "No polygons are triangles.",
+      "Some polygons are not triangles.",
+      "All polygons are triangles.",
+      "All triangles are polygons."
+    ],
+    "answer": "Some polygons are not triangles."
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "Which statement represents a fact rather than an opinion?",
+    "options": [
+      "Chocolate ice cream is delicious.",
+      "Water boils at 100°C at sea level.",
+      "Running is the best form of exercise.",
+      "Summer is better than winter."
+    ],
+    "answer": "Water boils at 100°C at sea level."
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "If Tom is older than Bob, and Bob is older than Jim, who is the youngest?",
+    "options": [
+      "Tom",
+      "Bob",
+      "Jim",
+      "Cannot be determined"
+    ],
+    "answer": "Jim"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "'Every time I wear my lucky socks, my team wins. Therefore, my socks cause the team to win.' Which fallacy is committed here?",
+    "options": [
+      "Post hoc ergo propter hoc (False Cause)",
+      "Ad Hominem",
+      "False Dilemma",
+      "Appeal to Authority"
+    ],
+    "answer": "Post hoc ergo propter hoc (False Cause)"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "What is the primary role of a premise in a logical argument?",
+    "options": [
+      "To summarize the essay",
+      "To provide support or evidence for a conclusion",
+      "To state the opposing viewpoint",
+      "To confuse the reader"
+    ],
+    "answer": "To provide support or evidence for a conclusion"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "Which option is an example of a False Dilemma (Either/Or fallacy)?",
+    "options": [
+      "Either you support this policy completely, or you hate our country.",
+      "He is late because his alarm didn't go off.",
+      "If we go outside, we might catch a cold.",
+      "She is a doctor, so she knows medicine."
+    ],
+    "answer": "Either you support this policy completely, or you hate our country."
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "If 'All A are B' is true, which of the following MUST also be true?",
+    "options": [
+      "All B are A",
+      "Some A are B",
+      "No A are B",
+      "Some B are not A"
+    ],
+    "answer": "Some A are B"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "What makes an argument 'deductively valid'?",
+    "options": [
+      "Its premises are all factual.",
+      "If the premises are true, the conclusion MUST be true.",
+      "The conclusion is widely accepted by experts.",
+      "It contains no emotional language."
+    ],
+    "answer": "If the premises are true, the conclusion MUST be true."
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "Which of these demonstrates the 'Bandwagon Fallacy'?",
+    "options": [
+      "You should buy this phone because millions of people use it.",
+      "You shouldn't trust his argument because he dropped out of school.",
+      "If we allow students to re-take one quiz, nobody will ever study again.",
+      "This medicine is natural, so it must be safe."
+    ],
+    "answer": "You should buy this phone because millions of people use it."
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "If a statement is a tautology, it is:",
+    "options": [
+      "Always false",
+      "Always true regardless of the truth values of its components",
+      "Sometimes true, depending on empirical evidence",
+      "Self-contradictory"
+    ],
+    "answer": "Always true regardless of the truth values of its components"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "Which reasoning style moves from specific observations to broader generalizations?",
+    "options": [
+      "Deductive reasoning",
+      "Inductive reasoning",
+      "Abductive reasoning",
+      "Circular reasoning"
+    ],
+    "answer": "Inductive reasoning"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "Choose the best description of an 'Ad Hominem' attack.",
+    "options": [
+      "Attacking the character or motive of the person making the argument rather than the argument itself",
+      "Assuming the truth of what one is trying to prove",
+      "Diverting attention away from the core issue",
+      "Claiming a small step will lead to extreme outcomes"
+    ],
+    "answer": "Attacking the character or motive of the person making the argument rather than the argument itself"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "If 'Some birds cannot fly' is true, which statement MUST be false?",
+    "options": [
+      "All birds can fly.",
+      "Some birds can fly.",
+      "No birds can fly.",
+      "Penguins are birds."
+    ],
+    "answer": "All birds can fly."
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "What is the main flaw in circular reasoning?",
+    "options": [
+      "The premises contradict one another.",
+      "The conclusion merely restates one of the premises.",
+      "It relies on unproven statistical claims.",
+      "It uses overly complex language."
+    ],
+    "answer": "The conclusion merely restates one of the premises."
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "Which heuristic relies on immediate examples that come to mind when evaluating a specific topic?",
+    "options": [
+      "Availability heuristic",
+      "Representativeness heuristic",
+      "Framing effect",
+      "Hindsight bias"
+    ],
+    "answer": "Availability heuristic"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "Statement: 'If you work hard, you will succeed.' What is the converse of this statement?",
+    "options": [
+      "If you succeed, then you worked hard.",
+      "If you do not work hard, you will not succeed.",
+      "If you do not succeed, you did not work hard.",
+      "You work hard and succeed."
+    ],
+    "answer": "If you succeed, then you worked hard."
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "Which of the following is a key characteristic of critical thinking?",
+    "options": [
+      "Blindly accepting authoritative claims",
+      "Questioning underlying assumptions",
+      "Relying solely on intuition and gut feeling",
+      "Rejecting all evidence that causes discomfort"
+    ],
+    "answer": "Questioning underlying assumptions"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "'If A implies B, and B implies C, then A implies C.' This logical rule is known as:",
+    "options": [
+      "Modus Ponens",
+      "Modus Tollens",
+      "Hypothetical Syllogism",
+      "Disjunctive Syllogism"
+    ],
+    "answer": "Hypothetical Syllogism"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "When someone continues a project solely because they have already invested money and time into it, they are falling prey to:",
+    "options": [
+      "Confirmation bias",
+      "Sunk cost fallacy",
+      "Optimism bias",
+      "Anchoring effect"
+    ],
+    "answer": "Sunk cost fallacy"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "What is the opposite of a valid deductive conclusion?",
+    "options": [
+      "A hypothesis",
+      "A non sequitur",
+      "A premise",
+      "A fact"
+    ],
+    "answer": "A non sequitur"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "If 'Either X or Y is true' and 'X is false', what can we infer?",
+    "options": [
+      "Y is false",
+      "Y is true",
+      "Both X and Y are false",
+      "Nothing can be inferred"
+    ],
+    "answer": "Y is true"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "Which fallacy asserts that a minor action will inevitably lead to major, catastrophic consequences?",
+    "options": [
+      "Red Herring",
+      "Slippery Slope",
+      "Appeal to Ignorance",
+      "Begging the Question"
+    ],
+    "answer": "Slippery Slope"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "In logic, what is a sound argument?",
+    "options": [
+      "An argument that sounds convincing to an audience",
+      "A valid argument with true premises",
+      "An argument based purely on statistical data",
+      "An inductive argument with strong probability"
+    ],
+    "answer": "A valid argument with true premises"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "Argument: 'Studies show that people who drink green tea live longer. Therefore, green tea extends life expectancy.' Which option best weakens this argument?",
+    "options": [
+      "Green tea is more expensive than black tea.",
+      "Green tea drinkers also tend to maintain healthier overall diets and exercise routines.",
+      "Some people dislike the taste of green tea.",
+      "Green tea contains minor amounts of caffeine."
+    ],
+    "answer": "Green tea drinkers also tend to maintain healthier overall diets and exercise routines."
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "Which reasoning rule is used here? 'If it is a fruit, it has seeds. It does not have seeds. Therefore, it is not a fruit.'",
+    "options": [
+      "Modus Ponens",
+      "Modus Tollens",
+      "Affirming the Consequent",
+      "Denying the Antecedent"
+    ],
+    "answer": "Modus Tollens"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "What logical error is committed when someone assumes that because event B followed event A, event A must have caused event B?",
+    "options": [
+      "Correlation proving causation",
+      "Hasty Generalization",
+      "Equivocation",
+      "Appeal to Emotion"
+    ],
+    "answer": "Correlation proving causation"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "Argument: 'No employees who were late received a bonus. Alice received a bonus.' What can be validly concluded about Alice?",
+    "options": [
+      "Alice was late.",
+      "Alice was not late.",
+      "Alice worked harder than others.",
+      "Alice is a manager."
+    ],
+    "answer": "Alice was not late."
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "Which of the following describes the 'Red Herring' fallacy?",
+    "options": [
+      "Attacking the arguer's intelligence",
+      "Introducing an irrelevant topic to divert attention from the original issue",
+      "Claiming something is true because it hasn't been proven false",
+      "Using ambiguous language to mislead"
+    ],
+    "answer": "Introducing an irrelevant topic to divert attention from the original issue"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "Statement: 'All efficient workers are punctual. Some punctual workers are creative.' Which conclusion follows?",
+    "options": [
+      "Some efficient workers are creative.",
+      "All creative workers are efficient.",
+      "No efficient workers are creative.",
+      "None of the above necessarily follows."
+    ],
+    "answer": "None of the above necessarily follows."
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "Consider: 'If the battery is dead, the car will not start. The car will not start. Therefore, the battery is dead.' This argument exhibits which formal fallacy?",
+    "options": [
+      "Denying the Antecedent",
+      "Affirming the Consequent",
+      "Begging the Question",
+      "Equivocation"
+    ],
+    "answer": "Affirming the Consequent"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "Which option most strongly strengthens this argument: 'Installing speed cameras on Main Street reduced traffic accidents by 30% over six months.'?",
+    "options": [
+      "Speed cameras were also installed on Second Street.",
+      "No other road changes or safety interventions occurred on Main Street during those six months.",
+      "Drivers dislike paying traffic fines.",
+      "Accidents increased on neighboring highways."
+    ],
+    "answer": "No other road changes or safety interventions occurred on Main Street during those six months."
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "What is the 'Anchoring Effect' in decision making?",
+    "options": [
+      "Over-relying on the first piece of information received when making decisions",
+      "Ignoring initial evidence in favor of recent evidence",
+      "Refusing to make any decision under pressure",
+      "Following the majority decision of a group"
+    ],
+    "answer": "Over-relying on the first piece of information received when making decisions"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "Identify the type of reasoning: 'Every swan I have seen in this lake is white. Therefore, all swans in this lake are likely white.'",
+    "options": [
+      "Deductive",
+      "Inductive",
+      "Tautological",
+      "Abductive"
+    ],
+    "answer": "Inductive"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "'Nobody has proven that ghosts do not exist; therefore, ghosts must exist.' This is an example of:",
+    "options": [
+      "Appeal to Ignorance (Argumentum ad Ignorantiam)",
+      "Appeal to Tradition",
+      "Circular Reasoning",
+      "False Equivalence"
+    ],
+    "answer": "Appeal to Ignorance (Argumentum ad Ignorantiam)"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "In an argument, what does an 'unstated assumption' refer to?",
+    "options": [
+      "A premise that is explicitly written in the introduction",
+      "An unmentioned belief required for the premises to support the conclusion",
+      "A conclusion that is false",
+      "A counter-argument raised by opponents"
+    ],
+    "answer": "An unmentioned belief required for the premises to support the conclusion"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "Which fallacy occurs when a word or phrase changes its meaning in the middle of an argument?",
+    "options": [
+      "Equivocation",
+      "Amphiboly",
+      "Reification",
+      "Division"
+    ],
+    "answer": "Equivocation"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "Four people (A, B, C, D) sit in a line. A is not at either end. B is to the left of C. D is at the far right. Who is at the far left?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "Which scenario illustrates 'Hindsight Bias'?",
+    "options": [
+      "Claiming 'I knew it all along' after an unexpected event occurs",
+      "Predicting future events based on past weather patterns",
+      "Expecting a coin to land on heads after 5 tails in a row",
+      "Preferring products made in your home country"
+    ],
+    "answer": "Claiming 'I knew it all along' after an unexpected event occurs"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "If 'All software developers know logic' and 'No logic experts make errors', which conclusion is valid?",
+    "options": [
+      "No software developers make errors.",
+      "All people who make errors are software developers.",
+      "Some software developers make errors.",
+      "Software developers are never logical."
+    ],
+    "answer": "No software developers make errors."
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "What is the main danger of the 'Framing Effect' in presentation of data?",
+    "options": [
+      "Data becomes mathematically incorrect.",
+      "The way information is presented can alter decisions despite identical underlying facts.",
+      "It forces the audience to perform complex calculations.",
+      "It makes all arguments deductively invalid."
+    ],
+    "answer": "The way information is presented can alter decisions despite identical underlying facts."
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "Argument: 'Company X says their new medicine is 95% effective. However, the company CEO was convicted of fraud last year.' What type of response is this?",
+    "options": [
+      "A valid refutation of the statistics",
+      "An Ad Hominem response that questions credibility rather than evaluating trial data",
+      "A Straw Man argument",
+      "A sound deductive proof"
+    ],
+    "answer": "An Ad Hominem response that questions credibility rather than evaluating trial data"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "If statement P is equivalent to statement Q, which of the following must be true?",
+    "options": [
+      "P and Q must always both be true or both be false.",
+      "P is true whenever Q is false.",
+      "P cause Q to happen.",
+      "P is a premise and Q is a conclusion."
+    ],
+    "answer": "P and Q must always both be true or both be false."
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "Which of these represents 'Abductive Reasoning'?",
+    "options": [
+      "Inferring the best/most plausible explanation from incomplete evidence",
+      "Deriving an unquestionable truth from absolute axioms",
+      "Calculating exact statistical probabilities",
+      "Assuming a conclusion is true without any evidence"
+    ],
+    "answer": "Inferring the best/most plausible explanation from incomplete evidence"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "'If we don't pass this bill now, our economy will completely collapse tomorrow.' This statement primarily uses which tactic?",
+    "options": [
+      "Appeal to Fear / False Dilemma",
+      "Modus Tollens",
+      "Statistical Proof",
+      "Inductive Generalization"
+    ],
+    "answer": "Appeal to Fear / False Dilemma"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "What is the logical negation of the statement 'Every student passed the test'?",
+    "options": [
+      "No student passed the test.",
+      "At least one student failed the test.",
+      "Every student failed the test.",
+      "Most students failed the test."
+    ],
+    "answer": "At least one student failed the test."
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "In critical thinking, what is the 'Principle of Charity'?",
+    "options": [
+      "Donating to debate societies",
+      "Interpreting an opponent's argument in its strongest, most plausible form",
+      "Ignoring weak arguments made by friends",
+      "Conceding every point in a discussion"
+    ],
+    "answer": "Interpreting an opponent's argument in its strongest, most plausible form"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "Consider: 'Either the key is in my pocket or on the table. It is not on the table.' Conclusion: 'It is in my pocket.' What form of argument is this?",
+    "options": [
+      "Disjunctive Syllogism",
+      "Hypothetical Syllogism",
+      "Modus Ponens",
+      "Affirming the Consequent"
+    ],
+    "answer": "Disjunctive Syllogism"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "A researcher interviews only people exiting a luxury gym to study citywide physical fitness. What bias/error is present?",
+    "options": [
+      "Sampling bias / Unrepresentative sample",
+      "Confirmation bias",
+      "Hindsight bias",
+      "Sunk cost fallacy"
+    ],
+    "answer": "Sampling bias / Unrepresentative sample"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "Which statement is logically equivalent to 'If you do not exercise, you will gain weight'?",
+    "options": [
+      "If you gain weight, you did not exercise.",
+      "If you do not gain weight, you exercised.",
+      "If you exercise, you will not gain weight.",
+      "Exercising guarantees weight loss."
+    ],
+    "answer": "If you do not gain weight, you exercised."
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "What is the Fallacy of Composition?",
+    "options": [
+      "Assuming that what is true of the parts must be true of the whole",
+      "Assuming that what is true of the whole must be true of the parts",
+      "Writing an argument that is poorly structured grammatically",
+      "Relying on false expert testimony"
+    ],
+    "answer": "Assuming that what is true of the parts must be true of the whole"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "Which of the following describes 'Groupthink'?",
+    "options": [
+      "The desire for harmony in a group resulting in irrational decision-making without critical evaluation",
+      "Brainstorming many diverse ideas together",
+      "A method of statistical analysis used in social sciences",
+      "Collaborative critical thinking that eliminates all cognitive biases"
+    ],
+    "answer": "The desire for harmony in a group resulting in irrational decision-making without critical evaluation"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "If a claim is 'falsifiable', what does that mean?",
+    "options": [
+      "It has been proven false.",
+      "It is capable of being tested and potentially proven false by observation or experiment.",
+      "It is a lie constructed to deceive others.",
+      "It cannot be understood logically."
+    ],
+    "answer": "It is capable of being tested and potentially proven false by observation or experiment."
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "Argument: 'All prime numbers greater than 2 are odd. 7 is a prime number greater than 2. Therefore, 7 is odd.' This argument is:",
+    "options": [
+      "Invalid and unsound",
+      "Valid and sound",
+      "Valid but unsound",
+      "Inductive and uncertain"
+    ],
+    "answer": "Valid and sound"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "Three boxes are labeled 'Apples', 'Oranges', and 'Mixed'. Every box is labeled INCORRECTLY. You pick one fruit from the 'Mixed' box and get an Apple. How should all three boxes be correctly labeled?",
+    "options": [
+      "'Mixed' becomes 'Apples', 'Oranges' becomes 'Mixed', 'Apples' becomes 'Oranges'",
+      "'Mixed' becomes 'Apples', 'Apples' becomes 'Mixed', 'Oranges' becomes 'Apples'",
+      "'Mixed' becomes 'Oranges', 'Apples' becomes 'Mixed', 'Oranges' becomes 'Apples'",
+      "It is impossible to determine with only one fruit."
+    ],
+    "answer": "'Mixed' becomes 'Apples', 'Oranges' becomes 'Mixed', 'Apples' becomes 'Oranges'"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "Premise 1: If policy A is enacted, unemployment drops. Premise 2: If unemployment drops, consumer spending rises. Premise 3: Consumer spending did NOT rise. What is the necessary logical conclusion?",
+    "options": [
+      "Policy A was enacted.",
+      "Policy A was NOT enacted.",
+      "Unemployment dropped.",
+      "Policy A was enacted but failed."
+    ],
+    "answer": "Policy A was NOT enacted."
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "Which of the following scenarios describes the 'Gambler's Fallacy'?",
+    "options": [
+      "Believing that a red roulette outcome is 'due' next because black has appeared six times in a row",
+      "Investing more money into a losing stock because of past investment",
+      "Assuming a successful person possesses no negative traits",
+      "Believing that higher cost always implies higher quality"
+    ],
+    "answer": "Believing that a red roulette outcome is 'due' next because black has appeared six times in a row"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "Argument: 'Cities with more police officers report higher crime rates. Therefore, hiring more police officers causes crime to increase.' What is the underlying flaw?",
+    "options": [
+      "It assumes correlation implies causation, ignoring reverse causality or confounding variables (e.g., high-crime areas hire more police).",
+      "It commits an Ad Hominem fallacy against law enforcement.",
+      "It relies on circular reasoning by defining crime by police presence.",
+      "It uses an equivocation of the word 'crime'."
+    ],
+    "answer": "It assumes correlation implies causation, ignoring reverse causality or confounding variables (e.g., high-crime areas hire more police)."
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "Consider the puzzle: Island inhabited only by Knights (who always tell the truth) and Knaves (who always lie). Person A says: 'At least one of us is a Knave.' What are Person A and Person B?",
+    "options": [
+      "A is a Knight, B is a Knave",
+      "Both are Knights",
+      "Both are Knaves",
+      "A is a Knave, B is a Knight"
+    ],
+    "answer": "A is a Knight, B is a Knave"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "What is the logical flaw in 'Denying the Antecedent'? (Pattern: If P then Q; Not P; Therefore Not Q)",
+    "options": [
+      "It fails to recognize that Q could still occur due to other causes even if P is false.",
+      "It assumes that P and Q are mutually exclusive.",
+      "It contradicts its own primary premise.",
+      "It relies on emotional persuasion rather than structure."
+    ],
+    "answer": "It fails to recognize that Q could still occur due to other causes even if P is false."
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "Analyze this argument: 'Either we fully automate our assembly line within 6 months, or our competitor will bankrupt us.' Which assumptions must be accepted for this argument to be sound?",
+    "options": [
+      "Automation is the only viable method to prevent bankruptcy from this competitor.",
+      "Competitors have lower labor costs.",
+      "Automation always guarantees profit.",
+      "Bankruptcies are increasing across the sector."
+    ],
+    "answer": "Automation is the only viable method to prevent bankruptcy from this competitor."
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "Which statistical paradox occurs when a trend appears in several different groups of data but disappears or reverses when these groups are combined?",
+    "options": [
+      "Berkson's Paradox",
+      "Simpson's Paradox",
+      "Monty Hall Paradox",
+      "Parrondo's Paradox"
+    ],
+    "answer": "Simpson's Paradox"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "If 'Only certified engineers are permitted to sign blueprint designs', which statement is logically equivalent?",
+    "options": [
+      "If you are a certified engineer, you must sign blueprint designs.",
+      "If someone is permitted to sign blueprint designs, they are a certified engineer.",
+      "If you are not permitted to sign blueprint designs, you are not a certified engineer.",
+      "All certified engineers sign blueprint designs."
+    ],
+    "answer": "If someone is permitted to sign blueprint designs, they are a certified engineer."
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "Which statement best exemplifies the 'Base Rate Fallacy'?",
+    "options": [
+      "Ignoring the low overall incidence of a disease when evaluating a positive test result from a 99% accurate test",
+      "Assuming that a small sample size accurately reflects an entire population",
+      "Believing that past independent events affect future random outcomes",
+      "Judging an argument solely based on the speaker's authority"
+    ],
+    "answer": "Ignoring the low overall incidence of a disease when evaluating a positive test result from a 99% accurate test"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "In formal logic, if P -> Q is True, which of the following truth values MUST be True?",
+    "options": [
+      "~Q -> ~P",
+      "Q -> P",
+      "~P -> ~Q",
+      "P and Q are both True"
+    ],
+    "answer": "~Q -> ~P"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "A clinic claims: '90% of patients treated with Drug X recovered within a week.' What crucial control information is missing to evaluate Drug X's effectiveness?",
+    "options": [
+      "The price of Drug X",
+      "The recovery rate of similar patients who received a placebo or no treatment",
+      "The opinion of pharmaceutical executives",
+      "The exact chemical formula of Drug X"
+    ],
+    "answer": "The recovery rate of similar patients who received a placebo or no treatment"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "Four cards are on a table showing 'E', 'K', '4', and '7'. Rule to test: 'If a card has a vowel on one side, it has an even number on the other.' Which cards MUST you turn over to test this rule definitively?",
+    "options": [
+      "'E' and '4'",
+      "'E' and '7'",
+      "'E', 'K', and '4'",
+      "All four cards"
+    ],
+    "answer": "'E' and '7'"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "What is the fallacy of 'Division'?",
+    "options": [
+      "Inferring that what is true of a whole must also be true of each of its individual parts",
+      "Dividing an argument into too many sub-points",
+      "Assuming two unrelated events are causally linked",
+      "Misinterpreting statistical averages"
+    ],
+    "answer": "Inferring that what is true of a whole must also be true of each of its individual parts"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "Identify the unstated premise: 'Solar panels produce zero carbon emissions during operation, so transitioning entirely to solar power will eliminate energy-sector emissions.'",
+    "options": [
+      "Solar panels are inexpensive to manufacture.",
+      "The production, transportation, and installation of solar infrastructure also produce zero net carbon emissions.",
+      "Sunlight is an unlimited energy resource.",
+      "Wind energy is less efficient than solar power."
+    ],
+    "answer": "The production, transportation, and installation of solar infrastructure also produce zero net carbon emissions."
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "Five executives (V, W, X, Y, Z) speak at a conference. V speaks before W. X speaks after Y but before V. Z speaks last. Who speaks second?",
+    "options": [
+      "V",
+      "W",
+      "X",
+      "Y"
+    ],
+    "answer": "X"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "What distinguishes 'Deductive' validity from 'Inductive' strength?",
+    "options": [
+      "Deductive validity guarantees conclusion truth if premises are true; inductive strength establishes probability.",
+      "Deductive validity deals only with facts, while inductive strength deals with opinions.",
+      "Inductive reasoning is always sound, whereas deductive reasoning is not.",
+      "There is no practical difference between the two."
+    ],
+    "answer": "Deductive validity guarantees conclusion truth if premises are true; inductive strength establishes probability."
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "Which bias describes the tendency to judge the quality of a decision based solely on its final outcome rather than the quality of decision-making at the time?",
+    "options": [
+      "Outcome Bias",
+      "Self-serving Bias",
+      "Status Quo Bias",
+      "In-group Bias"
+    ],
+    "answer": "Outcome Bias"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "If a system is both 'Consistent' and 'Complete' in mathematical logic, Gödel's Incompleteness Theorems show that:",
+    "options": [
+      "Any formal axiomatic system capable of basic arithmetic cannot be both complete and consistent.",
+      "Consistency always implies completeness in higher order logic.",
+      "All mathematical statements can be proven within a single system.",
+      "Self-referential statements are impossible to construct."
+    ],
+    "answer": "Any formal axiomatic system capable of basic arithmetic cannot be both complete and consistent."
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "Claim: 'Every member of Committee X voted in favor of the tax cut.' Counter-argument: 'That is untrue; Member John abstained.' What type of rebuttal is this?",
+    "options": [
+      "Providing a counterexample that refutes a universal claim",
+      "Committing an Ad Hominem fallacy",
+      "Engaging in a Straw Man argument",
+      "Using an appeal to authority"
+    ],
+    "answer": "Providing a counterexample that refutes a universal claim"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "What is 'Regress Fallacy' in critical thinking?",
+    "options": [
+      "Failing to account for natural fluctuations or regression to the mean when evaluating cause and effect",
+      "Arguing backwards from a conclusion to invent supportive premises",
+      "Reverting to child-like emotional arguments when challenged",
+      "Assuming older traditions are inherently superior"
+    ],
+    "answer": "Failing to account for natural fluctuations or regression to the mean when evaluating cause and effect"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "Evaluate: 'All A are B. No B are C. Some C are D.' Which conclusion is GUARANTEED to be true?",
+    "options": [
+      "No A are C.",
+      "Some A are D.",
+      "No B are D.",
+      "All D are C."
+    ],
+    "answer": "No A are C."
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "What cognitive bias causes people to underestimate the time, cost, and risks of future actions while overestimating benefits?",
+    "options": [
+      "Planning Fallacy",
+      "Fundamental Attribution Error",
+      "Dunning-Kruger Effect",
+      "Belief Bias"
+    ],
+    "answer": "Planning Fallacy"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "Which statement best summarizes 'Occam's Razor' in critical problem solving?",
+    "options": [
+      "When presented with competing hypotheses, choose the one with the fewest assumptions.",
+      "The most complex solution is usually the most robust.",
+      "Every problem can be reduced to binary logic.",
+      "Prioritize hypotheses proposed by established experts."
+    ],
+    "answer": "When presented with competing hypotheses, choose the one with the fewest assumptions."
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "Suppose statement P is: 'X is necessary for Y'. What does this mean in terms of conditional logic?",
+    "options": [
+      "If Y occurs, then X must have occurred (Y -> X).",
+      "If X occurs, then Y must occur (X -> Y).",
+      "X and Y always occur at the exact same time.",
+      "Y causes X to exist."
+    ],
+    "answer": "If Y occurs, then X must have occurred (Y -> X)."
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "Argument: 'If we lower taxes, business investments increase. If business investments increase, unemployment drops. Unemployment did not drop. Therefore, taxes were not lowered.' Is this argument valid?",
+    "options": [
+      "Yes, it is a valid chain of Modus Tollens.",
+      "No, it commits Affirming the Consequent.",
+      "No, it commits Denying the Antecedent.",
+      "Yes, but only if all premises are empirical facts."
+    ],
+    "answer": "Yes, it is a valid chain of Modus Tollens."
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "What is the 'Dunning-Kruger Effect'?",
+    "options": [
+      "People with low ability at a task overestimating their competence, while experts tend to underestimate theirs.",
+      "High performers believing everyone else possesses identical skills.",
+      "The tendency to accept information when presented in a persuasive manner.",
+      "A cognitive failure associated with sleep deprivation."
+    ],
+    "answer": "People with low ability at a task overestimating their competence, while experts tend to underestimate theirs."
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "What makes 'Begging the Question' (Petitio Principii) an informal logical fallacy?",
+    "options": [
+      "The truth of the conclusion is assumed by one of the premises, creating circular logic.",
+      "The arguer asks too many questions without answering them.",
+      "It relies on insulting the intelligence of the audience.",
+      "It uses false statistical evidence."
+    ],
+    "answer": "The truth of the conclusion is assumed by one of the premises, creating circular logic."
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "Which option exemplifies the 'Fundamental Attribution Error'?",
+    "options": [
+      "Attributing another person's poor driving to bad character rather than an emergency situation",
+      "Blaming your own test failure on an unfair teacher rather than lack of study",
+      "Believing that good things happen to good people",
+      "Overestimating how much others share your personal opinions"
+    ],
+    "answer": "Attributing another person's poor driving to bad character rather than an emergency situation"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "In formal logic, the rule of 'De Morgan's Laws' states that the negation of (P AND Q) is equivalent to:",
+    "options": [
+      "(NOT P) OR (NOT Q)",
+      "(NOT P) AND (NOT Q)",
+      "NOT (P OR Q)",
+      "P OR Q"
+    ],
+    "answer": "(NOT P) OR (NOT Q)"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "Consider: 'If the system experiences a leak, warning lights turn on. Warning lights turned on.' Why is inferring 'There is a leak' logically fallacious?",
+    "options": [
+      "Warning lights could be triggered by electrical faults or testing routines.",
+      "Leaks never trigger warning lights.",
+      "The system cannot experience leaks and warning lights simultaneously.",
+      "It assumes warning lights are infallible."
+    ],
+    "answer": "Warning lights could be triggered by electrical faults or testing routines."
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "Which argument structure describes 'Modus Ponens'?",
+    "options": [
+      "If P then Q; P is True; Therefore Q is True.",
+      "If P then Q; Q is True; Therefore P is True.",
+      "If P then Q; Not Q; Therefore Not P.",
+      "Either P or Q; Not P; Therefore Q."
+    ],
+    "answer": "If P then Q; P is True; Therefore Q is True."
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "What is 'Survivorship Bias'?",
+    "options": [
+      "Focusing on successful outcomes/entities that passed a selective process while ignoring those that failed.",
+      "Believing that elderly people possess superior logical reasoning.",
+      "Surviving a disaster and overestimating personal immunity.",
+      "Evaluating historical decisions using modern ethical values."
+    ],
+    "answer": "Focusing on successful outcomes/entities that passed a selective process while ignoring those that failed."
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "If 'No A are B' and 'All C are B', what is the relation between A and C?",
+    "options": [
+      "No A are C.",
+      "Some A are C.",
+      "All A are C.",
+      "Cannot be determined without more data."
+    ],
+    "answer": "No A are C."
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "Which of these is a classic example of 'Poisoning the Well'?",
+    "options": [
+      "Before my opponent speaks, I must remind you that he has served time in prison for perjury.",
+      "If you drink tap water, you will become ill.",
+      "Science hasn't proven this drug harmful, so it is safe.",
+      "Everyone knows that new cars depreciate rapidly."
+    ],
+    "answer": "Before my opponent speaks, I must remind you that he has served time in prison for perjury."
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "What is the logical definition of a 'Necessary Condition'?",
+    "options": [
+      "A condition that MUST be present for an event to occur, though its presence alone may not guarantee the event.",
+      "A condition that guarantees the event will occur on its own.",
+      "A condition that occurs after the conclusion is proven.",
+      "An assumption that cannot be falsified."
+    ],
+    "answer": "A condition that MUST be present for an event to occur, though its presence alone may not guarantee the event."
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "Argument: 'You claim eating vegetables is healthy, yet you ate a cheeseburger yesterday.' What fallacy is committed here?",
+    "options": [
+      "Tu Quoque (Appeal to Hypocrisy)",
+      "Red Herring",
+      "False Equivalence",
+      "Appeal to Emotion"
+    ],
+    "answer": "Tu Quoque (Appeal to Hypocrisy)"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "If 'Some doctors are researchers' and 'Some researchers are professors', which statement MUST be true?",
+    "options": [
+      "Some doctors are professors.",
+      "No doctors are professors.",
+      "All professors are researchers.",
+      "None of the above is guaranteed to be true."
+    ],
+    "answer": "None of the above is guaranteed to be true."
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "What is the 'No True Scotsman' fallacy?",
+    "options": [
+      "Dismissing counterexamples to a universal claim by arbitrarily redefining criteria for inclusion.",
+      "Arguing that someone's nationality invalidates their opinion.",
+      "Claiming that an idea is true because it originates from ancient tradition.",
+      "Assuming all citizens of a nation think identically."
+    ],
+    "answer": "Dismissing counterexamples to a universal claim by arbitrarily redefining criteria for inclusion."
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "In conditional logic, 'P is sufficient for Q' translates directly to which logical expression?",
+    "options": [
+      "P -> Q",
+      "Q -> P",
+      "P <-> Q",
+      "NOT P -> NOT Q"
+    ],
+    "answer": "P -> Q"
+  }
+]

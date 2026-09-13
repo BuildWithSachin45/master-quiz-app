@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "Who is the author of the popular 'Harry Potter' series?",
+    "options": [
+      "J.R.R. Tolkien",
+      "J.K. Rowling",
+      "George R.R. Martin",
+      "C.S. Lewis"
+    ],
+    "answer": "J.K. Rowling"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "Which famous classic novel features the character Ebenezer Scrooge?",
+    "options": [
+      "A Christmas Carol",
+      "Great Expectations",
+      "Oliver Twist",
+      "David Copperfield"
+    ],
+    "answer": "A Christmas Carol"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "Who wrote 'The Jungle Book'?",
+    "options": [
+      "Enid Blyton",
+      "Roald Dahl",
+      "Rudyard Kipling",
+      "Mark Twain"
+    ],
+    "answer": "Rudyard Kipling"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "Which author wrote 'The Chronicles of Narnia' series?",
+    "options": [
+      "C.S. Lewis",
+      "Philip Pullman",
+      "J.K. Rowling",
+      "Rick Riordan"
+    ],
+    "answer": "C.S. Lewis"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "Who is the creator of the famous detective Sherlock Holmes?",
+    "options": [
+      "Agatha Christie",
+      "Arthur Conan Doyle",
+      "Edgar Allan Poe",
+      "Dan Brown"
+    ],
+    "answer": "Arthur Conan Doyle"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "Which novel by Charles Dickens begins with 'It was the best of times, it was the worst of times'?",
+    "options": [
+      "Bleak House",
+      "Hard Times",
+      "A Tale of Two Cities",
+      "Great Expectations"
+    ],
+    "answer": "A Tale of Two Cities"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "options": [
+      "William Shakespeare",
+      "Geoffrey Chaucer",
+      "John Milton",
+      "Oscar Wilde"
+    ],
+    "answer": "William Shakespeare"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "Which children's book features the character Willy Wonka?",
+    "options": [
+      "Matilda",
+      "The BFG",
+      "Charlie and the Chocolate Factory",
+      "James and the Giant Peach"
+    ],
+    "answer": "Charlie and the Chocolate Factory"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "Who wrote the dystopian novel '1984'?",
+    "options": [
+      "Aldous Huxley",
+      "George Orwell",
+      "Ray Bradbury",
+      "H.G. Wells"
+    ],
+    "answer": "George Orwell"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "Who is the author of 'Alice's Adventures in Wonderland'?",
+    "options": [
+      "Lewis Carroll",
+      "J.M. Barrie",
+      "A.A. Milne",
+      "Beatrix Potter"
+    ],
+    "answer": "Lewis Carroll"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "Which epic fantasy trilogy was written by J.R.R. Tolkien?",
+    "options": [
+      "The Wheel of Time",
+      "The Lord of the Rings",
+      "A Song of Ice and Fire",
+      "The Kingkiller Chronicle"
+    ],
+    "answer": "The Lord of the Rings"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "Who wrote 'Pride and Prejudice'?",
+    "options": [
+      "Charlotte Brontë",
+      "Emily Brontë",
+      "Jane Austen",
+      "Virginia Woolf"
+    ],
+    "answer": "Jane Austen"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "Who is the author of 'The Cat in the Hat'?",
+    "options": [
+      "Dr. Seuss",
+      "Eric Carle",
+      "Maurice Sendak",
+      "Shel Silverstein"
+    ],
+    "answer": "Dr. Seuss"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "Which author penned 'The Great Gatsby'?",
+    "options": [
+      "Ernest Hemingway",
+      "F. Scott Fitzgerald",
+      "John Steinbeck",
+      "William Faulkner"
+    ],
+    "answer": "F. Scott Fitzgerald"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "Who wrote the horror novel 'IT'?",
+    "options": [
+      "Dean Koontz",
+      "Stephen King",
+      "Clive Barker",
+      "H.P. Lovecraft"
+    ],
+    "answer": "Stephen King"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "Who wrote the classic adventure novel 'The Adventures of Tom Sawyer'?",
+    "options": [
+      "Mark Twain",
+      "Herman Melville",
+      "Jack London",
+      "Robert Louis Stevenson"
+    ],
+    "answer": "Mark Twain"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "Which author wrote 'To Kill a Mockingbird'?",
+    "options": [
+      "Harper Lee",
+      "Toni Morrison",
+      "Maya Angelou",
+      "Alice Walker"
+    ],
+    "answer": "Harper Lee"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "Who wrote the mystery novel 'The Da Vinci Code'?",
+    "options": [
+      "James Patterson",
+      "Dan Brown",
+      "John Grisham",
+      "David Baldacci"
+    ],
+    "answer": "Dan Brown"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "Who wrote 'Winnie-the-Pooh'?",
+    "options": [
+      "A.A. Milne",
+      "Kenneth Grahame",
+      "Enid Blyton",
+      "P.L. Travers"
+    ],
+    "answer": "A.A. Milne"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "Which superhero comic book universe was heavily co-created by Stan Lee?",
+    "options": [
+      "DC Comics",
+      "Marvel Comics",
+      "Image Comics",
+      "Dark Horse Comics"
+    ],
+    "answer": "Marvel Comics"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "Who wrote the gothic novel 'Dracula'?",
+    "options": [
+      "Mary Shelley",
+      "Bram Stoker",
+      "Edgar Allan Poe",
+      "Robert Louis Stevenson"
+    ],
+    "answer": "Bram Stoker"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "Which author wrote 'The Very Hungry Caterpillar'?",
+    "options": [
+      "Eric Carle",
+      "Dr. Seuss",
+      "Roald Dahl",
+      "Leo Lionni"
+    ],
+    "answer": "Eric Carle"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "Who wrote the dystopian series 'The Hunger Games'?",
+    "options": [
+      "Veronica Roth",
+      "Suzanne Collins",
+      "Stephenie Meyer",
+      "Ally Condie"
+    ],
+    "answer": "Suzanne Collins"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "Which author created the vampire romance 'Twilight' series?",
+    "options": [
+      "Cassandra Clare",
+      "Stephenie Meyer",
+      "L.J. Smith",
+      "Richelle Mead"
+    ],
+    "answer": "Stephenie Meyer"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "Who is the author of 'Frankenstein'?",
+    "options": [
+      "Mary Shelley",
+      "Jane Austen",
+      "Charlotte Brontë",
+      "Ann Radcliffe"
+    ],
+    "answer": "Mary Shelley"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "Who wrote the play 'Hamlet'?",
+    "options": [
+      "Christopher Marlowe",
+      "William Shakespeare",
+      "Ben Jonson",
+      "John Webster"
+    ],
+    "answer": "William Shakespeare"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "Which book features the character Aslan the Lion?",
+    "options": [
+      "The Hobbit",
+      "The Lion, the Witch and the Wardrobe",
+      "Peter Pan",
+      "The Golden Compass"
+    ],
+    "answer": "The Lion, the Witch and the Wardrobe"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "Who wrote 'Charlotte's Web'?",
+    "options": [
+      "E.B. White",
+      "Roald Dahl",
+      "Beverly Cleary",
+      "Kate DiCamillo"
+    ],
+    "answer": "E.B. White"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "Which author wrote 'The Old Man and the Sea'?",
+    "options": [
+      "Ernest Hemingway",
+      "John Steinbeck",
+      "Mark Twain",
+      "Jack London"
+    ],
+    "answer": "Ernest Hemingway"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "Who created the famous Hercule Poirot detective character?",
+    "options": [
+      "Arthur Conan Doyle",
+      "Agatha Christie",
+      "Dorothy L. Sayers",
+      "G.K. Chesterton"
+    ],
+    "answer": "Agatha Christie"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "Who wrote the allegorical novel 'Animal Farm'?",
+    "options": [
+      "Aldous Huxley",
+      "George Orwell",
+      "Ray Bradbury",
+      "Joseph Heller"
+    ],
+    "answer": "George Orwell"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "Which Russian author wrote 'War and Peace' and 'Anna Karenina'?",
+    "options": [
+      "Fyodor Dostoevsky",
+      "Leo Tolstoy",
+      "Anton Chekhov",
+      "Ivan Turgenev"
+    ],
+    "answer": "Leo Tolstoy"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "Who is the author of 'The Catcher in the Rye'?",
+    "options": [
+      "J.D. Salinger",
+      "Jack Kerouac",
+      "Truman Capote",
+      "John Updike"
+    ],
+    "answer": "J.D. Salinger"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "Which author wrote the classic novel 'Wuthering Heights'?",
+    "options": [
+      "Charlotte Brontë",
+      "Emily Brontë",
+      "Anne Brontë",
+      "George Eliot"
+    ],
+    "answer": "Emily Brontë"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "Who wrote 'Fahrenheit 451'?",
+    "options": [
+      "Ray Bradbury",
+      "Philip K. Dick",
+      "Arthur C. Clarke",
+      "Isaac Asimov"
+    ],
+    "answer": "Ray Bradbury"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "Which novel begins with the line 'Call me Ishmael'?",
+    "options": [
+      "The Old Man and the Sea",
+      "Moby-Dick",
+      "Treasure Island",
+      "Robinson Crusoe"
+    ],
+    "answer": "Moby-Dick"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "Who wrote 'Les Misérables'?",
+    "options": [
+      "Alexandre Dumas",
+      "Victor Hugo",
+      "Gustave Flaubert",
+      "Émile Zola"
+    ],
+    "answer": "Victor Hugo"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "Which author wrote 'The Grapes of Wrath' and 'Of Mice and Men'?",
+    "options": [
+      "John Steinbeck",
+      "William Faulkner",
+      "Ernest Hemingway",
+      "Sinclair Lewis"
+    ],
+    "answer": "John Steinbeck"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "Who wrote the dystopian novel 'Brave New World'?",
+    "options": [
+      "George Orwell",
+      "Aldous Huxley",
+      "H.G. Wells",
+      "Yevgeny Zamyatin"
+    ],
+    "answer": "Aldous Huxley"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "Who is the author of 'Jane Eyre'?",
+    "options": [
+      "Jane Austen",
+      "Charlotte Brontë",
+      "Emily Brontë",
+      "Elizabeth Gaskell"
+    ],
+    "answer": "Charlotte Brontë"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "Which Indian author won the Booker Prize in 1997 for 'The God of Small Things'?",
+    "options": [
+      "Salman Rushdie",
+      "Arundhati Roy",
+      "Kiran Desai",
+      "Jhumpa Lahiri"
+    ],
+    "answer": "Arundhati Roy"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "Who wrote 'The Count of Monte Cristo'?",
+    "options": [
+      "Victor Hugo",
+      "Alexandre Dumas",
+      "Honoré de Balzac",
+      "Jules Verne"
+    ],
+    "answer": "Alexandre Dumas"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "Which sci-fi novel by Frank Herbert is set on the desert planet Arrakis?",
+    "options": [
+      "Foundation",
+      "Dune",
+      "Hyperion",
+      "Neuromancer"
+    ],
+    "answer": "Dune"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "Who wrote 'The Picture of Dorian Gray'?",
+    "options": [
+      "Oscar Wilde",
+      "Bram Stoker",
+      "Robert Louis Stevenson",
+      "Thomas Hardy"
+    ],
+    "answer": "Oscar Wilde"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "Who is the author of 'Catch-22'?",
+    "options": [
+      "Kurt Vonnegut",
+      "Joseph Heller",
+      "Norman Mailer",
+      "Thomas Pynchon"
+    ],
+    "answer": "Joseph Heller"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "Which novel features the character Holden Caulfield?",
+    "options": [
+      "On the Road",
+      "The Catcher in the Rye",
+      "A Separate Peace",
+      "East of Eden"
+    ],
+    "answer": "The Catcher in the Rye"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "Who wrote the philosophical novel 'The Alchemist'?",
+    "options": [
+      "Paulo Coelho",
+      "Gabriel García Márquez",
+      "Isabel Allende",
+      "Jorge Luis Borges"
+    ],
+    "answer": "Paulo Coelho"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "Who penned 'Slaughterhouse-Five'?",
+    "options": [
+      "Kurt Vonnegut",
+      "Philip K. Dick",
+      "Ray Bradbury",
+      "John Barth"
+    ],
+    "answer": "Kurt Vonnegut"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "Which female author wrote 'Beloved' and won the Nobel Prize in Literature in 1993?",
+    "options": [
+      "Maya Angelou",
+      "Toni Morrison",
+      "Alice Walker",
+      "Zora Neale Hurston"
+    ],
+    "answer": "Toni Morrison"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "Who wrote the horror masterpiece 'The Shining'?",
+    "options": [
+      "Clive Barker",
+      "Stephen King",
+      "Peter Straub",
+      "Shirley Jackson"
+    ],
+    "answer": "Stephen King"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "Which author wrote 'One Hundred Years of Solitude'?",
+    "options": [
+      "Mario Vargas Llosa",
+      "Gabriel García Márquez",
+      "Julio Cortázar",
+      "Pablo Neruda"
+    ],
+    "answer": "Gabriel García Márquez"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "Who wrote 'Lord of the Flies'?",
+    "options": [
+      "William Golding",
+      "Anthony Burgess",
+      "Graham Greene",
+      "E.M. Forster"
+    ],
+    "answer": "William Golding"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "Which author wrote 'Crime and Punishment'?",
+    "options": [
+      "Leo Tolstoy",
+      "Fyodor Dostoevsky",
+      "Nikolai Gogol",
+      "Maxim Gorky"
+    ],
+    "answer": "Fyodor Dostoevsky"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "Who is the author of 'The Handmaid's Tale'?",
+    "options": [
+      "Margaret Atwood",
+      "Ursula K. Le Guin",
+      "Doris Lessing",
+      "Octavia Butler"
+    ],
+    "answer": "Margaret Atwood"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "Who wrote 'Twenty Thousand Leagues Under the Seas'?",
+    "options": [
+      "H.G. Wells",
+      "Jules Verne",
+      "Arthur Conan Doyle",
+      "Edgar Rice Burroughs"
+    ],
+    "answer": "Jules Verne"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "Which English author wrote 'Middlemarch' under the pen name George Eliot?",
+    "options": [
+      "Mary Ann Evans",
+      "Amandine Aurore Dupin",
+      "Charlotte Brontë",
+      "Louisa May Alcott"
+    ],
+    "answer": "Mary Ann Evans"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "Who wrote 'The Road' and 'No Country for Old Men'?",
+    "options": [
+      "Cormac McCarthy",
+      "Don DeLillo",
+      "Philip Roth",
+      "Larry McMurtry"
+    ],
+    "answer": "Cormac McCarthy"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "Which author created the fantasy realm of Middle-earth?",
+    "options": [
+      "C.S. Lewis",
+      "J.R.R. Tolkien",
+      "Robert E. Howard",
+      "Terry Pratchett"
+    ],
+    "answer": "J.R.R. Tolkien"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "Who is the author of 'Life of Pi'?",
+    "options": [
+      "Yann Martel",
+      "Kiran Desai",
+      "Rohinton Mistry",
+      "Julian Barnes"
+    ],
+    "answer": "Yann Martel"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "Which Indian author wrote 'Midnight's Children'?",
+    "options": [
+      "Vikram Seth",
+      "Salman Rushdie",
+      "Amitav Ghosh",
+      "R.K. Narayan"
+    ],
+    "answer": "Salman Rushdie"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "What was Samuel Langhorne Clemens' famous pen name?",
+    "options": [
+      "George Orwell",
+      "Mark Twain",
+      "Lewis Carroll",
+      "O. Henry"
+    ],
+    "answer": "Mark Twain"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "Who wrote the 14th-century Italian epic narrative poem 'The Divine Comedy'?",
+    "options": [
+      "Petrarch",
+      "Giovanni Boccaccio",
+      "Dante Alighieri",
+      "Ludovico Ariosto"
+    ],
+    "answer": "Dante Alighieri"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "Which modernist stream-of-consciousness novel by James Joyce takes place entirely on June 16, 1904?",
+    "options": [
+      "A Portrait of the Artist as a Young Man",
+      "Ulysses",
+      "Finnegans Wake",
+      "Dubliners"
+    ],
+    "answer": "Ulysses"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "What is the subtitle of Mary Shelley's 1818 novel 'Frankenstein'?",
+    "options": [
+      "The Modern Prometheus",
+      "The Fate of Geneva",
+      "A Gothic Tale",
+      "The Monster's Revenge"
+    ],
+    "answer": "The Modern Prometheus"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "Who wrote the 18th-century French satirical novella 'Candide'?",
+    "options": [
+      "Jean-Jacques Rousseau",
+      "Voltaire",
+      "Denis Diderot",
+      "Montesquieu"
+    ],
+    "answer": "Voltaire"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "Who is the narrator of Herman Melville's 'Moby-Dick'?",
+    "options": [
+      "Queequeg",
+      "Ahab",
+      "Ishmael",
+      "Starbuck"
+    ],
+    "answer": "Ishmael"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "Which author wrote the 17th-century Spanish masterpiece 'Don Quixote'?",
+    "options": [
+      "Lope de Vega",
+      "Miguel de Cervantes",
+      "Calderón de la Barca",
+      "Francisco de Quevedo"
+    ],
+    "answer": "Miguel de Cervantes"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "Who wrote the epic poem 'Paradise Lost', published in 1667?",
+    "options": [
+      "John Donne",
+      "John Milton",
+      "Edmund Spenser",
+      "Alexander Pope"
+    ],
+    "answer": "John Milton"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "Who wrote the 1922 modernist poem 'The Waste Land'?",
+    "options": [
+      "Ezra Pound",
+      "T.S. Eliot",
+      "W.B. Yeats",
+      "Wallace Stevens"
+    ],
+    "answer": "T.S. Eliot"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "Which French author wrote 'Madame Bovary'?",
+    "options": [
+      "Gustave Flaubert",
+      "Stendhal",
+      "Honoré de Balzac",
+      "Guy de Maupassant"
+    ],
+    "answer": "Gustave Flaubert"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "Who wrote the Southern Gothic novel 'The Sound and the Fury'?",
+    "options": [
+      "Flannery O'Connor",
+      "William Faulkner",
+      "Eudora Welty",
+      "Carson McCullers"
+    ],
+    "answer": "William Faulkner"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "Who authored the 14th-century work 'The Canterbury Tales'?",
+    "options": [
+      "Geoffrey Chaucer",
+      "William Langland",
+      "John Gower",
+      "Thomas Malory"
+    ],
+    "answer": "Geoffrey Chaucer"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "Which French philosopher and novelist wrote 'The Stranger' (L'Étranger)?",
+    "options": [
+      "Jean-Paul Sartre",
+      "Albert Camus",
+      "Simone de Beauvoir",
+      "Maurice Merleau-Ponty"
+    ],
+    "answer": "Albert Camus"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "Who wrote the sprawling 7-volume novel 'In Search of Lost Time'?",
+    "options": [
+      "Marcel Proust",
+      "André Gide",
+      "Louis-Ferdinand Céline",
+      "Colette"
+    ],
+    "answer": "Marcel Proust"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "Who was the first African woman to win the Nobel Prize in Literature in 1991?",
+    "options": [
+      "Nadine Gordimer",
+      "Bessie Head",
+      "Flora Nwapa",
+      "Buch Emecheta"
+    ],
+    "answer": "Nadine Gordimer"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "Which Czech-born author wrote 'The Trial' and 'The Metamorphosis'?",
+    "options": [
+      "Franz Kafka",
+      "Milan Kundera",
+      "Bohumil Hrabal",
+      "Karel Čapek"
+    ],
+    "answer": "Franz Kafka"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "Who wrote 'In Cold Blood', a non-fiction novel detailing the 1959 Clutter family murders?",
+    "options": [
+      "Truman Capote",
+      "Norman Mailer",
+      "Hunter S. Thompson",
+      "Tom Wolfe"
+    ],
+    "answer": "Truman Capote"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "Which Russian author wrote 'The Master and Margarita'?",
+    "options": [
+      "Mikhail Bulgakov",
+      "Boris Pasternak",
+      "Aleksandr Solzhenitsyn",
+      "Vladimir Nabokov"
+    ],
+    "answer": "Mikhail Bulgakov"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "Who wrote the influential post-colonial novel 'Things Fall Apart'?",
+    "options": [
+      "Wole Soyinka",
+      "Chinua Achebe",
+      "Ngũgĩ wa Thiong'o",
+      "Ben Okri"
+    ],
+    "answer": "Chinua Achebe"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "Which American author wrote the postmodern epic 'Infinite Jest'?",
+    "options": [
+      "David Foster Wallace",
+      "Thomas Pynchon",
+      "Don DeLillo",
+      "William T. Vollmann"
+    ],
+    "answer": "David Foster Wallace"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "Who wrote 'Gravity's Rainbow', published in 1973?",
+    "options": [
+      "Thomas Pynchon",
+      "John Barth",
+      "William Gaddis",
+      "Donald Barthelme"
+    ],
+    "answer": "Thomas Pynchon"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "What is the primary setting of James Joyce's Dubliners and Ulysses?",
+    "options": [
+      "London",
+      "Dublin",
+      "Belfast",
+      "Edinburgh"
+    ],
+    "answer": "Dublin"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "Who wrote the famous classic 'The Scarlet Letter'?",
+    "options": [
+      "Nathaniel Hawthorne",
+      "Herman Melville",
+      "Edgar Allan Poe",
+      "Washington Irving"
+    ],
+    "answer": "Nathaniel Hawthorne"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "Which Portuguese author won the Nobel Prize in Literature in 1998 for works like 'Blindness'?",
+    "options": [
+      "José Saramago",
+      "Fernando Pessoa",
+      "Eça de Queirós",
+      "António Lobo Antunes"
+    ],
+    "answer": "José Saramago"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "Who authored the dense, complex 1929 novel 'The Sound and the Fury'?",
+    "options": [
+      "William Faulkner",
+      "F. Scott Fitzgerald",
+      "Ernest Hemingway",
+      "John Dos Passos"
+    ],
+    "answer": "William Faulkner"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "Which Japanese author wrote 'Kafka on the Shore' and 'Norwegian Wood'?",
+    "options": [
+      "Haruki Murakami",
+      "Yukio Mishima",
+      "Yasunari Kawabata",
+      "Kenzaburo Oe"
+    ],
+    "answer": "Haruki Murakami"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "Who wrote the 19th-century epic poem 'Leaves of Grass'?",
+    "options": [
+      "Ralph Waldo Emerson",
+      "Walt Whitman",
+      "Henry David Thoreau",
+      "Emily Dickinson"
+    ],
+    "answer": "Walt Whitman"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "Which Russian author wrote 'Lolita' and 'Pale Fire'?",
+    "options": [
+      "Vladimir Nabokov",
+      "Ivan Turgenev",
+      "Boris Pasternak",
+      "Joseph Brodsky"
+    ],
+    "answer": "Vladimir Nabokov"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "Who wrote the famous dystopian novel 'Fahrenheit 451'?",
+    "options": [
+      "Ray Bradbury",
+      "Isaac Asimov",
+      "Arthur C. Clarke",
+      "Robert A. Heinlein"
+    ],
+    "answer": "Ray Bradbury"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "Which English author wrote the classic novel 'Vanity Fair'?",
+    "options": [
+      "William Makepeace Thackeray",
+      "Anthony Trollope",
+      "Thomas Hardy",
+      "Charles Kingsley"
+    ],
+    "answer": "William Makepeace Thackeray"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "Who wrote 'The Magic Mountain' (Der Zauberberg)?",
+    "options": [
+      "Thomas Mann",
+      "Hermann Hesse",
+      "Robert Musil",
+      "Stefan Zweig"
+    ],
+    "answer": "Thomas Mann"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "Which author wrote 'Tess of the d'Urbervilles'?",
+    "options": [
+      "Thomas Hardy",
+      "George Eliot",
+      "D.H. Lawrence",
+      "E.M. Forster"
+    ],
+    "answer": "Thomas Hardy"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "Who wrote the 1915 novella 'The Metamorphosis'?",
+    "options": [
+      "Franz Kafka",
+      "Max Brod",
+      "Rainer Maria Rilke",
+      "Robert Walser"
+    ],
+    "answer": "Franz Kafka"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "Which Irish author wrote 'Waiting for Godot'?",
+    "options": [
+      "Samuel Beckett",
+      "Sean O'Casey",
+      "J.M. Synge",
+      "George Bernard Shaw"
+    ],
+    "answer": "Samuel Beckett"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "Who wrote 'The Brothers Karamazov'?",
+    "options": [
+      "Fyodor Dostoevsky",
+      "Leo Tolstoy",
+      "Anton Chekhov",
+      "Ivan Goncharov"
+    ],
+    "answer": "Fyodor Dostoevsky"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "Which author created the fictional county of Yoknapatawpha for his stories?",
+    "options": [
+      "William Faulkner",
+      "Thomas Wolfe",
+      "Erskine Caldwell",
+      "Flannery O'Connor"
+    ],
+    "answer": "William Faulkner"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "Who wrote the novel 'Midnight's Children', which won the 'Booker of Bookers'?",
+    "options": [
+      "Salman Rushdie",
+      "V.S. Naipaul",
+      "Amitav Ghosh",
+      "Anita Desai"
+    ],
+    "answer": "Salman Rushdie"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "Who wrote the epic Indian novel 'The Guide', which won the Sahitya Akademi Award in 1960?",
+    "options": [
+      "R.K. Narayan",
+      "Raja Rao",
+      "Mulk Raj Anand",
+      "Khushwant Singh"
+    ],
+    "answer": "R.K. Narayan"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "Which author wrote 'Heart of Darkness'?",
+    "options": [
+      "Joseph Conrad",
+      "E.M. Forster",
+      "Rudyard Kipling",
+      "Graham Greene"
+    ],
+    "answer": "Joseph Conrad"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "Who is the author of 'Invisible Man' (1952)?",
+    "options": [
+      "Ralph Ellison",
+      "Richard Wright",
+      "James Baldwin",
+      "Langston Hughes"
+    ],
+    "answer": "Ralph Ellison"
+  }
+]

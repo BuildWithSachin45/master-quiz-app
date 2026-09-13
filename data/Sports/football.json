@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "How many players from one team are allowed on the field at the start of a football (soccer) match?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "answer": "11"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "Which player on a football pitch is permitted to use their hands inside their penalty area?",
+    "options": [
+      "Defender",
+      "Midfielder",
+      "Goalkeeper",
+      "Forward"
+    ],
+    "answer": "Goalkeeper"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "How long is a standard professional football match without extra time?",
+    "options": [
+      "80 minutes",
+      "90 minutes",
+      "100 minutes",
+      "120 minutes"
+    ],
+    "answer": "90 minutes"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "Which international tournament is held every four years by FIFA to determine the world champion country?",
+    "options": [
+      "UEFA Champions League",
+      "Copa América",
+      "FIFA World Cup",
+      "UEFA European Championship"
+    ],
+    "answer": "FIFA World Cup"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "Which card is shown by the referee to indicate a player's immediate ejection from the match?",
+    "options": [
+      "Yellow Card",
+      "Red Card",
+      "Blue Card",
+      "Green Card"
+    ],
+    "answer": "Red Card"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "What is the term for scoring three goals in a single game by a single player?",
+    "options": [
+      "Brace",
+      "Hat-trick",
+      "Pentra-trick",
+      "Double"
+    ],
+    "answer": "Hat-trick"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "Which country won the FIFA World Cup in 2022 held in Qatar?",
+    "options": [
+      "France",
+      "Brazil",
+      "Argentina",
+      "Croatia"
+    ],
+    "answer": "Argentina"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "What is the penalty restart called when a defender kicks the ball out over their own goal line?",
+    "options": [
+      "Corner Kick",
+      "Goal Kick",
+      "Throw-in",
+      "Penalty Kick"
+    ],
+    "answer": "Corner Kick"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "Which famous Portuguese forward is known for his 'SIUU' celebration and wearing the #7 shirt?",
+    "options": [
+      "Bruno Fernandes",
+      "Cristiano Ronaldo",
+      "Luis Figo",
+      "Bernardo Silva"
+    ],
+    "answer": "Cristiano Ronaldo"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "Which Argentine icon spent the majority of his career at FC Barcelona before moving to PSG and Inter Miami?",
+    "options": [
+      "Diego Maradona",
+      "Lionel Messi",
+      "Sergio Agüero",
+      "Angel Di Maria"
+    ],
+    "answer": "Lionel Messi"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "What happens when a player receives two yellow cards in the same match?",
+    "options": [
+      "Penalty kick awarded",
+      "Green Card shown",
+      "Red Card shown and sent off",
+      "Warning given"
+    ],
+    "answer": "Red Card shown and sent off"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "Which English club plays its home matches at Old Trafford?",
+    "options": [
+      "Manchester City",
+      "Liverpool",
+      "Manchester United",
+      "Arsenal"
+    ],
+    "answer": "Manchester United"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "What body part is a player NOT allowed to use to control the ball (excluding goalkeepers in their area)?",
+    "options": [
+      "Head",
+      "Chest",
+      "Hands/Arms",
+      "Thighs"
+    ],
+    "answer": "Hands/Arms"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "From what spot is a penalty kick taken?",
+    "options": [
+      "6 yards from the goal line",
+      "12 yards from the goal line",
+      "18 yards from the goal line",
+      "Edge of the center circle"
+    ],
+    "answer": "12 yards from the goal line"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "Which country has won the most FIFA World Cup titles in history (5 titles)?",
+    "options": [
+      "Germany",
+      "Italy",
+      "Argentina",
+      "Brazil"
+    ],
+    "answer": "Brazil"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "Which country hosts the top-flight football league known as 'La Liga'?",
+    "options": [
+      "Italy",
+      "Spain",
+      "Germany",
+      "France"
+    ],
+    "answer": "Spain"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "What term refers to a match finishing with both teams scoring the same number of goals?",
+    "options": [
+      "Draw",
+      "Clean Sheet",
+      "Forfeit",
+      "Golden Goal"
+    ],
+    "answer": "Draw"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "What is it called when a team finishes a game without conceding any goals?",
+    "options": [
+      "Shutout / Clean Sheet",
+      "Hat-trick",
+      "Goal Difference",
+      "Empty Net"
+    ],
+    "answer": "Shutout / Clean Sheet"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "Which Spanish club is famous for playing in an all-white home kit and nicknamed 'Los Blancos'?",
+    "options": [
+      "FC Barcelona",
+      "Atlético Madrid",
+      "Real Madrid",
+      "Valencia"
+    ],
+    "answer": "Real Madrid"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "What restarts play after the ball completely crosses the sideline?",
+    "options": [
+      "Corner Kick",
+      "Throw-in",
+      "Free Kick",
+      "Goal Kick"
+    ],
+    "answer": "Throw-in"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "What color card is used to give an official warning to a player for a foul or unsporting behavior?",
+    "options": [
+      "Yellow Card",
+      "Red Card",
+      "White Card",
+      "Orange Card"
+    ],
+    "answer": "Yellow Card"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "How many minutes long is each half of a standard professional football match?",
+    "options": [
+      "40 minutes",
+      "45 minutes",
+      "50 minutes",
+      "60 minutes"
+    ],
+    "answer": "45 minutes"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "What video review system assists match officials with clear and obvious errors?",
+    "options": [
+      "GLT",
+      "VAR",
+      "GPS",
+      "CCTV"
+    ],
+    "answer": "VAR"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "What award is annually presented by France Football to the best performing player in the world?",
+    "options": [
+      "Golden Boot",
+      "Ballon d'Or",
+      "Golden Boy",
+      "Puskás Award"
+    ],
+    "answer": "Ballon d'Or"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "Which English stadium is known as the 'Home of Football' and hosts the FA Cup Final?",
+    "options": [
+      "Anfield",
+      "Wembley Stadium",
+      "Stamford Bridge",
+      "Emirates Stadium"
+    ],
+    "answer": "Wembley Stadium"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "What is a goal scored accidentally into a team's own net by a defending player called?",
+    "options": [
+      "Own Goal",
+      "Deflected Goal",
+      "Free Goal",
+      "Back Goal"
+    ],
+    "answer": "Own Goal"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "Which country won the UEFA Euro 2020 (played in 2021) defeating England in the final?",
+    "options": [
+      "Italy",
+      "Spain",
+      "Portugal",
+      "France"
+    ],
+    "answer": "Italy"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "What is the premier European club competition organized by UEFA called?",
+    "options": [
+      "Europa League",
+      "Conference League",
+      "UEFA Champions League",
+      "Super Cup"
+    ],
+    "answer": "UEFA Champions League"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "Who was the legendary Brazilian player who won three FIFA World Cups (1958, 1962, 1970)?",
+    "options": [
+      "Ronaldo Nazário",
+      "Pelé",
+      "Ronaldinho",
+      "Zico"
+    ],
+    "answer": "Pelé"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "What is the penalty called when an attacking player is closer to the opponent's goal line than both the ball and the second-last defender when the ball is passed to them?",
+    "options": [
+      "Handball",
+      "Offside",
+      "Foul",
+      "Diving"
+    ],
+    "answer": "Offside"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "Which player scored the famous 'Hand of God' goal in the 1986 World Cup quarter-final?",
+    "options": [
+      "Diego Maradona",
+      "Gary Lineker",
+      "Mario Kempes",
+      "Michel Platini"
+    ],
+    "answer": "Diego Maradona"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "Which team won the 2003–04 Premier League title without losing a single game ('The Invincibles')?",
+    "options": [
+      "Manchester United",
+      "Chelsea",
+      "Arsenal",
+      "Liverpool"
+    ],
+    "answer": "Arsenal"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "Who was the manager of Manchester United when they won the Treble in 1999?",
+    "options": [
+      "Matt Busby",
+      "Alex Ferguson",
+      "Arsène Wenger",
+      "José Mourinho"
+    ],
+    "answer": "Alex Ferguson"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "Which player holds the record for the most goals scored in a single calendar year (91 goals in 2012)?",
+    "options": [
+      "Cristiano Ronaldo",
+      "Gerd Müller",
+      "Lionel Messi",
+      "Robert Lewandowski"
+    ],
+    "answer": "Lionel Messi"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "Which country won the inaugural FIFA World Cup in 1930?",
+    "options": [
+      "Argentina",
+      "Brazil",
+      "Uruguay",
+      "Italy"
+    ],
+    "answer": "Uruguay"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "What is the name of Liverpool's famous home stadium stand known for its passionate supporters?",
+    "options": [
+      "The Kop",
+      "Stretford End",
+      "Shed End",
+      "Holte End"
+    ],
+    "answer": "The Kop"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "Who scored the winning goal for Germany in the 2014 FIFA World Cup Final against Argentina?",
+    "options": [
+      "Thomas Müller",
+      "Mario Götze",
+      "Miroslav Klose",
+      "Bastian Schweinsteiger"
+    ],
+    "answer": "Mario Götze"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "Who holds the record for the most all-time goals scored in FIFA World Cup tournament history (16 goals)?",
+    "options": [
+      "Ronaldo Nazário",
+      "Miroslav Klose",
+      "Pelé",
+      "Just Fontaine"
+    ],
+    "answer": "Miroslav Klose"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "Which manager dubbed himself 'The Special One' during his first press conference at Chelsea in 2004?",
+    "options": [
+      "Pep Guardiola",
+      "José Mourinho",
+      "Carlo Ancelotti",
+      "Jürgen Klopp"
+    ],
+    "answer": "José Mourinho"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "Which nation hosted and won the FIFA World Cup in 1998?",
+    "options": [
+      "Brazil",
+      "Italy",
+      "France",
+      "Germany"
+    ],
+    "answer": "France"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "Which Dutch tactical philosophy emphasizing fluid position interchange was popularized by Rinus Michels and Johan Cruyff?",
+    "options": [
+      "Catenaccio",
+      "Total Football",
+      "Tiki-Taka",
+      "Gegenpressing"
+    ],
+    "answer": "Total Football"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "Which German club won the UEFA Champions League title in both 1974, 1975, and 1976?",
+    "options": [
+      "Borussia Dortmund",
+      "Bayern Munich",
+      "Hamburger SV",
+      "Bayer Leverkusen"
+    ],
+    "answer": "Bayern Munich"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "Who was the captain of the England national team when they won the World Cup in 1966?",
+    "options": [
+      "Bobby Charlton",
+      "Bobby Moore",
+      "Geoff Hurst",
+      "Gordon Banks"
+    ],
+    "answer": "Bobby Moore"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "Which Italian club is nicknamed 'I Rossoneri' (The Red and Blacks)?",
+    "options": [
+      "Inter Milan",
+      "AC Milan",
+      "AS Roma",
+      "Juventus"
+    ],
+    "answer": "AC Milan"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "What is the famous derby match played between Scottish rivals Celtic and Rangers called?",
+    "options": [
+      "The Old Firm Derby",
+      "El Clásico",
+      "The Superclásico",
+      "Derby della Madonnina"
+    ],
+    "answer": "The Old Firm Derby"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "Which player transferred from Barcelona to PSG in 2017 for a world-record fee of €222 million?",
+    "options": [
+      "Kylian Mbappé",
+      "Neymar Jr.",
+      "Philippe Coutinho",
+      "Ousmane Dembélé"
+    ],
+    "answer": "Neymar Jr."
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "What was the score in the infamous 2014 World Cup semi-final between Germany and hosts Brazil?",
+    "options": [
+      "5-0",
+      "7-1",
+      "4-1",
+      "6-2"
+    ],
+    "answer": "7-1"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "Who scored the winning goal for Manchester City in the 93rd minute to win the Premier League title in 2012?",
+    "options": [
+      "Mario Balotelli",
+      "Sergio Agüero",
+      "David Silva",
+      "Yaya Touré"
+    ],
+    "answer": "Sergio Agüero"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "In what year was the Premier League officially established, replacing the Football League First Division?",
+    "options": [
+      "1990",
+      "1992",
+      "1994",
+      "1996"
+    ],
+    "answer": "1992"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "Which country won the UEFA Euro 2004 in one of the biggest underdog upsets in football history?",
+    "options": [
+      "Greece",
+      "Portugal",
+      "Czech Republic",
+      "Denmark"
+    ],
+    "answer": "Greece"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "Which former midfielder won back-to-back Champions League titles with two different clubs: Porto in 2004 and Barca in 2006?",
+    "options": [
+      "Deco",
+      "Ronaldinho",
+      "Xavi",
+      "Thiago Motta"
+    ],
+    "answer": "Deco"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "Which French defender made a famous goal-line clearance against Liverpool in the 2005 Champions League run and played for Arsenal and Chelsea?",
+    "options": [
+      "William Gallas",
+      "Bacary Sagna",
+      "Mikaël Silvestre",
+      "Gaël Clichy"
+    ],
+    "answer": "William Gallas"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "Who scored Andres Iniesta's extra-time winning goal assist in the 2010 FIFA World Cup Final for Spain?",
+    "options": [
+      "Cesc Fàbregas",
+      "Xavi",
+      "David Villa",
+      "Fernando Torres"
+    ],
+    "answer": "Cesc Fàbregas"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "Which club won 5 consecutive European Cup titles from 1956 to 1960?",
+    "options": [
+      "Real Madrid",
+      "Benfica",
+      "Ajax",
+      "Liverpool"
+    ],
+    "answer": "Real Madrid"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "Who was the head coach of Spain when they won the 2010 FIFA World Cup?",
+    "options": [
+      "Luis Aragonés",
+      "Vicente del Bosque",
+      "Pep Guardiola",
+      "Julen Lopetegui"
+    ],
+    "answer": "Vicente del Bosque"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "Which stadium is shared by rival Italian clubs Inter Milan and AC Milan?",
+    "options": [
+      "Stadio Olimpico",
+      "San Siro / Stadio Giuseppe Meazza",
+      "Allianz Stadium",
+      "Stadio Diego Armando Maradona"
+    ],
+    "answer": "San Siro / Stadio Giuseppe Meazza"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "Which player scored the fastest goal in Premier League history (7.69 seconds) for Bournemouth against Arsenal?",
+    "options": [
+      "Shane Long",
+      "Philip Billing",
+      "Ledley King",
+      "Alan Shearer"
+    ],
+    "answer": "Shane Long"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "Which African nation became the first to reach a FIFA World Cup semi-final in 2022?",
+    "options": [
+      "Ghana",
+      "Senegal",
+      "Cameroon",
+      "Morocco"
+    ],
+    "answer": "Morocco"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "Who holds the record for most all-time career goals in the Premier League (260 goals)?",
+    "options": [
+      "Wayne Rooney",
+      "Alan Shearer",
+      "Harry Kane",
+      "Thierry Henry"
+    ],
+    "answer": "Alan Shearer"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "Which club did Leicester City miraculously beat 5000-1 odds to win the Premier League title in 2015–16?",
+    "options": [
+      "Leicester City",
+      "Blackburn Rovers",
+      "West Ham United",
+      "Southampton"
+    ],
+    "answer": "Leicester City"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "Who is the only player to score a goal in two different UEFA Champions League finals for two different winning teams?",
+    "options": [
+      "Cristiano Ronaldo",
+      "Mario Mandžukić",
+      "Samuel Eto'o",
+      "Clarence Seedorf"
+    ],
+    "answer": "Cristiano Ronaldo"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "Who is the only manager to win the UEFA Champions League four times (or five including modern titles)?",
+    "options": [
+      "Zinedine Zidane",
+      "Bob Paisley",
+      "Carlo Ancelotti",
+      "Pep Guardiola"
+    ],
+    "answer": "Carlo Ancelotti"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "Which player holds the record for most goals scored in a single FIFA World Cup tournament (13 goals in 1958)?",
+    "options": [
+      "Gerd Müller",
+      "Just Fontaine",
+      "Sándor Kocsis",
+      "Eusébio"
+    ],
+    "answer": "Just Fontaine"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "Which Dutch midfielder won UEFA Champions League trophies with three different clubs (Ajax, Real Madrid, AC Milan)?",
+    "options": [
+      "Edgar Davids",
+      "Clarence Seedorf",
+      "Ruud Gullit",
+      "Frank Rijkaard"
+    ],
+    "answer": "Clarence Seedorf"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "Who was the referee who handed out 16 yellow cards and 4 red cards in the 2006 World Cup 'Battle of Nuremberg' between Portugal and Netherlands?",
+    "options": [
+      "Howard Webb",
+      "Valentin Ivanov",
+      "Pierluigi Collina",
+      "Mark Clattenburg"
+    ],
+    "answer": "Valentin Ivanov"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "In 1954, which team ended Hungary's 31-game unbeaten streak to win the World Cup in the 'Miracle of Bern'?",
+    "options": [
+      "West Germany",
+      "Uruguay",
+      "Austria",
+      "England"
+    ],
+    "answer": "West Germany"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "Who was the goalkeeper when Colombia faced Cameroon in the 1990 World Cup and was caught out of his goal by Roger Milla?",
+    "options": [
+      "René Higuita",
+      "Oscar Córdoba",
+      "Faryd Mondragón",
+      "José Luis Chilavert"
+    ],
+    "answer": "René Higuita"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "Which player scored the fastest hat-trick in Premier League history (2 minutes 56 seconds) for Southampton against Aston Villa in 2015?",
+    "options": [
+      "Sadio Mané",
+      "Robbie Fowler",
+      "Jermain Defoe",
+      "Sergio Agüero"
+    ],
+    "answer": "Sadio Mané"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "What was the name of the original FIFA World Cup trophy that was permanently awarded to Brazil in 1970 and later stolen?",
+    "options": [
+      "Jules Rimet Trophy",
+      "Henri Delaunay Trophy",
+      "FIFA Victory Cup",
+      "Coupe du Monde"
+    ],
+    "answer": "Jules Rimet Trophy"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "Which player won the Ballon d'Or in 1995, becoming the first non-European player to win the award?",
+    "options": [
+      "George Weah",
+      "Ronaldo Nazário",
+      "Romário",
+      "Abedi Pele"
+    ],
+    "answer": "George Weah"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "Who scored Nottingham Forest's winning goal in the 1979 European Cup Final under Brian Clough?",
+    "options": [
+      "Trevor Francis",
+      "John Robertson",
+      "Garry Birtles",
+      "Martin O'Neill"
+    ],
+    "answer": "Trevor Francis"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "Which player scored in every single group stage and knockout round game for his country in a 6-game run during a World Cup before 2022?",
+    "options": [
+      "Jairzinho (1970)",
+      "Salvatore Schillaci (1990)",
+      "Antoine Griezmann (2018)",
+      "James Rodríguez (2014)"
+    ],
+    "answer": "Jairzinho (1970)"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "Who was the first player to miss a penalty in a World Cup Final penalty shootout (1994 USA)?",
+    "options": [
+      "Franco Baresi",
+      "Roberto Baggio",
+      "Daniele Massaro",
+      "Márcio Santos"
+    ],
+    "answer": "Márcio Santos"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "Which player famously executed a 'Panenka' penalty in the 2006 FIFA World Cup Final against Italy?",
+    "options": [
+      "Zinedine Zidane",
+      "Thierry Henry",
+      "Franck Ribéry",
+      "David Trezeguet"
+    ],
+    "answer": "Zinedine Zidane"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "Which English club holds the lowest total points tally in a single Premier League season (11 points in 2007–08)?",
+    "options": [
+      "Derby County",
+      "Sunderland",
+      "Huddersfield Town",
+      "Aston Villa"
+    ],
+    "answer": "Derby County"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "Who was the first manager to complete a domestic treble in English men's football history (2018–19)?",
+    "options": [
+      "Pep Guardiola",
+      "Alex Ferguson",
+      "Arsène Wenger",
+      "José Mourinho"
+    ],
+    "answer": "Pep Guardiola"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "Which club did Steaua București defeat on penalties to win the 1986 European Cup Final?",
+    "options": [
+      "Barcelona",
+      "Real Madrid",
+      "Bayern Munich",
+      "Juventus"
+    ],
+    "answer": "Barcelona"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "Who was the goalkeeper who saved three penalties in the 1986 European Cup Final shootout for Steaua București?",
+    "options": [
+      "Helmuth Duckadam",
+      "Silviu Lung",
+      "Bogdan Lobonț",
+      "Ion Voinescu"
+    ],
+    "answer": "Helmuth Duckadam"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "Who holds the record for the most assists in a single Premier League season (20 assists, shared by two players)?",
+    "options": [
+      "Thierry Henry & Kevin De Bruyne",
+      "Cesc Fàbregas & Mesut Özil",
+      "Frank Lampard & Ryan Giggs",
+      "David Silva & Wayne Rooney"
+    ],
+    "answer": "Thierry Henry & Kevin De Bruyne"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "In what year was the offside rule modified to require at least TWO defending players (including goalkeeper) behind the attacker instead of three?",
+    "options": [
+      "1925",
+      "1863",
+      "1990",
+      "1907"
+    ],
+    "answer": "1925"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "Which country won the inaugural UEFA European Championship (then called the European Nations' Cup) in 1960?",
+    "options": [
+      "Soviet Union",
+      "Yugoslavia",
+      "Czechoslovakia",
+      "Spain"
+    ],
+    "answer": "Soviet Union"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "Who is the only defender to win the Ballon d'Or twice?",
+    "options": [
+      "Franz Beckenbauer",
+      "Fabio Cannavaro",
+      "Franco Baresi",
+      "Paolo Maldini"
+    ],
+    "answer": "Franz Beckenbauer"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "Which player scored the iconic volley goal for Netherlands against USSR in the UEFA Euro 1988 Final?",
+    "options": [
+      "Marco van Basten",
+      "Ruud Gullit",
+      "Frank Rijkaard",
+      "Ronald Koeman"
+    ],
+    "answer": "Marco van Basten"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "Who was the top goalscorer at the 1990 FIFA World Cup in Italy, winning both Golden Boot and Golden Ball?",
+    "options": [
+      "Salvatore 'Totò' Schillaci",
+      "Lothar Matthäus",
+      "Roger Milla",
+      "Gary Lineker"
+    ],
+    "answer": "Salvatore 'Totò' Schillaci"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "Which Brazilian side defeated European Champions Liverpool 3-0 to win the 1981 Intercontinental Cup?",
+    "options": [
+      "Flamengo",
+      "Santos",
+      "São Paulo",
+      "Gremio"
+    ],
+    "answer": "Flamengo"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "Who is the oldest goalscorer in FIFA World Cup history (42 years, 39 days)?",
+    "options": [
+      "Roger Milla",
+      "Faryd Mondragón",
+      "Essam El-Hadary",
+      "Dino Zoff"
+    ],
+    "answer": "Roger Milla"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "Which referee officiated both the 2010 UEFA Champions League Final and the 2010 FIFA World Cup Final?",
+    "options": [
+      "Howard Webb",
+      "Nicola Rizzoli",
+      "Viktor Kassai",
+      "Björn Kuipers"
+    ],
+    "answer": "Howard Webb"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "Which team was awarded a European Cup title despite playing in the Second Division (Serie B) following the Calciopoli scandal fallout in 2006?",
+    "options": [
+      "Juventus",
+      "Lazio",
+      "Fiorentina",
+      "None (Strip title, no lower-tier play in UCL)"
+    ],
+    "answer": "None (Strip title, no lower-tier play in UCL)"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "Who scored the winning penalty in the 2008 UEFA Champions League Final shootout for Manchester United vs Chelsea?",
+    "options": [
+      "Anderson",
+      "Ryan Giggs",
+      "Edwin van der Sar (Save)",
+      "Nani"
+    ],
+    "answer": "Ryan Giggs"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "Which player holds the record for most red cards in football history (46 red cards)?",
+    "options": [
+      "Gerardo Bedoya",
+      "Sergio Ramos",
+      "Cyril Rool",
+      "Edgar Davids"
+    ],
+    "answer": "Gerardo Bedoya"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "Which player won back-to-back European Champions League titles with Marseille (1993) and AC Milan (1994)?",
+    "options": [
+      "Marcel Desailly",
+      "Didier Deschamps",
+      "Alain Boksic",
+      "Jean-Pierre Papin"
+    ],
+    "answer": "Marcel Desailly"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "What is the official name of the stadium where Boca Juniors play in Buenos Aires?",
+    "options": [
+      "Estadio Alberto J. Armando (La Bombonera)",
+      "Estadio MÂÂs Monumental",
+      "Estadio Libertadores de América",
+      "Estadio Cilindro de Avellaneda"
+    ],
+    "answer": "Estadio Alberto J. Armando (La Bombonera)"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "Who was the captain of the Greece national team during their Euro 2004 victory?",
+    "options": [
+      "Theodoros Zagorakis",
+      "Angelos Charisteas",
+      "Giorgos Karagounis",
+      "Traianos Dellas"
+    ],
+    "answer": "Theodoros Zagorakis"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "Which nation was banned from participating in the 1950 FIFA World Cup due to post-WWII sanctions?",
+    "options": [
+      "Germany",
+      "Japan",
+      "Italy",
+      "Germany and Japan"
+    ],
+    "answer": "Germany and Japan"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "Who scored five goals in nine minutes after coming off the bench for Bayern Munich against Wolfsburg in 2015?",
+    "options": [
+      "Robert Lewandowski",
+      "Arjen Robben",
+      "Thomas Müller",
+      "Mario Gómez"
+    ],
+    "answer": "Robert Lewandowski"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "Which English club won the European Cup twice under Brian Clough in 1979 and 1980?",
+    "options": [
+      "Nottingham Forest",
+      "Aston Villa",
+      "Leeds United",
+      "Derby County"
+    ],
+    "answer": "Nottingham Forest"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "In 1999, which Bayern Munich player was substituted off in the Champions League final before Manchester United's iconic comeback?",
+    "options": [
+      "Lothar Matthäus",
+      "Stefan Effenberg",
+      "Mario Basler",
+      "Oliver Kahn"
+    ],
+    "answer": "Lothar Matthäus"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "Which Uruguayan player was banned for 4 months for biting Giorgio Chiellini at the 2014 World Cup?",
+    "options": [
+      "Luis Suárez",
+      "Edinson Cavani",
+      "Diego Forlán",
+      "Diego Godín"
+    ],
+    "answer": "Luis Suárez"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "Which stadium hosted the 1950 World Cup final game ('Maracanazo') where Uruguay defeated Brazil?",
+    "options": [
+      "Estádio do Maracanã",
+      "Estádio do Pacaembu",
+      "Estádio Mineirão",
+      "Estádio Beira-Rio"
+    ],
+    "answer": "Estádio do Maracanã"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "Who holds the record for the fastest goal in FIFA World Cup history (10.8 seconds) scored against South Korea in 2002?",
+    "options": [
+      "Hakan Şükür",
+      "Clint Dempsey",
+      "Bryan Robson",
+      "Bernard Lacombe"
+    ],
+    "answer": "Hakan Şükür"
+  }
+]

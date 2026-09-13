@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "What three core security principles make up the CIA triad?",
+    "options": [
+      "Confidentiality, Integrity, Availability",
+      "Control, Inspection, Authentication",
+      "Cipher, Identity, Access",
+      "Communication, Information, Authorization"
+    ],
+    "answer": "Confidentiality, Integrity, Availability"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "Which social engineering attack tricks users into revealing sensitive information via deceptive emails?",
+    "options": [
+      "Phishing",
+      "Spoofing",
+      "Sniffing",
+      "SQL Injection"
+    ],
+    "answer": "Phishing"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "What type of malware encrypts a victim's files and demands payment for the decryption key?",
+    "options": [
+      "Spyware",
+      "Ransomware",
+      "Adware",
+      "Rootkit"
+    ],
+    "answer": "Ransomware"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "What security device or software filters incoming and outgoing network traffic based on predefined rules?",
+    "options": [
+      "Switch",
+      "Firewall",
+      "Repeater",
+      "Modem"
+    ],
+    "answer": "Firewall"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "In symmetric key cryptography, how many keys are used for encryption and decryption?",
+    "options": [
+      "One shared secret key",
+      "Two distinct keys (public and private)",
+      "Three keys",
+      "No key is required"
+    ],
+    "answer": "One shared secret key"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "Which security concept ensures that a sender cannot deny having sent a particular message or performed an action?",
+    "options": [
+      "Non-repudiation",
+      "Confidentiality",
+      "Availability",
+      "Redundancy"
+    ],
+    "answer": "Non-repudiation"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "What type of malicious software disguises itself as legitimate software to deceive users into installing it?",
+    "options": [
+      "Worm",
+      "Trojan Horse",
+      "Macro Virus",
+      "Keylogger"
+    ],
+    "answer": "Trojan Horse"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "How does a computer worm differ fundamentally from a traditional computer virus?",
+    "options": [
+      "A worm can self-replicate and spread across networks without human interaction",
+      "A worm requires a host file to attach itself to",
+      "A worm only targets hardware and BIOS firmware",
+      "A worm cannot infect operating systems"
+    ],
+    "answer": "A worm can self-replicate and spread across networks without human interaction"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "What attack overwhelms a target system or server with flood traffic from multiple compromised sources to render it unavailable?",
+    "options": [
+      "Distributed Denial of Service (DDoS)",
+      "Man-in-the-Middle (MitM)",
+      "Cross-Site Scripting (XSS)",
+      "Buffer Overflow"
+    ],
+    "answer": "Distributed Denial of Service (DDoS)"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "What authentication mechanism requires users to present two or more verification factors to gain access?",
+    "options": [
+      "Single Sign-On (SSO)",
+      "Multi-Factor Authentication (MFA)",
+      "Basic Authentication",
+      "Symmetric Authentication"
+    ],
+    "answer": "Multi-Factor Authentication (MFA)"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "What key property defines a cryptographic hash function?",
+    "options": [
+      "It is a two-way reversible function",
+      "It is a one-way mathematical function that produces a fixed-size output",
+      "It uses a public-private key pair for signature validation",
+      "It compresses files to save disk storage space"
+    ],
+    "answer": "It is a one-way mathematical function that produces a fixed-size output"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "What principle states that users should be granted only the minimum permissions necessary to perform their job functions?",
+    "options": [
+      "Principle of Least Privilege",
+      "Separation of Duties",
+      "Defense in Depth",
+      "Implicit Deny"
+    ],
+    "answer": "Principle of Least Privilege"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "What software secretly monitors user activity, capturing keystrokes and sensitive personal data without consent?",
+    "options": [
+      "Adware",
+      "Spyware",
+      "Ransomware",
+      "Firmware"
+    ],
+    "answer": "Spyware"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "What term describes a newly discovered security flaw that is exploited before the vendor releases a patch?",
+    "options": [
+      "Zero-Day Vulnerability",
+      "Legacy Exploit",
+      "Backdoor Flaw",
+      "Buffer Vulnerability"
+    ],
+    "answer": "Zero-Day Vulnerability"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "Which attack method involves systematically guessing all possible password combinations until the correct one is found?",
+    "options": [
+      "Brute Force Attack",
+      "Phishing Attack",
+      "Dictionary Attack",
+      "Rainbow Table Attack"
+    ],
+    "answer": "Brute Force Attack"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "In asymmetric cryptography, which key is kept secret by the owner?",
+    "options": [
+      "Public Key",
+      "Private Key",
+      "Session Key",
+      "Shared Key"
+    ],
+    "answer": "Private Key"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "Which cyber attack intercepts and potentially alters communication between two unsuspecting parties?",
+    "options": [
+      "Man-in-the-Middle (MitM) Attack",
+      "Denial of Service (DoS) Attack",
+      "SQL Injection Attack",
+      "Drive-by Download Attack"
+    ],
+    "answer": "Man-in-the-Middle (MitM) Attack"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "What is added to plain text passwords before hashing to protect against precomputed dictionary and rainbow table attacks?",
+    "options": [
+      "Salt",
+      "Pepper",
+      "IV (Initialization Vector)",
+      "Nonce"
+    ],
+    "answer": "Salt"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "What type of phishing attack specifically targets high-profile corporate executives or high-ranking individuals?",
+    "options": [
+      "Smishing",
+      "Whaling",
+      "Vishing",
+      "Pharmishing"
+    ],
+    "answer": "Whaling"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "Which type of social engineering attack uses voice phone calls to trick victims into revealing private information?",
+    "options": [
+      "Smishing",
+      "Vishing",
+      "Pretexting",
+      "Baiting"
+    ],
+    "answer": "Vishing"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "What type of attack involves an attacker physically following an authorized person into a secure restricted building area?",
+    "options": [
+      "Tailgating",
+      "Shoulder Surfing",
+      "Dumpster Diving",
+      "Piggybacking"
+    ],
+    "answer": "Tailgating"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "What is the primary function of a Virtual Private Network (VPN)?",
+    "options": [
+      "To block computer viruses from entering local storage",
+      "To create an encrypted tunnel for secure communication over public networks",
+      "To increase physical internet connection speeds",
+      "To clean malware infections automatically"
+    ],
+    "answer": "To create an encrypted tunnel for secure communication over public networks"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "What is a network of compromised computers controlled remotely by a malicious actor called?",
+    "options": [
+      "Botnet",
+      "Subnet",
+      "Darknet",
+      "Meshnet"
+    ],
+    "answer": "Botnet"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "Which social engineering tactic relies on searching through target company trash bins for sensitive documents?",
+    "options": [
+      "Shoulder Surfing",
+      "Dumpster Diving",
+      "Baiting",
+      "Eavesdropping"
+    ],
+    "answer": "Dumpster Diving"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "What security strategy uses multiple redundant layers of security controls to safeguard assets?",
+    "options": [
+      "Defense in Depth",
+      "Single Point of Failure",
+      "Zero Trust Model",
+      "Air-Gapping"
+    ],
+    "answer": "Defense in Depth"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "What program or hardware captures everything typed on a target computer keyboard?",
+    "options": [
+      "Keylogger",
+      "Packet Sniffer",
+      "Port Scanner",
+      "Rootkit"
+    ],
+    "answer": "Keylogger"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "Which type of malware grants attackers elevated root/administrative privileges while actively hiding its presence from the OS?",
+    "options": [
+      "Rootkit",
+      "Adware",
+      "Macro Virus",
+      "Worm"
+    ],
+    "answer": "Rootkit"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "What term describes code embedded in software that triggers malicious actions when specific conditions or dates are met?",
+    "options": [
+      "Logic Bomb",
+      "Time Virus",
+      "Trapdoor",
+      "Zero-Day"
+    ],
+    "answer": "Logic Bomb"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "What process updates operating system software to resolve newly discovered security bugs and vulnerabilities?",
+    "options": [
+      "Patch Management",
+      "Vulnerability Scanning",
+      "Data Backup",
+      "Defragmentation"
+    ],
+    "answer": "Patch Management"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "Which protocol secures web traffic between browsers and servers using encryption (HTTPS)?",
+    "options": [
+      "FTP",
+      "TLS / SSL",
+      "SSH",
+      "Telnet"
+    ],
+    "answer": "TLS / SSL"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "Which web vulnerability occurs when untrusted user input is directly concatenated into a backend database query?",
+    "options": [
+      "Cross-Site Scripting (XSS)",
+      "SQL Injection (SQLi)",
+      "Cross-Site Request Forgery (CSRF)",
+      "Command Injection"
+    ],
+    "answer": "SQL Injection (SQLi)"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "Which attack injects malicious client-side scripts into web applications to execute in target users' browsers?",
+    "options": [
+      "Cross-Site Scripting (XSS)",
+      "Cross-Site Request Forgery (CSRF)",
+      "SQL Injection",
+      "Server-Side Request Forgery (SSRF)"
+    ],
+    "answer": "Cross-Site Scripting (XSS)"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "Which web security flaw forces an authenticated user's browser to send unwanted HTTP requests to a vulnerable site?",
+    "options": [
+      "Cross-Site Request Forgery (CSRF)",
+      "Stored XSS",
+      "Insecure Direct Object Reference (IDOR)",
+      "SQL Injection"
+    ],
+    "answer": "Cross-Site Request Forgery (CSRF)"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "Which of the following is a widely used symmetric block cipher standard with key sizes of 128, 192, or 256 bits?",
+    "options": [
+      "RSA",
+      "AES",
+      "ECC",
+      "Diffie-Hellman"
+    ],
+    "answer": "AES"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "What primary purpose does a Certificate Authority (CA) serve within a Public Key Infrastructure (PKI)?",
+    "options": [
+      "To issue and digitally sign digital certificates verifying identity",
+      "To act as a central firewall for incoming network connections",
+      "To generate symmetric encryption keys for routers",
+      "To perform automatic vulnerability scanning on servers"
+    ],
+    "answer": "To issue and digitally sign digital certificates verifying identity"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "What key exchange algorithm allows two parties to establish a shared secret key over an insecure channel without transmitting the key itself?",
+    "options": [
+      "Diffie-Hellman Key Exchange",
+      "RSA Signature Scheme",
+      "AES-CBC Mode",
+      "SHA-256 Hashing"
+    ],
+    "answer": "Diffie-Hellman Key Exchange"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "How does an Intrusion Prevention System (IPS) differ from an Intrusion Detection System (IDS)?",
+    "options": [
+      "An IDS sits in-line and blocks traffic; an IPS only logs alerts passively",
+      "An IPS operates in-line to actively block detected malicious traffic; an IDS passively monitors and alerts",
+      "An IDS operates at Layer 7 while an IPS operates exclusively at Layer 2",
+      "There is no difference; both terms are interchangeable"
+    ],
+    "answer": "An IPS operates in-line to actively block detected malicious traffic; an IDS passively monitors and alerts"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "What is a isolated network segment that exposes external-facing services to the internet while protecting internal infrastructure?",
+    "options": [
+      "Demilitarized Zone (DMZ)",
+      "Air-Gapped Network",
+      "VLAN Trunk",
+      "Virtual Private Cloud (VPC)"
+    ],
+    "answer": "Demilitarized Zone (DMZ)"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "Which centralized logging platform aggregates, analyzes, and correlates security alerts from across an enterprise IT environment?",
+    "options": [
+      "SIEM (Security Information and Event Management)",
+      "SOAR (Security Orchestration, Automation, and Response)",
+      "EDR (Endpoint Detection and Response)",
+      "IDS (Intrusion Detection System)"
+    ],
+    "answer": "SIEM (Security Information and Event Management)"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "Which access control model assigns permissions based on defined organizational roles rather than individual user identities?",
+    "options": [
+      "Role-Based Access Control (RBAC)",
+      "Discretionary Access Control (DAC)",
+      "Mandatory Access Control (MAC)",
+      "Attribute-Based Access Control (ABAC)"
+    ],
+    "answer": "Role-Based Access Control (RBAC)"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "Which access control model uses security labels (such as Top Secret) enforced strictly by system policy?",
+    "options": [
+      "Mandatory Access Control (MAC)",
+      "Discretionary Access Control (DAC)",
+      "Role-Based Access Control (RBAC)",
+      "Rule-Based Access Control"
+    ],
+    "answer": "Mandatory Access Control (MAC)"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "What framework provides a globally accessible knowledge base of adversary tactics, techniques, and procedures (TTPs)?",
+    "options": [
+      "MITRE ATT&CK Framework",
+      "ISO/IEC 27001",
+      "OWASP Top 10",
+      "CIS Critical Security Controls"
+    ],
+    "answer": "MITRE ATT&CK Framework"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "What are the five core functions of the NIST Cybersecurity Framework (CSF)?",
+    "options": [
+      "Identify, Protect, Detect, Respond, Recover",
+      "Analyze, Secure, Monitor, Patch, Report",
+      "Authentication, Authorization, Accounting, Auditing, Access",
+      "Prevent, Detect, Contain, Eradicate, Document"
+    ],
+    "answer": "Identify, Protect, Detect, Respond, Recover"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "What decoy system is intentionally deployed to lure, detect, and analyze unauthorized attack attempts?",
+    "options": [
+      "Honeypot",
+      "Proxy Server",
+      "Sandbox",
+      "Bastion Host"
+    ],
+    "answer": "Honeypot"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "What core philosophy defines the Zero Trust Architecture model?",
+    "options": [
+      "Never trust, always verify",
+      "Trust internal network, block external traffic",
+      "Encrypt data at rest only",
+      "Permit access based on IP whitelist"
+    ],
+    "answer": "Never trust, always verify"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "What attack corrupts local ARP tables to associate an attacker's MAC address with a legitimate default gateway IP?",
+    "options": [
+      "ARP Spoofing / Poisoning",
+      "DNS Cache Poisoning",
+      "MAC Flooding",
+      "DHCP Starvation"
+    ],
+    "answer": "ARP Spoofing / Poisoning"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "What attack corrupts DNS resolver records to redirect users to malicious IP destinations?",
+    "options": [
+      "DNS Cache Poisoning / Spoofing",
+      "ARP Poisoning",
+      "BGP Hijacking",
+      "HTTP Smuggling"
+    ],
+    "answer": "DNS Cache Poisoning / Spoofing"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "Which attack captures valid authentication transmissions and maliciously resends them later to gain unauthorized access?",
+    "options": [
+      "Replay Attack",
+      "Man-in-the-Middle Attack",
+      "Session Hijacking",
+      "Brute Force Attack"
+    ],
+    "answer": "Replay Attack"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "What browser policy restricts scripts on one origin from accessing sensitive data on another distinct origin?",
+    "options": [
+      "Same-Origin Policy (SOP)",
+      "Content Security Policy (CSP)",
+      "Cross-Origin Resource Sharing (CORS)",
+      "Strict-Transport-Security (HSTS)"
+    ],
+    "answer": "Same-Origin Policy (SOP)"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "Which HTTP security response header helps prevent Cross-Site Scripting (XSS) by restricting resource loading sources?",
+    "options": [
+      "Content-Security-Policy (CSP)",
+      "X-Frame-Options",
+      "Strict-Transport-Security",
+      "Access-Control-Allow-Origin"
+    ],
+    "answer": "Content-Security-Policy (CSP)"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "What security control physically isolates a high-security computer system completely from unsecured external networks?",
+    "options": [
+      "Air-Gapping",
+      "Sandboxing",
+      "DMZ Segmentation",
+      "VLAN Isolation"
+    ],
+    "answer": "Air-Gapping"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "Which three categories make up the standard Multi-Factor Authentication (MFA) factors?",
+    "options": [
+      "Something you know, something you have, something you are",
+      "Something you see, something you type, something you print",
+      "Password, PIN, Security Question",
+      "IP address, MAC address, Hostname"
+    ],
+    "answer": "Something you know, something you have, something you are"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "What security software installed on host computers continuously monitors endpoint behaviors to detect and respond to advanced threats?",
+    "options": [
+      "EDR (Endpoint Detection and Response)",
+      "HIDS (Host-based IDS)",
+      "NIPS (Network IPS)",
+      "UTM (Unified Threat Management)"
+    ],
+    "answer": "EDR (Endpoint Detection and Response)"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "What type of drive-by cyber threat automatically downloads malware onto a user device simply by visiting an infected webpage?",
+    "options": [
+      "Drive-by Download",
+      "Watering Hole Attack",
+      "Clickjacking",
+      "Malvertising"
+    ],
+    "answer": "Drive-by Download"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "What technique hides secret messages or files inside another ordinary non-secret file format (like an image)?",
+    "options": [
+      "Steganography",
+      "Cryptography",
+      "Obfuscation",
+      "Hashing"
+    ],
+    "answer": "Steganography"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "In asymmetric key cryptography, what key is used to generate a digital signature?",
+    "options": [
+      "Sender's Private Key",
+      "Sender's Public Key",
+      "Recipient's Public Key",
+      "Recipient's Private Key"
+    ],
+    "answer": "Sender's Private Key"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "In asymmetric key cryptography, what key is used to verify a received digital signature?",
+    "options": [
+      "Sender's Public Key",
+      "Sender's Private Key",
+      "Recipient's Private Key",
+      "Shared Symmetric Key"
+    ],
+    "answer": "Sender's Public Key"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "What type of attack involves targeting a specific website frequently visited by a targeted group of organizational users?",
+    "options": [
+      "Watering Hole Attack",
+      "Spear Phishing Attack",
+      "Drive-by Compromise",
+      "Cross-Site Scripting"
+    ],
+    "answer": "Watering Hole Attack"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "Which OWASP vulnerability occurs when a application exposes direct references to internal implementation objects (like database primary keys) in URLs?",
+    "options": [
+      "Insecure Direct Object Reference (IDOR)",
+      "Cross-Site Scripting (XSS)",
+      "Broken Authentication",
+      "Security Misconfiguration"
+    ],
+    "answer": "Insecure Direct Object Reference (IDOR)"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "Which attack tricking a user into clicking on transparent/disguised UI elements layered over legitimate web buttons?",
+    "options": [
+      "Clickjacking (UI Redress)",
+      "Cross-Site Scripting",
+      "Form Grabbing",
+      "Session Hijacking"
+    ],
+    "answer": "Clickjacking (UI Redress)"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "Which memory corruption vulnerability occurs when data written to a memory allocation buffer exceeds its allocated boundary, overwriting adjacent memory space?",
+    "options": [
+      "Buffer Overflow",
+      "Use-After-Free",
+      "Format String Bug",
+      "Integer Overflow"
+    ],
+    "answer": "Buffer Overflow"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "What OS memory protection technique randomizes key memory locations (stack, heap, libraries) to hinder exploit payloads?",
+    "options": [
+      "ASLR (Address Space Layout Randomization)",
+      "DEP (Data Execution Prevention)",
+      "Stack Canaries",
+      "Control Flow Integrity (CFI)"
+    ],
+    "answer": "ASLR (Address Space Layout Randomization)"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "What security technology marks specific memory regions (like the stack) as non-executable to prevent code execution from data buffers?",
+    "options": [
+      "DEP (Data Execution Prevention / NX bit)",
+      "ASLR",
+      "KASLR",
+      "SafeSEH"
+    ],
+    "answer": "DEP (Data Execution Prevention / NX bit)"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "Which advanced exploitation technique bypasses DEP/NX bit mitigation by chaining existing machine instruction sequences ending in 'ret'?",
+    "options": [
+      "Return-Oriented Programming (ROP)",
+      "Heap Spraying",
+      "Format String Exploitation",
+      "DLL Hijacking"
+    ],
+    "answer": "Return-Oriented Programming (ROP)"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "In Windows Active Directory environments, what attack extracts and reuses NTLM password hashes directly to authenticate without cracking plaintext passwords?",
+    "options": [
+      "Pass-the-Hash (PtH)",
+      "Kerberoasting",
+      "Golden Ticket Attack",
+      "AS-REP Roasting"
+    ],
+    "answer": "Pass-the-Hash (PtH)"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "Which Active Directory post-exploitation attack targets accounts with Service Principal Names (SPNs) to request and crack Kerberos TGS service tickets offline?",
+    "options": [
+      "Kerberoasting",
+      "Pass-the-Ticket",
+      "DCShadow",
+      "DCSync"
+    ],
+    "answer": "Kerberoasting"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "Why is Electronic Codebook (ECB) mode considered cryptographically insecure for encrypting structured data with block ciphers?",
+    "options": [
+      "Identical plaintext blocks always yield identical ciphertext blocks, preserving data patterns",
+      "It requires a 512-bit key size that is too slow to calculate",
+      "It does not support AES algorithm integration",
+      "It causes IV collisions during transmission"
+    ],
+    "answer": "Identical plaintext blocks always yield identical ciphertext blocks, preserving data patterns"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "Which AES block cipher operational mode provides both confidentiality and built-in authenticated encryption (AEAD)?",
+    "options": [
+      "GCM (Galois/Counter Mode)",
+      "CBC (Cipher Block Chaining)",
+      "ECB (Electronic Codebook)",
+      "OFB (Output Feedback)"
+    ],
+    "answer": "GCM (Galois/Counter Mode)"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "What cryptographic property ensures that a compromise of long-term server private keys does not compromise past session keys?",
+    "options": [
+      "Perfect Forward Secrecy (PFS)",
+      "Quantum Immunity",
+      "Homomorphic Encryption",
+      "Zero-Knowledge Proof"
+    ],
+    "answer": "Perfect Forward Secrecy (PFS)"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "What classification of attack extracts cryptographic keys by analyzing physical characteristics like power consumption, electromagnetic emissions, or execution timing?",
+    "options": [
+      "Side-Channel Attack",
+      "Fault Injection Attack",
+      "Man-in-the-Middle Attack",
+      "Birthday Attack"
+    ],
+    "answer": "Side-Channel Attack"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "What exploitation tactic allocates large amounts of NOP-sled payload objects in application heap memory to improve exploit reliability?",
+    "options": [
+      "Heap Spraying",
+      "Stack Smashing",
+      "Use-After-Free",
+      "Buffer Overread"
+    ],
+    "answer": "Heap Spraying"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "Which web application vulnerability occurs when a server fetches a remote resource without validating the user-supplied destination URL, exposing internal services?",
+    "options": [
+      "Server-Side Request Forgery (SSRF)",
+      "Cross-Site Scripting (XSS)",
+      "XML External Entity (XXE)",
+      "Insecure Deserialization"
+    ],
+    "answer": "Server-Side Request Forgery (SSRF)"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "Which flaw allows attackers to manipulate XML input to read arbitrary server files or execute internal port scans?",
+    "options": [
+      "XML External Entity (XXE) Injection",
+      "Command Injection",
+      "SQL Injection",
+      "Path Traversal"
+    ],
+    "answer": "XML External Entity (XXE) Injection"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "What vulnerability occurs when untrusted serialized data is passed into an application and executed during object reconstruction?",
+    "options": [
+      "Insecure Deserialization",
+      "Buffer Overflow",
+      "Type Confusion",
+      "Server-Side Template Injection"
+    ],
+    "answer": "Insecure Deserialization"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "Which wireless security handshake mechanism introduced in WPA3 replaces WPA2 Pre-Shared Key (PSK) to protect against offline dictionary attacks?",
+    "options": [
+      "Simultaneous Authentication of Equals (SAE)",
+      "EAP-TLS",
+      "TKIP",
+      "PEAP"
+    ],
+    "answer": "Simultaneous Authentication of Equals (SAE)"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "What standardized structured language and transport pair are used to exchange automated cyber threat intelligence (CTI)?",
+    "options": [
+      "STIX and TAXII",
+      "JSON and REST",
+      "XML and SOAP",
+      "OpenIOC and MISP"
+    ],
+    "answer": "STIX and TAXII"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "Which hardware vulnerability exploits speculative execution mechanisms in modern CPUs to leak sensitive kernel memory across boundaries?",
+    "options": [
+      "Meltdown / Spectre",
+      "Rowhammer",
+      "Heartbleed",
+      "POODLE"
+    ],
+    "answer": "Meltdown / Spectre"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "What RAM vulnerability repeatedly accesses specific memory rows to induce electrical charge leakage and flip bits in adjacent rows?",
+    "options": [
+      "Rowhammer Attack",
+      "Cold Boot Attack",
+      "Dirty COW",
+      "DRAM Poisoning"
+    ],
+    "answer": "Rowhammer Attack"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "What message integrity code is calculated by combining a cryptographic hash function with a secret key?",
+    "options": [
+      "HMAC (Hash-based Message Authentication Code)",
+      "Digital Signature",
+      "Checksum",
+      "CBC-MAC"
+    ],
+    "answer": "HMAC (Hash-based Message Authentication Code)"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "In Active Directory, forging a Kerberos Ticket Granting Ticket (TGT) after compromising the 'krbtgt' account hash is called what?",
+    "options": [
+      "Golden Ticket Attack",
+      "Silver Ticket Attack",
+      "Skeleton Key Attack",
+      "AS-REP Roasting"
+    ],
+    "answer": "Golden Ticket Attack"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "Forging a Kerberos Ticket Granting Service (TGS) ticket for a specific service using that service account's password hash is called what?",
+    "options": [
+      "Silver Ticket Attack",
+      "Golden Ticket Attack",
+      "Pass-the-Hash",
+      "DCSync Attack"
+    ],
+    "answer": "Silver Ticket Attack"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "What browser mechanism relies on cryptographic hashes added to script tags to ensure loaded third-party CDN scripts have not been tampered with?",
+    "options": [
+      "Subresource Integrity (SRI)",
+      "Content Security Policy (CSP)",
+      "HTTP Strict Transport Security (HSTS)",
+      "CORS Preflight"
+    ],
+    "answer": "Subresource Integrity (SRI)"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "What standard UDP port is used for DNS over HTTPS (DoH) vs DNS over TLS (DoT) TCP port?",
+    "options": [
+      "DoH uses port 443; DoT uses port 853",
+      "DoH uses port 853; DoT uses port 443",
+      "Both use port 53",
+      "DoH uses port 80; DoT uses port 8080"
+    ],
+    "answer": "DoH uses port 443; DoT uses port 853"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "Which post-quantum cryptography approach is currently leading standardizations for resisting quantum computer attacks?",
+    "options": [
+      "Lattice-based Cryptography",
+      "Elliptic Curve Cryptography",
+      "RSA 4096-bit Keys",
+      "Symmetric Diffie-Hellman"
+    ],
+    "answer": "Lattice-based Cryptography"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "What condition occurs when a software system's behavior depends on the sequence or timing of uncontrollable execution steps (e.g., check vs use)?",
+    "options": [
+      "Time-of-Check to Time-of-Use (TOCTOU) Race Condition",
+      "Deadlock Condition",
+      "Buffer Underrun",
+      "Memory Leak"
+    ],
+    "answer": "Time-of-Check to Time-of-Use (TOCTOU) Race Condition"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "What malicious routing attack involves corrupting BGP routing tables to improperly divert Internet traffic through rogue Autonomous Systems?",
+    "options": [
+      "BGP Route Hijacking",
+      "DNS Cache Poisoning",
+      "ARP Poisoning",
+      "IP Fragmentation Attack"
+    ],
+    "answer": "BGP Route Hijacking"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "Which technology coordinates, executes, and automates incident response workflows across disparate security toolsets?",
+    "options": [
+      "SOAR (Security Orchestration, Automation, and Response)",
+      "SIEM",
+      "EDR",
+      "XDR"
+    ],
+    "answer": "SOAR (Security Orchestration, Automation, and Response)"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "Which attack exploits C standard library string formatting functions (%s, %x, %n) to read or write arbitrary memory locations?",
+    "options": [
+      "Format String Attack",
+      "Buffer Overflow Attack",
+      "Null Pointer Dereference",
+      "Integer Overflow Attack"
+    ],
+    "answer": "Format String Attack"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "In OpenSSL memory vulnerabilities, what was the mechanism behind the famous 'Heartbleed' flaw (CVE-2014-0160)?",
+    "options": [
+      "Missing bounds check on TLS Heartbeat extension request payloads leading to buffer overread",
+      "Stack buffer overflow in RSA signature checking routines",
+      "Null cipher suite negotiation during TLS handshake",
+      "Out-of-memory heap corruption in X.509 certificate parsing"
+    ],
+    "answer": "Missing bounds check on TLS Heartbeat extension request payloads leading to buffer overread"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "What active security discipline searches proactively through systems and networks to detect concealed threats that bypassed automated security controls?",
+    "options": [
+      "Threat Hunting",
+      "Vulnerability Scanning",
+      "Log Auditing",
+      "Penetration Testing"
+    ],
+    "answer": "Threat Hunting"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "Which security model framework describes an intrusion across four interconnected core nodes: Adversary, Capability, Infrastructure, and Victim?",
+    "options": [
+      "Diamond Model of Intrusion Analysis",
+      "Cyber Kill Chain",
+      "MITRE ATT&CK Framework",
+      "STRIDE Threat Model"
+    ],
+    "answer": "Diamond Model of Intrusion Analysis"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "What major optimization was introduced in TLS 1.3 to reduce the connection setup time to a single round-trip time (1-RTT) or zero round-trip time (0-RTT)?",
+    "options": [
+      "Combining key exchange and authentication into a unified single-step handshake",
+      "Deprecating public key cryptography in favor of symmetric pre-shared keys",
+      "Eliminating digital certificate verification completely",
+      "Using UDP datagrams without error recovery"
+    ],
+    "answer": "Combining key exchange and authentication into a unified single-step handshake"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "What is the key advantage of Elliptic Curve Cryptography (ECC) compared to RSA?",
+    "options": [
+      "ECC provides equivalent cryptographic security with significantly smaller key sizes",
+      "ECC does not require public and private keys",
+      "ECC functions exclusively as a hashing algorithm",
+      "ECC operates without complex mathematical calculations"
+    ],
+    "answer": "ECC provides equivalent cryptographic security with significantly smaller key sizes"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "What threat modeling framework developed by Microsoft uses the acronym STRIDE?",
+    "options": [
+      "Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, Elevation of Privilege",
+      "Software, Threats, Risks, Incidents, Devices, Exploits",
+      "Secure Transmission, Redundancy, Inspection, Detection, Encryption",
+      "System Integrity, Trust, Recovery, Identity, Defense, Evaluation"
+    ],
+    "answer": "Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, Elevation of Privilege"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "In Kerberos authentication protocol, what issuing authority component provides the client with a Ticket Granting Ticket (TGT)?",
+    "options": [
+      "Authentication Server (AS)",
+      "Ticket Granting Server (TGS)",
+      "Key Distribution Center (KDC) Service Manager",
+      "Domain Controller LDAP Service"
+    ],
+    "answer": "Authentication Server (AS)"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "What type of attack technique tricks a web application into resolving XML entities to local system files like /etc/passwd?",
+    "options": [
+      "XXE (XML External Entity) Injection",
+      "XSS Injection",
+      "LFI (Local File Inclusion)",
+      "Server-Side Template Injection"
+    ],
+    "answer": "XXE (XML External Entity) Injection"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "What security header forces web browsers to interact with a site exclusively using secure HTTPS connections?",
+    "options": [
+      "HTTP Strict Transport Security (HSTS)",
+      "Content Security Policy (CSP)",
+      "X-Content-Type-Options",
+      "X-Frame-Options"
+    ],
+    "answer": "HTTP Strict Transport Security (HSTS)"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "What attack targets the heap manager memory allocator by corrupting control metadata of unallocated chunks (free lists)?",
+    "options": [
+      "Heap Exploitation (Unlink Attack / Double Free)",
+      "Stack Smashing Attack",
+      "Null Pointer Dereference",
+      "Integer Overflow"
+    ],
+    "answer": "Heap Exploitation (Unlink Attack / Double Free)"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "What security methodology isolates execution of untrusted applications or code inside restricted virtual environments?",
+    "options": [
+      "Sandboxing",
+      "Containerization",
+      "Air-Gapping",
+      "Emulation"
+    ],
+    "answer": "Sandboxing"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "What fundamental principle prevents an insider from executing a critical security action unilaterally without second-party authorization?",
+    "options": [
+      "Dual Control / Two-Person Rule",
+      "Least Privilege",
+      "Need to Know",
+      "Mandatory Access Control"
+    ],
+    "answer": "Dual Control / Two-Person Rule"
+  }
+]

@@ -1,0 +1,280 @@
+/* ==========================================================================
+   Master Quiz - Theme Stylesheet
+   Palette: Deep Navy Blue (#0f172a / #1e293b) + Vivid Orange (#ff6600 / #ea580c)
+   ========================================================================== */
+
+:root {
+  --primary-navy: #0f172a;
+  --navy-light: #1e293b;
+  --navy-card: #28354d;
+  --accent-orange: #ff6600;
+  --accent-orange-hover: #ea580c;
+  --orange-light: #fff7ed;
+  --orange-border: #fed7aa;
+  --bg-slate: #f8fafc;
+  --border-light: #e2e8f0;
+  --text-dark: #0f172a;
+  --text-muted: #64748b;
+  --card-bg: #ffffff;
+  --radius-custom: 14px;
+}
+
+/* Dark Mode Overrides */
+[data-bs-theme="dark"] {
+  --bg-slate: #0b1120;
+  --primary-navy: #090e1a;
+  --navy-light: #1e293b;
+  --navy-card: #1e293b;
+  --card-bg: #151e32;
+  --border-light: #334155;
+  --text-dark: #f8fafc;
+  --text-muted: #94a3b8;
+  --orange-light: #2d1808;
+  --orange-border: #9a3412;
+}
+
+[data-bs-theme="dark"] body {
+  background-color: var(--bg-slate) !important;
+  color: var(--text-dark) !important;
+}
+
+[data-bs-theme="dark"] .bg-light {
+  background-color: #0e172a !important;
+}
+
+[data-bs-theme="dark"] .bg-white {
+  background-color: var(--card-bg) !important;
+}
+
+[data-bs-theme="dark"] .text-dark {
+  color: #f8fafc !important;
+}
+
+[data-bs-theme="dark"] .text-secondary,
+[data-bs-theme="dark"] .text-muted {
+  color: var(--text-muted) !important;
+}
+
+[data-bs-theme="dark"] .card {
+  background-color: var(--card-bg) !important;
+  border-color: var(--border-light) !important;
+}
+
+[data-bs-theme="dark"] .list-group-item {
+  color: #cbd5e1 !important;
+}
+
+[data-bs-theme="dark"] .form-control,
+[data-bs-theme="dark"] .form-select {
+  background-color: #1e293b !important;
+  border-color: var(--border-light) !important;
+  color: #f8fafc !important;
+}
+
+[data-bs-theme="dark"] .form-check-label {
+  color: #f8fafc !important;
+}
+
+[data-bs-theme="dark"] .btn-outline-dark {
+  border-color: #cbd5e1 !important;
+  color: #f8fafc !important;
+}
+
+[data-bs-theme="dark"] .btn-outline-dark:hover {
+  background-color: #cbd5e1 !important;
+  color: #0f172a !important;
+}
+
+/* Base resets & typography */
+body {
+  background-color: var(--bg-slate) !important;
+  color: var(--text-dark);
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  letter-spacing: -0.01em;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* ==========================================================================
+   Navigation
+   ========================================================================== */
+.navbar-dark.bg-dark {
+  background-color: var(--primary-navy) !important;
+  border-bottom: 2px solid var(--navy-card);
+}
+
+.navbar-brand {
+  color: var(--accent-orange) !important;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+.navbar-brand i {
+  color: #fbbf24 !important;
+}
+
+.navbar-nav .nav-link {
+  color: #cbd5e1 !important;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link.active {
+  color: var(--accent-orange) !important;
+}
+
+/* ==========================================================================
+   Buttons & Pills
+   ========================================================================== */
+.btn-primary {
+  background-color: var(--accent-orange) !important;
+  border-color: var(--accent-orange) !important;
+  color: #ffffff !important;
+  font-weight: 600;
+  transition: all 0.25s ease-in-out;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: var(--accent-orange-hover) !important;
+  border-color: var(--accent-orange-hover) !important;
+  box-shadow: 0 4px 14px rgba(255, 102, 0, 0.35) !important;
+  transform: translateY(-1px);
+}
+
+.btn-outline-primary {
+  border-color: var(--accent-orange) !important;
+  color: var(--accent-orange) !important;
+}
+
+.btn-outline-primary:hover {
+  background-color: var(--accent-orange) !important;
+  color: #ffffff !important;
+}
+
+.btn-outline-dark {
+  border-color: var(--navy-light) !important;
+  color: var(--primary-navy) !important;
+}
+
+.btn-outline-dark:hover {
+  background-color: var(--primary-navy) !important;
+  color: #ffffff !important;
+}
+
+/* Theme Toggle Button */
+.theme-toggle-btn {
+  width: 38px;
+  height: 38px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  background: transparent;
+  color: #fbbf24;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.theme-toggle-btn:hover {
+  background: rgba(255, 255, 255, 0.15);
+  color: #fde047;
+}
+
+/* ==========================================================================
+   Cards & Content Blocks
+   ========================================================================== */
+.card {
+  border-radius: var(--radius-custom) !important;
+  border-color: var(--border-light) !important;
+}
+
+.card-header.bg-primary {
+  background: linear-gradient(135deg, var(--primary-navy) 0%, var(--navy-light) 100%) !important;
+  border-bottom: 3px solid var(--accent-orange) !important;
+}
+
+.ratio-1x1.rounded-circle {
+  border-color: var(--accent-orange) !important;
+  box-shadow: 0 10px 30px rgba(15, 23, 42, 0.15) !important;
+}
+
+.card.bg-primary {
+  background: linear-gradient(135deg, var(--primary-navy) 0%, var(--navy-card) 100%) !important;
+  border-left: 5px solid var(--accent-orange) !important;
+}
+
+/* ==========================================================================
+   Accordion & Category Links
+   ========================================================================== */
+.accordion-button {
+  background-color: var(--card-bg) !important;
+  color: var(--text-dark) !important;
+}
+
+.accordion-button:not(.collapsed) {
+  background-color: var(--orange-light) !important;
+  color: var(--accent-orange) !important;
+  font-weight: 700;
+  box-shadow: none !important;
+}
+
+.accordion-button:focus {
+  border-color: var(--orange-border) !important;
+  box-shadow: 0 0 0 0.25rem rgba(255, 102, 0, 0.15) !important;
+}
+
+.badge.bg-primary-subtle {
+  background-color: var(--orange-light) !important;
+  color: var(--accent-orange-hover) !important;
+  border-color: var(--orange-border) !important;
+}
+
+.form-check-input:checked {
+  background-color: var(--accent-orange) !important;
+  border-color: var(--accent-orange) !important;
+}
+
+/* ==========================================================================
+   Quiz Interface Elements
+   ========================================================================== */
+#options-container button {
+  font-size: 1.05rem;
+  border: 1.5px solid var(--border-light);
+  background-color: var(--card-bg);
+  color: var(--text-dark);
+  transition: all 0.2s ease-in-out;
+}
+
+#options-container button:hover:not(:disabled) {
+  border-color: var(--accent-orange);
+  background-color: var(--orange-light);
+  color: var(--accent-orange-hover);
+  transform: translateX(4px);
+}
+
+.progress-bar.bg-primary {
+  background-color: var(--accent-orange) !important;
+}
+
+/* ==========================================================================
+   Feedback States & Badges
+   ========================================================================== */
+.btn-success {
+  background-color: #16a34a !important;
+  border-color: #16a34a !important;
+}
+
+.btn-danger {
+  background-color: #dc2626 !important;
+  border-color: #dc2626 !important;
+}
+
+#result-percentage {
+  color: var(--accent-orange) !important;
+}
+
+footer.bg-dark {
+  background-color: var(--primary-navy) !important;
+}

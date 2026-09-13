@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "What does OSI stand for in computer networking?",
+    "options": [
+      "Open Systems Interconnection",
+      "Operating System Interface",
+      "Optical System Integration",
+      "Open Server Intercommunication"
+    ],
+    "answer": "Open Systems Interconnection"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "How many layers are present in the OSI reference model?",
+    "options": [
+      "4",
+      "5",
+      "7",
+      "9"
+    ],
+    "answer": "7"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "Which layer of the OSI model is responsible for routing packets across networks?",
+    "options": [
+      "Data Link Layer",
+      "Network Layer",
+      "Transport Layer",
+      "Application Layer"
+    ],
+    "answer": "Network Layer"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "What does IP stand for in network protocol terminology?",
+    "options": [
+      "Internal Protocol",
+      "Internet Protocol",
+      "Interconnect Provider",
+      "Information Process"
+    ],
+    "answer": "Internet Protocol"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "What is the length of a standard MAC address in bits?",
+    "options": [
+      "32 bits",
+      "48 bits",
+      "64 bits",
+      "128 bits"
+    ],
+    "answer": "48 bits"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "What is the length of an IPv4 address in bits?",
+    "options": [
+      "16 bits",
+      "32 bits",
+      "64 bits",
+      "128 bits"
+    ],
+    "answer": "32 bits"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "What does TCP stand for?",
+    "options": [
+      "Transmission Control Protocol",
+      "Transfer Connection Program",
+      "Telecommunication Control Protocol",
+      "Terminal Control Provider"
+    ],
+    "answer": "Transmission Control Protocol"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "What does UDP stand for?",
+    "options": [
+      "Universal Data Packet",
+      "User Datagram Protocol",
+      "Unified Delivery Program",
+      "User Domain Protocol"
+    ],
+    "answer": "User Datagram Protocol"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "Which port number is the default for unencrypted HTTP traffic?",
+    "options": [
+      "21",
+      "22",
+      "80",
+      "443"
+    ],
+    "answer": "80"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "Which port number is standard for encrypted HTTPS traffic?",
+    "options": [
+      "80",
+      "443",
+      "8080",
+      "25"
+    ],
+    "answer": "443"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "What is the primary function of DNS in computer networks?",
+    "options": [
+      "To assign dynamic IP addresses to computers",
+      "To translate domain names into IP addresses",
+      "To secure wireless connections",
+      "To route packets between different subnets"
+    ],
+    "answer": "To translate domain names into IP addresses"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "Which network topology connects all nodes to a central central device like a switch or hub?",
+    "options": [
+      "Bus Topology",
+      "Ring Topology",
+      "Star Topology",
+      "Mesh Topology"
+    ],
+    "answer": "Star Topology"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "Which networking device operates primarily at Layer 2 (Data Link) of the OSI model?",
+    "options": [
+      "Hub",
+      "Switch",
+      "Router",
+      "Repeater"
+    ],
+    "answer": "Switch"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "What does DHCP stand for?",
+    "options": [
+      "Dynamic Host Configuration Protocol",
+      "Domain Host Connection Provider",
+      "Direct Host Control Program",
+      "Data Communication Hosting Protocol"
+    ],
+    "answer": "Dynamic Host Configuration Protocol"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "Which command-line utility is used to test reachability to a remote network host?",
+    "options": [
+      "ipconfig",
+      "ping",
+      "nslookup",
+      "netstat"
+    ],
+    "answer": "ping"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "What is the standard broadcast IPv4 address?",
+    "options": [
+      "0.0.0.0",
+      "127.0.0.1",
+      "255.255.255.255",
+      "192.168.1.255"
+    ],
+    "answer": "255.255.255.255"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "Which protocol is used to map an IP address to a physical MAC address on a local network?",
+    "options": [
+      "ARP",
+      "RARP",
+      "ICMP",
+      "DHCP"
+    ],
+    "answer": "ARP"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "What is the size of an IPv6 address in bits?",
+    "options": [
+      "32 bits",
+      "64 bits",
+      "128 bits",
+      "256 bits"
+    ],
+    "answer": "128 bits"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "What does LAN stand for?",
+    "options": [
+      "Local Area Network",
+      "Logical Access Network",
+      "Large Area Node",
+      "Linked Application Network"
+    ],
+    "answer": "Local Area Network"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "What does WAN stand for?",
+    "options": [
+      "Wide Area Network",
+      "Wireless Access Node",
+      "Web Application Network",
+      "Wave Amplitude Network"
+    ],
+    "answer": "Wide Area Network"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "Which modular connector type is standard for twisted-pair Ethernet cables?",
+    "options": [
+      "RJ-11",
+      "RJ-45",
+      "BNC",
+      "SMA"
+    ],
+    "answer": "RJ-45"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "Which application layer protocol is used for encrypted remote terminal access?",
+    "options": [
+      "Telnet",
+      "SSH",
+      "FTP",
+      "SMTP"
+    ],
+    "answer": "SSH"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "Which protocol is used by email clients to send messages to a mail server?",
+    "options": [
+      "POP3",
+      "IMAP",
+      "SMTP",
+      "HTTP"
+    ],
+    "answer": "SMTP"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "Which device operates primarily at Layer 3 (Network Layer) of the OSI model?",
+    "options": [
+      "Repeater",
+      "Bridge",
+      "Switch",
+      "Router"
+    ],
+    "answer": "Router"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "Which diagnostic command tracks the path packets take from host to host across routers?",
+    "options": [
+      "ping",
+      "tracert / traceroute",
+      "netstat",
+      "arp -a"
+    ],
+    "answer": "tracert / traceroute"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "What transmission mode allows data to flow in both directions simultaneously?",
+    "options": [
+      "Simplex",
+      "Half-Duplex",
+      "Full-Duplex",
+      "Multiplex"
+    ],
+    "answer": "Full-Duplex"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "What is the standard port number for SSH?",
+    "options": [
+      "20",
+      "21",
+      "22",
+      "23"
+    ],
+    "answer": "22"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "Which protocol is designed explicitly for uploading and downloading files between clients and servers?",
+    "options": [
+      "FTP",
+      "SNMP",
+      "DNS",
+      "DHCP"
+    ],
+    "answer": "FTP"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "What does NAT stand for in networking?",
+    "options": [
+      "Network Address Translation",
+      "Node Allocation Technology",
+      "Network Access Terminals",
+      "Name Administration Table"
+    ],
+    "answer": "Network Address Translation"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "What does VPN stand for?",
+    "options": [
+      "Virtual Private Network",
+      "Verified Public Node",
+      "Variable Protocol Network",
+      "Virtual Packet Path"
+    ],
+    "answer": "Virtual Private Network"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "What is the default subnet mask for a Class C IPv4 address?",
+    "options": [
+      "255.0.0.0",
+      "255.255.0.0",
+      "255.255.255.0",
+      "255.255.255.255"
+    ],
+    "answer": "255.255.255.0"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "How many usable host addresses are available in a standard /24 IPv4 subnet?",
+    "options": [
+      "256",
+      "255",
+      "254",
+      "252"
+    ],
+    "answer": "254"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "What is the correct sequence of flags in a TCP 3-way handshake connection establishment?",
+    "options": [
+      "SYN, ACK, SYN-ACK",
+      "SYN, SYN-ACK, ACK",
+      "ACK, SYN, ACK-SYN",
+      "FIN, ACK, FIN-ACK"
+    ],
+    "answer": "SYN, SYN-ACK, ACK"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "What is the main purpose of the sliding window mechanism in TCP?",
+    "options": [
+      "Congestion avoidance only",
+      "Flow control to prevent receiver buffer overflow",
+      "Packet fragmentation prevention",
+      "MAC address table updating"
+    ],
+    "answer": "Flow control to prevent receiver buffer overflow"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "Which network protocol is used by the 'ping' utility to send echo requests and receive echo replies?",
+    "options": [
+      "IGMP",
+      "ICMP",
+      "ARP",
+      "TCP"
+    ],
+    "answer": "ICMP"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "Which of the following describes a key operational difference between TCP and UDP?",
+    "options": [
+      "TCP is connectionless and UDP is connection-oriented",
+      "TCP guarantees ordered packet delivery while UDP does not",
+      "UDP includes error recovery and packet retransmission mechanisms",
+      "TCP operates at Layer 3 while UDP operates at Layer 4"
+    ],
+    "answer": "TCP guarantees ordered packet delivery while UDP does not"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "Which transport layer protocol and port number are typically used for standard DNS queries?",
+    "options": [
+      "TCP port 53",
+      "UDP port 53",
+      "UDP port 67",
+      "TCP port 80"
+    ],
+    "answer": "UDP port 53"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "Which range represents RFC 1918 Class A private IP addresses?",
+    "options": [
+      "10.0.0.0 – 10.255.255.255",
+      "172.16.0.0 – 172.31.255.255",
+      "192.168.0.0 – 192.168.255.255",
+      "169.254.0.0 – 169.254.255.255"
+    ],
+    "answer": "10.0.0.0 – 10.255.255.255"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "What CIDR prefix notation corresponds to the subnet mask 255.255.255.192?",
+    "options": [
+      "/25",
+      "/26",
+      "/27",
+      "/28"
+    ],
+    "answer": "/26"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "How does a Layer 2 switch populate its MAC address table?",
+    "options": [
+      "By examining the destination MAC address of incoming frames",
+      "By examining the source MAC address of incoming frames",
+      "By requesting host configurations from the DHCP server",
+      "By broadcasting ICMP Echo Requests periodically"
+    ],
+    "answer": "By examining the source MAC address of incoming frames"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "Which protocol prevents broadcast storms and layer 2 switching loops in redundant topologies?",
+    "options": [
+      "STP (Spanning Tree Protocol)",
+      "OSPF (Open Shortest Path First)",
+      "BGP (Border Gateway Protocol)",
+      "VRRP (Virtual Router Redundancy Protocol)"
+    ],
+    "answer": "STP (Spanning Tree Protocol)"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "Which protocol is an example of a Link-State routing protocol?",
+    "options": [
+      "RIPv2",
+      "EIGRP",
+      "OSPF",
+      "BGP"
+    ],
+    "answer": "OSPF"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "What metric does the Routing Information Protocol (RIP) use to determine optimal paths?",
+    "options": [
+      "Bandwidth",
+      "Delay",
+      "Hop count",
+      "Link cost"
+    ],
+    "answer": "Hop count"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "What metric calculation basis does OSPF use by default?",
+    "options": [
+      "Hop count",
+      "Cost derived from link bandwidth",
+      "AS Path length",
+      "Reliability and load"
+    ],
+    "answer": "Cost derived from link bandwidth"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "Which two TCP ports are reserved for FTP control connection and data transfer respectively?",
+    "options": [
+      "Port 20 (Control) and Port 21 (Data)",
+      "Port 21 (Control) and Port 20 (Data)",
+      "Port 22 (Control) and Port 23 (Data)",
+      "Port 80 (Control) and Port 8080 (Data)"
+    ],
+    "answer": "Port 21 (Control) and Port 20 (Data)"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "What is the four-step exchange process used by DHCP to allocate an IP address?",
+    "options": [
+      "DORA (Discover, Offer, Request, Acknowledge)",
+      "RODA (Request, Offer, Discover, Acknowledge)",
+      "INIT, BIND, ACK, LEASE",
+      "SYN, OFFER, ACK, CONNECT"
+    ],
+    "answer": "DORA (Discover, Offer, Request, Acknowledge)"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "Which protocol is unacknowledged, connectionless, and commonly chosen for low-latency voice over IP (VoIP)?",
+    "options": [
+      "TCP",
+      "UDP",
+      "SCTP",
+      "SSH"
+    ],
+    "answer": "UDP"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "What extension of NAT allows multiple internal private hosts to share a single public IP address using distinct port numbers?",
+    "options": [
+      "Static NAT",
+      "Dynamic NAT without pools",
+      "PAT (Port Address Translation)",
+      "SNMP"
+    ],
+    "answer": "PAT (Port Address Translation)"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "Which access control mechanism is historically associated with legacy half-duplex wired Ethernet networks?",
+    "options": [
+      "CSMA/CA",
+      "CSMA/CD",
+      "Token Passing",
+      "ALOHA"
+    ],
+    "answer": "CSMA/CD"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "Which access mechanism is used in IEEE 802.11 Wi-Fi wireless networks to minimize collisions?",
+    "options": [
+      "CSMA/CD",
+      "CSMA/CA",
+      "Polling",
+      "TDMA"
+    ],
+    "answer": "CSMA/CA"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "What is the primary operational advantage of implementing Virtual Local Area Networks (VLANs)?",
+    "options": [
+      "It eliminates the need for Layer 3 routing entirely",
+      "It logically segments broadcast domains at Layer 2 without physical recabling",
+      "It automatically encrypts all traffic between switch ports",
+      "It increases physical cable bandwidth speeds"
+    ],
+    "answer": "It logically segments broadcast domains at Layer 2 without physical recabling"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "Which IEEE standard defines VLAN tagging on Ethernet frames across trunk links?",
+    "options": [
+      "IEEE 802.1D",
+      "IEEE 802.1Q",
+      "IEEE 802.3",
+      "IEEE 802.11"
+    ],
+    "answer": "IEEE 802.1Q"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "What prefix identifier designates IPv6 Link-Local addresses?",
+    "options": [
+      "2001::/16",
+      "fe80::/10",
+      "fc00::/7",
+      "ff00::/8"
+    ],
+    "answer": "fe80::/10"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "Which ICMP message type is sent when issuing an Echo Request packet?",
+    "options": [
+      "Type 0",
+      "Type 3",
+      "Type 8",
+      "Type 11"
+    ],
+    "answer": "Type 8"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "What field in the TCP header is modified dynamically to perform flow control?",
+    "options": [
+      "Sequence Number",
+      "Acknowledgment Number",
+      "Window Size",
+      "Checksum"
+    ],
+    "answer": "Window Size"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "What is the default Maximum Transmission Unit (MTU) size for standard Ethernet frames payload?",
+    "options": [
+      "576 bytes",
+      "1024 bytes",
+      "1500 bytes",
+      "9000 bytes"
+    ],
+    "answer": "1500 bytes"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "What happens when an IP packet's Time to Live (TTL) value reaches 0 at a router?",
+    "options": [
+      "The router forwards it to the default gateway",
+      "The router discards the packet and sends an ICMP Time Exceeded message to the source",
+      "The router returns the packet to the previous hop",
+      "The router caches the packet until destination acknowledges"
+    ],
+    "answer": "The router discards the packet and sends an ICMP Time Exceeded message to the source"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "Which category of routing protocol does Border Gateway Protocol (BGP) fall under?",
+    "options": [
+      "Interior Gateway Link-State Protocol",
+      "Exterior Path-Vector Routing Protocol",
+      "Interior Distance-Vector Protocol",
+      "Hybrid Multicast Routing Protocol"
+    ],
+    "answer": "Exterior Path-Vector Routing Protocol"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "How many total usable host addresses are supported in a /28 subnet?",
+    "options": [
+      "6",
+      "14",
+      "16",
+      "30"
+    ],
+    "answer": "14"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "In TCP Congestion Control, what happens to the Congestion Window (cwnd) size during the Slow Start phase upon receiving each ACK?",
+    "options": [
+      "Increases linearly by 1 MSS per RTT",
+      "Increases exponentially (doubles cwnd every RTT)",
+      "Remains constant until threshold is reached",
+      "Decreases by half"
+    ],
+    "answer": "Increases exponentially (doubles cwnd every RTT)"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "In TCP congestion control algorithms, what state transition occurs when cwnd reaches the Slow Start Threshold (ssthresh)?",
+    "options": [
+      "Transitions from Congestion Avoidance to Slow Start",
+      "Transitions from Slow Start to Congestion Avoidance (Linear Growth)",
+      "Enters Fast Recovery immediately",
+      "Resets cwnd back to 1 MSS"
+    ],
+    "answer": "Transitions from Slow Start to Congestion Avoidance (Linear Growth)"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "Which BGP path attribute is well-known mandatory and lists the autonomous systems through which a route update has passed?",
+    "options": [
+      "LOCAL_PREF",
+      "AS_PATH",
+      "MED (Multi-Exit Discriminator)",
+      "COMMUNITY"
+    ],
+    "answer": "AS_PATH"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "In original 802.1D Spanning Tree Protocol, what port state processes incoming frames and populates MAC tables without forwarding user data?",
+    "options": [
+      "Blocking",
+      "Listening",
+      "Learning",
+      "Forwarding"
+    ],
+    "answer": "Learning"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "What special designation is assigned to Area 0.0.0.0 in hierarchical OSPF routing?",
+    "options": [
+      "Stub Area",
+      "Backbone Area",
+      "Not-So-Stubby Area (NSSA)",
+      "Totally Stubby Area"
+    ],
+    "answer": "Backbone Area"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "Which mechanism mitigates TCP SYN Flood attacks by avoiding state allocation on server backlogs until ACK completion?",
+    "options": [
+      "SYN Cookies",
+      "TCP Keepalive",
+      "Selective ACK",
+      "Window Scaling"
+    ],
+    "answer": "SYN Cookies"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "In IPv4 packet fragmentation, what unit is used to express the Fragment Offset field in the header?",
+    "options": [
+      "1-byte blocks",
+      "4-byte words",
+      "8-byte blocks",
+      "16-byte blocks"
+    ],
+    "answer": "8-byte blocks"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "Which technique prevents routing loops in Distance Vector protocols by preventing a router from advertising a route back out the same interface it learned it from?",
+    "options": [
+      "Route Poisoning",
+      "Split Horizon",
+      "Hold-down Timers",
+      "Path Prepending"
+    ],
+    "answer": "Split Horizon"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "What condition enables ARP Poisoning / ARP Spoofing attacks on a local area network?",
+    "options": [
+      "Absence of cryptographic authentication in standard ARP request/reply packets",
+      "Failure of routers to pass Layer 2 frames across subnets",
+      "Exhaustion of switch MAC address table memory",
+      "Misconfigured DNS resolvers on client endpoints"
+    ],
+    "answer": "Absence of cryptographic authentication in standard ARP request/reply packets"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "How does TCP Selective Acknowledgment (SACK) improve performance compared to standard Cumulative ACK?",
+    "options": [
+      "Allows receiver to inform sender about all segments received out-of-order, preventing unnecessary retransmission of lost segments",
+      "Increases maximum window size beyond 65,535 bytes",
+      "Eliminates the 3-way handshake entirely",
+      "Encrypts TCP segment headers in transit"
+    ],
+    "answer": "Allows receiver to inform sender about all segments received out-of-order, preventing unnecessary retransmission of lost segments"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "What is the function of DNS64 in combination with NAT64 in IPv6 transition architectures?",
+    "options": [
+      "Synthesizes IPv6 AAAA records from IPv4 A records to enable IPv6-only clients to communicate with IPv4-only servers",
+      "Translates MAC addresses into IPv6 link-local addresses",
+      "Encrypts DNS queries using TLS across dual-stack links",
+      "Maps IPv4 broadcast addresses directly into IPv6 multicast domains"
+    ],
+    "answer": "Synthesizes IPv6 AAAA records from IPv4 A records to enable IPv6-only clients to communicate with IPv4-only servers"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "In Multiprotocol Label Switching (MPLS), what label operation occurs at the Egress Label Edge Router (LER)?",
+    "options": [
+      "Push",
+      "Swap",
+      "Pop",
+      "Prepend"
+    ],
+    "answer": "Pop"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "Which error detection algorithm is computed across Ethernet frame header and payload stored in the Frame Check Sequence (FCS)?",
+    "options": [
+      "MD5 Checksum",
+      "Cyclic Redundancy Check (CRC-32)",
+      "SHA-256 Hash",
+      "Internet Header Checksum"
+    ],
+    "answer": "Cyclic Redundancy Check (CRC-32)"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "What aggregated CIDR prefix represents the summarized route for contiguous subnets 192.168.0.0/24, 192.168.1.0/24, 192.168.2.0/24, and 192.168.3.0/24?",
+    "options": [
+      "192.168.0.0/22",
+      "192.168.0.0/23",
+      "192.168.0.0/21",
+      "192.168.0.0/20"
+    ],
+    "answer": "192.168.0.0/22"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "What is the functional difference between IPsec Authentication Header (AH) and Encapsulating Security Payload (ESP)?",
+    "options": [
+      "AH provides encryption and integrity; ESP provides integrity only",
+      "ESP provides data confidentiality (encryption) along with authentication; AH provides authentication and integrity without encryption",
+      "AH operates at Layer 7; ESP operates at Layer 3",
+      "ESP cannot traverse NAT devices while AH fully supports NAT-Traversal"
+    ],
+    "answer": "ESP provides data confidentiality (encryption) along with authentication; AH provides authentication and integrity without encryption"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "What is the primary purpose of holding a TCP connection in the TIME_WAIT state for 2*MSL (Maximum Segment Lifetime)?",
+    "options": [
+      "To ensure delayed or delayed duplicate packets from the connection expire without causing corruption in subsequent new connections",
+      "To negotiate window scaling options for new streams",
+      "To keep the socket alive during idle periods",
+      "To allow the server to dump log files to disk"
+    ],
+    "answer": "To ensure delayed or delayed duplicate packets from the connection expire without causing corruption in subsequent new connections"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "Why is a /30 subnet mask traditionally used for point-to-point router links in IPv4 networks?",
+    "options": [
+      "It allows 4 usable host IP addresses",
+      "It provides exactly 2 host addresses, minimizing IP address space waste",
+      "It automatically disables Layer 2 broadcast traffic",
+      "It enables automatic link-local address generation"
+    ],
+    "answer": "It provides exactly 2 host addresses, minimizing IP address space waste"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "In OSPF, what is the default tie-breaking criteria for Router ID (RID) selection if an explicit RID is not manually configured?",
+    "options": [
+      "Lowest active physical IP address",
+      "Highest IP address among active loopback interfaces",
+      "Highest MAC address on active interfaces",
+      "Lowest process ID number"
+    ],
+    "answer": "Highest IP address among active loopback interfaces"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "How many bits are allocated to the Differentiated Services Code Point (DSCP) field inside the IPv4 Type of Service byte for QoS classification?",
+    "options": [
+      "2 bits",
+      "3 bits",
+      "6 bits",
+      "8 bits"
+    ],
+    "answer": "6 bits"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "What problem does Nagle's Algorithm solve in TCP communication?",
+    "options": [
+      "Prevents sender from sending very small TCP segments (tinygrams) by buffering outgoing data until an ACK arrives or full MSS is accumulated",
+      "Prevents receiver buffer overflow from fast senders",
+      "Fixes the TCP SYN Flood vulnerability",
+      "Improves DNS resolution times across high-latency links"
+    ],
+    "answer": "Prevents sender from sending very small TCP segments (tinygrams) by buffering outgoing data until an ACK arrives or full MSS is accumulated"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "Virtual eXtensible Local Area Network (VXLAN) encapsulates Layer 2 Ethernet frames inside which transport layer packet protocol?",
+    "options": [
+      "TCP over port 4789",
+      "UDP over port 4789",
+      "GRE over IP port 47",
+      "SCTP over port 500"
+    ],
+    "answer": "UDP over port 4789"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "Why does internal BGP (iBGP) enforce a rule that routes learned from an iBGP peer are not re-advertised to another iBGP peer?",
+    "options": [
+      "To preserve bandwidth on local links",
+      "To prevent routing loops since AS_PATH is not updated within a single Autonomous System",
+      "Because iBGP routers cannot modify next-hop attributes",
+      "To force all internal routers to execute OSPF calculations"
+    ],
+    "answer": "To prevent routing loops since AS_PATH is not updated within a single Autonomous System"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "What event triggers TCP Fast Retransmit before the retransmission timer (RTO) expires?",
+    "options": [
+      "Receipt of 3 duplicate ACK messages for a single segment",
+      "Receipt of an ICMP Destination Unreachable packet",
+      "Explicit ECN congestion notification flag set",
+      "Expiration of the TCP Keepalive timer"
+    ],
+    "answer": "Receipt of 3 duplicate ACK messages for a single segment"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "Which protocol family replaces IPv4 ARP functionality in IPv6 environments?",
+    "options": [
+      "Neighbor Discovery Protocol (NDP) using ICMPv6",
+      "DHCPv6 Discovery Service",
+      "RARPv6 Protocol",
+      "IGMPv3 Multicast Mapping"
+    ],
+    "answer": "Neighbor Discovery Protocol (NDP) using ICMPv6"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "How does Path MTU Discovery (PMTUD) detect the minimum MTU along an end-to-end network path?",
+    "options": [
+      "Sends IP packets with Don't Fragment (DF) bit set and monitors for ICMP Fragmentation Needed responses",
+      "Uses UDP probe packets with incremental TTLs",
+      "Requests MTU configurations from intermediate BGP neighbors",
+      "Leverages TCP Option field 28 during handshake"
+    ],
+    "answer": "Sends IP packets with Don't Fragment (DF) bit set and monitors for ICMP Fragmentation Needed responses"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "How many bytes does the IEEE 802.1Q tag header add to a standard Ethernet frame?",
+    "options": [
+      "2 bytes",
+      "4 bytes",
+      "8 bytes",
+      "12 bytes"
+    ],
+    "answer": "4 bytes"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "What is the primary difference between Leaky Bucket and Token Bucket traffic shaping algorithms?",
+    "options": [
+      "Leaky Bucket outputs data at a rigid, uniform rate; Token Bucket allows bursting at full link capacity up to token capacity limit",
+      "Token Bucket drops all overflow packets instantly while Leaky Bucket buffers everything",
+      "Leaky Bucket is used only at Layer 2 while Token Bucket is used at Layer 7",
+      "Token Bucket enforces delay jitter bounds while Leaky Bucket optimizes throughput"
+    ],
+    "answer": "Leaky Bucket outputs data at a rigid, uniform rate; Token Bucket allows bursting at full link capacity up to token capacity limit"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "In OSPF broadcast networks, what mechanism prevents $n(n-1)/2$ full adjacency relationships from forming between routers on the link?",
+    "options": [
+      "Election of a Designated Router (DR) and Backup Designated Router (BDR)",
+      "Configuration of Split Horizon with Poison Reverse",
+      "Enforcement of BGP Confederation peers",
+      "Use of Virtual-Links through Area 0"
+    ],
+    "answer": "Election of a Designated Router (DR) and Backup Designated Router (BDR)"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "What rule does Karn's Algorithm specify for TCP retransmission timeout (RTO) calculations?",
+    "options": [
+      "Do not measure Round Trip Time (RTT) samples for retransmitted segments when updating RTT estimates",
+      "Multiply ssthresh by 2 upon receiving duplicate ACKs",
+      "Reset TCP window size to zero whenever timer expires",
+      "Ignore ACKs received out-of-order"
+    ],
+    "answer": "Do not measure Round Trip Time (RTT) samples for retransmitted segments when updating RTT estimates"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "What is Anycast routing?",
+    "options": [
+      "Routing mechanism where traffic from a client is routed to the topologically nearest endpoint node sharing a single unicast IP address",
+      "Transmitting data to every device on a subnet simultaneously",
+      "Forwarding traffic through multiple encrypted tunnels concurrently",
+      "Routing packets based strictly on geographic GPS coordinates"
+    ],
+    "answer": "Routing mechanism where traffic from a client is routed to the topologically nearest endpoint node sharing a single unicast IP address"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "What is the minimal IP/GRE header overhead added when encapsulating an IP packet inside a standard Generic Routing Encapsulation (GRE) tunnel?",
+    "options": [
+      "8 bytes",
+      "24 bytes",
+      "40 bytes",
+      "64 bytes"
+    ],
+    "answer": "24 bytes"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "Given an IP address 172.16.35.123 with subnet mask 255.255.240.0 (/20), what is the calculated network broadcast address?",
+    "options": [
+      "172.16.35.255",
+      "172.16.47.255",
+      "172.16.31.255",
+      "172.16.255.255"
+    ],
+    "answer": "172.16.47.255"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "How do TCP Keepalive probes detect dead peer connections on idle sockets?",
+    "options": [
+      "Sends empty ACK segments with sequence number equal to current sequence number minus 1 and checks for ACK response",
+      "Performs full 3-way handshake re-negotiation every 60 seconds",
+      "Sends ICMP Echo Requests over Layer 3",
+      "Queries local DNS cache for hostname updates"
+    ],
+    "answer": "Sends empty ACK segments with sequence number equal to current sequence number minus 1 and checks for ACK response"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "What mechanism allows a DHCP Relay Agent to forward client broadcast DHCPDISCOVER requests to a remote DHCP server on a different subnet?",
+    "options": [
+      "Converts Layer 2 broadcasts to Layer 3 unicast packets directed to the server IP via Relay Agent (giaddr field)",
+      "Creates an IPsec tunnel between host and DHCP server",
+      "Rewrites client MAC address with router interface MAC",
+      "Stores local IP address pools inside router cache memory"
+    ],
+    "answer": "Converts Layer 2 broadcasts to Layer 3 unicast packets directed to the server IP via Relay Agent (giaddr field)"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "In STP, what criteria breaks a tie when electing the Root Bridge if all switches have the same configured Bridge Priority value?",
+    "options": [
+      "Lowest physical MAC address",
+      "Highest physical MAC address",
+      "Number of active physical ports",
+      "Uptime length of the switch"
+    ],
+    "answer": "Lowest physical MAC address"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "Which statement accurately describes IPv6 Extension Headers processing?",
+    "options": [
+      "Extension headers are inserted between IPv6 fixed header and upper-layer payload, inspected sequentially by routers only if Hop-by-Hop option is set",
+      "Every intermediate router along path must decode all extension headers",
+      "Extension headers replace TCP/UDP headers entirely",
+      "Only 1 extension header can be attached per packet"
+    ],
+    "answer": "Extension headers are inserted between IPv6 fixed header and upper-layer payload, inspected sequentially by routers only if Hop-by-Hop option is set"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "What is the primary function of Bidirectional Forwarding Detection (BFD)?",
+    "options": [
+      "Provides sub-second fault detection for link paths between routing peers independent of specific routing protocol timers",
+      "Calculates link costs based on realtime latency metrics",
+      "Detects duplicate MAC addresses on trunk interfaces",
+      "Encrypts Layer 2 frames across point-to-point links"
+    ],
+    "answer": "Provides sub-second fault detection for link paths between routing peers independent of specific routing protocol timers"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "Where are Explicit Congestion Notification (ECN) bits located in network protocol headers?",
+    "options": [
+      "Traffic Class / Type of Service (ToS) field in IP header and TCP Flags header",
+      "Ethernet Frame Header Tag",
+      "UDP Header Reserved bits",
+      "ICMP Type field"
+    ],
+    "answer": "Traffic Class / Type of Service (ToS) field in IP header and TCP Flags header"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "Which DNSSEC record type contains the cryptographic signature for a DNS record set?",
+    "options": [
+      "DNSKEY",
+      "RRSIG",
+      "DS",
+      "NSEC"
+    ],
+    "answer": "RRSIG"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "What causes Head-of-Line (HoL) blocking in standard HTTP/2 implementation over a single TCP connection?",
+    "options": [
+      "Loss of a single TCP packet halts processing of all multiplexed streams until packet retransmission succeeds",
+      "Slow client rendering engines blocking server writes",
+      "DNS resolution delays on subdomains",
+      "TLS handshake re-negotiation overhead"
+    ],
+    "answer": "Loss of a single TCP packet halts processing of all multiplexed streams until packet retransmission succeeds"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "Which transport layer protocol forms the underlying foundation for HTTP/3 and QUIC?",
+    "options": [
+      "TCP",
+      "UDP",
+      "SCTP",
+      "DCCP"
+    ],
+    "answer": "UDP"
+  }
+]

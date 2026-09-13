@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "Who is known as the 'Father of the Indian Constitution'?",
+    "options": [
+      "Mahatma Gandhi",
+      "Dr. B.R. Ambedkar",
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel"
+    ],
+    "answer": "Dr. B.R. Ambedkar"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "On which date was the Constitution of India officially adopted by the Constituent Assembly?",
+    "options": [
+      "15th August 1947",
+      "26th November 1949",
+      "26th January 1950",
+      "2nd October 1948"
+    ],
+    "answer": "26th November 1949"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "Which day is celebrated as Republic Day in India?",
+    "options": [
+      "26th January",
+      "15th August",
+      "26th November",
+      "2nd October"
+    ],
+    "answer": "26th January"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "What is the supreme law of India?",
+    "options": [
+      "Indian Penal Code",
+      "Constitution of India",
+      "Supreme Court Judgments",
+      "Parliamentary Acts"
+    ],
+    "answer": "Constitution of India"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "How many Fundamental Rights were originally provided in the Constitution of India?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "7"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "Who was the elected President of the Constituent Assembly?",
+    "options": [
+      "Dr. Rajendra Prasad",
+      "Dr. B.R. Ambedkar",
+      "Sachchidananda Sinha",
+      "C. Rajagopalachari"
+    ],
+    "answer": "Dr. Rajendra Prasad"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "What is the minimum age requirement to become the President of India?",
+    "options": [
+      "25 years",
+      "30 years",
+      "35 years",
+      "40 years"
+    ],
+    "answer": "35 years"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "Which Article of the Indian Constitution abolishes 'Untouchability'?",
+    "options": [
+      "Article 14",
+      "Article 15",
+      "Article 17",
+      "Article 19"
+    ],
+    "answer": "Article 17"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "Who is the Constitutional Head of the Executive in India?",
+    "options": [
+      "Prime Minister",
+      "President",
+      "Chief Justice of India",
+      "Vice-President"
+    ],
+    "answer": "President"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "What is the lower house of the Indian Parliament called?",
+    "options": [
+      "Rajya Sabha",
+      "Lok Sabha",
+      "Vidhan Sabha",
+      "Legislative Council"
+    ],
+    "answer": "Lok Sabha"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "What is the upper house of the Indian Parliament called?",
+    "options": [
+      "Lok Sabha",
+      "Rajya Sabha",
+      "Vidhan Parishad",
+      "Central Assembly"
+    ],
+    "answer": "Rajya Sabha"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "What is the term duration of the Lok Sabha under normal circumstances?",
+    "options": [
+      "4 years",
+      "5 years",
+      "6 years",
+      "3 years"
+    ],
+    "answer": "5 years"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "Who administers the oath of office to the President of India?",
+    "options": [
+      "Prime Minister",
+      "Chief Justice of India",
+      "Vice-President",
+      "Speaker of Lok Sabha"
+    ],
+    "answer": "Chief Justice of India"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "In which city does the Supreme Court of India sit?",
+    "options": [
+      "Mumbai",
+      "Kolkata",
+      "New Delhi",
+      "Chennai"
+    ],
+    "answer": "New Delhi"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "Which Part of the Indian Constitution deals with Fundamental Rights?",
+    "options": [
+      "Part I",
+      "Part II",
+      "Part III",
+      "Part IV"
+    ],
+    "answer": "Part III"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "What is the minimum voting age for Indian citizens in general elections?",
+    "options": [
+      "16 years",
+      "18 years",
+      "21 years",
+      "25 years"
+    ],
+    "answer": "18 years"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "Who presides over the joint sitting of both Houses of Parliament?",
+    "options": [
+      "President of India",
+      "Chairman of Rajya Sabha",
+      "Speaker of Lok Sabha",
+      "Prime Minister"
+    ],
+    "answer": "Speaker of Lok Sabha"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "Which Article guarantees Equality before Law to all citizens?",
+    "options": [
+      "Article 12",
+      "Article 14",
+      "Article 19",
+      "Article 21"
+    ],
+    "answer": "Article 14"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "How many total Schedules were there originally in the Indian Constitution?",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "How many Schedules are currently present in the Indian Constitution?",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "15"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "Who acts as the ex-officio Chairman of the Rajya Sabha?",
+    "options": [
+      "President of India",
+      "Vice-President of India",
+      "Prime Minister",
+      "Speaker of Lok Sabha"
+    ],
+    "answer": "Vice-President of India"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "Which fundamental right is called the 'Heart and Soul of the Constitution' by Dr. B.R. Ambedkar?",
+    "options": [
+      "Right to Equality",
+      "Right to Freedom",
+      "Right to Constitutional Remedies",
+      "Right to Freedom of Religion"
+    ],
+    "answer": "Right to Constitutional Remedies"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "What kind of citizenship does the Indian Constitution provide?",
+    "options": [
+      "Dual Citizenship",
+      "Single Citizenship",
+      "Regional Citizenship",
+      "Triple Citizenship"
+    ],
+    "answer": "Single Citizenship"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "Who appoints the Chief Justice of India?",
+    "options": [
+      "Prime Minister",
+      "President of India",
+      "Parliament",
+      "Law Minister"
+    ],
+    "answer": "President of India"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "Which fundamental right was removed by the 44th Constitutional Amendment Act, 1978?",
+    "options": [
+      "Right to Property",
+      "Right to Freedom",
+      "Right to Equality",
+      "Right against Exploitation"
+    ],
+    "answer": "Right to Property"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "What is the introductive preface statement to the Indian Constitution called?",
+    "options": [
+      "Preamble",
+      "Articles",
+      "Schedules",
+      "Amendments"
+    ],
+    "answer": "Preamble"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "Who was the chairman of the Drafting Committee of the Constituent Assembly?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Dr. B.R. Ambedkar",
+      "K.M. Munshi",
+      "Sardar Patel"
+    ],
+    "answer": "Dr. B.R. Ambedkar"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "Directive Principles of State Policy (DPSP) are borrowed from the constitution of which country?",
+    "options": [
+      "USA",
+      "Ireland",
+      "UK",
+      "USSR"
+    ],
+    "answer": "Ireland"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "Which Article gives the right to Protection of life and personal liberty?",
+    "options": [
+      "Article 19",
+      "Article 20",
+      "Article 21",
+      "Article 22"
+    ],
+    "answer": "Article 21"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "Who appoints the Governor of an Indian State?",
+    "options": [
+      "Chief Minister",
+      "President of India",
+      "Prime Minister",
+      "Chief Justice of High Court"
+    ],
+    "answer": "President of India"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "By which Constitutional Amendment were the terms 'Socialist', 'Secular', and 'Integrity' added to the Preamble?",
+    "options": [
+      "42nd Amendment",
+      "44th Amendment",
+      "86th Amendment",
+      "73rd Amendment"
+    ],
+    "answer": "42nd Amendment"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "Fundamental Duties were added to the Constitution based on the recommendations of which committee?",
+    "options": [
+      "Sarkaria Commission",
+      "Swaran Singh Committee",
+      "Verma Committee",
+      "Balwant Rai Mehta Committee"
+    ],
+    "answer": "Swaran Singh Committee"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "Which Article allows the President to proclaim a National Emergency in India?",
+    "options": [
+      "Article 352",
+      "Article 356",
+      "Article 360",
+      "Article 368"
+    ],
+    "answer": "Article 352"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "Article 356 of the Constitution deals with which type of emergency?",
+    "options": [
+      "National Emergency",
+      "President's Rule (State Emergency)",
+      "Financial Emergency",
+      "Health Emergency"
+    ],
+    "answer": "President's Rule (State Emergency)"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "Which Article gives Parliament the power to amend the Constitution?",
+    "options": [
+      "Article 352",
+      "Article 360",
+      "Article 368",
+      "Article 370"
+    ],
+    "answer": "Article 368"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "In which year was the 42nd Constitutional Amendment Act enacted?",
+    "options": [
+      "1975",
+      "1976",
+      "1978",
+      "1980"
+    ],
+    "answer": "1976"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "Which Constitutional Amendment reduced the voting age from 21 years to 18 years?",
+    "options": [
+      "44th Amendment",
+      "61st Amendment",
+      "73rd Amendment",
+      "86th Amendment"
+    ],
+    "answer": "61st Amendment"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "Which Article guarantees the Right to Education (RTE) as a Fundamental Right for children aged 6 to 14?",
+    "options": [
+      "Article 19A",
+      "Article 21A",
+      "Article 45",
+      "Article 51A"
+    ],
+    "answer": "Article 21A"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "Which Amendment added Panchayati Raj Institutions to the Constitution as Part IX?",
+    "options": [
+      "71st Amendment",
+      "72nd Amendment",
+      "73rd Amendment",
+      "74th Amendment"
+    ],
+    "answer": "73rd Amendment"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "Which Schedule contains the Anti-Defection Law?",
+    "options": [
+      "8th Schedule",
+      "9th Schedule",
+      "10th Schedule",
+      "11th Schedule"
+    ],
+    "answer": "10th Schedule"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "Who was the Constitutional Advisor to the Constituent Assembly during drafting?",
+    "options": [
+      "B.N. Rau",
+      "K.M. Munshi",
+      "S.N. Mukherjee",
+      "Alladi Krishnaswamy Ayyar"
+    ],
+    "answer": "B.N. Rau"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "Which Schedule lists the official languages recognized by the Constitution?",
+    "options": [
+      "7th Schedule",
+      "8th Schedule",
+      "9th Schedule",
+      "12th Schedule"
+    ],
+    "answer": "8th Schedule"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "How many official languages are currently listed in the 8th Schedule of the Constitution?",
+    "options": [
+      "18",
+      "20",
+      "22",
+      "24"
+    ],
+    "answer": "22"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "Which concept in the Indian Constitution is borrowed from the United States Constitution?",
+    "options": [
+      "Parliamentary System",
+      "Judicial Review",
+      "Directive Principles",
+      "Single Citizenship"
+    ],
+    "answer": "Judicial Review"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "Who has the power to issue Writs under Article 226 of the Constitution?",
+    "options": [
+      "Supreme Court",
+      "High Courts",
+      "District Courts",
+      "Tribunals"
+    ],
+    "answer": "High Courts"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "Under which Article can the Supreme Court issue Writs for fundamental rights enforcement?",
+    "options": [
+      "Article 32",
+      "Article 131",
+      "Article 136",
+      "Article 226"
+    ],
+    "answer": "Article 32"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "Which constitutional body is established under Article 280 to recommend tax distribution between Union and States?",
+    "options": [
+      "NITI Aayog",
+      "Finance Commission",
+      "GST Council",
+      "Election Commission"
+    ],
+    "answer": "Finance Commission"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "Under Article 76, who holds the position of the chief legal advisor to the Government of India?",
+    "options": [
+      "Solicitor General",
+      "Attorney General for India",
+      "Law Secretary",
+      "Advocate General"
+    ],
+    "answer": "Attorney General for India"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "Which Article provides for the establishment of the Election Commission of India?",
+    "options": [
+      "Article 280",
+      "Article 315",
+      "Article 324",
+      "Article 343"
+    ],
+    "answer": "Article 324"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "Which Article provides for the Comptroller and Auditor General (CAG) of India?",
+    "options": [
+      "Article 148",
+      "Article 152",
+      "Article 280",
+      "Article 312"
+    ],
+    "answer": "Article 148"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "Which Part of the Constitution deals with Municipalities (74th Amendment)?",
+    "options": [
+      "Part IX",
+      "Part IX-A",
+      "Part IX-B",
+      "Part X"
+    ],
+    "answer": "Part IX-A"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "What is the maximum gap allowed between two sessions of Parliament?",
+    "options": [
+      "3 months",
+      "6 months",
+      "9 months",
+      "1 year"
+    ],
+    "answer": "6 months"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "Which Article mandates a Uniform Civil Code (UCC) for citizens throughout India?",
+    "options": [
+      "Article 40",
+      "Article 44",
+      "Article 48",
+      "Article 50"
+    ],
+    "answer": "Article 44"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "In which Part of the Constitution are Directive Principles of State Policy listed?",
+    "options": [
+      "Part II",
+      "Part III",
+      "Part IV",
+      "Part IV-A"
+    ],
+    "answer": "Part IV"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "Which Part of the Constitution outlines the Fundamental Duties?",
+    "options": [
+      "Part III",
+      "Part IV",
+      "Part IV-A",
+      "Part V"
+    ],
+    "answer": "Part IV-A"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "What total number of Fundamental Duties are prescribed under Article 51A today?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "answer": "11"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "The 7th Schedule of the Constitution deals with which of the following?",
+    "options": [
+      "Allocation of Seats in Rajya Sabha",
+      "Division of powers between Union and States",
+      "Oaths and Affirmations",
+      "Emoluments and Allowances"
+    ],
+    "answer": "Division of powers between Union and States"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "How many members are nominated by the President of India to the Rajya Sabha?",
+    "options": [
+      "2",
+      "10",
+      "12",
+      "15"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "In case of a tie during voting in Lok Sabha, who casts the decisive casting vote?",
+    "options": [
+      "Prime Minister",
+      "Speaker of Lok Sabha",
+      "President",
+      "Leader of Opposition"
+    ],
+    "answer": "Speaker of Lok Sabha"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "Money Bills can be introduced exclusively in which house of Parliament?",
+    "options": [
+      "Lok Sabha only",
+      "Rajya Sabha only",
+      "Either House",
+      "Joint Sitting of Parliament"
+    ],
+    "answer": "Lok Sabha only"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "In which landmark case did the Supreme Court propound the 'Basic Structure Doctrine'?",
+    "options": [
+      "Golaknath v. State of Punjab",
+      "Kesavananda Bharati v. State of Kerala",
+      "Minerva Mills v. Union of India",
+      "Maneka Gandhi v. Union of India"
+    ],
+    "answer": "Kesavananda Bharati v. State of Kerala"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "Which Supreme Court ruling held that the Preamble is an integral part of the Constitution and can be amended without altering its basic structure?",
+    "options": [
+      "Berubari Union Case (1960)",
+      "Kesavananda Bharati Case (1973)",
+      "AK Gopalan Case (1950)",
+      "S.R. Bommai Case (1994)"
+    ],
+    "answer": "Kesavananda Bharati Case (1973)"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "Which Article provides Original Jurisdiction to the Supreme Court in disputes between the Union and States?",
+    "options": [
+      "Article 131",
+      "Article 132",
+      "Article 136",
+      "Article 143"
+    ],
+    "answer": "Article 131"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "Under which Article can the President seek Advisory Jurisdiction from the Supreme Court?",
+    "options": [
+      "Article 123",
+      "Article 131",
+      "Article 141",
+      "Article 143"
+    ],
+    "answer": "Article 143"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "Which Writ literally translates to 'We Command' in Latin?",
+    "options": [
+      "Habeas Corpus",
+      "Mandamus",
+      "Quo-Warranto",
+      "Certiorari"
+    ],
+    "answer": "Mandamus"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "Which Writ is issued by a higher court to quash an order already passed by an inferior court or tribunal?",
+    "options": [
+      "Prohibition",
+      "Certiorari",
+      "Mandamus",
+      "Habeas Corpus"
+    ],
+    "answer": "Certiorari"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "Which Constitutional Article empowers the President to issue Ordinances during parliamentary recess?",
+    "options": [
+      "Article 110",
+      "Article 123",
+      "Article 213",
+      "Article 249"
+    ],
+    "answer": "Article 123"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "Which Article empowers a Governor to promulgate Ordinances when the State Legislature is not in session?",
+    "options": [
+      "Article 123",
+      "Article 163",
+      "Article 213",
+      "Article 226"
+    ],
+    "answer": "Article 213"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "What majority is required under Article 61 for the impeachment of the President of India?",
+    "options": [
+      "Simple Majority of members present and voting",
+      "Absolute Majority of total membership",
+      "2/3rd majority of the total membership of each House",
+      "2/3rd majority of members present and voting"
+    ],
+    "answer": "2/3rd majority of the total membership of each House"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "In which case did the Supreme Court lay down guidelines against the arbitrary imposition of President's Rule under Article 356?",
+    "options": [
+      "Minerva Mills Case",
+      "S.R. Bommai v. Union of India",
+      "I.R. Coelho Case",
+      "Waman Rao Case"
+    ],
+    "answer": "S.R. Bommai v. Union of India"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "Which Article provides for the creation or abolition of Legislative Councils (Vidhan Parishad) in States?",
+    "options": [
+      "Article 168",
+      "Article 169",
+      "Article 170",
+      "Article 171"
+    ],
+    "answer": "Article 169"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "Which landmark judgment expanded Article 21 to include 'Right to Privacy' as a Fundamental Right?",
+    "options": [
+      "K.S. Puttaswamy v. Union of India",
+      "Navtej Singh Johar v. Union of India",
+      "Shreya Singhal v. Union of India",
+      "Shayara Bano v. Union of India"
+    ],
+    "answer": "K.S. Puttaswamy v. Union of India"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "The 91st Constitutional Amendment Act (2003) restricted the size of the Council of Ministers to what percentage of the Lok Sabha/Assembly strength?",
+    "options": [
+      "10%",
+      "12%",
+      "15%",
+      "20%"
+    ],
+    "answer": "15%"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "Which Schedule was added by the 1st Constitutional Amendment Act, 1951 to protect land reform laws from judicial review?",
+    "options": [
+      "8th Schedule",
+      "9th Schedule",
+      "10th Schedule",
+      "11th Schedule"
+    ],
+    "answer": "9th Schedule"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "Under Article 249, Rajya Sabha can pass a resolution empowering Parliament to legislate on a State List subject in national interest by what majority?",
+    "options": [
+      "Simple majority of present members",
+      "2/3rd majority of members present and voting",
+      "Absolute majority of total membership",
+      "Unanimous resolution"
+    ],
+    "answer": "2/3rd majority of members present and voting"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "Which Article defines 'Money Bills' in the Parliament of India?",
+    "options": [
+      "Article 109",
+      "Article 110",
+      "Article 112",
+      "Article 117"
+    ],
+    "answer": "Article 110"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "Which Article provides for the establishment of All-India Services (like IAS, IPS, and IFS)?",
+    "options": [
+      "Article 309",
+      "Article 312",
+      "Article 315",
+      "Article 320"
+    ],
+    "answer": "Article 312"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "The concept of 'Procedure Established by Law' in Article 21 was transformed into 'Due Process of Law' by Supreme Court in which case?",
+    "options": [
+      "AK Gopalan Case (1950)",
+      "Maneka Gandhi v. Union of India (1978)",
+      "Minerva Mills Case (1980)",
+      "Kishore Singh Case (1981)"
+    ],
+    "answer": "Maneka Gandhi v. Union of India (1978)"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "Which Article contains provisions for Financial Emergency in India?",
+    "options": [
+      "Article 352",
+      "Article 356",
+      "Article 360",
+      "Article 365"
+    ],
+    "answer": "Article 360"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "Which Article empowers Parliament to establish Administrative Tribunals?",
+    "options": [
+      "Article 323A",
+      "Article 323B",
+      "Article 263",
+      "Article 280"
+    ],
+    "answer": "Article 323A"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "In which doctrine does the Supreme Court check whether an enactment in substance falls under a legislature's jurisdiction regardless of incidental encroachment?",
+    "options": [
+      "Doctrine of Severability",
+      "Doctrine of Pith and Substance",
+      "Doctrine of Eclipse",
+      "Doctrine of Colorable Legislation"
+    ],
+    "answer": "Doctrine of Pith and Substance"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "Which constitutional amendment added the 11th Schedule containing 29 functional items of Panchayats?",
+    "options": [
+      "73rd Amendment",
+      "74th Amendment",
+      "86th Amendment",
+      "91st Amendment"
+    ],
+    "answer": "73rd Amendment"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "Which Constitutional Amendment added Part IX-B dealing with Co-operative Societies?",
+    "options": [
+      "86th Amendment",
+      "91st Amendment",
+      "97th Amendment",
+      "99th Amendment"
+    ],
+    "answer": "97th Amendment"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "Under which Article can the Union Executive issue directives to States, non-compliance with which can invite Article 356?",
+    "options": [
+      "Article 256",
+      "Article 257",
+      "Article 365",
+      "Article 355"
+    ],
+    "answer": "Article 365"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "Which landmark judgment ruled that laws placed in the 9th Schedule after April 24, 1973, are open to judicial review?",
+    "options": [
+      "Minerva Mills v. Union of India",
+      "I.R. Coelho v. State of Tamil Nadu",
+      "Golaknath v. State of Punjab",
+      "Indra Sawhney v. Union of India"
+    ],
+    "answer": "I.R. Coelho v. State of Tamil Nadu"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "Who presided over the inaugural temporary meeting of the Constituent Assembly on December 9, 1946?",
+    "options": [
+      "Dr. Sachchidananda Sinha",
+      "Dr. Rajendra Prasad",
+      "Dr. B.R. Ambedkar",
+      "H.C. Mookerjee"
+    ],
+    "answer": "Dr. Sachchidananda Sinha"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "The 86th Constitutional Amendment Act, 2002 added a fundamental duty under Article 51A. Which letter sub-clause represents this duty?",
+    "options": [
+      "Article 51A(j)",
+      "Article 51A(k)",
+      "Article 51A(i)",
+      "Article 51A(h)"
+    ],
+    "answer": "Article 51A(k)"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "Which Commission was appointed in 1983 to examine the working of Union-State relations in India?",
+    "options": [
+      "Punchhi Commission",
+      "Sarkaria Commission",
+      "Kothari Commission",
+      "Thungon Committee"
+    ],
+    "answer": "Sarkaria Commission"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "Under which Article can the Parliament set up an Inter-State Council?",
+    "options": [
+      "Article 262",
+      "Article 263",
+      "Article 280",
+      "Article 300A"
+    ],
+    "answer": "Article 263"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "Article 262 deals with which specific constitutional subject?",
+    "options": [
+      "Adjudication of disputes relating to waters of inter-state rivers",
+      "Inter-State Trade and Commerce",
+      "Finance Commission Grants",
+      "Consolidated Fund of India"
+    ],
+    "answer": "Adjudication of disputes relating to waters of inter-state rivers"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "In which case did the Supreme Court fix the 50% cap on reservations for backward classes?",
+    "options": [
+      "M. Nagaraj Case",
+      "Indra Sawhney v. Union of India",
+      "Jarnail Singh Case",
+      "Ashoka Kumar Thakur Case"
+    ],
+    "answer": "Indra Sawhney v. Union of India"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "Which Article of the Constitution gives immunity to the President and Governors from criminal proceedings during their term of office?",
+    "options": [
+      "Article 360",
+      "Article 361",
+      "Article 363",
+      "Article 366"
+    ],
+    "answer": "Article 361"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "Which Constitutional Amendment Act created the Goods and Services Tax (GST) Council under Article 279A?",
+    "options": [
+      "99th Amendment",
+      "100th Amendment",
+      "101st Amendment",
+      "102nd Amendment"
+    ],
+    "answer": "101st Amendment"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "Which Article mandates that all proceedings in the Supreme Court and every High Court shall be in the English language until Parliament provides otherwise?",
+    "options": [
+      "Article 343",
+      "Article 345",
+      "Article 348",
+      "Article 351"
+    ],
+    "answer": "Article 348"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "The concept of 'Residuary Powers' vested in the Centre in the Indian Constitution is borrowed from which country?",
+    "options": [
+      "USA",
+      "Canada",
+      "Australia",
+      "Britain"
+    ],
+    "answer": "Canada"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "Which Article guarantees constitutional protection against arrest and detention in certain cases?",
+    "options": [
+      "Article 20",
+      "Article 21",
+      "Article 22",
+      "Article 23"
+    ],
+    "answer": "Article 22"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "Under which Article can the High Courts exercise powers of superintendence over all subordinate courts within their territorial jurisdiction?",
+    "options": [
+      "Article 226",
+      "Article 227",
+      "Article 233",
+      "Article 235"
+    ],
+    "answer": "Article 227"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "Which Article provides that 'Laws inconsistent with or in derogation of the Fundamental Rights shall be void'?",
+    "options": [
+      "Article 12",
+      "Article 13",
+      "Article 32",
+      "Article 141"
+    ],
+    "answer": "Article 13"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "Which Constitutional Amendment granted constitutional status to the National Commission for Backward Classes (NCBC)?",
+    "options": [
+      "102nd Amendment",
+      "103rd Amendment",
+      "104th Amendment",
+      "105th Amendment"
+    ],
+    "answer": "102nd Amendment"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "In the Constitution of India, what is the Maximum permissible strength of the Lok Sabha as per Article 81?",
+    "options": [
+      "545",
+      "550",
+      "552",
+      "560"
+    ],
+    "answer": "550"
+  }
+]

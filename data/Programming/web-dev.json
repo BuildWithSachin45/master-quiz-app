@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "Which HTML element is used to define the largest heading?",
+    "options": [
+      "<head>",
+      "<h6>",
+      "<h1>",
+      "<heading>"
+    ],
+    "answer": "<h1>"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "Which CSS property is used to change the background color of an element?",
+    "options": [
+      "color",
+      "bgcolor",
+      "background-color",
+      "canvas-color"
+    ],
+    "answer": "background-color"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "Which HTTP status code represents a successful request?",
+    "options": [
+      "200 OK",
+      "301 Moved Permanently",
+      "404 Not Found",
+      "500 Internal Server Error"
+    ],
+    "answer": "200 OK"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "Which tag is used to embed an external JavaScript file in HTML?",
+    "options": [
+      "<script>",
+      "<js>",
+      "<javascript>",
+      "<link>"
+    ],
+    "answer": "<script>"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "Which HTML attribute provides alternative text for an image if it cannot be displayed?",
+    "options": [
+      "title",
+      "alt",
+      "src",
+      "description"
+    ],
+    "answer": "alt"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "In CSS, which selector targets an element with a specific ID?",
+    "options": [
+      ".",
+      "#",
+      "*",
+      ":"
+    ],
+    "answer": "#"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "Which Bootstrap class makes an image responsive?",
+    "options": [
+      ".img-responsive",
+      ".img-fluid",
+      ".responsive-img",
+      ".img-auto"
+    ],
+    "answer": ".img-fluid"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "What does SQL stand for in database management?",
+    "options": [
+      "Structured Query Language",
+      "Sequential Query List",
+      "Simple Question Language",
+      "System Query Logic"
+    ],
+    "answer": "Structured Query Language"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "Which sign is used to declare variables in PHP?",
+    "options": [
+      "var",
+      "&",
+      "$",
+      "#"
+    ],
+    "answer": "$"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "Which command initializes a new Node.js project and creates a package.json file?",
+    "options": [
+      "node init",
+      "npm start",
+      "npm init -y",
+      "npm create-app"
+    ],
+    "answer": "npm init -y"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "Which MongoDB command displays all available databases?",
+    "options": [
+      "show dbs",
+      "list databases",
+      "get dbs",
+      "display all"
+    ],
+    "answer": "show dbs"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "In React, what hook is used to manage state inside a functional component?",
+    "options": [
+      "useEffect",
+      "useContext",
+      "useState",
+      "useReducer"
+    ],
+    "answer": "useState"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "Which keyword is used to declare a block-scoped variable in modern JavaScript?",
+    "options": [
+      "var",
+      "let",
+      "set",
+      "dim"
+    ],
+    "answer": "let"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "Which element is used to create a hyperlink in HTML?",
+    "options": [
+      "<link>",
+      "<a>",
+      "<href>",
+      "<url>"
+    ],
+    "answer": "<a>"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "Which CSS unit is relative to the root element's font size?",
+    "options": [
+      "em",
+      "rem",
+      "px",
+      "vh"
+    ],
+    "answer": "rem"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "In Node.js, which built-in module is used to work with file paths?",
+    "options": [
+      "fs",
+      "path",
+      "http",
+      "url"
+    ],
+    "answer": "path"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "Which HTML5 element is used to specify a footer for a document or section?",
+    "options": [
+      "<bottom>",
+      "<footer>",
+      "<end>",
+      "<section-footer>"
+    ],
+    "answer": "<footer>"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "Which standard HTTP method is typically used to update existing data on a server?",
+    "options": [
+      "GET",
+      "POST",
+      "PUT",
+      "DELETE"
+    ],
+    "answer": "PUT"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "What is the primary function of Express.js in web development?",
+    "options": [
+      "Frontend rendering framework",
+      "CSS preprocessor",
+      "Node.js web application framework",
+      "Database engine"
+    ],
+    "answer": "Node.js web application framework"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "Which MongoDB data format is used to store documents under the hood?",
+    "options": [
+      "JSON",
+      "BSON",
+      "XML",
+      "YAML"
+    ],
+    "answer": "BSON"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "Which React feature allows passing data down the component tree without passing props manually at every level?",
+    "options": [
+      "Redux",
+      "Context API",
+      "Props Drilling",
+      "State Lift"
+    ],
+    "answer": "Context API"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "In CSS Flexbox, which property defines the main alignment axis of items?",
+    "options": [
+      "align-items",
+      "justify-content",
+      "flex-direction",
+      "align-content"
+    ],
+    "answer": "justify-content"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "Which PHP superglobal variable is used to collect form data submitted via HTTP POST?",
+    "options": [
+      "$_GET",
+      "$_POST",
+      "$_REQUEST",
+      "$_SERVER"
+    ],
+    "answer": "$_POST"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "Which Bootstrap class is used to create a container with a fixed maximum width for responsive layouts?",
+    "options": [
+      ".container-fluid",
+      ".container",
+      ".wrapper",
+      ".box-container"
+    ],
+    "answer": ".container"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "What does API stand for in software development?",
+    "options": [
+      "Application Programming Interface",
+      "Automated Processing Integration",
+      "Application Portal Interconnect",
+      "Advanced Programming Instruction"
+    ],
+    "answer": "Application Programming Interface"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "Which HTML element is used to render an unordered bulleted list?",
+    "options": [
+      "<ol>",
+      "<ul>",
+      "<li>",
+      "<list>"
+    ],
+    "answer": "<ul>"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "Which HTTP status code indicates that a resource was not found on the server?",
+    "options": [
+      "400",
+      "401",
+      "403",
+      "404"
+    ],
+    "answer": "404"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "In JavaScript, which operator compares both value and type for equality?",
+    "options": [
+      "==",
+      "===",
+      "=",
+      "!="
+    ],
+    "answer": "==="
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "Which Git command clones an existing repository onto your local machine?",
+    "options": [
+      "git copy",
+      "git clone",
+      "git pull",
+      "git checkout"
+    ],
+    "answer": "git clone"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "What is the extension of a standard PHP script file?",
+    "options": [
+      ".html",
+      ".js",
+      ".php",
+      ".py"
+    ],
+    "answer": ".php"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "What is the key difference between local storage and session storage in Web Storage API?",
+    "options": [
+      "Local storage holds more data than session storage",
+      "Session storage data persists after closing the browser tab, local storage does not",
+      "Local storage data persists after closing the browser window, session storage expires when the session ends",
+      "Session storage works only on HTTPS protocol"
+    ],
+    "answer": "Local storage data persists after closing the browser window, session storage expires when the session ends"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "In CSS Grid, what does the 'fr' unit represent?",
+    "options": [
+      "Fixed ratio",
+      "Fraction of available free space",
+      "Frame rate unit",
+      "Font-relative distance"
+    ],
+    "answer": "Fraction of available free space"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "How does React Virtual DOM improve frontend rendering performance?",
+    "options": [
+      "It completely bypasses real DOM operations",
+      "It re-renders the entire HTML page directly on every state change",
+      "It compares changes in memory using reconciliation and updates only altered DOM nodes",
+      "It compiles JSX directly into native C++ instructions"
+    ],
+    "answer": "It compares changes in memory using reconciliation and updates only altered DOM nodes"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "In Node.js, what is the role of the Event Loop?",
+    "options": [
+      "Executes synchronous code in parallel across multiple worker threads",
+      "Handles asynchronous non-blocking I/O operations on a single thread",
+      "Manages database query connections sequentially",
+      "Compiles JavaScript code into machine bytecode"
+    ],
+    "answer": "Handles asynchronous non-blocking I/O operations on a single thread"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "Which Express middleware function is used to parse incoming requests with JSON payloads?",
+    "options": [
+      "express.urlencoded()",
+      "express.json()",
+      "bodyParser.text()",
+      "express.static()"
+    ],
+    "answer": "express.json()"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "In MongoDB, which aggregation stage is equivalent to the SQL 'WHERE' or 'HAVING' clause?",
+    "options": [
+      "$group",
+      "$match",
+      "$project",
+      "$lookup"
+    ],
+    "answer": "$match"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "What is the purpose of CORS (Cross-Origin Resource Sharing) in web applications?",
+    "options": [
+      "To allow browsers to load scripts from any external CDN without restrictions",
+      "To restrict or permit cross-origin requests made by client-side scripts to a different domain",
+      "To encrypt data transmission between client and server",
+      "To cache static frontend assets in the browser memory"
+    ],
+    "answer": "To restrict or permit cross-origin requests made by client-side scripts to a different domain"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "What is the main benefit of using PDO (PHP Data Objects) over MySQLi in PHP?",
+    "options": [
+      "PDO is significantly faster in fetching records",
+      "PDO supports multiple database systems using a unified interface",
+      "PDO does not require prepared statements to prevent SQL injection",
+      "PDO is built exclusively for object-oriented programming without procedural support"
+    ],
+    "answer": "PDO supports multiple database systems using a unified interface"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "In Bootstrap 5, how many columns make up the default grid system breakpoint row?",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "16"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "What is a JavaScript closure?",
+    "options": [
+      "A technique to terminate a loop prematurely",
+      "A function combined with references to its surrounding lexical environment",
+      "A methodology to block asynchronous events from running",
+      "An internal object method used to delete unused memory allocations"
+    ],
+    "answer": "A function combined with references to its surrounding lexical environment"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "What is the purpose of the 'useEffect' cleanup function in React?",
+    "options": [
+      "To clear state values before re-rendering",
+      "To perform unmounting actions like clearing timers or unsubscribing from events",
+      "To destroy the DOM node immediately",
+      "To trigger a mandatory re-render of child components"
+    ],
+    "answer": "To perform unmounting actions like clearing timers or unsubscribing from events"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "Which HTTP header is commonly used to send JWT (JSON Web Tokens) for client authentication?",
+    "options": [
+      "Content-Type",
+      "Authorization",
+      "Accept-Encoding",
+      "X-Requested-With"
+    ],
+    "answer": "Authorization"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "What is the difference between 'NULL' and 'UNDEFINED' in JavaScript?",
+    "options": [
+      "Null means an unassigned variable; undefined is an intentional assignment of no value",
+      "Undefined means a variable has been declared but not assigned a value; null represents intentional absence of object value",
+      "They are identical in both value and data type",
+      "Null is a primitive type, whereas undefined is an object reference"
+    ],
+    "answer": "Undefined means a variable has been declared but not assigned a value; null represents intentional absence of object value"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "In CSS, what occurs during 'margin collapse'?",
+    "options": [
+      "Top and bottom margins of adjacent block elements combine into a single margin equal to the largest margin size",
+      "Margins automatically reset to zero when window resizes below 768px",
+      "Left and right margins add together dynamically inside flex containers",
+      "Child margins override parent padding values"
+    ],
+    "answer": "Top and bottom margins of adjacent block elements combine into a single margin equal to the largest margin size"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "What is the role of Mongoose in a Node.js and MongoDB tech stack?",
+    "options": [
+      "It acts as a template engine for server-side HTML rendering",
+      "It is an Object Data Modeling (ODM) library that provides schema validation and query building",
+      "It handles routing and URL params in backend scripts",
+      "It converts MongoDB queries directly into SQL syntax"
+    ],
+    "answer": "It is an Object Data Modeling (ODM) library that provides schema validation and query building"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "What does the 'async/await' syntax achieve in modern JavaScript?",
+    "options": [
+      "Executes code multithreaded natively across CPU cores",
+      "Allows asynchronous, promise-based code to be written in a cleaner, synchronous-like structure",
+      "Converts callbacks into synchronous blocking code",
+      "Prevents network request timeouts automatically"
+    ],
+    "answer": "Allows asynchronous, promise-based code to be written in a cleaner, synchronous-like structure"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "Which HTTP status code corresponds to '401 Unauthorized'?",
+    "options": [
+      "The client must authenticate itself to get the requested response",
+      "The client does not have access rights to the content despite being authenticated",
+      "The server cannot find the requested resource",
+      "The payload sent by the client violates validation rules"
+    ],
+    "answer": "The client must authenticate itself to get the requested response"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "In React, what is the key benefit of controlled components in forms?",
+    "options": [
+      "Form input state is managed directly by the DOM without React state",
+      "React component state acts as the single source of truth for input values",
+      "They eliminate the need for event handlers like onChange",
+      "They submit form data without triggering page reloads automatically"
+    ],
+    "answer": "React component state acts as the single source of truth for input values"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "In CSS layout engines, what is the default value of the 'position' property?",
+    "options": [
+      "relative",
+      "absolute",
+      "static",
+      "fixed"
+    ],
+    "answer": "static"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "How do prepared statements prevent SQL Injection attacks?",
+    "options": [
+      "By hashing inputs before passing them to queries",
+      "By separating query structure from user inputs so parameter values cannot alter execution logic",
+      "By executing database queries exclusively on client browsers",
+      "By converting SQL queries into NoSQL operations"
+    ],
+    "answer": "By separating query structure from user inputs so parameter values cannot alter execution logic"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "What does CSS 'box-sizing: border-box' do?",
+    "options": [
+      "Includes padding and border within an element's total specified width and height",
+      "Excludes padding from the overall layout geometry",
+      "Forces elements to display as inline blocks",
+      "Adds a default 1px border around every container"
+    ],
+    "answer": "Includes padding and border within an element's total specified width and height"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "In Node.js, what is 'process.nextTick()' used for?",
+    "options": [
+      "Scheduling a callback to run in the next cycle of the event loop after I/O events",
+      "Scheduling a callback to run immediately after the current operation completes, before the event loop continues",
+      "Setting an infinite timer interval",
+      "Pausing execution thread for 1 millisecond"
+    ],
+    "answer": "Scheduling a callback to run immediately after the current operation completes, before the event loop continues"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "Which MongoDB operator is used to perform a join-like operation across collections?",
+    "options": [
+      "$join",
+      "$merge",
+      "$lookup",
+      "$combine"
+    ],
+    "answer": "$lookup"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "In PHP, what is the purpose of session_start()?",
+    "options": [
+      "Initializes or resumes an existing session data storage across pages",
+      "Clears all active cookies from the user browser",
+      "Starts a long-polling server process",
+      "Connects the PHP script to the database session"
+    ],
+    "answer": "Initializes or resumes an existing session data storage across pages"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "What does REST stand for in web service architecture?",
+    "options": [
+      "Representational State Transfer",
+      "Remote Execution Service Task",
+      "Realtime Event Storage Tech",
+      "Responsive Element System Transfer"
+    ],
+    "answer": "Representational State Transfer"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "In React, why are 'key' props required when rendering lists?",
+    "options": [
+      "To style individual list items uniquely",
+      "To help React identify which items have changed, been added, or removed for efficient DOM updates",
+      "To automatically bind click listeners to array items",
+      "To trigger child component constructors sequentially"
+    ],
+    "answer": "To help React identify which items have changed, been added, or removed for efficient DOM updates"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "What is the primary difference between HTTP and HTTPS?",
+    "options": [
+      "HTTPS operates faster than HTTP due to compression",
+      "HTTPS encrypts communication between browser and server using SSL/TLS",
+      "HTTP uses TCP while HTTPS uses UDP protocol",
+      "HTTP supports domain routing, whereas HTTPS relies on IP addresses"
+    ],
+    "answer": "HTTPS encrypts communication between browser and server using SSL/TLS"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "In CSS Flexbox, what does 'flex-shrink: 0' do?",
+    "options": [
+      "Prevents flex items from growing when extra space exists",
+      "Prevents flex items from shrinking smaller than their base width when space is constrained",
+      "Hides items when viewport contracts below break point",
+      "Sets item size directly to zero pixels"
+    ],
+    "answer": "Prevents flex items from shrinking smaller than their base width when space is constrained"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "What is the utility of the 'useCallback' hook in React?",
+    "options": [
+      "To cache the returned value of an expensive calculation",
+      "To memoize function definitions between re-renders to prevent unnecessary child component updates",
+      "To execute side effects asynchronously after render",
+      "To fetch backend API endpoints automatically"
+    ],
+    "answer": "To memoize function definitions between re-renders to prevent unnecessary child component updates"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "In Express.js, what parameter order must error-handling middleware follow?",
+    "options": [
+      "(req, res, next)",
+      "(err, req, res, next)",
+      "(req, res, err)",
+      "(next, err, req, res)"
+    ],
+    "answer": "(err, req, res, next)"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "In JavaScript engines like V8, how does the Microtask Queue differ from the Macrotask Queue during Event Loop processing?",
+    "options": [
+      "Macrotasks process completely before any microtask is executed",
+      "Microtasks (Promises, process.nextTick) drain completely after each callback task before processing the next macrotask (setTimeout, I/O)",
+      "Both queues execute tasks strictly in round-robin fashion",
+      "Microtasks execute on background worker threads via Web Workers"
+    ],
+    "answer": "Microtasks (Promises, process.nextTick) drain completely after each callback task before processing the next macrotask (setTimeout, I/O)"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "What potential issue arises when using MongoDB transactions in a single-instance deployment without a replica set?",
+    "options": [
+      "Transactions run significantly faster without locking",
+      "Multi-document ACID transactions are not supported unless running as a replica set",
+      "Data is automatically written in plain text format",
+      "Indexes are disabled during transaction execution"
+    ],
+    "answer": "Multi-document ACID transactions are not supported unless running as a replica set"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "How does React 18's Concurrent Mode differ fundamentally from legacy synchronous rendering?",
+    "options": [
+      "It processes all state changes on multi-core Web Workers",
+      "It allows rendering updates to be paused, aborted, or prioritized dynamically based on input urgency",
+      "It completely replaces the Virtual DOM reconciliation step",
+      "It renders components on the server side exclusively using WebAssembly"
+    ],
+    "answer": "It allows rendering updates to be paused, aborted, or prioritized dynamically based on input urgency"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "In Node.js, what is memory starvation caused by unhandled Stream backpressure?",
+    "options": [
+      "Data is read faster from a source than the destination write stream can process, clogging memory buffers",
+      "The Event Loop terminates due to thread stack overflow",
+      "Garbage collection freezes the primary process indefinitely",
+      "TCP connection drops due to missing keep-alive headers"
+    ],
+    "answer": "Data is read faster from a source than the destination write stream can process, clogging memory buffers"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "What is the primary architectural cause of 'FOUC' (Flash of Unstyled Content) during web application rendering?",
+    "options": [
+      "Slow JavaScript execution blocking HTML parser",
+      "Browsers rendering HTML content before critical external CSS files have finished downloading and parsing",
+      "Incorrect usage of HTML5 semantic tags",
+      "Server sending Gzip compressed payloads improperly"
+    ],
+    "answer": "Browsers rendering HTML content before critical external CSS files have finished downloading and parsing"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "In Web Security, how does Cross-Site Request Forgery (CSRF) exploit a user session?",
+    "options": [
+      "By injecting malicious client scripts into database fields",
+      "By abusing trusted browser session cookies to execute unauthorized state-changing requests on a target site",
+      "By hijacking DNS records to intercept plaintext payload traffic",
+      "By forcing infinite HTTP redirect loops"
+    ],
+    "answer": "By abusing trusted browser session cookies to execute unauthorized state-changing requests on a target site"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "In CSS, what triggers a new Block Formatting Context (BFC)?",
+    "options": [
+      "Setting display: inline",
+      "Setting overflow to values other than visible, or setting display: flex / grid",
+      "Declaring margin: auto on centered blocks",
+      "Applying opacity values less than 1.0"
+    ],
+    "answer": "Setting overflow to values other than visible, or setting display: flex / grid"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "In MySQL/InnoDB, what does a database Deadlock signify?",
+    "options": [
+      "Database connection pool runs out of memory slots",
+      "Two or more transactions hold locks on separate records that the other transaction requires, creating a mutual wait cycle",
+      "A table query scans unindexed millions of records without returning",
+      "Primary key auto-increment ID reaches integer limits"
+    ],
+    "answer": "Two or more transactions hold locks on separate records that the other transaction requires, creating a mutual wait cycle"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "How does HTTP/2 Multiplexing solve the HTTP/1.1 Head-of-Line (HOL) blocking problem at the application layer?",
+    "options": [
+      "By opening multiple independent TCP connections per request domain",
+      "By interleaving multiple request/response frames concurrently over a single shared TCP connection",
+      "By converting HTTP requests to UDP datagram protocols",
+      "By storing responses on local client SSD caches"
+    ],
+    "answer": "By interleaving multiple request/response frames concurrently over a single shared TCP connection"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "What is the key difference between Server-Side Rendering (SSR) and Static Site Generation (SSG) in frameworks like Next.js?",
+    "options": [
+      "SSR builds HTML pages at build time; SSG builds HTML dynamically on each user request",
+      "SSG builds HTML pages at build time; SSR generates HTML dynamically on the server for each request",
+      "SSR runs strictly on client browsers; SSG runs on backend servers",
+      "SSG requires NoSQL databases, whereas SSR requires SQL systems"
+    ],
+    "answer": "SSG builds HTML pages at build time; SSR generates HTML dynamically on the server for each request"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "In JavaScript, what is the 'TDZ' (Temporal Dead Zone)?",
+    "options": [
+      "The duration between an asynchronous API call initiation and its fulfillment",
+      "The time interval between entering a scope and a 'let' or 'const' variable initialization where accessing it throws a ReferenceError",
+      "The window when garbage collector cleans detached DOM nodes",
+      "The lag between user touch input and event handler execution"
+    ],
+    "answer": "The time interval between entering a scope and a 'let' or 'const' variable initialization where accessing it throws a ReferenceError"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "In MongoDB, what is the consequence of selecting a poorly distributed shard key?",
+    "options": [
+      "Data writes create jumbo chunks concentrating traffic on a single shard (jumbo chunk hot-spotting)",
+      "Database queries execute only as synchronous single-threaded operations",
+      "Document fields become immutable across collections",
+      "Collection indexes are automatically deleted by the balancer process"
+    ],
+    "answer": "Data writes create jumbo chunks concentrating traffic on a single shard (jumbo chunk hot-spotting)"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "How does a Content Security Policy (CSP) header mitigate Cross-Site Scripting (XSS) attacks?",
+    "options": [
+      "By encrypting client-side local storage items",
+      "By restricting domains from which executable scripts and assets can be loaded and executed by the browser",
+      "By sanitizing database queries on the server side",
+      "By blocking unauthorized IP addresses from connecting to APIs"
+    ],
+    "answer": "By restricting domains from which executable scripts and assets can be loaded and executed by the browser"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "In Express.js, what happens if an error occurs inside an asynchronous route handler without a try-catch block or proper promise error forwarding in Express 4?",
+    "options": [
+      "Express catches the error automatically and responds with a 500 status code",
+      "The request hangs indefinitely or causes an unhandled promise rejection that crashes the process in modern Node versions",
+      "The server restarts automatically without loss of state",
+      "Express redirects the client request to the index root path"
+    ],
+    "answer": "The request hangs indefinitely or causes an unhandled promise rejection that crashes the process in modern Node versions"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "In PHP 8+, what is the functionality of the JIT (Just-In-Time) compiler engine?",
+    "options": [
+      "Compiles PHP scripts directly into native HTML files on disk",
+      "Translates parts of Zend Opcodes into machine code at runtime to boost CPU-bound computation performance",
+      "Replaces PDO with asynchronous native database drivers",
+      "Prevents memory leaks in long-running CLI daemon loops"
+    ],
+    "answer": "Translates parts of Zend Opcodes into machine code at runtime to boost CPU-bound computation performance"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "What security attribute should be added to cookies containing sensitive session IDs to block JavaScript access via document.cookie?",
+    "options": [
+      "Secure",
+      "HttpOnly",
+      "SameSite=Lax",
+      "Domain"
+    ],
+    "answer": "HttpOnly"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "In CSS layout mechanics, what triggers Browser Reflow (Layout) versus Repaint?",
+    "options": [
+      "Reflow alters element geometric dimensions/position in space; Repaint updates visual style elements without affecting layout structure",
+      "Repaint updates dimensions; Reflow updates background colors",
+      "Reflow takes place solely on GPU hardware threads",
+      "Repaint regenerates the DOM structure from scratch"
+    ],
+    "answer": "Reflow alters element geometric dimensions/position in space; Repaint updates visual style elements without affecting layout structure"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "What mechanism does JavaScript use to implement inheritance between objects?",
+    "options": [
+      "Classical Class-based Subclassing",
+      "Prototypal Chain Delegation",
+      "Virtual Method Table Indexing",
+      "Interface Pointer Binding"
+    ],
+    "answer": "Prototypal Chain Delegation"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "In React, what problem does the 'useMemo' hook solve?",
+    "options": [
+      "Prevents components from re-rendering when props change",
+      "Caches the calculated result of an expensive computation across re-renders until dependency values change",
+      "Asynchronously fetches remote network state data",
+      "Binds context values without subscriptions"
+    ],
+    "answer": "Caches the calculated result of an expensive computation across re-renders until dependency values change"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "In relational database optimization, what is an Index Scan vs a Table Scan (Seq Scan)?",
+    "options": [
+      "Index Scan traverses a sorted index structure B-Tree to fetch matching row pointers; Table Scan reads every row block on disk sequentially",
+      "Table Scan uses memory indexes; Index Scan reads physical disk blocks randomly",
+      "Index Scan is executed only for JOIN queries; Table Scan is used for aggregate queries",
+      "They perform identical low-level disk execution strategies"
+    ],
+    "answer": "Index Scan traverses a sorted index structure B-Tree to fetch matching row pointers; Table Scan reads every row block on disk sequentially"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "In Web Performance optimization, what does 'Critical Rendering Path' mean?",
+    "options": [
+      "The sequence of steps the browser performs to convert HTML, CSS, and JavaScript into actual screen pixels",
+      "The fastest database query execution path chosen by the backend engine",
+      "The network latency route taken by packet routers over fiber backbones",
+      "The execution stack of asynchronous promise queues"
+    ],
+    "answer": "The sequence of steps the browser performs to convert HTML, CSS, and JavaScript into actual screen pixels"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "What is the key difference between WebSockets and Server-Sent Events (SSE)?",
+    "options": [
+      "WebSockets provide bi-directional real-time communication; SSE provides uni-directional streaming from server to client over HTTP",
+      "SSE supports binary transport; WebSockets support UTF-8 text strings only",
+      "WebSockets work natively without server components",
+      "SSE operates over UDP protocol while WebSockets operate over TCP"
+    ],
+    "answer": "WebSockets provide bi-directional real-time communication; SSE provides uni-directional streaming from server to client over HTTP"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "In Node.js, what is the role of the Libuv library?",
+    "options": [
+      "Compiles JavaScript code into native CPU instructions",
+      "Provides a multi-platform asynchronous I/O event loop and thread pool management underlying Node.js",
+      "Manages HTTP routing and express middleware pipes",
+      "Handles frontend React DOM server rendering"
+    ],
+    "answer": "Provides a multi-platform asynchronous I/O event loop and thread pool management underlying Node.js"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "What is 'Tree Shaking' in modern JavaScript bundlers like Webpack or Rollup?",
+    "options": [
+      "The process of reorganizing folder directory structures automatically",
+      "Dead code elimination technique that removes unused export statements from the final JavaScript bundle",
+      "A compression algorithm that reduces SVG image file sizes",
+      "Dynamic conversion of ES modules into CommonJS syntax"
+    ],
+    "answer": "Dead code elimination technique that removes unused export statements from the final JavaScript bundle"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "In MongoDB, what occurs during write operations when using Write Concern `{ w: \"majority\" }`?",
+    "options": [
+      "The write is acknowledged after being saved to the memory cache of the primary node only",
+      "The write is acknowledged only after a majority of voting replica set members commit the operation to their write-ahead logs",
+      "The write operation is broadcast to all secondary nodes asynchronously without blocking",
+      "The database locks all collections for reading until all writes finalize"
+    ],
+    "answer": "The write is acknowledged only after a majority of voting replica set members commit the operation to their write-ahead logs"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "What vulnerability occurs when a web application directly deserializes untrusted user payload data without validation?",
+    "options": [
+      "Insecure Deserialization, leading to arbitrary Remote Code Execution (RCE) or object state tampering",
+      "Stored Cross-Site Scripting (XSS)",
+      "Server-Side Request Forgery (SSRF)",
+      "Cross-Origin Resource Sharing bypass"
+    ],
+    "answer": "Insecure Deserialization, leading to arbitrary Remote Code Execution (RCE) or object state tampering"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "In OAuth 2.0 framework, why is Authorization Code Flow with PKCE recommended for Single Page Applications (SPAs)?",
+    "options": [
+      "Because SPAs cannot securely store Client Secrets without exposing them in front-end client source code",
+      "Because PKCE accelerates authorization token transmission speed",
+      "Because SPAs do not support HTTPS SSL encryption certificates",
+      "Because PKCE removes the need for OAuth redirect URIs"
+    ],
+    "answer": "Because SPAs cannot securely store Client Secrets without exposing them in front-end client source code"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "In CSS, what is the exact specificity calculation for the selector `div.user-card#profile p.text-bold`?",
+    "options": [
+      "0, 1, 2, 2 (1 ID, 2 Classes, 2 Elements)",
+      "0, 2, 1, 1 (2 IDs, 1 Class, 1 Element)",
+      "0, 0, 3, 2 (0 IDs, 3 Classes, 2 Elements)",
+      "0, 1, 1, 3 (1 ID, 1 Class, 3 Elements)"
+    ],
+    "answer": "0, 1, 2, 2 (1 ID, 2 Classes, 2 Elements)"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "How does Service Worker caching differ from standard HTTP Browser Cache?",
+    "options": [
+      "Service Workers provide fine-grained programmatic control over request interception, offline strategies, and custom cache storage via JavaScript",
+      "Service Workers cache data exclusively in hardware RAM modules",
+      "HTTP Browser cache persists data permanently across operating system reinstalls",
+      "Service Workers override server-side HTTPS SSL handshakes"
+    ],
+    "answer": "Service Workers provide fine-grained programmatic control over request interception, offline strategies, and custom cache storage via JavaScript"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "What is the primary operational objective of a Reverse Proxy (such as Nginx) in web deployment architecture?",
+    "options": [
+      "To route outbound client web browsing requests through private proxies",
+      "To sit in front of backend servers handling load balancing, SSL termination, rate limiting, and request routing",
+      "To compile JavaScript dynamic code into static HTML pages",
+      "To translate NoSQL queries into SQL transaction commands"
+    ],
+    "answer": "To sit in front of backend servers handling load balancing, SSL termination, rate limiting, and request routing"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "What happens when JavaScript code causes a 'Detached DOM Tree' memory leak?",
+    "options": [
+      "DOM nodes removed from the active DOM tree are still referenced by active JavaScript code, preventing Garbage Collection memory release",
+      "The browser DOM tree engine crashes due to infinite recursive element nesting",
+      "CSS style sheets fail to target newly created HTML elements",
+      "Network bandwidth drops due to excessive memory usage"
+    ],
+    "answer": "DOM nodes removed from the active DOM tree are still referenced by active JavaScript code, preventing Garbage Collection memory release"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "In GraphQL architecture, what is the 'N+1 Query Problem'?",
+    "options": [
+      "An execution inefficiency where fetching a list of N items executes 1 initial query plus N additional nested queries to fetch related child data",
+      "A security vulnerability allowing attackers to execute N queries simultaneously",
+      "A pagination bug that skips the first record in fetched arrays",
+      "A schema validation error when fields exceed N characters"
+    ],
+    "answer": "An execution inefficiency where fetching a list of N items executes 1 initial query plus N additional nested queries to fetch related child data"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "In React Fiber architecture, what is the main responsibility of the 'Reconciliation' phase versus the 'Commit' phase?",
+    "options": [
+      "Reconciliation phase calculates component changes asynchronously and can be paused; Commit phase applies changes to the real DOM synchronously",
+      "Commit phase computes Virtual DOM diffing; Reconciliation updates the actual browser DOM elements",
+      "Reconciliation handles class components only; Commit handles functional components with hooks",
+      "Both phases execute synchronously without interruption"
+    ],
+    "answer": "Reconciliation phase calculates component changes asynchronously and can be paused; Commit phase applies changes to the real DOM synchronously"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "In Web Security, what is Server-Side Request Forgery (SSRF)?",
+    "options": [
+      "An attack where a vulnerable web application is forced to send crafted HTTP requests to internal/external systems on behalf of the attacker",
+      "Injecting malicious script code into backend server logs",
+      "Forging response headers to bypass CORS domain policies",
+      "Stealing session cookies using malicious browser extensions"
+    ],
+    "answer": "An attack where a vulnerable web application is forced to send crafted HTTP requests to internal/external systems on behalf of the attacker"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "What is the purpose of the HTTP 'Keep-Alive' header?",
+    "options": [
+      "To allow a single persistent TCP connection to handle multiple sequential HTTP requests/responses, reducing connection latency",
+      "To force browsers to refresh web pages automatically every few seconds",
+      "To prevent server sessions from expiring during user inactivity",
+      "To automatically retry failed HTTP 500 server errors"
+    ],
+    "answer": "To allow a single persistent TCP connection to handle multiple sequential HTTP requests/responses, reducing connection latency"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "In Docker containerization for web apps, what is the advantage of using Multi-Stage Builds?",
+    "options": [
+      "Reduces final production image size by separating build-time dependencies from runtime requirements in temporary build stages",
+      "Allows a single container to run multiple operating system kernels concurrently",
+      "Enables automatic zero-downtime database migrations inside containers",
+      "Converts node_modules dependencies into binary assembly files"
+    ],
+    "answer": "Reduces final production image size by separating build-time dependencies from runtime requirements in temporary build stages"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "In Database Systems, what does 'Isolation Level: Serializable' guarantee during concurrent transactions?",
+    "options": [
+      "Guarantees execution results identical to running transactions sequentially one after another, completely eliminating dirty reads, non-repeatable reads, and phantom reads",
+      "Allows transactions to read uncommitted state changes for faster execution speeds",
+      "Locks the entire database instance strictly in read-only mode",
+      "Prevents transactions from executing longer than 10 seconds"
+    ],
+    "answer": "Guarantees execution results identical to running transactions sequentially one after another, completely eliminating dirty reads, non-repeatable reads, and phantom reads"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "In CSS, how does 'contain: layout paint;' improve rendering performance in complex web applications?",
+    "options": [
+      "It isolates an element's subtree from the rest of the document tree, telling the browser that its layout and painting will not affect outer elements",
+      "It compresses image assets inside the container at runtime",
+      "It forces the browser to render the container using WebGL hardware acceleration",
+      "It disables hover interactions to save CPU cycles"
+    ],
+    "answer": "It isolates an element's subtree from the rest of the document tree, telling the browser that its layout and painting will not affect outer elements"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "In Node.js Streams, what is the exact operational role of `transformStream`?",
+    "options": [
+      "A Duplex stream where the output is computed directly by modifying or transforming input chunk data",
+      "A write-only stream that outputs data to external files",
+      "A stream used solely for converting JSON objects into buffer bytes",
+      "A process that encrypts stream data using TLS automatically"
+    ],
+    "answer": "A Duplex stream where the output is computed directly by modifying or transforming input chunk data"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "What primary security weakness does the 'SameSite=Strict' cookie attribute address?",
+    "options": [
+      "Cross-Site Request Forgery (CSRF) by preventing the browser from sending cookies in any cross-site request context",
+      "Cross-Site Scripting (XSS) by preventing inline script execution",
+      "SQL Injection by sanitizing incoming request parameter strings",
+      "Man-In-The-Middle (MITM) attacks by enforcing strict TLS handshakes"
+    ],
+    "answer": "Cross-Site Request Forgery (CSRF) by preventing the browser from sending cookies in any cross-site request context"
+  }
+]

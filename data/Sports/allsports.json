@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "How many points is a free throw worth in basketball?",
+    "options": [
+      "1 point",
+      "2 points",
+      "3 points",
+      "4 points"
+    ],
+    "answer": "1 point"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "What is the maximum score possible in a single game of bowling?",
+    "options": [
+      "200",
+      "250",
+      "300",
+      "350"
+    ],
+    "answer": "300"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "Which Grand Slam tennis tournament is played on a grass surface?",
+    "options": [
+      "French Open",
+      "US Open",
+      "Wimbledon",
+      "Australian Open"
+    ],
+    "answer": "Wimbledon"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "In golf, what is the term used for scoring one stroke under par on a hole?",
+    "options": [
+      "Eagle",
+      "Birdie",
+      "Bogey",
+      "Albatross"
+    ],
+    "answer": "Birdie"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "How many players from one team are on the ice during a standard ice hockey game?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "11"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "Which swimming stroke is performed on the swimmer's back throughout the race?",
+    "options": [
+      "Freestyle",
+      "Breaststroke",
+      "Butterfly",
+      "Backstroke"
+    ],
+    "answer": "Backstroke"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "What object is hit back and forth across the net in badminton?",
+    "options": [
+      "Tennis ball",
+      "Shuttlecock",
+      "Ping pong ball",
+      "Puck"
+    ],
+    "answer": "Shuttlecock"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "In formula 1 racing, what color flag signals drivers to stop immediately due to danger?",
+    "options": [
+      "Yellow Flag",
+      "Red Flag",
+      "Black Flag",
+      "Checkered Flag"
+    ],
+    "answer": "Red Flag"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "How many total squares are on a standard chess board?",
+    "options": [
+      "32",
+      "48",
+      "64",
+      "100"
+    ],
+    "answer": "64"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "What is the target called in the game of archery?",
+    "options": [
+      "Bullseye",
+      "Target Face",
+      "Board",
+      "Ring"
+    ],
+    "answer": "Target Face"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "In table tennis, how many points are needed to win a standard game?",
+    "options": [
+      "11 points",
+      "15 points",
+      "21 points",
+      "25 points"
+    ],
+    "answer": "11 points"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "In volleyball, how many players per team are on the court during play?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "What piece of equipment is used to hit the ball in baseball?",
+    "options": [
+      "Racquet",
+      "Club",
+      "Bat",
+      "Stick"
+    ],
+    "answer": "Bat"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "In track and field, which event involves throwing a heavy metal sphere as far as possible?",
+    "options": [
+      "Javelin Throw",
+      "Shot Put",
+      "Discus Throw",
+      "Hammer Throw"
+    ],
+    "answer": "Shot Put"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "What color belt signifies the highest rank achieved by beginners in karate?",
+    "options": [
+      "Black Belt",
+      "Yellow Belt",
+      "White Belt",
+      "Green Belt"
+    ],
+    "answer": "White Belt"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "In boxing, what is the term when a fighter is knocked down and unable to stand up before 10 seconds?",
+    "options": [
+      "Technical Knockout (TKO)",
+      "Knockout (KO)",
+      "Decision",
+      "Foul"
+    ],
+    "answer": "Knockout (KO)"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "Which sport is played on a table with 15 red balls, 6 colored balls, and 1 cue ball?",
+    "options": [
+      "8-Ball Pool",
+      "Snooker",
+      "Carrom",
+      "Billiards"
+    ],
+    "answer": "Snooker"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "In American Major League Baseball, how many bases are on the field?",
+    "options": [
+      "3 bases",
+      "4 bases (including home plate)",
+      "5 bases",
+      "6 bases"
+    ],
+    "answer": "4 bases (including home plate)"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "Which gymnastics apparatus features two elevated wood rails used by male gymnasts?",
+    "options": [
+      "Balance Beam",
+      "Parallel Bars",
+      "Pommel Horse",
+      "Uneven Bars"
+    ],
+    "answer": "Parallel Bars"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "What is the center ring of a dartboard worth?",
+    "options": [
+      "25 points",
+      "50 points",
+      "75 points",
+      "100 points"
+    ],
+    "answer": "50 points"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "Which water sport requires athletes to propel a small boat using a single-bladed paddle while kneeling or sitting?",
+    "options": [
+      "Rowing",
+      "Canoeing",
+      "Surfing",
+      "Water Polo"
+    ],
+    "answer": "Canoeing"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "In competitive cycling, what color jersey does the overall leader wear in the Tour de France?",
+    "options": [
+      "Pink Jersey",
+      "Yellow Jersey",
+      "Green Jersey",
+      "Red Jersey"
+    ],
+    "answer": "Yellow Jersey"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "What is the maximum number of strikes allowed per batter during a single plate appearance in baseball?",
+    "options": [
+      "2 strikes",
+      "3 strikes",
+      "4 strikes",
+      "5 strikes"
+    ],
+    "answer": "3 strikes"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "In field hockey, what object is hit by players using curved sticks?",
+    "options": [
+      "Puck",
+      "Hard Ball",
+      "Shuttlecock",
+      "Ring"
+    ],
+    "answer": "Hard Ball"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "Which martial art translates to 'the gentle way' and focuses heavily on throws and grapples?",
+    "options": [
+      "Karate",
+      "Judo",
+      "Taekwondo",
+      "Kung Fu"
+    ],
+    "answer": "Judo"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "How many pins are set up at the end of a bowling lane?",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "15"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "What distance is run in a standard Olympic sprint track event that is the shortest outdoor track distance?",
+    "options": [
+      "50 meters",
+      "100 meters",
+      "200 meters",
+      "400 meters"
+    ],
+    "answer": "100 meters"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "In water polo, how many players from each team are in the pool during action?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "7"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "In figure skating, what is the term for a jump where the skater rotates three and a half times in the air?",
+    "options": [
+      "Triple Axel",
+      "Quadruple Salchow",
+      "Double Toe Loop",
+      "Lutz"
+    ],
+    "answer": "Triple Axel"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "In Formula 1, which checkered flag signal is waved at the end of a race?",
+    "options": [
+      "Black and White Flag",
+      "Black and Yellow Flag",
+      "Black and Red Flag",
+      "Black and White Checkered Flag"
+    ],
+    "answer": "Black and White Checkered Flag"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "Which tennis player has won the highest number of French Open Men's Singles titles in history?",
+    "options": [
+      "Roger Federer",
+      "Novak Djokovic",
+      "Rafael Nadal",
+      "Björn Borg"
+    ],
+    "answer": "Rafael Nadal"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "In basketball, how long does an NBA team have to cross the half-court line from their baseline?",
+    "options": [
+      "5 seconds",
+      "8 seconds",
+      "10 seconds",
+      "12 seconds"
+    ],
+    "answer": "8 seconds"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "Which nation won the gold medal in men's ice hockey at the 2010 and 2014 Winter Olympics?",
+    "options": [
+      "Russia",
+      "United States",
+      "Canada",
+      "Sweden"
+    ],
+    "answer": "Canada"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "Who was the first swimmer to break the 47-second barrier in the 100-meter freestyle?",
+    "options": [
+      "Caeleb Dressel",
+      "Eamon Sullivan",
+      "César Cielo",
+      "Pan Zhanle"
+    ],
+    "answer": "César Cielo"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "In golf, what is the score called when a player completes a hole in two strokes under par?",
+    "options": [
+      "Birdie",
+      "Eagle",
+      "Albatross",
+      "Double Bogey"
+    ],
+    "answer": "Eagle"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "Which country won the most gold medals in Badminton at the 2020 Tokyo Olympic Games?",
+    "options": [
+      "Indonesia",
+      "China",
+      "Japan",
+      "Denmark"
+    ],
+    "answer": "China"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "In Formula 1, which team holds the record for the most Constructors' Championships won?",
+    "options": [
+      "McLaren",
+      "Williams",
+      "Ferrari",
+      "Mercedes"
+    ],
+    "answer": "Ferrari"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "How many points is the black ball worth in the game of snooker?",
+    "options": [
+      "5 points",
+      "6 points",
+      "7 points",
+      "8 points"
+    ],
+    "answer": "7 points"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "In baseball, what is it called when a batter hits a home run with bases loaded?",
+    "options": [
+      "Triple Play",
+      "Grand Slam",
+      "Double Header",
+      "Power Hit"
+    ],
+    "answer": "Grand Slam"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "Which country invented the martial art of Taekwondo?",
+    "options": [
+      "Japan",
+      "China",
+      "South Korea",
+      "Thailand"
+    ],
+    "answer": "South Korea"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "In track and field, how many events are included in a Decathlon?",
+    "options": [
+      "5",
+      "7",
+      "10",
+      "12"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "Which chess grandmaster became the youngest World Chess Champion in history in 1985?",
+    "options": [
+      "Bobby Fischer",
+      "Garry Kasparov",
+      "Magnus Carlsen",
+      "Anatoly Karpov"
+    ],
+    "answer": "Garry Kasparov"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "In fencing, which of the three weapons allows valid target touches anywhere on the opponent's entire body?",
+    "options": [
+      "Foil",
+      "Épée",
+      "Sabre",
+      "Rapier"
+    ],
+    "answer": "Épée"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "Which country won the inaugural Men's FIBA Basketball World Cup in 1950?",
+    "options": [
+      "United States",
+      "Argentina",
+      "Soviet Union",
+      "Yugoslavia"
+    ],
+    "answer": "Argentina"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "How long is a standard professional field hockey match played today (divided into 4 quarters)?",
+    "options": [
+      "60 minutes",
+      "70 minutes",
+      "80 minutes",
+      "90 minutes"
+    ],
+    "answer": "60 minutes"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "In archery, what is the maximum score possible for a single arrow hit in the inner golden ring?",
+    "options": [
+      "8 points",
+      "9 points",
+      "10 points",
+      "12 points"
+    ],
+    "answer": "10 points"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "Which nation won the Thomas Cup (Men's Badminton World Team Championship) for the first time in 2022?",
+    "options": [
+      "Indonesia",
+      "India",
+      "Malaysia",
+      "Denmark"
+    ],
+    "answer": "India"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "How many total weight categories exist in Olympic professional boxing for men?",
+    "options": [
+      "5",
+      "7",
+      "10",
+      "12"
+    ],
+    "answer": "7"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "In volleyball, what specialized defensive player wears a different colored jersey from their teammates?",
+    "options": [
+      "Setter",
+      "Libero",
+      "Middle Blocker",
+      "Outside Hitter"
+    ],
+    "answer": "Libero"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "Which team won the Super Bowl LVIII in February 2024 in American Football?",
+    "options": [
+      "San Francisco 49ers",
+      "Kansas City Chiefs",
+      "Philadelphia Eagles",
+      "Cincinnati Bengals"
+    ],
+    "answer": "Kansas City Chiefs"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "Which track athlete held the long jump world record of 8.90m set at the 1968 Mexico Olympics for 23 years?",
+    "options": [
+      "Carl Lewis",
+      "Bob Beamon",
+      "Mike Powell",
+      "Jesse Owens"
+    ],
+    "answer": "Bob Beamon"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "In the game of darts, what is the highest single throw total achievable with three darts?",
+    "options": [
+      "150",
+      "180",
+      "200",
+      "300"
+    ],
+    "answer": "180"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "What distance comprises a standard Olympic triathlon swim segment?",
+    "options": [
+      "750 meters",
+      "1.5 kilometers",
+      "3.8 kilometers",
+      "5 kilometers"
+    ],
+    "answer": "1.5 kilometers"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "Which country won the Men's Field Hockey Gold Medal at the Tokyo 2020 Olympics?",
+    "options": [
+      "Australia",
+      "Belgium",
+      "India",
+      "Germany"
+    ],
+    "answer": "Belgium"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "In rowing, what is the title given to the non-rowing member who steers the boat and directs the strategy?",
+    "options": [
+      "Stroke",
+      "Bow",
+      "Coxswain",
+      "Skipper"
+    ],
+    "answer": "Coxswain"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "Which male tennis player achieved the 'Calendar Grand Slam' by winning all four major titles in 1962 and 1969?",
+    "options": [
+      "Rod Laver",
+      "Ken Rosewall",
+      "Pete Sampras",
+      "Arthur Ashe"
+    ],
+    "answer": "Rod Laver"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "In American Major League Baseball, which team has won the highest number of World Series titles?",
+    "options": [
+      "Los Angeles Dodgers",
+      "Boston Red Sox",
+      "New York Yankees",
+      "St. Louis Cardinals"
+    ],
+    "answer": "New York Yankees"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "In weightlifting, which of the two competition lifts involves raising the barbell overhead in one continuous explosive movement?",
+    "options": [
+      "Clean and Jerk",
+      "Snatch",
+      "Deadlift",
+      "Power Clean"
+    ],
+    "answer": "Snatch"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "Which country won the gold medal in women's team gymnastics at the 2024 Paris Olympics?",
+    "options": [
+      "Brazil",
+      "Italy",
+      "United States",
+      "China"
+    ],
+    "answer": "United States"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "How many minute quarters are played in a standard NBA basketball game?",
+    "options": [
+      "10 minutes",
+      "12 minutes",
+      "15 minutes",
+      "20 minutes"
+    ],
+    "answer": "12 minutes"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "Which chess grandmaster achieved a peak FIDE rating of 2882, the highest recorded rating in history?",
+    "options": [
+      "Garry Kasparov",
+      "Magnus Carlsen",
+      "Bobby Fischer",
+      "Fabiano Caruana"
+    ],
+    "answer": "Magnus Carlsen"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "Who holds the men's pole vault world record set at 6.26 meters in 2024?",
+    "options": [
+      "Sergey Bubka",
+      "Armand Duplantis",
+      "Renaud Lavillenie",
+      "Sam Kendricks"
+    ],
+    "answer": "Armand Duplantis"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "In fencing, which is the only weapon where hits can be scored using both the point and the edge of the blade?",
+    "options": [
+      "Foil",
+      "Épée",
+      "Sabre",
+      "Broadsword"
+    ],
+    "answer": "Sabre"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "Which driver holds the record for the most total World Drivers' Championship titles in Formula 1 history alongside Michael Schumacher (7 titles)?",
+    "options": [
+      "Ayrton Senna",
+      "Sebastian Vettel",
+      "Lewis Hamilton",
+      "Max Verstappen"
+    ],
+    "answer": "Lewis Hamilton"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "In modern pentathlon, which five sports disciplines are included?",
+    "options": [
+      "Shooting, Fencing, Swimming, Equestrian Jumping, Running",
+      "Shooting, Archery, Cycling, Running, Swimming",
+      "Fencing, Rowing, Running, Swimming, Vaulting",
+      "Equestrian, Gymnastics, Swimming, Shooting, Sprinting"
+    ],
+    "answer": "Shooting, Fencing, Swimming, Equestrian Jumping, Running"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "Who was the first woman in history to win individual Olympic gold medals in two different sports (snowboarding and alpine skiing)?",
+    "options": [
+      "Ester Ledecká",
+      "Mikaela Shiffrin",
+      "Chloe Kim",
+      "Lindsey Vonn"
+    ],
+    "answer": "Ester Ledecká"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "Which snooker player holds the record for the fastest official 147 maximum break in history (5 minutes 8 seconds)?",
+    "options": [
+      "Stephen Hendry",
+      "Ronnie O'Sullivan",
+      "Judd Trump",
+      "Mark Selby"
+    ],
+    "answer": "Ronnie O'Sullivan"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "Who holds the world record for the men's 400-meter hurdles set at 45.94 seconds at the Tokyo 2020 Olympics?",
+    "options": [
+      "Rai Benjamin",
+      "Karsten Warholm",
+      "Alison dos Santos",
+      "Kevin Young"
+    ],
+    "answer": "Karsten Warholm"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "In Major League Baseball, who holds the all-time career home run record with 762 home runs?",
+    "options": [
+      "Babe Ruth",
+      "Hank Aaron",
+      "Barry Bonds",
+      "Alex Rodriguez"
+    ],
+    "answer": "Barry Bonds"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "Which country won the first-ever Thomas Cup in badminton held in 1948-1949?",
+    "options": [
+      "China",
+      "Indonesia",
+      "Malaya (Malaysia)",
+      "Denmark"
+    ],
+    "answer": "Malaya (Malaysia)"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "Who was the first track athlete to win three consecutive Olympic gold medals in the Men's Triple Jump (1952, 1956, 1960)?",
+    "options": [
+      "Viktor Saneyev",
+      "Adhemar da Silva",
+      "Jonathan Edwards",
+      "Christian Taylor"
+    ],
+    "answer": "Viktor Saneyev"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "What is the maximum weight allowed for a standard table tennis ball according to ITTF guidelines?",
+    "options": [
+      "2.5 grams",
+      "2.7 grams",
+      "3.0 grams",
+      "3.2 grams"
+    ],
+    "answer": "2.7 grams"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "In sumo wrestling, what is the term for the circular ring in which the bouts take place?",
+    "options": [
+      "Tatami",
+      "Dohyo",
+      "Mawashi",
+      "Kamiza"
+    ],
+    "answer": "Dohyo"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "Who was the first female swimmer to complete the 800m freestyle in under 8 minutes 5 seconds?",
+    "options": [
+      "Katie Ledecky",
+      "Janet Evans",
+      "Rebecca Adlington",
+      "Ariarne Titmus"
+    ],
+    "answer": "Katie Ledecky"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "In golf, what rare score is recorded when a player completes a hole in three strokes under par?",
+    "options": [
+      "Eagle",
+      "Condor",
+      "Albatross (Double Eagle)",
+      "Birdie"
+    ],
+    "answer": "Albatross (Double Eagle)"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "Who won the World Chess Championship title in 1927 by defeating José Raúl Capablanca?",
+    "options": [
+      "Alexander Alekhine",
+      "Emanuel Lasker",
+      "Max Euwe",
+      "Mikhail Botvinnik"
+    ],
+    "answer": "Alexander Alekhine"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "Which country won the inaugural FIBA Women's Basketball World Cup in 1953?",
+    "options": [
+      "United States",
+      "Soviet Union",
+      "Brazil",
+      "Chile"
+    ],
+    "answer": "United States"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "Who holds the men's javelin throw world record set at 98.48 meters in 1996?",
+    "options": [
+      "Jan Železný",
+      "Johannes Vetter",
+      "Neeraj Chopra",
+      "Aki Parviainen"
+    ],
+    "answer": "Jan Železný"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "Which NBA player holds the record for scoring the most total points in a single game (100 points in 1962)?",
+    "options": [
+      "Kobe Bryant",
+      "Wilt Chamberlain",
+      "LeBron James",
+      "Michael Jordan"
+    ],
+    "answer": "Wilt Chamberlain"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "In track cycling, what is the term for a race where riders start on opposite sides of the track and attempt to catch each other?",
+    "options": [
+      "Keirin",
+      "Omnium",
+      "Individual Pursuit",
+      "Madison"
+    ],
+    "answer": "Individual Pursuit"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "Who was the first gymnast to be awarded a 10.0 score at the Olympic Games (Montreal 1976)?",
+    "options": [
+      "Nadia Comăneci",
+      "Nellie Kim",
+      "Olga Korbut",
+      "Ludmilla Tourischeva"
+    ],
+    "answer": "Nadia Comăneci"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "Which team won the 2023 Men's Volleyball World Cup held in Japan?",
+    "options": [
+      "Poland",
+      "United States",
+      "Brazil",
+      "Japan"
+    ],
+    "answer": "United States"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "Who won the Men's Singles title at Wimbledon in 2001 as an unseeded wild card entrant?",
+    "options": [
+      "Goran Ivanišević",
+      "Patrick Rafter",
+      "Richard Krajicek",
+      "Lleyton Hewitt"
+    ],
+    "answer": "Goran Ivanišević"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "In equestrian dressages, what is the term for a rhythmic diagonal movement where the horse hovers briefly in mid-air?",
+    "options": [
+      "Piaffe",
+      "Passage",
+      "Pirouette",
+      "Canter"
+    ],
+    "answer": "Passage"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "Which country won the most gold medals in track and field events at the 2024 Paris Olympics?",
+    "options": [
+      "Kenya",
+      "United States",
+      "Jamaica",
+      "Great Britain"
+    ],
+    "answer": "United States"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "Who was the youngest heavyweight boxing world champion in history at age 20 in 1986?",
+    "options": [
+      "Muhammad Ali",
+      "Mike Tyson",
+      "Floyd Patterson",
+      "George Foreman"
+    ],
+    "answer": "Mike Tyson"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "Which track athlete won 4 gold medals at the 1936 Berlin Olympics across 100m, 200m, 4x100m relay, and long jump?",
+    "options": [
+      "Carl Lewis",
+      "Jesse Owens",
+      "Ralph Metcalfe",
+      "Mack Robinson"
+    ],
+    "answer": "Jesse Owens"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "Who won the men's singles gold medal in tennis at the Tokyo 2020 Olympics?",
+    "options": [
+      "Novak Djokovic",
+      "Alexander Zverev",
+      "Daniil Medvedev",
+      "Stefanos Tsitsipas"
+    ],
+    "answer": "Alexander Zverev"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "In marathon running, who became the first man to break the 2-hour barrier in an unofficial exhibition race (1:59:40) in 2019?",
+    "options": [
+      "Eliud Kipchoge",
+      "Kenenisa Bekele",
+      "Kelvin Kiptum",
+      "Haile Gebrselassie"
+    ],
+    "answer": "Eliud Kipchoge"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "Which driver won the 2023 Formula 1 World Championship by winning 19 out of 22 races in a single season?",
+    "options": [
+      "Lewis Hamilton",
+      "Max Verstappen",
+      "Charles Leclerc",
+      "Sergio Pérez"
+    ],
+    "answer": "Max Verstappen"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "In speed skating, which country has accumulated the highest number of Olympic gold medals in history?",
+    "options": [
+      "United States",
+      "Netherlands",
+      "Norway",
+      "Canada"
+    ],
+    "answer": "Netherlands"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "Who was the first player in NBA history to achieve 40,000 career points?",
+    "options": [
+      "Kareem Abdul-Jabbar",
+      "LeBron James",
+      "Karl Malone",
+      "Kobe Bryant"
+    ],
+    "answer": "LeBron James"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "Which athlete won the gold medal in the men's 100m sprint at the 2024 Paris Olympics?",
+    "options": [
+      "Kishane Thompson",
+      "Noah Lyles",
+      "Fred Kerley",
+      "Oblique Seville"
+    ],
+    "answer": "Noah Lyles"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "In artistic gymnastics, how many events make up the women's all-around competition?",
+    "options": [
+      "4 events",
+      "5 events",
+      "6 events",
+      "8 events"
+    ],
+    "answer": "4 events"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "Which nation won the 2023 Davis Cup in men's tennis, beating Australia in the final?",
+    "options": [
+      "Spain",
+      "Italy",
+      "Canada",
+      "Croatia"
+    ],
+    "answer": "Italy"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "Who holds the women's world record for the 100m sprint set at 10.49 seconds in 1988?",
+    "options": [
+      "Shelly-Ann Fraser-Pryce",
+      "Florence Griffith-Joyner",
+      "Elaine Thompson-Herah",
+      "Carmelita Jeter"
+    ],
+    "answer": "Florence Griffith-Joyner"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "In competitive archery, what is the standard target distance for outdoor Olympic competitions?",
+    "options": [
+      "50 meters",
+      "70 meters",
+      "90 meters",
+      "100 meters"
+    ],
+    "answer": "70 meters"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "Which nation won the overall gold medal count in Table Tennis at every Summer Olympic Games from 2008 through 2024?",
+    "options": [
+      "Japan",
+      "South Korea",
+      "China",
+      "Singapore"
+    ],
+    "answer": "China"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "Who holds the men's shot put world record of 23.56 meters set in 2023?",
+    "options": [
+      "Ryan Crouser",
+      "Joe Kovacs",
+      "Randy Barnes",
+      "Tom Walsh"
+    ],
+    "answer": "Ryan Crouser"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "Which country won the inaugural ICCA World Carrom Championship held in 1991?",
+    "options": [
+      "Sri Lanka",
+      "India",
+      "Maldives",
+      "Pakistan"
+    ],
+    "answer": "India"
+  }
+]

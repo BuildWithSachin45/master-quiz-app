@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "Which ancient civilization was centered around the Indus River and was famous for its planned cities like Harappa and Mohenjo-Daro?",
+    "options": [
+      "Vedic Civilization",
+      "Indus Valley Civilization",
+      "Mauryan Empire",
+      "Gupta Empire"
+    ],
+    "answer": "Indus Valley Civilization"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "Who was the founder of the Mauryan Empire in ancient India?",
+    "options": [
+      "Ashoka",
+      "Chandragupta Maurya",
+      "Bindusara",
+      "Chandragupta I"
+    ],
+    "answer": "Chandragupta Maurya"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "The Kalinga War transformed the life of which famous Indian ruler, leading him to embrace Buddhism?",
+    "options": [
+      "Samudragupta",
+      "Ashoka the Great",
+      "Harsha",
+      "Kanishka"
+    ],
+    "answer": "Ashoka the Great"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "Who was the first Mughal Emperor of India after winning the First Battle of Panipat in 1526?",
+    "options": [
+      "Akbar",
+      "Babur",
+      "Humayun",
+      "Shah Jahan"
+    ],
+    "answer": "Babur"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "Which Mughal Emperor commissioned the building of the Taj Mahal in Agra?",
+    "options": [
+      "Akbar",
+      "Jahangir",
+      "Shah Jahan",
+      "Aurangzeb"
+    ],
+    "answer": "Shah Jahan"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "In which year did the Indian Rebellion (First War of Independence) break out against the British East India Company?",
+    "options": [
+      "1757",
+      "1857",
+      "1905",
+      "1947"
+    ],
+    "answer": "1857"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "Who was the founder of the Maratha Empire and took the title of Chhatrapati?",
+    "options": [
+      "Chhatrapati Shivaji Maharaj",
+      "Chhatrapati Sambhaji Maharaj",
+      "Peshwa Baji Rao I",
+      "Tarabai"
+    ],
+    "answer": "Chhatrapati Shivaji Maharaj"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "The Non-Cooperation Movement was launched in 1920 under the leadership of which Indian leader?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Mahatma Gandhi",
+      "Subhash Chandra Bose",
+      "Bal Gangadhar Tilak"
+    ],
+    "answer": "Mahatma Gandhi"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "Which tragic event occurred on April 13, 1919, in Amritsar, Punjab?",
+    "options": [
+      "Chauri Chaura Incident",
+      "Jallianwala Bagh Massacre",
+      "Partition of Bengal",
+      "Kakori Conspiracy"
+    ],
+    "answer": "Jallianwala Bagh Massacre"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "Who was the first Prime Minister of independent India?",
+    "options": [
+      "Sardar Vallabhbhai Patel",
+      "Dr. B. R. Ambedkar",
+      "Jawaharlal Nehru",
+      "Dr. Rajendra Prasad"
+    ],
+    "answer": "Jawaharlal Nehru"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "Which ancient Indian ruler was known as the 'Napoleon of India' due to his military conquests?",
+    "options": [
+      "Chandragupta II",
+      "Samudragupta",
+      "Skandagupta",
+      "Kumargupta"
+    ],
+    "answer": "Samudragupta"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "The Dandi March (Salt Satyagraha) was initiated by Mahatma Gandhi in which year?",
+    "options": [
+      "1919",
+      "1922",
+      "1930",
+      "1942"
+    ],
+    "answer": "1930"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "Which religious order was founded by Vardhamana Mahavira?",
+    "options": [
+      "Buddhism",
+      "Jainism",
+      "Ajivika",
+      "Sikhism"
+    ],
+    "answer": "Jainism"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "Who was known as the 'Iron Man of India' for his key role in integrating princely states?",
+    "options": [
+      "Bhagat Singh",
+      "Sardar Vallabhbhai Patel",
+      "Lala Lajpat Rai",
+      "Subhash Chandra Bose"
+    ],
+    "answer": "Sardar Vallabhbhai Patel"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "The famous slogan 'Swaraj is my birthright and I shall have it' was given by whom?",
+    "options": [
+      "Bal Gangadhar Tilak",
+      "Gopal Krishna Gokhale",
+      "Bipin Chandra Pal",
+      "Lala Lajpat Rai"
+    ],
+    "answer": "Bal Gangadhar Tilak"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "Which European nation was the first to establish a direct sea route to India in 1498 led by Vasco da Gama?",
+    "options": [
+      "Britain",
+      "France",
+      "Portugal",
+      "Netherlands"
+    ],
+    "answer": "Portugal"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "The battle of Plassey in 1757 laid the foundation of British rule in India. Who led the British East India Company forces?",
+    "options": [
+      "Warren Hastings",
+      "Robert Clive",
+      "Lord Dalhousie",
+      "Lord Cornwallis"
+    ],
+    "answer": "Robert Clive"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "Who was the founder of the Indian National Army (Azad Hind Fauj)?",
+    "options": [
+      "Subhash Chandra Bose",
+      "Rash Behari Bose",
+      "Mohan Singh",
+      "Bhagat Singh"
+    ],
+    "answer": "Mohan Singh"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "The ancient university of Nalanda was located in which modern-day Indian state?",
+    "options": [
+      "Uttar Pradesh",
+      "Bihar",
+      "Madhya Pradesh",
+      "West Bengal"
+    ],
+    "answer": "Bihar"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "Who was the Chinese traveler who visited India during the reign of Emperor Harsha?",
+    "options": [
+      "Faxian (Fa-Hien)",
+      "Hiuen Tsang (Xuanzang)",
+      "I-Tsing",
+      "Megasthenes"
+    ],
+    "answer": "Hiuen Tsang (Xuanzang)"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "Which ancient Egyptian structure is considered one of the Seven Wonders of the Ancient World?",
+    "options": [
+      "Colosseum",
+      "Great Pyramid of Giza",
+      "Parthenon",
+      "Hanging Gardens of Babylon"
+    ],
+    "answer": "Great Pyramid of Giza"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "The French Revolution began in which year with the storming of the Bastille?",
+    "options": [
+      "1776",
+      "1789",
+      "1804",
+      "1815"
+    ],
+    "answer": "1789"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "Who was the commander-in-chief of the Continental Army and the first President of the United States?",
+    "options": [
+      "Thomas Jefferson",
+      "George Washington",
+      "Benjamin Franklin",
+      "Abraham Lincoln"
+    ],
+    "answer": "George Washington"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "World War I lasted between which years?",
+    "options": [
+      "1912 - 1918",
+      "1914 - 1918",
+      "1939 - 1945",
+      "1914 - 1920"
+    ],
+    "answer": "1914 - 1918"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "Who was the leader of the Nazi Party in Germany during World War II?",
+    "options": [
+      "Benito Mussolini",
+      "Adolf Hitler",
+      "Joseph Stalin",
+      "Winston Churchill"
+    ],
+    "answer": "Adolf Hitler"
+  },
+  {
+    "id": 26,
+    "difficulty": "medium",
+    "question": "Which Delhi Sultan introduced the controversial 'token currency' system made of copper and brass coins?",
+    "options": [
+      "Alauddin Khalji",
+      "Muhammad bin Tughlaq",
+      "Iltutmish",
+      "Firoz Shah Tughlaq"
+    ],
+    "answer": "Muhammad bin Tughlaq"
+  },
+  {
+    "id": 27,
+    "difficulty": "medium",
+    "question": "The Treaty of Purandar (1665) was signed between Chhatrapati Shivaji Maharaj and which Mughal commander?",
+    "options": [
+      "Shaista Khan",
+      "Raja Jai Singh I",
+      "Afzal Khan",
+      "Mir Jumla"
+    ],
+    "answer": "Raja Jai Singh I"
+  },
+  {
+    "id": 28,
+    "difficulty": "medium",
+    "question": "Who among the following social reformers founded the Arya Samaj in 1875?",
+    "options": [
+      "Raja Ram Mohan Roy",
+      "Swami Dayananda Saraswati",
+      "Swami Vivekananda",
+      "Ishwar Chandra Vidyasagar"
+    ],
+    "answer": "Swami Dayananda Saraswati"
+  },
+  {
+    "id": 29,
+    "difficulty": "medium",
+    "question": "The famous Rock Edicts of Ashoka were primarily written in which script?",
+    "options": [
+      "Brahmi",
+      "Kharosthi",
+      "Devanagari",
+      "Greek"
+    ],
+    "answer": "Brahmi"
+  },
+  {
+    "id": 30,
+    "difficulty": "medium",
+    "question": "Which Governor-General of India abolished the practice of Sati in 1829?",
+    "options": [
+      "Lord Dalhousie",
+      "Lord William Bentinck",
+      "Lord Wellesley",
+      "Lord Canning"
+    ],
+    "answer": "Lord William Bentinck"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "Who was the ruler of Mysore who fought four Anglo-Mysore Wars against the British and died in the Fourth War in 1799?",
+    "options": [
+      "Hyder Ali",
+      "Tipu Sultan",
+      "Mir Qasim",
+      "Nizam-ul-Mulk"
+    ],
+    "answer": "Tipu Sultan"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "The Partition of Bengal was enacted in 1905 by which Viceroy of India?",
+    "options": [
+      "Lord Ripon",
+      "Lord Curzon",
+      "Lord Minto",
+      "Lord Hardinge"
+    ],
+    "answer": "Lord Curzon"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "Which Chola King built the famous Brihadisvara Temple dedicated to Shiva at Thanjavur?",
+    "options": [
+      "Rajendra Chola I",
+      "Rajaraja Chola I",
+      "Parantaka I",
+      "Karikala Chola"
+    ],
+    "answer": "Rajaraja Chola I"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "Who was the author of the famous Sanskrit political treatise 'Arthashastra'?",
+    "options": [
+      "Kalidasa",
+      "Chanakya (Kautilya)",
+      "Banabhatta",
+      "Varahamihira"
+    ],
+    "answer": "Chanakya (Kautilya)"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "The Rowlatt Act of 1919 was passed during the viceroyalty of whom?",
+    "options": [
+      "Lord Chelmsford",
+      "Lord Irwin",
+      "Lord Linlithgow",
+      "Lord Reading"
+    ],
+    "answer": "Lord Chelmsford"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "Which medieval South Indian empire was established by the brothers Harihara I and Bukka Raya I in 1336?",
+    "options": [
+      "Bahmani Sultanate",
+      "Vijayanagara Empire",
+      "Hoysala Empire",
+      "Kakatiya Dynasty"
+    ],
+    "answer": "Vijayanagara Empire"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "The Doctrine of Lapse was an annexation policy extensively applied by which British Governor-General?",
+    "options": [
+      "Lord Wellesley",
+      "Lord Dalhousie",
+      "Lord Hastings",
+      "Lord Mayo"
+    ],
+    "answer": "Lord Dalhousie"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "In which session of the Indian National Congress was the 'Purna Swaraj' (Complete Independence) resolution adopted in 1929?",
+    "options": [
+      "Calcutta Session",
+      "Lahore Session",
+      "Karachi Session",
+      "Nagpur Session"
+    ],
+    "answer": "Lahore Session"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "Who wrote 'Indika', an ancient Greek account of India during the Mauryan period?",
+    "options": [
+      "Deimachus",
+      "Megasthenes",
+      "Ptolemy",
+      "Strabo"
+    ],
+    "answer": "Megasthenes"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "The famous Poona Pact of 1932 was signed between Mahatma Gandhi and which other leader?",
+    "options": [
+      "Muhammad Ali Jinnah",
+      "Dr. B. R. Ambedkar",
+      "Jawaharlal Nehru",
+      "Subhash Chandra Bose"
+    ],
+    "answer": "Dr. B. R. Ambedkar"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "Which ruler of the Slave Dynasty (Mamluk Dynasty) was the first woman to rule the Delhi Sultanate?",
+    "options": [
+      "Chand Bibi",
+      "Razia Sultana",
+      "Nur Jahan",
+      "Mumtaz Mahal"
+    ],
+    "answer": "Razia Sultana"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "Which court poet wrote 'Prithviraj Raso', an epic poem about Prithviraj Chauhan?",
+    "options": [
+      "Chand Bardai",
+      "Amir Khusrau",
+      "Kalhana",
+      "Bilhana"
+    ],
+    "answer": "Chand Bardai"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "In which year did the Quit India Movement begin?",
+    "options": [
+      "1920",
+      "1930",
+      "1942",
+      "1946"
+    ],
+    "answer": "1942"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "Who was the founder of the Brahmo Samaj in 1828?",
+    "options": [
+      "Debendranath Tagore",
+      "Raja Ram Mohan Roy",
+      "Keshab Chandra Sen",
+      "Swami Vivekananda"
+    ],
+    "answer": "Raja Ram Mohan Roy"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "The Third Battle of Panipat in 1761 was fought between the Maratha Empire and which invader?",
+    "options": [
+      "Nadir Shah",
+      "Ahmad Shah Abdali",
+      "Taimur",
+      "Genghis Khan"
+    ],
+    "answer": "Ahmad Shah Abdali"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "Which Buddhist council was held during the reign of Emperor Kanishka in Kashmir?",
+    "options": [
+      "First Buddhist Council",
+      "Second Buddhist Council",
+      "Third Buddhist Council",
+      "Fourth Buddhist Council"
+    ],
+    "answer": "Fourth Buddhist Council"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "Who amongst the following was known as the 'Frontier Gandhi'?",
+    "options": [
+      "Khan Abdul Ghaffar Khan",
+      "Maulana Abul Kalam Azad",
+      "Hasrat Mohani",
+      "Shaukat Ali"
+    ],
+    "answer": "Khan Abdul Ghaffar Khan"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "The Subsidiary Alliance system was introduced in India by which British Governor-General?",
+    "options": [
+      "Lord Cornwallis",
+      "Lord Wellesley",
+      "Lord Hastings",
+      "Lord Minto"
+    ],
+    "answer": "Lord Wellesley"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "Which Gupta ruler defeated the Shakas and assumed the title of 'Vikramaditya'?",
+    "options": [
+      "Chandragupta I",
+      "Chandragupta II",
+      "Samudragupta",
+      "Kumaragupta I"
+    ],
+    "answer": "Chandragupta II"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "Who among the following founded the Ghadar Party in San Francisco in 1913?",
+    "options": [
+      "Lala Har Dayal",
+      "Bhagat Singh",
+      "Subhash Chandra Bose",
+      "V. D. Savarkar"
+    ],
+    "answer": "Lala Har Dayal"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "The Renaissance began during the 14th century in which European country?",
+    "options": [
+      "France",
+      "England",
+      "Italy",
+      "Germany"
+    ],
+    "answer": "Italy"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "Which Russian revolutionary led the Bolshevik Party during the October Revolution of 1917?",
+    "options": [
+      "Leon Trotsky",
+      "Vladimir Lenin",
+      "Joseph Stalin",
+      "Mikhail Gorbachev"
+    ],
+    "answer": "Vladimir Lenin"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "The Industrial Revolution began in the 18th century in which nation?",
+    "options": [
+      "United States",
+      "Germany",
+      "Great Britain",
+      "France"
+    ],
+    "answer": "Great Britain"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "Which Japanese cities were hit by atomic bombs dropped by the United States in August 1945?",
+    "options": [
+      "Tokyo and Kyoto",
+      "Hiroshima and Nagasaki",
+      "Osaka and Yokohama",
+      "Sapporo and Kobe"
+    ],
+    "answer": "Hiroshima and Nagasaki"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "The Magna Carta was signed by King John of England in which year?",
+    "options": [
+      "1215",
+      "1315",
+      "1415",
+      "1515"
+    ],
+    "answer": "1215"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "Who was the military commander who became Emperor of the French and conquered much of continental Europe in the early 19th century?",
+    "options": [
+      "Louis XIV",
+      "Napoleon Bonaparte",
+      "Charles de Gaulle",
+      "Bismarck"
+    ],
+    "answer": "Napoleon Bonaparte"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "The Cold War was primarily a geopolitical tension between which two superpowers?",
+    "options": [
+      "USA and China",
+      "USA and USSR",
+      "UK and Germany",
+      "France and Russia"
+    ],
+    "answer": "USA and USSR"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "Which ancient civilization constructed the famous city of Machu Picchu high in the Andes Mountains?",
+    "options": [
+      "Aztec",
+      "Maya",
+      "Inca",
+      "Olmec"
+    ],
+    "answer": "Inca"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "Who was the Prussian statesman who unified Germany in 1871 and served as its first Chancellor?",
+    "options": [
+      "Otto von Bismarck",
+      "Kaiser Wilhelm II",
+      "Metternich",
+      "Frederick the Great"
+    ],
+    "answer": "Otto von Bismarck"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "In 1453, the fall of Constantinople to the Ottoman Empire marked the end of which ancient empire?",
+    "options": [
+      "Western Roman Empire",
+      "Byzantine Empire (Eastern Roman)",
+      "Holy Roman Empire",
+      "Persian Empire"
+    ],
+    "answer": "Byzantine Empire (Eastern Roman)"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "Which of the following Mahajanapadas was an ancient oligarchy/republic (Gana-Sangha) ruled by the Licchavis?",
+    "options": [
+      "Magadha",
+      "Vajji",
+      "Kosala",
+      "Vatsa"
+    ],
+    "answer": "Vajji"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "The Aihole Inscription composed by Ravikirti describes the victory of Pulakeshin II over which North Indian ruler?",
+    "options": [
+      "Harshavardhana",
+      "Chandragupta Maurya",
+      "Yashodharman",
+      "Shashanka"
+    ],
+    "answer": "Harshavardhana"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "Under the Mughal administration, what did the term 'Zat' in the Mansabdari system represent?",
+    "options": [
+      "Number of cavalrymen to be maintained",
+      "Personal rank and salary status of the official",
+      "Tax rate assigned to land",
+      "Judicial authority of the governor"
+    ],
+    "answer": "Personal rank and salary status of the official"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "Who was the editor of the nationalist newspaper 'Al-Hilal' launched in 1912?",
+    "options": [
+      "Maulana Abul Kalam Azad",
+      "Muhammad Ali Jinnah",
+      "Syed Ahmad Khan",
+      "Zakaria Kitchlew"
+    ],
+    "answer": "Maulana Abul Kalam Azad"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "The Cabinet Mission arrived in India in 1946 to discuss the transfer of power. Who among the following was NOT a member of this mission?",
+    "options": [
+      "Lord Pethick-Lawrence",
+      "Sir Stafford Cripps",
+      "A. V. Alexander",
+      "Lord Wavell"
+    ],
+    "answer": "Lord Wavell"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "Which land revenue system introduced by Thomas Munro in 1820 directly collected taxes from individual cultivators in Southern India?",
+    "options": [
+      "Zamindari System",
+      "Ryotwari System",
+      "Mahalwari System",
+      "Ijaradari System"
+    ],
+    "answer": "Ryotwari System"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "Which medieval traveler from Morocco visited India during the reign of Muhammad bin Tughlaq and was appointed as a Qadi (judge) in Delhi?",
+    "options": [
+      "Al-Biruni",
+      "Ibn Battuta",
+      "Abdur Razzaq",
+      "Francois Bernier"
+    ],
+    "answer": "Ibn Battuta"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "The Ilbert Bill controversy of 1883 during Lord Ripon’s tenure was related to which issue?",
+    "options": [
+      "Freedom of the vernacular press",
+      "Judicial equality allowing Indian magistrates to try European offenders",
+      "Lowering the age limit for Civil Services examinations",
+      "Imposition of duties on imported cotton goods"
+    ],
+    "answer": "Judicial equality allowing Indian magistrates to try European offenders"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "Who founded the 'Servants of India Society' in Pune in 1905?",
+    "options": [
+      "Gopal Krishna Gokhale",
+      "M. G. Ranade",
+      "Jyotirao Phule",
+      "G. H. Deshmukh"
+    ],
+    "answer": "Gopal Krishna Gokhale"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "Which Buddhist text contains the theoretical and philosophical framework of Buddhism as discussed in the Third Buddhist Council?",
+    "options": [
+      "Vinaya Pitaka",
+      "Sutta Pitaka",
+      "Abhidhamma Pitaka",
+      "Milinda Panha"
+    ],
+    "answer": "Abhidhamma Pitaka"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "The famous Komagata Maru incident in 1914 involved a Japanese steamship carrying Indian passengers to which country?",
+    "options": [
+      "United States",
+      "Canada",
+      "Australia",
+      "Great Britain"
+    ],
+    "answer": "Canada"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "Which Rashtrakuta King constructed the world's largest monolithic rock-cut structure, the Kailash Temple at Ellora?",
+    "options": [
+      "Dantidurga",
+      "Krishna I",
+      "Amoghavarsha I",
+      "Govinda III"
+    ],
+    "answer": "Krishna I"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "Who presided over the Karachi Session of the Indian National Congress in 1931 where fundamental rights were resolution passed?",
+    "options": [
+      "Sardar Vallabhbhai Patel",
+      "Jawaharlal Nehru",
+      "Subhash Chandra Bose",
+      "Sarojini Naidu"
+    ],
+    "answer": "Sardar Vallabhbhai Patel"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "The 'Chauri Chaura' incident in February 1922 led directly to the suspension of which national movement?",
+    "options": [
+      "Swadeshi Movement",
+      "Non-Cooperation Movement",
+      "Civil Disobedience Movement",
+      "Quit India Movement"
+    ],
+    "answer": "Non-Cooperation Movement"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "Which Treaty brought an end to the First Anglo-Maratha War in 1782?",
+    "options": [
+      "Treaty of Purandar",
+      "Treaty of Salbai",
+      "Treaty of Bassein",
+      "Treaty of Deogaon"
+    ],
+    "answer": "Treaty of Salbai"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "Who was the author of 'Kitab-ul-Hind', a detailed 11th-century study of Indian culture, religion, and mathematics?",
+    "options": [
+      "Al-Biruni",
+      "Amir Khusrau",
+      "Firdausi",
+      "Al-Masudi"
+    ],
+    "answer": "Al-Biruni"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "Which Charter Act terminated the commercial trade monopoly of the British East India Company in India (except for trade in tea and trade with China)?",
+    "options": [
+      "Charter Act of 1793",
+      "Charter Act of 1813",
+      "Charter Act of 1833",
+      "Charter Act of 1853"
+    ],
+    "answer": "Charter Act of 1813"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "The Bardoli Satyagraha of 1928 was organized against an unwarranted increase in land tax. Who led this movement?",
+    "options": [
+      "Mahatma Gandhi",
+      "Sardar Vallabhbhai Patel",
+      "Morarji Desai",
+      "Vinoba Bhave"
+    ],
+    "answer": "Sardar Vallabhbhai Patel"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "Who was the founder of the Satavahana Dynasty in southern and central India?",
+    "options": [
+      "Simuka",
+      "Gautamiputra Satakarni",
+      "Satakarni I",
+      "Yajna Sri Satakarni"
+    ],
+    "answer": "Simuka"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "Which commission was appointed by the British government in 1927 to review the working of the Government of India Act 1919, sparking widespread 'Go Back' protests?",
+    "options": [
+      "Hunter Commission",
+      "Simon Commission",
+      "Cripps Mission",
+      "Sedition Committee"
+    ],
+    "answer": "Simon Commission"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "Which ancient Mesopotamian ruler is famous for issuing one of the earliest legal codes inscribed on stone stelae?",
+    "options": [
+      "Sargon of Akkad",
+      "Hammurabi",
+      "Nebuchadnezzar II",
+      "Ashurbanipal"
+    ],
+    "answer": "Hammurabi"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "The Defeat of the Spanish Armada in 1588 established naval supremacy for which nation?",
+    "options": [
+      "France",
+      "England",
+      "Portugal",
+      "Netherlands"
+    ],
+    "answer": "England"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "The Treaty of Westphalia in 1648 brought an end to which devastating European conflict?",
+    "options": [
+      "Seven Years' War",
+      "Thirty Years' War",
+      "Hundred Years' War",
+      "War of the Spanish Succession"
+    ],
+    "answer": "Thirty Years' War"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "Who was the last Emperor of the Romanov Dynasty in Russia before his abdication during the 1917 Revolution?",
+    "options": [
+      "Alexander II",
+      "Nicholas II",
+      "Alexander III",
+      "Peter the Great"
+    ],
+    "answer": "Nicholas II"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "In which 1815 battle was Napoleon Bonaparte decisively defeated by allied forces led by the Duke of Wellington?",
+    "options": [
+      "Battle of Leipzig",
+      "Battle of Austerlitz",
+      "Battle of Waterloo",
+      "Battle of Trafalgar"
+    ],
+    "answer": "Battle of Waterloo"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "Which Chinese dynasty implemented the civil service examination system based on Confucianism and expanded the Silk Road significantly during the classical period?",
+    "options": [
+      "Qin Dynasty",
+      "Han Dynasty",
+      "Song Dynasty",
+      "Ming Dynasty"
+    ],
+    "answer": "Han Dynasty"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "The Meiji Restoration of 1868 transformed which Asian country into a modernized industrial superpower?",
+    "options": [
+      "China",
+      "Japan",
+      "Korea",
+      "Vietnam"
+    ],
+    "answer": "Japan"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "The Sykes-Picot Agreement of 1916 was a secret pact primarily between Britain and France to partition which region?",
+    "options": [
+      "Sub-Saharan Africa",
+      "Ottoman Empire (Middle East)",
+      "Southeast Asia",
+      "The Balkans"
+    ],
+    "answer": "Ottoman Empire (Middle East)"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "Which ancient Greek conflict between the Delian League (led by Athens) and the Peloponnesian League (led by Sparta) took place from 431 to 404 BCE?",
+    "options": [
+      "Greco-Persian Wars",
+      "Peloponnesian War",
+      "Punic Wars",
+      "Macedonian Wars"
+    ],
+    "answer": "Peloponnesian War"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "Who was the Soviet leader who implemented the policies of 'Glasnost' (openness) and 'Perestroika' (restructuring) in the 1980s?",
+    "options": [
+      "Nikita Khrushchev",
+      "Leonid Brezhnev",
+      "Mikhail Gorbachev",
+      "Boris Yeltsin"
+    ],
+    "answer": "Mikhail Gorbachev"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "The Boxer Rebellion (1899–1901) was an anti-foreign, anti-colonial uprising that took place in which country?",
+    "options": [
+      "India",
+      "China",
+      "Japan",
+      "Philippines"
+    ],
+    "answer": "China"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "Which battle in 202 BCE saw Scipio Africanus defeat Hannibal Barca, effectively ending the Second Punic War?",
+    "options": [
+      "Battle of Cannae",
+      "Battle of Zama",
+      "Battle of Actium",
+      "Battle of Pharsalus"
+    ],
+    "answer": "Battle of Zama"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "The Berlin Conference of 1884–1885 was organized to regulate European colonization and trade in which territory?",
+    "options": [
+      "North America",
+      "Latin America",
+      "Africa",
+      "Central Asia"
+    ],
+    "answer": "Africa"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "Who was the prominent leader of the Haitian Revolution, which successfully established the first independent Black republic in 1804?",
+    "options": [
+      "Toussaint Louverture",
+      "Simon Bolivar",
+      "Jose de San Martin",
+      "Emiliano Zapata"
+    ],
+    "answer": "Toussaint Louverture"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "Which Italian nationalist led the 'Expedition of the Thousand' and played a key role in the unification of Italy (Risorgimento)?",
+    "options": [
+      "Count Cavour",
+      "Giuseppe Garibaldi",
+      "Giuseppe Mazzini",
+      "Victor Emmanuel II"
+    ],
+    "answer": "Giuseppe Garibaldi"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "The 1911 Xinhai Revolution ended thousands of years of imperial rule in China by overthrowing which dynasty?",
+    "options": [
+      "Ming Dynasty",
+      "Qing Dynasty",
+      "Yuan Dynasty",
+      "Tang Dynasty"
+    ],
+    "answer": "Qing Dynasty"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "Which conflict from 1853 to 1856 saw the Ottoman Empire, France, Britain, and Sardinia defeat the Russian Empire?",
+    "options": [
+      "Crimean War",
+      "Russo-Turkish War",
+      "Balkan Wars",
+      "War of the Triple Alliance"
+    ],
+    "answer": "Crimean War"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "The Congress of Vienna (1814–1815) was convened to reorganize Europe following which event?",
+    "options": [
+      "French Revolution",
+      "Napoleonic Wars",
+      "Seven Years' War",
+      "World War I"
+    ],
+    "answer": "Napoleonic Wars"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "In 1916, which battle became one of the largest and bloodiest battles of World War I on the Western Front, costing over a million casualties?",
+    "options": [
+      "Battle of Verdun",
+      "Battle of the Somme",
+      "Battle of Tannenberg",
+      "Battle of Gallipoli"
+    ],
+    "answer": "Battle of the Somme"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "Which agreement, signed in 1992, created the European Union and led to the establishment of the single European currency (Euro)?",
+    "options": [
+      "Treaty of Versailles",
+      "Maastricht Treaty",
+      "Treaty of Rome",
+      "Schengen Agreement"
+    ],
+    "answer": "Maastricht Treaty"
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "Which Indian festival is widely known as the 'Festival of Lights'?",
+    "options": [
+      "Holi",
+      "Diwali",
+      "Navratri",
+      "Onam"
+    ],
+    "answer": "Diwali"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "Which classical dance form originated in the state of Tamil Nadu?",
+    "options": [
+      "Kathak",
+      "Bharatanatyam",
+      "Kathakali",
+      "Kuchipudi"
+    ],
+    "answer": "Bharatanatyam"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "Which ancient Japanese traditional garment is a long robe with wide sleeves tied with an 'obi'?",
+    "options": [
+      "Hanbok",
+      "Kimono",
+      "Saree",
+      "Cheongsam"
+    ],
+    "answer": "Kimono"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "Which harvest festival is celebrated in Kerala with grand boat races (Vallam Kali) and floral carpets (Pookalam)?",
+    "options": [
+      "Pongal",
+      "Onam",
+      "Bihu",
+      "Vaisakhi"
+    ],
+    "answer": "Onam"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "Which monument in Agra, built by Emperor Shah Jahan, is considered an iconic masterpiece of Mughal architecture?",
+    "options": [
+      "Red Fort",
+      "Taj Mahal",
+      "Qutub Minar",
+      "Fatehpur Sikri"
+    ],
+    "answer": "Taj Mahal"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "The Mexican holiday 'Día de los Muertos' translates to which English celebration?",
+    "options": [
+      "Day of the Sun",
+      "Day of the Dead",
+      "Day of the Harvest",
+      "Day of the Saints"
+    ],
+    "answer": "Day of the Dead"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "Which famous Indian festival is known for vibrant color-throwing, welcoming spring, and celebrating victory of good over evil?",
+    "options": [
+      "Dussehra",
+      "Holi",
+      "Raksha Bandhan",
+      "Ganesh Chaturthi"
+    ],
+    "answer": "Holi"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "In traditional Chinese culture, which mythical creature symbolizes good luck, strength, and power during Lunar New Year celebrations?",
+    "options": [
+      "Phoenix",
+      "Dragon",
+      "Tiger",
+      "Griffin"
+    ],
+    "answer": "Dragon"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "Which Indian state is famous for celebrating the Bihu festival?",
+    "options": [
+      "Assam",
+      "Odisha",
+      "West Bengal",
+      "Manipur"
+    ],
+    "answer": "Assam"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "Which ancient Sanskrit epics are considered foundational pillars of Indian cultural and religious heritage?",
+    "options": [
+      "Iliad and Odyssey",
+      "Ramayana and Mahabharata",
+      "Shahnameh and Epic of Gilgamesh",
+      "Panchatantra and Jataka Tales"
+    ],
+    "answer": "Ramayana and Mahabharata"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "Which traditional two-piece garment is worn by women in Korea?",
+    "options": [
+      "Kimono",
+      "Hanbok",
+      "Saree",
+      "Ao Dai"
+    ],
+    "answer": "Hanbok"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "Durga Puja is the biggest and most celebrated cultural and religious festival in which Indian state?",
+    "options": [
+      "Maharashtra",
+      "West Bengal",
+      "Gujarat",
+      "Punjab"
+    ],
+    "answer": "West Bengal"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "Which stringed instrument, famously played by Pandit Ravi Shankar, is an iconic symbol of Indian classical music worldwide?",
+    "options": [
+      "Veena",
+      "Sitar",
+      "Sarod",
+      "Santoor"
+    ],
+    "answer": "Sitar"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "Which global annual carnival, famous for samba music and elaborate costumes, takes place in Brazil?",
+    "options": [
+      "Venice Carnival",
+      "Rio de Janeiro Carnival",
+      "Mardi Gras",
+      "Notting Hill Carnival"
+    ],
+    "answer": "Rio de Janeiro Carnival"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "Garba and Dandiya Raas are traditional folk dances performed primarily during Navratri in which Indian state?",
+    "options": [
+      "Rajasthan",
+      "Gujarat",
+      "Madhya Pradesh",
+      "Uttar Pradesh"
+    ],
+    "answer": "Gujarat"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "Which ancient language is considered the primary liturgical and scholarly language of classical Indian heritage?",
+    "options": [
+      "Pali",
+      "Sanskrit",
+      "Prakrit",
+      "Tamil"
+    ],
+    "answer": "Sanskrit"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "Which European city is world-famous for its historic masked carnival held on its iconic canals?",
+    "options": [
+      "Paris",
+      "Venice",
+      "Madrid",
+      "Vienna"
+    ],
+    "answer": "Venice"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "Which martial art and cultural performance originating in Kerala features striking body paint and acrobatic movements?",
+    "options": [
+      "Silambam",
+      "Kalaripayattu",
+      "Gatka",
+      "Thang-Ta"
+    ],
+    "answer": "Kalaripayattu"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "Which famous four-day harvest festival dedicated to the Sun God is celebrated in Tamil Nadu?",
+    "options": [
+      "Pongal",
+      "Makar Sankranti",
+      "Baisakhi",
+      "Lohri"
+    ],
+    "answer": "Pongal"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "Which traditional Scottish skirt made of tartan fabric is worn by men on formal cultural occasions?",
+    "options": [
+      "Kilt",
+      "Toga",
+      "Saron",
+      "Fustanella"
+    ],
+    "answer": "Kilt"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "Which classical dance form from Uttar Pradesh is characterized by swift footwork and rhythmic spins ('chakkar')?",
+    "options": [
+      "Kathak",
+      "Odissi",
+      "Manipuri",
+      "Sattriya"
+    ],
+    "answer": "Kathak"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "Which holy river in India is venerated as a goddess and plays a central role in Hindu rituals and pilgrimage?",
+    "options": [
+      "Yamuna",
+      "Ganga",
+      "Godavari",
+      "Narmada"
+    ],
+    "answer": "Ganga"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "Oktoberfest, the world's largest annual folk and beer festival, originated in which country?",
+    "options": [
+      "Ireland",
+      "Germany",
+      "Belgium",
+      "Austria"
+    ],
+    "answer": "Germany"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "Which Indian festival celebrates the bond of love and protection between brothers and sisters?",
+    "options": [
+      "Karwa Chauth",
+      "Raksha Bandhan",
+      "Bhai Dooj",
+      "Teej"
+    ],
+    "answer": "Raksha Bandhan"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "The world-famous Sun Temple shaped like a giant ornate chariot is located in which Indian town?",
+    "options": [
+      "Hampi",
+      "Konark",
+      "Khajuraho",
+      "Madurai"
+    ],
+    "answer": "Konark"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "Flamenco is a passionate dance, song, and guitar art form deeply rooted in the culture of which country?",
+    "options": [
+      "Italy",
+      "Spain",
+      "Argentina",
+      "Portugal"
+    ],
+    "answer": "Spain"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "Which vibrant Punjabi folk dance is traditionally performed by men during harvest celebrations like Vaisakhi?",
+    "options": [
+      "Giddha",
+      "Bhangra",
+      "Ghoomar",
+      "Lavani"
+    ],
+    "answer": "Bhangra"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "Yoga, an ancient mind-body spiritual practice that has gained worldwide popularity, originated in which country?",
+    "options": [
+      "China",
+      "India",
+      "Tibet",
+      "Greece"
+    ],
+    "answer": "India"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "Haiku is a traditional form of three-line unrhymed poetry consisting of 17 syllables that originated in:",
+    "options": [
+      "China",
+      "Japan",
+      "Korea",
+      "Vietnam"
+    ],
+    "answer": "Japan"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "Ganesh Chaturthi is celebrated with immense cultural fervor and grand public processions primarily in which Indian state?",
+    "options": [
+      "Karnataka",
+      "Maharashtra",
+      "Goa",
+      "Telangana"
+    ],
+    "answer": "Maharashtra"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "Madhubani painting, characterized by eye-catching geometrical patterns and mythology, is a traditional folk art of which Indian state?",
+    "options": [
+      "Odisha",
+      "Bihar",
+      "Jharkhand",
+      "Madhya Pradesh"
+    ],
+    "answer": "Bihar"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "Which traditional Japanese performance art features stylized drama, elaborate makeup, and dramatic stagecraft?",
+    "options": [
+      "Noh",
+      "Kabuki",
+      "Bunraku",
+      "Wayang"
+    ],
+    "answer": "Kabuki"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "Sattriya, recognized as one of India's classical dance forms, was developed by the 15th-century saint Srimanta Sankardeva in which state?",
+    "options": [
+      "Manipur",
+      "Assam",
+      "Tripura",
+      "Meghalaya"
+    ],
+    "answer": "Assam"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "Which Indian site features 32 rock-cut Buddhist cave monuments famed for magnificent ancient murals and paintings?",
+    "options": [
+      "Ellora Caves",
+      "Ajanta Caves",
+      "Elephanta Caves",
+      "Badami Caves"
+    ],
+    "answer": "Ajanta Caves"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "The Maori traditional war dance, famous for being performed by New Zealand's national rugby team, is called:",
+    "options": [
+      "Haka",
+      "Siva Tau",
+      "Cibi",
+      "Hula"
+    ],
+    "answer": "Haka"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "Warli folk painting, which uses basic geometric shapes to portray daily life and nature, belongs to which Indian state?",
+    "options": [
+      "Gujarat",
+      "Maharashtra",
+      "Rajasthan",
+      "Chhattisgarh"
+    ],
+    "answer": "Maharashtra"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "Hornbill Festival, known as the 'Festival of Festivals' showcasing indigenous tribal culture, is held annually in which state?",
+    "options": [
+      "Mizoram",
+      "Nagaland",
+      "Arunachal Pradesh",
+      "Meghalaya"
+    ],
+    "answer": "Nagaland"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "Which UNESCO Intangible Cultural Heritage practice from Indonesia involves dyeing cloth using wax-resist techniques?",
+    "options": [
+      "Ikat",
+      "Batik",
+      "Shibori",
+      "Songket"
+    ],
+    "answer": "Batik"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "Which South Indian temple architectural style is distinguished by towering gateway towers called 'Gopurams'?",
+    "options": [
+      "Nagara Style",
+      "Dravidian Style",
+      "Vesara Style",
+      "Kalinga Style"
+    ],
+    "answer": "Dravidian Style"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "Pattachitra, a traditional cloth-based scroll painting known for intricate mythological narratives, originated in which Indian state?",
+    "options": [
+      "West Bengal",
+      "Odisha",
+      "Andhra Pradesh",
+      "Assam"
+    ],
+    "answer": "Odisha"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "Songkran is a world-famous traditional New Year festival celebrated with nationwide public water fights in which country?",
+    "options": [
+      "Vietnam",
+      "Thailand",
+      "Cambodia",
+      "Myanmar"
+    ],
+    "answer": "Thailand"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "Which classical dance drama of Kerala features elaborate face painting, green masks ('Paccha'), and striking costumes?",
+    "options": [
+      "Mohiniyattam",
+      "Kathakali",
+      "Koodiyattam",
+      "Chakyar Koothu"
+    ],
+    "answer": "Kathakali"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "The traditional Rajasthani folk dance performed by women wearing swaying dresses while twirling in circles is:",
+    "options": [
+      "Kalbelia",
+      "Ghoomar",
+      "Chhari",
+      "Kachhi Ghodi"
+    ],
+    "answer": "Ghoomar"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "In Chinese cultural tradition, the Mid-Autumn Festival is heavily associated with eating which symbolic baked pastry?",
+    "options": [
+      "Mochi",
+      "Mooncake",
+      "Baklava",
+      "Tangyuan"
+    ],
+    "answer": "Mooncake"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "Which ancient Indian treatise on performing arts, written by Sage Bharata, serves as the foundation for classical dance and music?",
+    "options": [
+      "Natyashastra",
+      "Abhinaya Darpana",
+      "Sangita Ratnakara",
+      "Kamasutra"
+    ],
+    "answer": "Natyashastra"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "The Chausath Yogini Temple in Madhya Pradesh is believed to have inspired the architectural design of which Indian building?",
+    "options": [
+      "Old Parliament House (Samvidhan Sadan)",
+      "Rashtrapati Bhavan",
+      "Supreme Court of India",
+      "Victoria Memorial"
+    ],
+    "answer": "Old Parliament House (Samvidhan Sadan)"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "Wayang Kulit, a traditional form of puppet-shadow play, is a famous cultural heritage art form of which nation?",
+    "options": [
+      "Malaysia",
+      "Indonesia",
+      "Philippines",
+      "Thailand"
+    ],
+    "answer": "Indonesia"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "Kumbh Mela, recognized by UNESCO as Intangible Cultural Heritage, takes place in rotation across four Indian cities. Which is NOT one of them?",
+    "options": [
+      "Prayagraj",
+      "Haridwar",
+      "Varanasi",
+      "Ujjain"
+    ],
+    "answer": "Varanasi"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "Which renowned Sufi devotional music style, popularized in South Asia by legends like Nusrat Fateh Ali Khan, originated in 13th-century India?",
+    "options": [
+      "Ghazal",
+      "Qawwali",
+      "Kafi",
+      "Thumri"
+    ],
+    "answer": "Qawwali"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "Tango, a sensual dance and music genre that evolved in working-class ports, originated in which South American nation?",
+    "options": [
+      "Brazil",
+      "Argentina",
+      "Colombia",
+      "Chile"
+    ],
+    "answer": "Argentina"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "Which state's unique folk theatre form, 'Yakshagana', combines dance, music, dialogue, and vibrant costumes?",
+    "options": [
+      "Kerala",
+      "Karnataka",
+      "Andhra Pradesh",
+      "Tamil Nadu"
+    ],
+    "answer": "Karnataka"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "The famous Pashupatinath Temple, a revered Hindu pilgrimage shrine, is situated on the banks of the Bagmati River in:",
+    "options": [
+      "Varanasi, India",
+      "Kathmandu, Nepal",
+      "Thimphu, Bhutan",
+      "Colombo, Sri Lanka"
+    ],
+    "answer": "Kathmandu, Nepal"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "Which classical music system of South India is historically associated with figures like Tyagaraja, Muthuswami Dikshitar, and Syama Sastri?",
+    "options": [
+      "Hindustani Classical",
+      "Carnatic Music",
+      "Rabindra Sangeet",
+      "Sopana Sangeetham"
+    ],
+    "answer": "Carnatic Music"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "Which unique festival in Spain involves thousands of participants throwing overripe tomatoes at each other purely for entertainment?",
+    "options": [
+      "San Fermín",
+      "La Tomatina",
+      "Las Fallas",
+      "Feria de Abril"
+    ],
+    "answer": "La Tomatina"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "Chau dance, a semi-classical Indian dance with martial and folk traditions incorporating striking masks, is native to which region?",
+    "options": [
+      "Eastern India (Jharkhand, West Bengal, Odisha)",
+      "Western India (Rajasthan, Gujarat)",
+      "Southern India (Karnataka, Kerala)",
+      "Northern India (Punjab, Himachal Pradesh)"
+    ],
+    "answer": "Eastern India (Jharkhand, West Bengal, Odisha)"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "Pashmina shawls, world-renowned for their fine wool and luxurious weave, are traditionally produced in which Indian region?",
+    "options": [
+      "Himachal Pradesh",
+      "Jammu and Kashmir",
+      "Uttarakhand",
+      "Sikkim"
+    ],
+    "answer": "Jammu and Kashmir"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "Which ancient Celtic festival marking the end of summer and the harvest is considered the direct cultural ancestor of modern Halloween?",
+    "options": [
+      "Beltane",
+      "Samhain",
+      "Imbolc",
+      "Lughnasadh"
+    ],
+    "answer": "Samhain"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "Thanjavur painting, known for rich surface embellishment using gold foils and precious stones, originated under which dynasty?",
+    "options": [
+      "Pallava Dynasty",
+      "Chola Dynasty",
+      "Vijayanagara Empire",
+      "Pandya Dynasty"
+    ],
+    "answer": "Maratha Rulers of Thanjavur / Vijayanagara Era"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "Which traditional Mongolian festival showcases the 'Three Manly Games': wrestling, archery, and horse racing?",
+    "options": [
+      "Tsagaan Sar",
+      "Naadam",
+      "Eagle Festival",
+      "Ice Festival"
+    ],
+    "answer": "Naadam"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "Which ancient Indian University in modern Bihar was a world-renowned seat of Buddhist learning attracting scholars from across Asia?",
+    "options": [
+      "Taxila",
+      "Nalanda",
+      "Vikramashila",
+      "Valabhi"
+    ],
+    "answer": "Nalanda"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "Koodiyattam, recognized by UNESCO as a Masterpiece of the Oral and Intangible Heritage of Humanity, is the only surviving Sanskrit theatre from which state?",
+    "options": [
+      "Tamil Nadu",
+      "Kerala",
+      "Karnataka",
+      "Andhra Pradesh"
+    ],
+    "answer": "Kerala"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "Which ancient Persian philosophy/religion founded by Zoroaster heavily influenced cultural concepts of dualism and sacred fire worship?",
+    "options": [
+      "Manichaeism",
+      "Zoroastrianism",
+      "Zurvanism",
+      "Mithraism"
+    ],
+    "answer": "Zoroastrianism"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "Which school of ancient Indian philosophy, founded by Sage Kapila, proposes a dualistic worldview comprising Purusha (consciousness) and Prakriti (matter)?",
+    "options": [
+      "Nyaya",
+      "Vaisheshika",
+      "Samkhya",
+      "Mimamsa"
+    ],
+    "answer": "Samkhya"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "The Champa civilization, which left behind remarkable Hindu temple complex ruins at My Son, flourished in which modern southeast Asian nation?",
+    "options": [
+      "Cambodia",
+      "Vietnam",
+      "Laos",
+      "Indonesia"
+    ],
+    "answer": "Vietnam"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "Which Chola emperor commissioned the Brihadisvara Temple at Thanjavur around 1010 CE, demonstrating peak Dravidian architectural engineering?",
+    "options": [
+      "Rajendra Chola I",
+      "Rajaraja Chola I",
+      "Karikala Chola",
+      "Kulothunga Chola I"
+    ],
+    "answer": "Rajaraja Chola I"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "Which Sufi order, introduced to India by Khwaja Moinuddin Chishti in the 12th century, emphasizes musical devotion (Sama) and universal brotherhood?",
+    "options": [
+      "Suhrawardiyya",
+      "Chishti Order",
+      "Naqshbandiyya",
+      "Qadiriyya"
+    ],
+    "answer": "Chishti Order"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "The Japanese aesthetic philosophy 'Wabi-Sabi' centers on finding beauty and appreciation in:",
+    "options": [
+      "Symmetry and perfection",
+      "Imperfection, impermanence, and simplicity",
+      "Opulence and grandiosity",
+      "Vibrant colors and light"
+    ],
+    "answer": "Imperfection, impermanence, and simplicity"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "Which ancient school of Indian philosophy, authored by Charvaka, rejected the concepts of karma, afterlife, and divine authority in favor of materialism?",
+    "options": [
+      "Lokayata / Charvaka",
+      "Ajivika",
+      "Samkhya",
+      "Vaisheshika"
+    ],
+    "answer": "Lokayata / Charvaka"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "In Tibetan Buddhism, intricate geometric sand mandalas created during sacred rituals are intentionally destroyed primarily to symbolize:",
+    "options": [
+      "Defeat of evil spirits",
+      "The impermanence of all worldly things",
+      "The rebirth of the cosmos",
+      "Purification of bad karma"
+    ],
+    "answer": "The impermanence of all worldly things"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "Which style of Hindustani classical singing, revived and popularized by the Dagar family, is considered the oldest surviving vocal genre?",
+    "options": [
+      "Khayal",
+      "Dhrupad",
+      "Thumri",
+      "Tappa"
+    ],
+    "answer": "Dhrupad"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "Which collection of 1028 Vedic Sanskrit hymns divided into 10 Mandalas is recognized as the oldest surviving Indo-Iranian text?",
+    "options": [
+      "Sama Veda",
+      "Yajur Veda",
+      "Rig Veda",
+      "Atharva Veda"
+    ],
+    "answer": "Rig Veda"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "The 'Kintsugi' technique in Japanese cultural tradition repairs broken ceramic pottery using lacquer dusted with powdered gold to accentuate:",
+    "options": [
+      "The object's monetary value",
+      "The history and flaws rather than disguising them",
+      "Religious warding off of spirits",
+      "Structural flexibility"
+    ],
+    "answer": "The history and flaws rather than disguising them"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "The Sun Temple at Modhera, known for its intricate stone carvings and stepwell ('Ramakunda'), was built during the reign of which dynasty?",
+    "options": [
+      "Solanki Dynasty (Chaulukya)",
+      "Paramara Dynasty",
+      "Rashtrakuta Dynasty",
+      "Chandela Dynasty"
+    ],
+    "answer": "Solanki Dynasty (Chaulukya)"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "Which ancient Indian ruler codified moral and ethical precepts known as 'Dhamma' on stone pillars and rock edicts across the subcontinent?",
+    "options": [
+      "Chandragupta Maurya",
+      "Ashoka the Great",
+      "Samudragupta",
+      "Harshavardhana"
+    ],
+    "answer": "Ashoka the Great"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "Which Mesoamerican civilization built the famous step-pyramid 'El Castillo' at Chichen Itza, designed to showcase a serpent shadow during equinoxes?",
+    "options": [
+      "Aztec",
+      "Maya",
+      "Inca",
+      "Olmec"
+    ],
+    "answer": "Maya"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "Patan Patola, an extraordinary double-ikat silk weaving tradition where warp and weft threads are tie-dyed before weaving, belongs to:",
+    "options": [
+      "Rajasthan",
+      "Gujarat",
+      "Madhya Pradesh",
+      "Maharashtra"
+    ],
+    "answer": "Gujarat"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "Which Bhakti movement poet-saint wrote the 'Ramcharitmanas', rendering the Ramayana epic into vernacular Awadhi?",
+    "options": [
+      "Kabir",
+      "Tulsidas",
+      "Surdas",
+      "Ravidas"
+    ],
+    "answer": "Tulsidas"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "The UNESCO World Heritage Site 'Rock Shelters of Bhimbetka' in Madhya Pradesh is famous for preserving artwork from which prehistoric era?",
+    "options": [
+      "Paleolithic and Mesolithic",
+      "Neolithic only",
+      "Bronze Age",
+      "Iron Age"
+    ],
+    "answer": "Paleolithic and Mesolithic"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "Whirling Dervishes perform a physical meditation dance called 'Sema' as part of which Islamic mystical Sufi order founded by Rumi's followers?",
+    "options": [
+      "Mevlevi Order",
+      "Bektashi Order",
+      "Tijaniyya Order",
+      "Rifa'i Order"
+    ],
+    "answer": "Mevlevi Order"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "Which Indian state is home to the traditional martial art form 'Thang-Ta', which incorporates swords, spears, and rhythmic body movements?",
+    "options": [
+      "Nagaland",
+      "Manipur",
+      "Mizoram",
+      "Assam"
+    ],
+    "answer": "Manipur"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "Which 8th-century philosopher restructured Advaita Vedanta philosophy and established four cardinal monastic centers ('Mathas') across India?",
+    "options": [
+      "Ramanujacharya",
+      "Adi Shankaracharya",
+      "Madhvacharya",
+      "Nimbarkacharya"
+    ],
+    "answer": "Adi Shankaracharya"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "The 'Torii' gate in Japanese Shinto tradition marks the ceremonial boundary between:",
+    "options": [
+      "Life and death",
+      "The profane physical world and the sacred space of the spirits (Kami)",
+      "Imperial property and public domain",
+      "Nature and human agriculture"
+    ],
+    "answer": "The profane physical world and the sacred space of the spirits (Kami)"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "Which ancient school of Gandhara Art (1st-7th century CE) merged Indian Buddhist iconography with artistic styles from which Western civilization?",
+    "options": [
+      "Greco-Roman",
+      "Egyptian",
+      "Mesopotamian",
+      "Celtic"
+    ],
+    "answer": "Greco-Roman"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "In Hindustani classical music, how many fundamental parent scales ('Thaats') were systematized by Pandit Vishnu Narayan Bhatkhande?",
+    "options": [
+      "6",
+      "10",
+      "12",
+      "72"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "Which African nation preserves the ancient 'Gheez' script and celebrates 'Timkat' (Epiphany) with colorful ark processions?",
+    "options": [
+      "Egypt",
+      "Ethiopia",
+      "Nigeria",
+      "Morocco"
+    ],
+    "answer": "Ethiopia"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "The iconic Nataraja sculpture created during the Chola period represents Lord Shiva in which cosmic role?",
+    "options": [
+      "Cosmic Preserver",
+      "Cosmic Dancer of Creation, Preservation, and Destruction",
+      "Ascetic Meditator",
+      "Universal Ruler"
+    ],
+    "answer": "Cosmic Dancer of Creation, Preservation, and Destruction"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "Which major Sanskrit playwright authored 'Abhijnanashakuntalam' and the epic poem 'Meghaduta' during the Gupta era?",
+    "options": [
+      "Bhasa",
+      "Kalidasa",
+      "Bhavabhuti",
+      "Shudraka"
+    ],
+    "answer": "Kalidasa"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "Which pre-Islamic Persian festival marking the vernal equinox is celebrated as the traditional New Year by Parsi and Iranian communities?",
+    "options": [
+      "Nowruz",
+      "Yalda Night",
+      "Sadeh",
+      "Mehregan"
+    ],
+    "answer": "Nowruz"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "Which temple complex in Odisha built by King Narasimhadeva I of the Eastern Ganga Dynasty is designed as a colossal solar chariot?",
+    "options": [
+      "Jagannath Temple, Puri",
+      "Sun Temple, Konark",
+      "Lingaraj Temple, Bhubaneswar",
+      "Rajarani Temple"
+    ],
+    "answer": "Sun Temple, Konark"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "The specialized, centuries-old Japanese tea ceremony focusing on ritualized preparation and serving of powdered green tea is called:",
+    "options": [
+      "Chanoyu / Sado",
+      "Ikebana",
+      "Shodo",
+      "Origami"
+    ],
+    "answer": "Chanoyu / Sado"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "Which 12th-century Kannada saint and social reformer initiated the Virashaiva-Lingayat movement and composed 'Vachanas' against caste discrimination?",
+    "options": [
+      "Basavanna",
+      "Allama Prabhu",
+      "Akka Mahadevi",
+      "Kanakadasa"
+    ],
+    "answer": "Basavanna"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "Which school of miniature painting flourished under Rajputs in Himachal Pradesh, famous for lyrical lines and emotional romanticism?",
+    "options": [
+      "Kangra / Pahari Painting",
+      "Mewar Painting",
+      "Bishnupur Painting",
+      "Deccani Painting"
+    ],
+    "answer": "Kangra / Pahari Painting"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "In Jewish cultural tradition, which eight-day winter 'Festival of Lights' commemorates the rededication of the Second Temple in Jerusalem?",
+    "options": [
+      "Passover",
+      "Hanukkah",
+      "Yom Kippur",
+      "Sukkot"
+    ],
+    "answer": "Hanukkah"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "Which UNESCO World Heritage site in Karnataka served as the grand capital of the Vijayanagara Empire in the 14th to 16th centuries?",
+    "options": [
+      "Pattadakal",
+      "Hampi",
+      "Aihole",
+      "Belur"
+    ],
+    "answer": "Hampi"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "Kalamkari, an ancient style of hand-painted or block-printed cotton textile art, traditionally thrives in which Indian state?",
+    "options": [
+      "Andhra Pradesh",
+      "Karnataka",
+      "Tamil Nadu",
+      "Kerala"
+    ],
+    "answer": "Andhra Pradesh"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "Which traditional Chinese philosophical system founded by Laozi emphasizes living in effortless harmony with the natural order ('Wu Wei')?",
+    "options": [
+      "Confucianism",
+      "Taoism (Daoism)",
+      "Legalism",
+      "Mohism"
+    ],
+    "answer": "Taoism (Daoism)"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "Which royal dynasty built the world-renowned Khajuraho temples in Madhya Pradesh, famous for Nagara architecture and intricate sculptures?",
+    "options": [
+      "Chandela Dynasty",
+      "Paramara Dynasty",
+      "Bundela Dynasty",
+      "Rashtrakuta Dynasty"
+    ],
+    "answer": "Chandela Dynasty"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "The 'Ratha Yatra' of Lord Jagannath, featuring massive wooden chariots pulled by thousands of devotees, is celebrated annually in which coastal town?",
+    "options": [
+      "Puri, Odisha",
+      "Dwarka, Gujarat",
+      "Rameswaram, Tamil Nadu",
+      "Udupi, Karnataka"
+    ],
+    "answer": "Puri, Odisha"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "Which ancient Celtic festival celebrated on May 1st marked the beginning of summer with Maypole dancing and sacred bonfires?",
+    "options": [
+      "Beltane",
+      "Samhain",
+      "Mabon",
+      "Ostara"
+    ],
+    "answer": "Beltane"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "The 'Nor'westers' or locally known 'Kalbaishakhi' are seasonal thunderstorms experienced during spring in which eastern state of India?",
+    "options": [
+      "Odisha",
+      "West Bengal",
+      "Assam",
+      "Bihar"
+    ],
+    "answer": "West Bengal"
+  }
+]

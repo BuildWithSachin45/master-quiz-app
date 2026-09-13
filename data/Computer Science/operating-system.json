@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "What is the primary purpose of an Operating System?",
+    "options": [
+      "To manage computer hardware and software resources",
+      "To write source code for applications",
+      "To design graphical user interface layouts",
+      "To test network bandwidth speed"
+    ],
+    "answer": "To manage computer hardware and software resources"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "Which component of an Operating System remains permanently in main memory?",
+    "options": [
+      "Device Driver",
+      "Kernel",
+      "Text Editor",
+      "Compiler"
+    ],
+    "answer": "Kernel"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "What is a program in execution called?",
+    "options": [
+      "Command",
+      "Instruction",
+      "Process",
+      "Task Manager"
+    ],
+    "answer": "Process"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "Which system call in Unix/Linux is used to create a new child process?",
+    "options": [
+      "create()",
+      "fork()",
+      "new()",
+      "spawn()"
+    ],
+    "answer": "fork()"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "What unit of data storage is smaller than a megabyte?",
+    "options": [
+      "Gigabyte",
+      "Kilobyte",
+      "Terabyte",
+      "Petabyte"
+    ],
+    "answer": "Kilobyte"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "Which CPU scheduling algorithm operates on a First-Come, First-Served basis?",
+    "options": [
+      "FCFS",
+      "SJF",
+      "Round Robin",
+      "Priority Scheduling"
+    ],
+    "answer": "FCFS"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "Which memory management scheme allows the physical address space of a process to be non-contiguous?",
+    "options": [
+      "Contiguous Allocation",
+      "Paging",
+      "Fixed Partitioning",
+      "Single Partitioning"
+    ],
+    "answer": "Paging"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "What does RAM stand for?",
+    "options": [
+      "Read Access Memory",
+      "Random Access Memory",
+      "Rapid Application Module",
+      "Run Access Method"
+    ],
+    "answer": "Random Access Memory"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "What is a deadlock in an operating system?",
+    "options": [
+      "A situation where a process runs indefinitely fast",
+      "A situation where a set of processes are blocked waiting for each other",
+      "A hardware crash caused by power failure",
+      "A condition when memory usage drops to 0%"
+    ],
+    "answer": "A situation where a set of processes are blocked waiting for each other"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "Which structure stores metadata about a process such as state, PID, and registers?",
+    "options": [
+      "File Control Block (FCB)",
+      "Process Control Block (PCB)",
+      "Memory Allocation Table (MAT)",
+      "Page Table Register (PTR)"
+    ],
+    "answer": "Process Control Block (PCB)"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "Which type of OS architecture integrates all OS services in a single large kernel space?",
+    "options": [
+      "Microkernel",
+      "Monolithic Kernel",
+      "Hybrid Kernel",
+      "Exokernel"
+    ],
+    "answer": "Monolithic Kernel"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "What is spooling primarily used for?",
+    "options": [
+      "Overlapping I/O operations of one job with computation of another",
+      "Compiling programming code faster",
+      "Encrypting disk storage volumes",
+      "Managing RAM access permissions"
+    ],
+    "answer": "Overlapping I/O operations of one job with computation of another"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "Which file system format is native to modern Microsoft Windows operating systems?",
+    "options": [
+      "ext4",
+      "NTFS",
+      "HFS+",
+      "FAT16"
+    ],
+    "answer": "NTFS"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "What state does a process enter when it is waiting for an I/O operation to complete?",
+    "options": [
+      "Running",
+      "Ready",
+      "Waiting/Blocked",
+      "Terminated"
+    ],
+    "answer": "Waiting/Blocked"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "What is thread in the context of an Operating System?",
+    "options": [
+      "A physical copper trace on the motherboard",
+      "A lightweight unit of CPU execution",
+      "A persistent storage sector on a hard drive",
+      "A network packet transmission protocol"
+    ],
+    "answer": "A lightweight unit of CPU execution"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "Which technique allows the execution of processes that are not completely in main memory?",
+    "options": [
+      "Virtual Memory",
+      "Static Relocation",
+      "Cache Coherence",
+      "Direct Memory Access"
+    ],
+    "answer": "Virtual Memory"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "What is the main function of the CPU scheduler?",
+    "options": [
+      "To allocate memory addresses to program variables",
+      "To select a process from the ready queue for execution",
+      "To control external display resolution",
+      "To manage internet connection sockets"
+    ],
+    "answer": "To select a process from the ready queue for execution"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "What type of software interface allows users to type commands directly to the OS?",
+    "options": [
+      "GUI",
+      "CLI",
+      "WYSIWYG",
+      "API"
+    ],
+    "answer": "CLI"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "Which of the following scheduling algorithms uses time quanta?",
+    "options": [
+      "FCFS",
+      "SJF",
+      "Round Robin",
+      "Priority Scheduling"
+    ],
+    "answer": "Round Robin"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "What is thrashing in an Operating System?",
+    "options": [
+      "Excessive page swapping activity spending more time paging than executing",
+      "High network packet loss under heavy load",
+      "Permanent physical damage to hard drive read heads",
+      "CPU overheating due to high clock frequencies"
+    ],
+    "answer": "Excessive page swapping activity spending more time paging than executing"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "What is the process of booting an Operating System?",
+    "options": [
+      "Loading the kernel into main memory from storage",
+      "Format of the hard disk drive partition",
+      "Compiling user programs into executable binaries",
+      "Cleaning temporary system cache files"
+    ],
+    "answer": "Loading the kernel into main memory from storage"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "Which system call is used to replace a process image with a new executable program in Unix?",
+    "options": [
+      "exec()",
+      "fork()",
+      "clone()",
+      "system()"
+    ],
+    "answer": "exec()"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "Which software hardware mechanism allows I/O devices to transfer data directly to RAM without continuous CPU intervention?",
+    "options": [
+      "Polling",
+      "Direct Memory Access (DMA)",
+      "Paging",
+      "Programmed I/O"
+    ],
+    "answer": "Direct Memory Access (DMA)"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "Which CPU mode has unrestricted access to hardware instructions?",
+    "options": [
+      "User Mode",
+      "Kernel/Supervisor Mode",
+      "Guest Mode",
+      "Application Mode"
+    ],
+    "answer": "Kernel/Supervisor Mode"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "What is a semaphore?",
+    "options": [
+      "An integer variable used for process synchronization",
+      "A specialized hardware register for floating-point math",
+      "A secondary storage file format",
+      "A network firewall rule set"
+    ],
+    "answer": "An integer variable used for process synchronization"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "What causes an interrupt in an operating system?",
+    "options": [
+      "Hardware device signals or software trap events requiring CPU attention",
+      "A syntax error in a user's code file",
+      "Empty RAM storage allocation",
+      "Closing a web browser window"
+    ],
+    "answer": "Hardware device signals or software trap events requiring CPU attention"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "Which section of memory holds dynamic memory allocation requests (e.g., malloc/new)?",
+    "options": [
+      "Stack",
+      "Heap",
+      "Text Segment",
+      "Data Segment"
+    ],
+    "answer": "Heap"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "Which condition occurs when a process is perpetually denied needed resources?",
+    "options": [
+      "Starvation",
+      "Aging",
+      "Paging",
+      "Compaction"
+    ],
+    "answer": "Starvation"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "What is the primary role of a Device Driver?",
+    "options": [
+      "Provide a standard interface between the OS kernel and specific hardware devices",
+      "Accelerate Web 3.0 graphics rendering",
+      "Manage user account passwords and logins",
+      "Defragment hard disk partitions periodically"
+    ],
+    "answer": "Provide a standard interface between the OS kernel and specific hardware devices"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "What is a page fault?",
+    "options": [
+      "An error triggered when accessing a page not currently loaded in physical RAM",
+      "A hardware flaw in memory bus wiring",
+      "Writing data to a corrupted sector on a disk",
+      "Attempting to read an uninitialized variable"
+    ],
+    "answer": "An error triggered when accessing a page not currently loaded in physical RAM"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "In banker's algorithm, what state is the system in if there exists at least one safe sequence for resource allocation?",
+    "options": [
+      "Safe State",
+      "Unsafe State",
+      "Deadlock State",
+      "Starvation State"
+    ],
+    "answer": "Safe State"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "Which condition for deadlock states that resources cannot be forcibly taken from a process holding them?",
+    "options": [
+      "Mutual Exclusion",
+      "Hold and Wait",
+      "No Preemption",
+      "Circular Wait"
+    ],
+    "answer": "No Preemption"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "What is Belady's Anomaly?",
+    "options": [
+      "Page faults decrease as physical frames increase",
+      "Page faults increase as physical frames increase in FIFO replacement",
+      "CPU utilization drops to zero when processes increase",
+      "Disk access time doubles during paging operations"
+    ],
+    "answer": "Page faults increase as physical frames increase in FIFO replacement"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "Which technique is used to solve external fragmentation in contiguous memory allocation?",
+    "options": [
+      "Compaction",
+      "Paging",
+      "Segmentation",
+      "Both Compaction and Paging"
+    ],
+    "answer": "Both Compaction and Paging"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "In Priority Scheduling, how can the problem of starvation be mitigated?",
+    "options": [
+      "Paging",
+      "Aging",
+      "Spooling",
+      "Caching"
+    ],
+    "answer": "Aging"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "What is the main advantage of Multi-threading over Multi-processing?",
+    "options": [
+      "Lower resource overhead and faster context switching between threads",
+      "Complete memory isolation between threads",
+      "Elimination of race conditions completely",
+      "Independence from operating system scheduler"
+    ],
+    "answer": "Lower resource overhead and faster context switching between threads"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "Which hardware component accelerates virtual address translation by caching recent page-table entries?",
+    "options": [
+      "Translation Lookaside Buffer (TLB)",
+      "Memory Management Unit (MMU) Cache",
+      "Level 3 (L3) Cache",
+      "Direct Memory Access (DMA) Buffer"
+    ],
+    "answer": "Translation Lookaside Buffer (TLB)"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "What is internal fragmentation?",
+    "options": [
+      "Unused memory space within an allocated memory block/partition",
+      "Unused total memory scattered across dynamic free blocks",
+      "Memory loss due to bad disk sectors",
+      "Overhead memory occupied by page tables"
+    ],
+    "answer": "Unused memory space within an allocated memory block/partition"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "Which statement accurately describes a Counting Semaphore?",
+    "options": [
+      "Its value is restricted to 0 and 1 only",
+      "Its value can range over an unrestricted domain of integers",
+      "It cannot be modified by signal() and wait() operations",
+      "It automatically prevents deadlocks in multi-threaded code"
+    ],
+    "answer": "Its value can range over an unrestricted domain of integers"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "What problem does the Readers-Writers Problem illustrate in concurrent programming?",
+    "options": [
+      "Synchronization when multiple processes attempt to read and write shared data",
+      "Deadlock resolution during disk sector allocation",
+      "Thread context switching latency in single-core systems",
+      "Virtual address mapping using inverted page tables"
+    ],
+    "answer": "Synchronization when multiple processes attempt to read and write shared data"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "What is the primary role of the Dispatcher in CPU scheduling?",
+    "options": [
+      "Giving control of the CPU to the process selected by the short-term scheduler",
+      "Calculating process burst times and time quantum boundaries",
+      "Moving suspended processes to secondary disk storage",
+      "Allocating I/O devices to requesting processes"
+    ],
+    "answer": "Giving control of the CPU to the process selected by the short-term scheduler"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "In Peterson's Solution for two-process critical section synchronization, what variables are shared?",
+    "options": [
+      "turn (int) and flag[2] (boolean array)",
+      "mutex (semaphore) and count (int)",
+      "pid (int) and priority (int)",
+      "head (pointer) and tail (pointer)"
+    ],
+    "answer": "turn (int) and flag[2] (boolean array)"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "Which disk scheduling algorithm selects the request with the minimum seek time from the current head position?",
+    "options": [
+      "FCFS",
+      "SSTF",
+      "SCAN",
+      "C-LOOK"
+    ],
+    "answer": "SSTF"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "What is an inode in Unix-based file systems?",
+    "options": [
+      "A data structure containing file metadata like permissions, owner, and block pointers",
+      "A network socket wrapper for socket communications",
+      "A kernel process that manages CPU scheduling",
+      "A special block at sector 0 containing boot code"
+    ],
+    "answer": "A data structure containing file metadata like permissions, owner, and block pointers"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "What type of thread mapping maps many user-level threads to a smaller or equal number of kernel-level threads?",
+    "options": [
+      "Many-to-One Model",
+      "One-to-One Model",
+      "Many-to-Many Model",
+      "Kernel Threading Model"
+    ],
+    "answer": "Many-to-Many Model"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "Which memory allocation strategy places a process in the smallest available memory block that fits it?",
+    "options": [
+      "First Fit",
+      "Best Fit",
+      "Worst Fit",
+      "Next Fit"
+    ],
+    "answer": "Best Fit"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "What is the function of the Medium-Term Scheduler?",
+    "options": [
+      "Swapping processes out of main memory to disk and back (swapping)",
+      "Selecting processes from job pool to load into memory",
+      "Selecting process from ready queue for CPU execution",
+      "Handling device driver interrupts"
+    ],
+    "answer": "Swapping processes out of main memory to disk and back (swapping)"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "Which condition is NOT one of Coffman's four necessary conditions for deadlock?",
+    "options": [
+      "Mutual Exclusion",
+      "Hold and Wait",
+      "Preemption",
+      "Circular Wait"
+    ],
+    "answer": "Preemption"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "What happens in optimal page replacement algorithm (OPT)?",
+    "options": [
+      "Replaces the page that will not be used for the longest period in the future",
+      "Replaces the page that was accessed least recently",
+      "Replaces the page that arrived first in physical memory",
+      "Replaces a page selected at random"
+    ],
+    "answer": "Replaces the page that will not be used for the longest period in the future"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "What is context switching overhead?",
+    "options": [
+      "The idle CPU time spent saving and restoring state during context switches",
+      "The time taken to copy executable files from secondary storage into RAM",
+      "The memory overhead occupied by secondary index tables",
+      "The time required to compile kernel module code"
+    ],
+    "answer": "The idle CPU time spent saving and restoring state during context switches"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "Which IPC (Inter-Process Communication) model allows shared memory access between processes?",
+    "options": [
+      "Message Passing",
+      "Shared Memory",
+      "Remote Procedure Call (RPC)",
+      "Pipes"
+    ],
+    "answer": "Shared Memory"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "What is the SCAN disk scheduling algorithm commonly known as?",
+    "options": [
+      "Elevator Algorithm",
+      "Shortest Seek First Algorithm",
+      "Circular Scan Algorithm",
+      "First In First Out Algorithm"
+    ],
+    "answer": "Elevator Algorithm"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "What is a major limitation of First-In, First-Out (FIFO) page replacement algorithm?",
+    "options": [
+      "It requires expensive hardware registers for timer values",
+      "It suffers from Belady's Anomaly",
+      "It cannot handle dirty pages",
+      "It causes high context switching frequency"
+    ],
+    "answer": "It suffers from Belady's Anomaly"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "In segmentation, how is a logical address specified?",
+    "options": [
+      "A pair of <segment-number, offset>",
+      "A single linear page index",
+      "A base address and a TLB index",
+      "A physical frame number and displacement"
+    ],
+    "answer": "A pair of <segment-number, offset>"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "What is an asynchronous interrupt?",
+    "options": [
+      "An interrupt generated by external hardware independently of CPU instruction timing",
+      "A trap generated intentionally by software via software instructions",
+      "A page fault caused by an invalid instruction fetch",
+      "A division-by-zero math exception"
+    ],
+    "answer": "An interrupt generated by external hardware independently of CPU instruction timing"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "What is a orphan process in Linux?",
+    "options": [
+      "A child process whose parent process has terminated",
+      "A process that has finished execution but still has an entry in the process table",
+      "A process running with root system permissions",
+      "A thread that has been detached from its parent pool"
+    ],
+    "answer": "A child process whose parent process has terminated"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "What is a zombie process in Unix systems?",
+    "options": [
+      "A process that completed execution but whose parent has not yet read its exit status",
+      "A rogue process consuming 100% of CPU cycles",
+      "A kernel process running in user mode",
+      "A process stuck in an infinite loop waiting for I/O"
+    ],
+    "answer": "A process that completed execution but whose parent has not yet read its exit status"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "Which mechanism ensures that multiple processes cannot execute critical sections at the same time?",
+    "options": [
+      "Mutual Exclusion",
+      "Deadlock Prevention",
+      "Paging",
+      "Context Switching"
+    ],
+    "answer": "Mutual Exclusion"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "Which directory allocation structure permits cyclic graph paths and file sharing?",
+    "options": [
+      "Single-level directory",
+      "Two-level directory",
+      "Acyclic-graph directory",
+      "General graph directory"
+    ],
+    "answer": "General graph directory"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "In Multi-level Feedback Queue (MLFQ) scheduling, how are processes classified?",
+    "options": [
+      "By CPU burst characteristics and dynamically moved between queues",
+      "By exact file permission levels",
+      "By user account credentials",
+      "By the total amount of RAM consumed"
+    ],
+    "answer": "By CPU burst characteristics and dynamically moved between queues"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "How does an Inverted Page Table reduce memory overhead compared to traditional page tables?",
+    "options": [
+      "By indexing physical frame numbers instead of logical page numbers, requiring one table for the entire system",
+      "By storing virtual page entries directly on secondary SSD storage",
+      "By removing page frame offset values from physical addressing",
+      "By compressing page table entries using Huffman coding"
+    ],
+    "answer": "By indexing physical frame numbers instead of logical page numbers, requiring one table for the entire system"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "In the context of the Working Set Model for page replacement, what does the parameter \u0394 (Delta) represent?",
+    "options": [
+      "The working-set window size defined by a fixed number of page references",
+      "The total latency needed to resolve a page fault interrupt",
+      "The physical frame ratio allocated per active process",
+      "The rate of context switches per clock cycle"
+    ],
+    "answer": "The working-set window size defined by a fixed number of page references"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "What is the primary vulnerability resolved by implementing hierarchical (multilevel) paging systems on 64-bit systems?",
+    "options": [
+      "Excessive single contiguous memory requirements for storing monolithic page tables",
+      "TLB miss penalty latency during context switching",
+      "External fragmentation in non-contiguous frame management",
+      "Inability to mark physical frames as copy-on-write"
+    ],
+    "answer": "Excessive single contiguous memory requirements for storing monolithic page tables"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "In cache coherency protocols such as MESI, what does the 'E' state stand for?",
+    "options": [
+      "Exclusive (Cache line present only in current cache and clean)",
+      "Executed (Cache line processed by CPU registers)",
+      "Expired (Cache line invalidated due to write)",
+      "Encrypted (Cache line protected in memory)"
+    ],
+    "answer": "Exclusive (Cache line present only in current cache and clean)"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "How does Copy-on-Write (COW) optimize process creation during a fork() system call?",
+    "options": [
+      "Parent and child share the same physical pages initially, duplicating pages only when modified",
+      "Child process pages are written immediately to swap disk spaces",
+      "Parent process memory is locked until child executes exec()",
+      "Shared pages are duplicated into kernel memory buffers before execution"
+    ],
+    "answer": "Parent and child share the same physical pages initially, duplicating pages only when modified"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "What is Priority Inversion and how is it resolved in real-time operating systems?",
+    "options": [
+      "A lower-priority process holds a resource needed by a higher-priority process; resolved via Priority Inheritance Protocol",
+      "A high-priority process starves low-priority processes; resolved via Aging",
+      "Two identical priority threads lock each other; resolved via Banker's algorithm",
+      "An I/O bound process blocks CPU scheduler queues; resolved via Multi-level feedback queues"
+    ],
+    "answer": "A lower-priority process holds a resource needed by a higher-priority process; resolved via Priority Inheritance Protocol"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "In Linux systems, what does the futex (fast userspace mutex) system call achieve?",
+    "options": [
+      "Provides locking mechanisms that perform non-contended locks entirely in userspace without context switching to kernel",
+      "Allocates secondary dynamic swap memory buffers without paging faults",
+      "Translates logical memory addresses without querying physical page tables",
+      "Bypasses physical hardware interrupts during real-time processing"
+    ],
+    "answer": "Provides locking mechanisms that perform non-contended locks entirely in userspace without context switching to kernel"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "Which hardware mechanism helps mitigate Meltdown CPU vulnerabilities at the operating system level?",
+    "options": [
+      "Kernel Page Table Isolation (KPTI)",
+      "Translation Lookaside Buffer (TLB) flushing on every clock cycle",
+      "Disabling Direct Memory Access (DMA) allocations",
+      "Enforcing mandatory Non-Executable (NX) bit on heap memory"
+    ],
+    "answer": "Kernel Page Table Isolation (KPTI)"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "What is the function of a Linux epoll system call compared to traditional select()/poll()?",
+    "options": [
+      "Provides O(1) performance scalability for monitoring large numbers of file descriptors by using event notification callbacks",
+      "Executes synchronous multi-threaded I/O requests directly in user space",
+      "Automatically locks critical disk sectors during simultaneous write attempts",
+      "Increases socket ring buffer sizes to prevent packet drop during bursts"
+    ],
+    "answer": "Provides O(1) performance scalability for monitoring large numbers of file descriptors by using event notification callbacks"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "In NUMA (Non-Uniform Memory Access) systems, what is the primary objective of NUMA-aware CPU schedulers?",
+    "options": [
+      "Schedule tasks on CPU cores that are local to the memory nodes where task memory is physically allocated",
+      "Distribute threads evenly across remote nodes regardless of bus latency",
+      "Disable L1/L2 cache mirroring across separate NUMA nodes",
+      "Force all processes to run in single-threaded mode to avoid bus contention"
+    ],
+    "answer": "Schedule tasks on CPU cores that are local to the memory nodes where task memory is physically allocated"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "What mechanism does Linux use to handle physical RAM exhaustion when system swap space is depleted?",
+    "options": [
+      "Out-Of-Memory (OOM) Killer triggers to terminate selected processes based on oom_score",
+      "Forces immediate system reboot to protect hard drive partitions",
+      "Transitions system into read-only Kernel Emergency Panic mode",
+      "Compresses entire physical RAM contents into CPU L3 caches"
+    ],
+    "answer": "Out-Of-Memory (OOM) Killer triggers to terminate selected processes based on oom_score"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "What is the distinction between hard and soft real-time operating systems?",
+    "options": [
+      "Hard RTOS guarantees completion within strict deadlines or failure occurs; Soft RTOS considers missed deadlines as degraded quality",
+      "Hard RTOS operates strictly on bare-metal firmware; Soft RTOS requires a GUI layer",
+      "Hard RTOS does not support context switching; Soft RTOS uses preemptive Round Robin",
+      "Hard RTOS is written in C assembly; Soft RTOS is implemented using high-level languages"
+    ],
+    "answer": "Hard RTOS guarantees completion within strict deadlines or failure occurs; Soft RTOS considers missed deadlines as degraded quality"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "What is the purpose of memory barrier (memory fence) instructions in multi-core concurrent kernel code?",
+    "options": [
+      "Enforces strict ordering constraints on memory operations to prevent CPU/compiler out-of-order reordering issue",
+      "Restricts physical memory regions from being accessed by non-root threads",
+      "Flushes virtual memory pages from the TLB across all CPU cores",
+      "Allocates contiguous physical frames directly to DMA memory controllers"
+    ],
+    "answer": "Enforces strict ordering constraints on memory operations to prevent CPU/compiler out-of-order reordering issue"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "In the context of dynamic storage allocation, what is the Buddy System memory allocation algorithm?",
+    "options": [
+      "Splits memory blocks into power-of-two sizes to satisfy requests and recombine adjacent free buddies upon deallocation",
+      "Pairs two processes to share identical logical page addresses",
+      "Uses twin pointer arrays to maintain FIFO allocation queues",
+      "Allocates fixed size 4KB chunks exclusively from secondary disk space"
+    ],
+    "answer": "Splits memory blocks into power-of-two sizes to satisfy requests and recombine adjacent free buddies upon deallocation"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "How does the Slab Allocator in Linux improve kernel memory allocation performance?",
+    "options": [
+      "Caches initialized kernel objects of specific types to eliminate repeated creation and destruction overhead",
+      "Allocates variable-length physical pages directly using inverted page tables",
+      "Bypasses the CPU MMU during kernel level dynamic memory allocations",
+      "Compresses inactive file buffers into secondary swap space"
+    ],
+    "answer": "Caches initialized kernel objects of specific types to eliminate repeated creation and destruction overhead"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "What is lock convoying in multi-threaded concurrent execution environments?",
+    "options": [
+      "A condition where multiple threads of equal priority repeatedly queue for a heavily contended lock, degrading system performance",
+      "A situation where two locks are acquired in reverse order leading to deadlock",
+      "A method of batching multiple kernel locks together to reduce interrupt overhead",
+      "The execution of parallel threads across multiple CPU cores without synchronization"
+    ],
+    "answer": "A condition where multiple threads of equal priority repeatedly queue for a heavily contended lock, degrading system performance"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "What is a major advantage of Using Log-Structured File Systems (LFS)?",
+    "options": [
+      "Converts all writes into sequential append operations on a log-like structure, maximizing disk write performance",
+      "Eliminates the need for inode tables and directory pointers entirely",
+      "Prevents physical sector degradation on hard disk drives",
+      "Uses 0% overhead for file system metadata storage"
+    ],
+    "answer": "Converts all writes into sequential append operations on a log-like structure, maximizing disk write performance"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "In the Linux Completely Fair Scheduler (CFS), what key metric is used to determine which process runs next?",
+    "options": [
+      "vruntime (virtual runtime value stored in a Red-Black tree)",
+      "Remaining burst time estimation based on exponential smoothing",
+      "Static priority integer calculated during fork() system call",
+      "The count of page faults accumulated by the task"
+    ],
+    "answer": "vruntime (virtual runtime value stored in a Red-Black tree)"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "What is the purpose of a Spinlock in kernel synchronization?",
+    "options": [
+      "A lock where a thread busy-waits in a loop checking lock status, useful when lock acquisition times are shorter than context switch cost",
+      "A lock that puts waiting threads to sleep in blocked queues immediately",
+      "A lock mechanism designed specifically to prevent hardware interrupt generation",
+      "A lock that operates exclusively in single-core CPU architectures"
+    ],
+    "answer": "A lock where a thread busy-waits in a loop checking lock status, useful when lock acquisition times are shorter than context switch cost"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "What is Read-Copy-Update (RCU) synchronization technique in Linux kernel?",
+    "options": [
+      "A synchronization mechanism allowing reads to occur concurrently with updates without locking",
+      "A file system backup utility for copying changed files to secondary storage",
+      "A hardware mechanism that mirrors RAM data into cache automatically",
+      "A paging policy used to update dirty page table entries during disk swap"
+    ],
+    "answer": "A synchronization mechanism allowing reads to occur concurrently with updates without locking"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "What is false sharing in multi-core CPU architectures?",
+    "options": [
+      "When threads on different cores modify independent variables residing on the same cache line, causing unnecessary cache invalidations",
+      "When two user-level processes map different virtual addresses to the same physical memory block",
+      "When a program attempts to read kernel memory without appropriate user privileges",
+      "When physical RAM modules report incorrect capacity metrics to the BIOS"
+    ],
+    "answer": "When threads on different cores modify independent variables residing on the same cache line, causing unnecessary cache invalidations"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "In virtual memory systems, what is Second-Chance Page Replacement Algorithm (Clock Algorithm)?",
+    "options": [
+      "An approximation of LRU that uses a reference bit inspected in a circular list queue structure",
+      "A variation of Optimal Page Replacement that looks two instruction steps ahead",
+      "A mechanism that re-reads dirty pages from disk twice before evicting them",
+      "An algorithm that allocates two physical frames per virtual address page request"
+    ],
+    "answer": "An approximation of LRU that uses a reference bit inspected in a circular list queue structure"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "What is the principal hazard of lock-free data structure design using Compare-And-Swap (CAS) instructions?",
+    "options": [
+      "The ABA Problem",
+      "Belady's Anomaly",
+      "Priority Inversion",
+      "Convoy Effect"
+    ],
+    "answer": "The ABA Problem"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "How does Rate Monotonic Scheduling (RMS) assign priorities in real-time systems?",
+    "options": [
+      "Statically assigns higher priority to tasks with shorter periodic time cycles",
+      "Dynamically assigns priority according to earliest deadline first (EDF)",
+      "Assigns priority based on CPU burst time duration calculated from historical execution",
+      "Allocates priority depending on thread memory consumption bounds"
+    ],
+    "answer": "Statically assigns higher priority to tasks with shorter periodic time cycles"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "In the context of process synchronization, what is a Monitor?",
+    "options": [
+      "A high-level synchronization construct encapsulating shared variables, procedures, and automatic mutual exclusion",
+      "A hardware component that tracks bus traffic between CPU and RAM",
+      "A system process that monitors CPU thermal thresholds and frequency scaling",
+      "A debugging utility used to trace active system calls"
+    ],
+    "answer": "A high-level synchronization construct encapsulating shared variables, procedures, and automatic mutual exclusion"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "What is the function of the Dirty Bit (Modify Bit) in a Page Table Entry?",
+    "options": [
+      "Indicates whether the page has been written to since being loaded into main memory",
+      "Indicates if the page contains valid executable code",
+      "Marks the page as corrupted due to hardware RAM faults",
+      "Prevents user-mode applications from accessing the memory address"
+    ],
+    "answer": "Indicates whether the page has been written to since being loaded into main memory"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "What does TLB Shootdown refer to in multi-processor systems?",
+    "options": [
+      "The process where one CPU core forces other cores to invalidate their local TLB entries after a page table update",
+      "A hardware error where the TLB register fails under high clock frequencies",
+      "Flushing the entire TLB cache during kernel interrupt routines",
+      "Direct memory write-back from TLB straight to secondary storage devices"
+    ],
+    "answer": "The process where one CPU core forces other cores to invalidate their local TLB entries after a page table update"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "What key issue does Dekker's Algorithm solve in concurrent computing?",
+    "options": [
+      "First known correct software-based solution to mutual exclusion problem between two processes without hardware atomic support",
+      "Prevents deadlock in systems with multiple resources using matrix calculations",
+      "Eliminates external fragmentation in variable-partition memory management",
+      "Provides optimal disk arm scheduling for random write operations"
+    ],
+    "answer": "First known correct software-based solution to mutual exclusion problem between two processes without hardware atomic support"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "What is a Shadow Page Table in traditional hypervisor-based full virtualization?",
+    "options": [
+      "A software page table maintained by hypervisor mapping guest virtual addresses directly to host physical addresses",
+      "A backup page table stored on disk in case RAM becomes corrupted",
+      "An inverted page table used exclusively for kernel processes",
+      "A hardware page table structure embedded inside modern CPU MMUs"
+    ],
+    "answer": "A software page table maintained by hypervisor mapping guest virtual addresses directly to host physical addresses"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "What is the primary trade-off of using large memory pages (e.g., 2MB/1GB HugePages) in OS kernels?",
+    "options": [
+      "Reduces TLB misses for large memory workloads but increases internal fragmentation",
+      "Increases page table levels while decreasing page fault penalties",
+      "Eliminates external memory fragmentation at the expense of disk swap speeds",
+      "Reduces context switch times while increasing kernel panic occurrences"
+    ],
+    "answer": "Reduces TLB misses for large memory workloads but increases internal fragmentation"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "In Linux cgroups (Control Groups), what is the primary resource management function provided?",
+    "options": [
+      "Limiting, accounting, and isolating resource usage (CPU, memory, disk I/O) for groups of processes",
+      "Encrypted isolation of process virtual address spaces from other user accounts",
+      "Managing physical device driver binding during hardware hot-plug events",
+      "Providing inter-process message queues for high-performance computing"
+    ],
+    "answer": "Limiting, accounting, and isolating resource usage (CPU, memory, disk I/O) for groups of processes"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "What is the Linux seccomp (Secure Computing Mode) feature used for?",
+    "options": [
+      "Restricting system calls a process can make to reduce kernel attack surface",
+      "Encrypting memory pages before swapping them to secondary disk storage",
+      "Authenticating root user commands using cryptographic tokens",
+      "Preventing raw packet sniffing on network network interface cards"
+    ],
+    "answer": "Restricting system calls a process can make to reduce kernel attack surface"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "What is the difference between asynchronous I/O (AIO) and non-blocking I/O?",
+    "options": [
+      "Non-blocking returns immediately if data isn't ready; Asynchronous notifies application later when complete operation finishes",
+      "Non-blocking uses hardware interrupts; Asynchronous relies on continuous CPU polling",
+      "Non-blocking executes in kernel space; Asynchronous runs entirely in user memory buffers",
+      "Non-blocking is used exclusively for disk files; Asynchronous is used only for network sockets"
+    ],
+    "answer": "Non-blocking returns immediately if data isn't ready; Asynchronous notifies application later when complete operation finishes"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "What purpose does a Virtual File System (VFS) layer serve in an Operating System?",
+    "options": [
+      "Defines a common abstract interface allowing client applications to access different file systems uniformly",
+      "Emulates secondary disk storage entirely in volatile RAM",
+      "Compresses directory index tables to optimize lookup times",
+      "Manages file permission flags for remote network files"
+    ],
+    "answer": "Defines a common abstract interface allowing client applications to access different file systems uniformly"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "How does the Earliest Deadline First (EDF) dynamic scheduling algorithm operate in RTOS?",
+    "options": [
+      "Assigns highest CPU priority to the process whose execution deadline is nearest",
+      "Schedules processes based on fixed static priority calculated at process initialization",
+      "Executes tasks based on shortest total estimated computation burst time",
+      "Rotates execution slots evenly using a dynamic time quantum formula"
+    ],
+    "answer": "Assigns highest CPU priority to the process whose execution deadline is nearest"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "What is the role of an Input/Memory Management Unit (IOMMU) in hardware virtualization?",
+    "options": [
+      "Translates device virtual memory addresses to physical memory addresses and enforces DMA isolation",
+      "Accelerates hypervisor CPU context switching using hardware hardware registers",
+      "Manages virtual network adapter packet routing queues",
+      "Provides hardware-accelerated encryption for host RAM pages"
+    ],
+    "answer": "Translates device virtual memory addresses to physical memory addresses and enforces DMA isolation"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "In atomic operations, what does 'Compare-And-Swap' (CAS) do?",
+    "options": [
+      "Compares memory location content with a given value, updating it to a new value only if they match atomically",
+      "Swaps two process control blocks in the ready queue without interrupting CPU ticks",
+      "Exchanges logical page addresses between parent and child processes",
+      "Swaps contents of L1 and L2 cache lines during context switches"
+    ],
+    "answer": "Compares memory location content with a given value, updating it to a new value only if they match atomically"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "What problem does the Peterson-Algorithms solution fail to address on modern hardware without memory barriers?",
+    "options": [
+      "CPU instruction reordering and relaxed memory consistency models",
+      "High CPU utilization caused by continuous busy-waiting loops",
+      "Inability to handle more than two threads concurrently",
+      "Deadlock conditions caused by unexpected hardware interrupts"
+    ],
+    "answer": "CPU instruction reordering and relaxed memory consistency models"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "What does the term 'Thrashing' indicate regarding system Working Sets?",
+    "options": [
+      "The sum of process working set sizes exceeds total physical memory capacity",
+      "The CPU frequency scheduler is rapidly oscillating between clock speeds",
+      "Secondary swap space has zero remaining write capacity",
+      "The TLB hit ratio falls below 50% during process execution"
+    ],
+    "answer": "The sum of process working set sizes exceeds total physical memory capacity"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "In Linux file systems, what is the purpose of journaling (e.g., ext4 journal)?",
+    "options": [
+      "Logs file system changes to a dedicated journal buffer before committing to prevent corruption during unexpected crashes",
+      "Keeps a real-time historical record of all file access attempts by user accounts",
+      "Automatically compresses text files during background idle CPU cycles",
+      "Encrypts inode metadata to block unauthorized physical drive extraction"
+    ],
+    "answer": "Logs file system changes to a dedicated journal buffer before committing to prevent corruption during unexpected crashes"
+  }
+]

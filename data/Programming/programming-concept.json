@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "Which OOP concept allows a child class to inherit properties and methods from a parent class?",
+    "options": [
+      "Polymorphism",
+      "Encapsulation",
+      "Inheritance",
+      "Abstraction"
+    ],
+    "answer": "Inheritance"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "Which linear data structure follows the Last In, First Out (LIFO) principle?",
+    "options": [
+      "Queue",
+      "Stack",
+      "Linked List",
+      "Array"
+    ],
+    "answer": "Stack"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "Which linear data structure follows the First In, First Out (FIFO) principle?",
+    "options": [
+      "Stack",
+      "Queue",
+      "Tree",
+      "Graph"
+    ],
+    "answer": "Queue"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "What is the process of wrapping data and the methods that operate on that data into a single unit called?",
+    "options": [
+      "Abstraction",
+      "Encapsulation",
+      "Polymorphism",
+      "Inheritance"
+    ],
+    "answer": "Encapsulation"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "What is the Big O time complexity of accessing an element by index in a standard array?",
+    "options": [
+      "O(1)",
+      "O(n)",
+      "O(log n)",
+      "O(n^2)"
+    ],
+    "answer": "O(1)"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "Which programming concept refers to a function calling itself to solve a smaller subproblem?",
+    "options": [
+      "Iteration",
+      "Recursion",
+      "Overloading",
+      "Abstraction"
+    ],
+    "answer": "Recursion"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "Which OOP pillar focuses on hiding internal implementation details and showing only essential features to the user?",
+    "options": [
+      "Abstraction",
+      "Inheritance",
+      "Polymorphism",
+      "Composition"
+    ],
+    "answer": "Abstraction"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "In search algorithms, what requirement must an array satisfy before performing Binary Search?",
+    "options": [
+      "It must contain unique elements",
+      "It must be sorted",
+      "It must be dynamic",
+      "It must contain only positive integers"
+    ],
+    "answer": "It must be sorted"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "Which node in a binary tree has no parent and acts as the top node of the hierarchy?",
+    "options": [
+      "Leaf node",
+      "Root node",
+      "Child node",
+      "Internal node"
+    ],
+    "answer": "Root node"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "What logic operator evaluates to true only if BOTH operands are true?",
+    "options": [
+      "OR (||)",
+      "NOT (!)",
+      "AND (&&)",
+      "XOR (^)"
+    ],
+    "answer": "AND (&&)"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "What is a node called in a tree structure if it has no children?",
+    "options": [
+      "Root node",
+      "Leaf node",
+      "Ancestor node",
+      "Parent node"
+    ],
+    "answer": "Leaf node"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "Which OOP feature allows a single interface or method name to have multiple implementations?",
+    "options": [
+      "Polymorphism",
+      "Encapsulation",
+      "Data Hiding",
+      "Aggregation"
+    ],
+    "answer": "Polymorphism"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "What is the base condition in a recursive function used for?",
+    "options": [
+      "To initiate the recursive call sequence",
+      "To prevent infinite recursion and terminate execution",
+      "To increase memory stack size",
+      "To optimize code execution speed"
+    ],
+    "answer": "To prevent infinite recursion and terminate execution"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "Which data structure is composed of nodes where each node points to the next node using a pointer/reference?",
+    "options": [
+      "Array",
+      "Linked List",
+      "Stack",
+      "Hash Table"
+    ],
+    "answer": "Linked List"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "What arithmetic operation is commonly used to check if an integer is even or odd?",
+    "options": [
+      "Division (/)",
+      "Modulus (%)",
+      "Multiplication (*)",
+      "Subtraction (-)"
+    ],
+    "answer": "Modulus (%)"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "Which keyword/concept is used to instantiate an object from a class definition?",
+    "options": [
+      "Constructor",
+      "Destructor",
+      "Interface",
+      "Inheritance"
+    ],
+    "answer": "Constructor"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "In a queue, what term describes the operation of inserting an element into the structure?",
+    "options": [
+      "Pop",
+      "Enqueue",
+      "Dequeue",
+      "Push"
+    ],
+    "answer": "Enqueue"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "In a stack, what term describes the operation of removing the top element?",
+    "options": [
+      "Push",
+      "Peek",
+      "Pop",
+      "Poll"
+    ],
+    "answer": "Pop"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "What type of data structure uses a key-value mapping mechanism for O(1) average search efficiency?",
+    "options": [
+      "Linked List",
+      "Queue",
+      "Hash Table",
+      "Binary Tree"
+    ],
+    "answer": "Hash Table"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "What is a variable called that is declared inside a function and accessible only within that function?",
+    "options": [
+      "Global variable",
+      "Local variable",
+      "Static variable",
+      "Instance variable"
+    ],
+    "answer": "Local variable"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "In OOP, what is a template or blueprint from which individual objects are created?",
+    "options": [
+      "Method",
+      "Class",
+      "Instance",
+      "Attribute"
+    ],
+    "answer": "Class"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "What is the maximum number of children a node can have in a Binary Tree?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "Unlimited"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "What logical programming step is used to exchange the values stored in two variables?",
+    "options": [
+      "Merging",
+      "Swapping",
+      "Sorting",
+      "Truncating"
+    ],
+    "answer": "Swapping"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "Which access modifier ensures a class member is accessible ONLY within its own class?",
+    "options": [
+      "public",
+      "protected",
+      "private",
+      "internal"
+    ],
+    "answer": "private"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "Which search algorithm checks every element in a list sequentially from start to end?",
+    "options": [
+      "Binary Search",
+      "Linear Search",
+      "Depth-First Search",
+      "Breadth-First Search"
+    ],
+    "answer": "Linear Search"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "What is the process of finding and fixing errors in software code called?",
+    "options": [
+      "Compiling",
+      "Debugging",
+      "Refactoring",
+      "Deploying"
+    ],
+    "answer": "Debugging"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "In graph data structures, what are the connection lines between nodes (vertices) called?",
+    "options": [
+      "Edges",
+      "Pointers",
+      "Links",
+      "Paths"
+    ],
+    "answer": "Edges"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "Which conditional logic structure executes one block of code among several choices based on matching values?",
+    "options": [
+      "while loop",
+      "switch-case statement",
+      "for loop",
+      "do-while loop"
+    ],
+    "answer": "switch-case statement"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "What happens during pass-by-value function parameters?",
+    "options": [
+      "A copy of the original variable's value is passed into the function",
+      "The memory reference address of the variable is passed",
+      "The original variable is modified directly by function operations",
+      "The parameter is converted into a global variable"
+    ],
+    "answer": "A copy of the original variable's value is passed into the function"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "Which sorting technique repeatedly swaps adjacent elements if they are in the wrong order?",
+    "options": [
+      "Quick Sort",
+      "Merge Sort",
+      "Bubble Sort",
+      "Heap Sort"
+    ],
+    "answer": "Bubble Sort"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "What is the primary difference between Method Overloading and Method Overriding in OOP?",
+    "options": [
+      "Overloading occurs in inheritance; Overriding occurs within the same class",
+      "Overloading requires identical method signatures; Overriding requires different parameter lists",
+      "Overloading is compile-time polymorphism; Overriding is runtime polymorphism",
+      "Overriding cannot occur between sub and super classes"
+    ],
+    "answer": "Overloading is compile-time polymorphism; Overriding is runtime polymorphism"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "What is the worst-case time complexity of Quick Sort?",
+    "options": [
+      "O(n log n)",
+      "O(n)",
+      "O(n^2)",
+      "O(log n)"
+    ],
+    "answer": "O(n^2)"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "Which data structure is used by graph algorithms like Breadth-First Search (BFS)?",
+    "options": [
+      "Stack",
+      "Queue",
+      "Priority Queue",
+      "Binary Search Tree"
+    ],
+    "answer": "Queue"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "Which data structure is used by Depth-First Search (DFS) for graph traversal?",
+    "options": [
+      "Queue",
+      "Stack",
+      "Array",
+      "Max Heap"
+    ],
+    "answer": "Stack"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "What logic problem occurs when two threads hold locks on separate resources that the other thread needs to continue?",
+    "options": [
+      "Race Condition",
+      "Deadlock",
+      "Memory Leak",
+      "Starvation"
+    ],
+    "answer": "Deadlock"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "What makes a Binary Search Tree (BST) distinct from an arbitrary Binary Tree?",
+    "options": [
+      "Left subtree values are smaller than the parent node, and right subtree values are larger",
+      "All leaf nodes must exist at the exact same depth level",
+      "Parent nodes must contain values smaller than both child nodes",
+      "Nodes must have exactly two child nodes"
+    ],
+    "answer": "Left subtree values are smaller than the parent node, and right subtree values are larger"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "Which algorithm design paradigm solves a problem by breaking it down into independent subproblems, solving them, and combining their results?",
+    "options": [
+      "Greedy Algorithm",
+      "Divide and Conquer",
+      "Dynamic Programming",
+      "Backtracking"
+    ],
+    "answer": "Divide and Conquer"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "What is the main technique used in Dynamic Programming to store results of expensive subproblems to avoid redundant recalculations?",
+    "options": [
+      "Memoization",
+      "Backtracking",
+      "Recursion",
+      "Hashing"
+    ],
+    "answer": "Memoization"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "What is the time complexity to insert a new node at the head of a Singly Linked List?",
+    "options": [
+      "O(1)",
+      "O(n)",
+      "O(log n)",
+      "O(n^2)"
+    ],
+    "answer": "O(1)"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "In OOP design, what does the 'IS-A' relationship represent compared to 'HAS-A'?",
+    "options": [
+      "'IS-A' represents Composition; 'HAS-A' represents Inheritance",
+      "'IS-A' represents Inheritance; 'HAS-A' represents Aggregation/Composition",
+      "'IS-A' represents Polymorphism; 'HAS-A' represents Encapsulation",
+      "'IS-A' represents Dependency; 'HAS-A' represents Realization"
+    ],
+    "answer": "'IS-A' represents Inheritance; 'HAS-A' represents Aggregation/Composition"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "How does a Doubly Linked List differ from a Singly Linked List?",
+    "options": [
+      "It allows O(1) random index access",
+      "Each node contains references to both the next node and the previous node",
+      "It uses less total memory space per node",
+      "It requires items to be kept sorted"
+    ],
+    "answer": "Each node contains references to both the next node and the previous node"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "What is the worst-case space complexity of a recursive call stack if a function recurses to a depth of N?",
+    "options": [
+      "O(1)",
+      "O(N)",
+      "O(N log N)",
+      "O(2^N)"
+    ],
+    "answer": "O(N)"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "What Tree Traversal order visits nodes in the sequence: Left Subtree -> Root Node -> Right Subtree?",
+    "options": [
+      "Pre-order Traversal",
+      "In-order Traversal",
+      "Post-order Traversal",
+      "Level-order Traversal"
+    ],
+    "answer": "In-order Traversal"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "What Tree Traversal order visits nodes in the sequence: Root Node -> Left Subtree -> Right Subtree?",
+    "options": [
+      "In-order Traversal",
+      "Pre-order Traversal",
+      "Post-order Traversal",
+      "Breadth-First Traversal"
+    ],
+    "answer": "Pre-order Traversal"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "In Hash Tables, what is meant by a 'Collision'?",
+    "options": [
+      "Two different input keys generate the exact same hash code index",
+      "The table runs out of allocated system memory",
+      "A hash function returns a negative index value",
+      "Two threads write to the table concurrently without lock synchronization"
+    ],
+    "answer": "Two different input keys generate the exact same hash code index"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "What collision resolution strategy chains multiple key-value nodes into a linked list at the same bucket index?",
+    "options": [
+      "Linear Probing",
+      "Quadratic Probing",
+      "Separate Chaining",
+      "Double Hashing"
+    ],
+    "answer": "Separate Chaining"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "Which sorting algorithm operates with a guaranteed worst-case time complexity of O(n log n)?",
+    "options": [
+      "Quick Sort",
+      "Merge Sort",
+      "Bubble Sort",
+      "Insertion Sort"
+    ],
+    "answer": "Merge Sort"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "What key logic strategy does Floyd's Cycle Finding Algorithm (Tortoise and Hare) use to detect loops in a linked list?",
+    "options": [
+      "Comparing array values against a sorted copy",
+      "Using two pointers moving through the list at different speeds (1 step vs 2 steps)",
+      "Counting total nodes dynamically using recursion",
+      "Reversing the linked list in place"
+    ],
+    "answer": "Using two pointers moving through the list at different speeds (1 step vs 2 steps)"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "What is an abstract class in Object-Oriented Programming?",
+    "options": [
+      "A class that cannot be instantiated and is meant to be subclassed",
+      "A class that contains only private variables",
+      "A class that supports multiple inheritance natively in all languages",
+      "A class with no declared methods or constructors"
+    ],
+    "answer": "A class that cannot be instantiated and is meant to be subclassed"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "In two's complement binary arithmetic, how is a negative number represented logically?",
+    "options": [
+      "By setting the least significant bit to 1",
+      "By flipping all bits of the positive number and adding 1 to the result",
+      "By reversing the order of all bits",
+      "By shifting all bits one position left"
+    ],
+    "answer": "By flipping all bits of the positive number and adding 1 to the result"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "What is the primary constraint that defines a Min-Heap data structure?",
+    "options": [
+      "The value of every parent node is less than or equal to the values of its child nodes",
+      "The tree must be a complete binary search tree",
+      "The value of every parent node is greater than or equal to its child nodes",
+      "Leaf nodes are sorted from left to right"
+    ],
+    "answer": "The value of every parent node is less than or equal to the values of its child nodes"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "Which algorithmic design approach makes locally optimal choices at each step with the hope of finding a global optimum?",
+    "options": [
+      "Dynamic Programming",
+      "Greedy Approach",
+      "Backtracking",
+      "Brute Force"
+    ],
+    "answer": "Greedy Approach"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "What is the space complexity of an in-place sorting algorithm like Heap Sort?",
+    "options": [
+      "O(1)",
+      "O(n)",
+      "O(log n)",
+      "O(n^2)"
+    ],
+    "answer": "O(1)"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "What is the result of applying a Bitwise XOR operation (`A ^ A`) on any integer A with itself?",
+    "options": [
+      "A",
+      "0",
+      "1",
+      "-A"
+    ],
+    "answer": "0"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "Which data structure is ideal for converting an Infix mathematical expression into a Postfix expression?",
+    "options": [
+      "Queue",
+      "Stack",
+      "Tree",
+      "Graph"
+    ],
+    "answer": "Stack"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "In algorithmic logic, what is a 'Stable' sorting algorithm?",
+    "options": [
+      "An algorithm that does not exceed O(n log n) execution time",
+      "An algorithm that preserves the relative order of duplicate elements with equal keys",
+      "An algorithm that does not allocate auxiliary heap memory space",
+      "An algorithm that runs identically across hardware platforms"
+    ],
+    "answer": "An algorithm that preserves the relative order of duplicate elements with equal keys"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "In a self-balancing binary search tree like an AVL tree, what property must be maintained for every node?",
+    "options": [
+      "The absolute height difference between left and right subtrees must not exceed 1",
+      "All leaf nodes must reside on the same level",
+      "Each parent must have strictly two children",
+      "The root node must hold the median value"
+    ],
+    "answer": "The absolute height difference between left and right subtrees must not exceed 1"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "How does an Interface differ from an Abstract Class in object-oriented design?",
+    "options": [
+      "Interfaces cannot contain instance variables/state and provide contract definitions for classes to implement",
+      "Interfaces allow multiple class instances to share single pointers",
+      "Abstract classes cannot contain concrete methods with implementations",
+      "Interfaces can be instantiated directly using constructor methods"
+    ],
+    "answer": "Interfaces cannot contain instance variables/state and provide contract definitions for classes to implement"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "What operation allows a Circular Queue to utilize empty space freed up by previous dequeues?",
+    "options": [
+      "Linear shifting of array items",
+      "Modulus arithmetic on array indices (`(rear + 1) % capacity`)",
+      "Dynamic array re-allocation",
+      "Reversing internal stack pointers"
+    ],
+    "answer": "Modulus arithmetic on array indices (`(rear + 1) % capacity`)"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "What is the average time complexity to search, insert, or delete in a balanced Binary Search Tree (such as Red-Black Tree)?",
+    "options": [
+      "O(1)",
+      "O(log n)",
+      "O(n)",
+      "O(n log n)"
+    ],
+    "answer": "O(log n)"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "In graph theory, what single-source shortest path algorithm handles edges with negative weights, provided no negative weight cycles exist?",
+    "options": [
+      "Dijkstra's Algorithm",
+      "Bellman-Ford Algorithm",
+      "Floyd-Warshall Algorithm",
+      "Kruskal's Algorithm"
+    ],
+    "answer": "Bellman-Ford Algorithm"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "What is the time complexity of the Floyd-Warshall algorithm for finding all-pairs shortest paths in a graph with V vertices?",
+    "options": [
+      "O(V^2)",
+      "O(V^3)",
+      "O(V log V)",
+      "O(E + V log V)"
+    ],
+    "answer": "O(V^3)"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "In the context of the SOLID principles of object-oriented design, what does the 'L' stand for?",
+    "options": [
+      "Linear Extension Principle",
+      "Liskov Substitution Principle",
+      "Logical Coupling Principle",
+      "Lazy Initialization Principle"
+    ],
+    "answer": "Liskov Substitution Principle"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "How does Tarjan's algorithm efficiently identify Strongly Connected Components (SCCs) in a directed graph?",
+    "options": [
+      "By running Breadth-First Search repeatedly from every vertex",
+      "By performing a single Depth-First Search traversal while tracking discovery times and low-link values using a stack",
+      "By calculating minimum spanning trees using disjoint sets",
+      "By sorting edge weights in ascending order"
+    ],
+    "answer": "By performing a single Depth-First Search traversal while tracking discovery times and low-link values using a stack"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "In Red-Black Trees, what is the maximum possible height relative to the number of internal nodes N?",
+    "options": [
+      "log2(N)",
+      "2 * log2(N + 1)",
+      "N / 2",
+      "N - 1"
+    ],
+    "answer": "2 * log2(N + 1)"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "Which algorithmic design approach is used by Kadane's Algorithm to find the maximum subarray sum in O(n) time?",
+    "options": [
+      "Dynamic Programming (Iterative tracking of local and global max sums)",
+      "Divide and Conquer recursion",
+      "Greedy priority queue sorting",
+      "Backtracking search tree space"
+    ],
+    "answer": "Dynamic Programming (Iterative tracking of local and global max sums)"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "In memory management logic, what primary hazard is caused by 'Dangling Pointers'?",
+    "options": [
+      "The program attempts to access or modify memory that has already been deallocated/freed",
+      "The program runs out of stack space due to infinite recursion",
+      "Memory leak occurs as heap memory blocks become permanently unreferenced",
+      "Variable data type casting throws a runtime exception"
+    ],
+    "answer": "The program attempts to access or modify memory that has already been deallocated/freed"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "In the Segment Tree data structure, what is the time complexity to perform a point update and a range query over an array of size N?",
+    "options": [
+      "O(1) update, O(N) query",
+      "O(log N) update, O(log N) query",
+      "O(N) update, O(1) query",
+      "O(log N) update, O(1) query"
+    ],
+    "answer": "O(log N) update, O(log N) query"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "What is the core design mechanism of a Disjoint-Set Data Structure (Union-Find) that achieves near-constant O(alpha(N)) amortized operations?",
+    "options": [
+      "Binary search tree balancing",
+      "Path Compression and Union by Rank/Size",
+      "Hash key collision chaining",
+      "Splay tree rotations"
+    ],
+    "answer": "Path Compression and Union by Rank/Size"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "In object-oriented design, what is the difference between Open/Closed Principle (OCP) compliance vs violation?",
+    "options": [
+      "Classes are open for extension but closed for modification",
+      "Classes must close all file streams upon method completion",
+      "Classes must keep variable fields open to public inheritance access",
+      "Subclasses must override every method declared in abstract parents"
+    ],
+    "answer": "Classes are open for extension but closed for modification"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "In string pattern matching algorithms, what key precomputation step enables the Knuth-Morris-Pratt (KMP) algorithm to achieve O(N + M) runtime?",
+    "options": [
+      "Building a suffix tree of the main text string",
+      "Constructing a Longest Prefix Suffix (LPS) array for the pattern to avoid re-examining matched characters",
+      "Hashing text substrings into polynomial values",
+      "Sorting pattern characters in alphabetical order"
+    ],
+    "answer": "Constructing a Longest Prefix Suffix (LPS) array for the pattern to avoid re-examining matched characters"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "In a B-Tree database index, why are block node child pointers and key elements organized horizontally rather than vertically like standard Binary Trees?",
+    "options": [
+      "To optimize disk page read IOPS by matching node sizes to hardware disk block reads",
+      "To reduce memory usage during heap allocation",
+      "To force memory stack execution over register execution",
+      "To ensure key comparisons execute strictly in parallel"
+    ],
+    "answer": "To optimize disk page read IOPS by matching node sizes to hardware disk block reads"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "What logic problem in Object-Oriented Programming arises from multiple inheritance when a class inherits from two classes that both inherit from a single base class?",
+    "options": [
+      "The Fragile Base Class Problem",
+      "The Diamond Problem",
+      "The Circle-Ellipse Dilemma",
+      "The Liskov Paradox"
+    ],
+    "answer": "The Diamond Problem"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "What amortized time complexity does a Fibonacci Heap achieve for 'Decrease Key' operations compared to a standard Binary Heap?",
+    "options": [
+      "O(1) amortized in Fibonacci Heap vs O(log N) in Binary Heap",
+      "O(log N) amortized in Fibonacci Heap vs O(1) in Binary Heap",
+      "O(N) amortized in Fibonacci Heap vs O(log N) in Binary Heap",
+      "Both achieve O(1) amortized time"
+    ],
+    "answer": "O(1) amortized in Fibonacci Heap vs O(log N) in Binary Heap"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "What makes the A* Search algorithm distinct and typically faster than Dijkstra's algorithm for pathfinding?",
+    "options": [
+      "A* uses a heuristic function (f(n) = g(n) + h(n)) to guide search direction towards the target destination",
+      "A* works only on undirected acyclic trees",
+      "A* does not require a priority queue data structure",
+      "A* eliminates edge weight calculation entirely"
+    ],
+    "answer": "A* uses a heuristic function (f(n) = g(n) + h(n)) to guide search direction towards the target destination"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "In computational complexity theory, what defines a problem as belonging to the 'NP-Complete' class?",
+    "options": [
+      "It can be solved in polynomial time by a deterministic Turing machine",
+      "It is in NP and every other problem in NP can be reduced to it in polynomial time",
+      "It has been proven to have no algorithmic solution",
+      "It requires exponential space complexity to verify solutions"
+    ],
+    "answer": "It is in NP and every other problem in NP can be reduced to it in polynomial time"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "In OOP Design Patterns, what is the core structural purpose of the Decorator Pattern?",
+    "options": [
+      "To dynamically attach additional responsibilities to an object wrapper without modifying its original structure",
+      "To restrict class instantiation to a single static object instance",
+      "To decouple an abstraction from its implementation so the two can vary independently",
+      "To provide a simplified unified interface to a complex set of subsystem interfaces"
+    ],
+    "answer": "To dynamically attach additional responsibilities to an object wrapper without modifying its original structure"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "What is the fundamental difference between Prim's and Kruskal's algorithms for finding Minimum Spanning Trees (MST)?",
+    "options": [
+      "Prim's grows a tree vertex by vertex using local adjacent edges; Kruskal's adds globally smallest edges while avoiding cycles",
+      "Kruskal's operates only on directed graphs; Prim's operates on undirected trees",
+      "Prim's uses Disjoint Sets; Kruskal's uses Priority Queues",
+      "Prim's guarantees minimum weight; Kruskal's provides an approximation"
+    ],
+    "answer": "Prim's grows a tree vertex by vertex using local adjacent edges; Kruskal's adds globally smallest edges while avoiding cycles"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "In Advanced Data Structures, what key property defines a Skip List?",
+    "options": [
+      "A probabilistic structure of layered linked lists that achieves O(log N) average search/insertion time",
+      "A balanced binary search tree that self-adjusts via tree rotations",
+      "An array-based hash map using quadratic bit-masking",
+      "A queue structure that skips processing duplicate elements"
+    ],
+    "answer": "A probabilistic structure of layered linked lists that achieves O(log N) average search/insertion time"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "What bitwise trick determines if a positive integer N is an exact power of 2 in O(1) time?",
+    "options": [
+      "(N & (N - 1)) == 0",
+      "(N | (N + 1)) == 0",
+      "(N ^ (N - 1)) == N",
+      "(N >> 1) == 0"
+    ],
+    "answer": "(N & (N - 1)) == 0"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "What is the time complexity to find the median of an unsorted array of size N using the Quickselect (Median of Medians) algorithm?",
+    "options": [
+      "O(N)",
+      "O(N log N)",
+      "O(log N)",
+      "O(N^2)"
+    ],
+    "answer": "O(N)"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "In Garbage Collection algorithms, what problem occurs during the naive 'Mark-and-Sweep' phase if compaction is not performed?",
+    "options": [
+      "Memory Fragmentation (free memory is broken into small non-contiguous blocks)",
+      "Stack Overflow Exception",
+      "Deadlock loop in execution thread",
+      "Dangling reference creation"
+    ],
+    "answer": "Memory Fragmentation (free memory is broken into small non-contiguous blocks)"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "What is the time and space complexity to generate all permutations of a set of N distinct items using backtracking?",
+    "options": [
+      "Time: O(N!), Space: O(N)",
+      "Time: O(2^N), Space: O(N^2)",
+      "Time: O(N^2), Space: O(N!)",
+      "Time: O(N log N), Space: O(1)"
+    ],
+    "answer": "Time: O(N!), Space: O(N)"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "In object-oriented architectural design, what does the Dependency Inversion Principle (DIP) state?",
+    "options": [
+      "High-level modules should not depend on low-level modules; both should depend on abstractions",
+      "Classes should depend directly on concrete implementations for performance",
+      "Subclasses must reverse parent method execution sequences",
+      "Interfaces must inherit from concrete parent classes"
+    ],
+    "answer": "High-level modules should not depend on low-level modules; both should depend on abstractions"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "What is a Trie (Prefix Tree) data structure optimized for?",
+    "options": [
+      "Fast prefix-based re-retrieval and matching of strings or keys in O(K) time, where K is string length",
+      "Sorting floating point numbers in O(1) space",
+      "Executing balance rotations across dynamic graphs",
+      "Storing sparse matrix key-value pairs"
+    ],
+    "answer": "Fast prefix-based re-retrieval and matching of strings or keys in O(K) time, where K is string length"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "In topological sorting of a Directed Acyclic Graph (DAG), what does the resulting linear ordering of vertices guarantee?",
+    "options": [
+      "For every directed edge u -> v, vertex u comes before vertex v in the ordering",
+      "Vertices are sorted strictly in ascending order of their in-degrees",
+      "The total path weight from start node to end node is minimized",
+      "Leaf nodes appear at the start of the sorted sequence"
+    ],
+    "answer": "For every directed edge u -> v, vertex u comes before vertex v in the ordering"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "What spatial indexing data structure partitions space into multi-dimensional region buckets for range search query efficiency?",
+    "options": [
+      "K-D Tree",
+      "Splay Tree",
+      "Fenwick Tree",
+      "AVL Tree"
+    ],
+    "answer": "K-D Tree"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "What key logic strategy allows the Boyer-Moore Majority Vote Algorithm to identify a majority element (> N/2 occurrences) in O(N) time and O(1) space?",
+    "options": [
+      "Maintaining a running candidate element and a counter that increments on match and decrements on mismatch",
+      "Sorting array elements in-place using Heap Sort",
+      "Hashing frequencies into a bucket count table",
+      "Dividing the array into halves recursively"
+    ],
+    "answer": "Maintaining a running candidate element and a counter that increments on match and decrements on mismatch"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "In OOP concurrency, what risk arises when using Double-Checked Locking without declaring shared variable resources as `volatile`?",
+    "options": [
+      "Instruction reordering by compiler/CPU can expose partially constructed instances to other threads",
+      "The program causes an immediate kernel level segmentation fault",
+      "Deadlocks occur automatically on single-core processors",
+      "Class inheritance hierarchies become invalidated"
+    ],
+    "answer": "Instruction reordering by compiler/CPU can expose partially constructed instances to other threads"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "In graph algorithms, what condition indicates the presence of a negative cycle when running Dijkstra's algorithm?",
+    "options": [
+      "Dijkstra's algorithm cannot detect or safely handle negative weight edges, leading to infinite loops or incorrect shortest paths",
+      "The priority queue throws an underflow exception",
+      "All edge weights automatically flip to positive absolute values",
+      "The graph converts into a Directed Acyclic Graph"
+    ],
+    "answer": "Dijkstra's algorithm cannot detect or safely handle negative weight edges, leading to infinite loops or incorrect shortest paths"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "What spatial and temporal advantage does a Binary Indexed Tree (Fenwick Tree) offer over a Segment Tree for prefix sum updates?",
+    "options": [
+      "Simpler code implementation and smaller auxiliary memory footprint (array of size N)",
+      "Ability to handle range updates in O(1) time without lazy propagation",
+      "Supports O(1) point queries without bit operations",
+      "Guarantees parallel processing on GPU threads"
+    ],
+    "answer": "Simpler code implementation and smaller auxiliary memory footprint (array of size N)"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "In dynamic programming, what condition must a problem satisfy for Dynamic Programming to be applicable?",
+    "options": [
+      "Optimal Substructure and Overlapping Subproblems",
+      "Greedy Choice Property and Independence",
+      "Polynomial Time Solvability and Unimodality",
+      "Strict Bipartite Edge Graph Distribution"
+    ],
+    "answer": "Optimal Substructure and Overlapping Subproblems"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "What tree rotation operations are required in an AVL Tree when a insertion causes an 'LR' (Left-Right) imbalance at a node?",
+    "options": [
+      "A Left rotation on the left child followed by a Right rotation on the parent node",
+      "A single Right rotation on the parent node",
+      "A single Left rotation on the root node",
+      "A Right rotation on the right child followed by a Left rotation on the parent node"
+    ],
+    "answer": "A Left rotation on the left child followed by a Right rotation on the parent node"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "In object-oriented design patterns, what is the key feature of the Flyweight Pattern?",
+    "options": [
+      "Minimizing memory usage by sharing common, immutable state (intrinsic state) across many similar objects",
+      "Executing state transitions via an event bus architecture",
+      "Providing mock instances during unit testing execution",
+      "Serializing state streams to disk memory"
+    ],
+    "answer": "Minimizing memory usage by sharing common, immutable state (intrinsic state) across many similar objects"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "What is the maximum number of edges in a simple, un-directed graph with V vertices?",
+    "options": [
+      "V * (V - 1) / 2",
+      "V^2",
+      "2 * V",
+      "V * (V + 1)"
+    ],
+    "answer": "V * (V - 1) / 2"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "In string search logic, how does the Rabin-Karp algorithm search for pattern matches in a text string?",
+    "options": [
+      "By using a rolling hash function to compare hash values of text substrings with the pattern hash",
+      "By constructing a deterministic finite automaton (DFA)",
+      "By comparing characters right-to-left using bad character shift tables",
+      "By building an inverted search index"
+    ],
+    "answer": "By using a rolling hash function to compare hash values of text substrings with the pattern hash"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "What property distinguishes a Splay Tree from other self-balancing Binary Search Trees?",
+    "options": [
+      "Recently accessed nodes are moved to the root via 'splaying' rotations, offering O(log N) amortized access time",
+      "Nodes strictly track black-height balance levels across subtrees",
+      "Tree height is strictly bounded by log2(N) in worst-case single operations",
+      "It requires no tree rotations during node operations"
+    ],
+    "answer": "Recently accessed nodes are moved to the root via 'splaying' rotations, offering O(log N) amortized access time"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "What is the main advantage of using a Monotonic Stack data structure for array problems?",
+    "options": [
+      "It allows finding the next greater or smaller element for every element in an array in O(N) total time",
+      "It keeps elements sorted with O(1) push and pop operations",
+      "It converts recursive algorithm executions into iteration without memory stack usage",
+      "It eliminates array index out of bounds exceptions"
+    ],
+    "answer": "It allows finding the next greater or smaller element for every element in an array in O(N) total time"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "In graph algorithm analysis, what is an 'Articulation Point' (Cut Vertex)?",
+    "options": [
+      "A vertex whose removal increases the number of connected components in the graph",
+      "A vertex with the maximum degree in a directed acyclic graph",
+      "The root node of a minimum spanning tree",
+      "A node with self-loop edges pointing to itself"
+    ],
+    "answer": "A vertex whose removal increases the number of connected components in the graph"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "In Garbage Collection logic, what is the purpose of the 'Generational Hypothesis'?",
+    "options": [
+      "Most objects die short-lived deaths soon after creation, so heap memory is split into Young and Old generations for targeted collection efficiency",
+      "Object memory allocations duplicate recursively across system generations",
+      "Garbage collection threads run strictly once per processor cycle generation",
+      "All persistent variables are moved to stack memory automatically"
+    ],
+    "answer": "Most objects die short-lived deaths soon after creation, so heap memory is split into Young and Old generations for targeted collection efficiency"
+  }
+]

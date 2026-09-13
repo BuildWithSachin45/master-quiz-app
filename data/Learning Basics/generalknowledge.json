@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "How many colors are there in a standard rainbow?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "Which animal is known as the 'Ship of the Desert'?",
+    "options": ["Horse", "Camel", "Elephant", "Llama"],
+    "answer": "Camel"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "How many days are there in a standard leap year?",
+    "options": ["364", "365", "366", "367"],
+    "answer": "366"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "Which direction does the sun rise from?",
+    "options": ["North", "South", "East", "West"],
+    "answer": "East"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "What primary color do you get when you mix blue and yellow?",
+    "options": ["Red", "Green", "Purple", "Orange"],
+    "answer": "Green"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "Which is the largest land animal in the world?",
+    "options": ["Giraffe", "Hippopotamus", "African Elephant", "Rhinoceros"],
+    "answer": "African Elephant"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "How many sides does a standard stop sign have?",
+    "options": ["6", "7", "8", "10"],
+    "answer": "8"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "Which gas do human beings inhale to survive?",
+    "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+    "answer": "Oxygen"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "What is the capital city of France?",
+    "options": ["London", "Berlin", "Madrid", "Paris"],
+    "answer": "Paris"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "Which bird is famous for its ability to copy human speech?",
+    "options": ["Eagle", "Parrot", "Penguin", "Sparrow"],
+    "answer": "Parrot"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "How many legs does a spider have?",
+    "options": ["6", "8", "10", "12"],
+    "answer": "8"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "What color are emeralds?",
+    "options": ["Red", "Blue", "Green", "Yellow"],
+    "answer": "Green"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "Which body part is used to sense tastes?",
+    "options": ["Nose", "Tongue", "Skin", "Ears"],
+    "answer": "Tongue"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "Which planet is known as the 'Red Planet'?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "answer": "Mars"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "What is the baby of a dog called?",
+    "options": ["Kitten", "Cub", "Puppy", "Calf"],
+    "answer": "Puppy"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "Which continent is home to the Amazon Rainforest?",
+    "options": ["Africa", "Asia", "South America", "Europe"],
+    "answer": "South America"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "What do bees produce that humans eat?",
+    "options": ["Milk", "Honey", "Wax", "Butter"],
+    "answer": "Honey"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "How many hours make up one full day?",
+    "options": ["12", "24", "48", "60"],
+    "answer": "24"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "In which season do trees usually lose their leaves?",
+    "options": ["Spring", "Summer", "Autumn", "Winter"],
+    "answer": "Autumn"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "Which is the fastest land animal?",
+    "options": ["Lion", "Cheetah", "Horse", "Leopard"],
+    "answer": "Cheetah"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "Which shape has no corners or straight edges?",
+    "options": ["Square", "Triangle", "Circle", "Rectangle"],
+    "answer": "Circle"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "What natural resource covers about 71% of Earth's surface?",
+    "options": ["Land", "Water", "Ice", "Sand"],
+    "answer": "Water"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "Which fruit is known for having its seeds on the outside?",
+    "options": ["Apple", "Banana", "Strawberry", "Mango"],
+    "answer": "Strawberry"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "What organ pumps blood throughout the human body?",
+    "options": ["Brain", "Lungs", "Liver", "Heart"],
+    "answer": "Heart"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "In which country can you visit the famous Giza Pyramids?",
+    "options": ["Italy", "Egypt", "Mexico", "China"],
+    "answer": "Egypt"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "Which flightless bird is native to Antarctica?",
+    "options": ["Ostrich", "Emu", "Penguin", "Kiwi"],
+    "answer": "Penguin"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "What is frozen water called?",
+    "options": ["Steam", "Ice", "Vapor", "Cloud"],
+    "answer": "Ice"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "Which place is called the 'Land of the Rising Sun'?",
+    "options": ["China", "Japan", "Thailand", "India"],
+    "answer": "Japan"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "How many total primary colors are there?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "3"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "What instrument is used to measure human body temperature?",
+    "options": ["Barometer", "Thermometer", "Speedometer", "Scale"],
+    "answer": "Thermometer"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "Which is the largest ocean on Earth?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+    "answer": "Pacific Ocean"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
+    "answer": "Leonardo da Vinci"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "Which metal is the best conductor of electricity?",
+    "options": ["Gold", "Silver", "Copper", "Iron"],
+    "answer": "Silver"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "What is the hardest natural substance found on Earth?",
+    "options": ["Gold", "Iron", "Diamond", "Quartz"],
+    "answer": "Diamond"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "Which instrument is used to view objects that are far away in space?",
+    "options": ["Microscope", "Telescope", "Periscope", "Binoculars"],
+    "answer": "Telescope"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "Which is the smallest continent by land area?",
+    "options": ["Europe", "Antarctica", "Australia", "South America"],
+    "answer": "Australia"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "Who discovered gravity when an apple fell from a tree?",
+    "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Nikola Tesla"],
+    "answer": "Isaac Newton"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "Which gas makes up the majority of Earth's atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Nitrogen"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "Which is the longest river in the world?",
+    "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+    "answer": "Nile River"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "What is the capital city of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+    "answer": "Canberra"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "Which vitamin is synthesized by the human body when exposed to sunlight?",
+    "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+    "answer": "Vitamin D"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "Which planet in our solar system has the most prominent ring system?",
+    "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+    "answer": "Saturn"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "What process do green plants use to manufacture their own food?",
+    "options": ["Respiration", "Photosynthesis", "Transpiration", "Evaporation"],
+    "answer": "Photosynthesis"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "Which layer of Earth's atmosphere protects us from harmful ultraviolet radiation?",
+    "options": ["Troposphere", "Ozone Layer", "Mesosphere", "Thermosphere"],
+    "answer": "Ozone Layer"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "How many bones are in the adult human body?",
+    "options": ["186", "206", "216", "300"],
+    "answer": "206"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "Which country invented paper?",
+    "options": ["Egypt", "Greece", "China", "India"],
+    "answer": "China"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "What chemical element does the symbol 'NaCl' represent?",
+    "options": ["Water", "Table Salt", "Sugar", "Baking Soda"],
+    "answer": "Table Salt"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "Which ocean is located around the North Pole?",
+    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+    "answer": "Arctic Ocean"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "Who was the first human to travel into space?",
+    "options": ["Neil Armstrong", "Yuri Gagarin", "Buzz Aldrin", "John Glenn"],
+    "answer": "Yuri Gagarin"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "Which mammal is capable of true sustained flight?",
+    "options": ["Flying Squirrel", "Bat", "Sugar Glider", "Flying Lemur"],
+    "answer": "Bat"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "In which city were the first modern Olympic Games held in 1896?",
+    "options": ["Rome", "Athens", "Paris", "London"],
+    "answer": "Athens"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "What is the chemical symbol for Gold?",
+    "options": ["Ag", "Au", "Fe", "Go"],
+    "answer": "Au"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "Which organ in the human body produces insulin?",
+    "options": ["Liver", "Kidney", "Pancreas", "Stomach"],
+    "answer": "Pancreas"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "Which island nation is the largest archipelago in the world?",
+    "options": ["Japan", "Philippines", "Indonesia", "Maldives"],
+    "answer": "Indonesia"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "Who wrote the famous plays 'Romeo and Juliet' and 'Hamlet'?",
+    "options": ["Charles Dickens", "William Shakespeare", "Mark Twain", "Leo Tolstoy"],
+    "answer": "William Shakespeare"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "What type of scientist studies rocks and the structure of Earth?",
+    "options": ["Biologist", "Geologist", "Astronomer", "Meteorologist"],
+    "answer": "Geologist"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "Which is the largest desert in the world (including polar regions)?",
+    "options": ["Sahara Desert", "Gobi Desert", "Antarctic Desert", "Arabian Desert"],
+    "answer": "Antarctic Desert"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "What is the national flower of Japan?",
+    "options": ["Rose", "Cherry Blossom", "Lotus", "Tulip"],
+    "answer": "Cherry Blossom"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "What device is used to detect earthquakes and record their intensity?",
+    "options": ["Seismograph", "Altimeter", "Hydrometer", "Radiometer"],
+    "answer": "Seismograph"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "Which human organ filters blood to remove waste and produce urine?",
+    "options": ["Heart", "Lungs", "Kidneys", "Spleen"],
+    "answer": "Kidneys"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "Which organelle is famously known as the 'powerhouse of the cell'?",
+    "options": ["Nucleus", "Ribosome", "Mitochondria", "Golgi Apparatus"],
+    "answer": "Mitochondria"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "What is the speed of light in a vacuum?",
+    "options": ["300,000 km/s", "150,000 km/s", "500,000 km/s", "1,000,000 km/s"],
+    "answer": "300,000 km/s"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "Which historical agreement ended World War I in 1919?",
+    "options": ["Treaty of Paris", "Treaty of Versailles", "Geneva Convention", "Treaty of Ghent"],
+    "answer": "Treaty of Versailles"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "What is the SI unit of electric resistance?",
+    "options": ["Volt", "Ampere", "Ohm", "Watt"],
+    "answer": "Ohm"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "Which blood group is known as the universal donor?",
+    "options": ["A Positive", "B Negative", "AB Positive", "O Negative"],
+    "answer": "O Negative"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "Who developed the periodic table of elements in 1869?",
+    "options": ["Dmitri Mendeleev", "Antoine Lavoisier", "John Dalton", "Marie Curie"],
+    "answer": "Dmitri Mendeleev"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "Which mountain range separates Europe from Asia?",
+    "options": ["Alps", "Himalayas", "Ural Mountains", "Andes"],
+    "answer": "Ural Mountains"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "What is the pH value of pure distilled water at 25°C?",
+    "options": ["0", "5", "7", "14"],
+    "answer": "7"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "Which ancient civilization constructed the city of Machu Picchu?",
+    "options": ["Aztecs", "Mayans", "Incas", "Egyptians"],
+    "answer": "Incas"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "What is the chemical formula for Ozone?",
+    "options": ["O", "O₂", "O₃", "CO₂"],
+    "answer": "O₃"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "Which strait connects the Pacific Ocean to the Arctic Ocean?",
+    "options": ["Strait of Gibraltar", "Bering Strait", "Strait of Malacca", "Bosphorus Strait"],
+    "answer": "Bering Strait"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "options": ["Rosalind Franklin", "Marie Curie", "Mother Teresa", "Ada Lovelace"],
+    "answer": "Marie Curie"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "Which fundamental force keeps planets in orbit around the sun?",
+    "options": ["Electromagnetic Force", "Weak Nuclear Force", "Gravitational Force", "Strong Nuclear Force"],
+    "answer": "Gravitational Force"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "In which body of water is the Mariana Trench located?",
+    "options": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+    "answer": "Pacific Ocean"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "What is the main component of natural gas?",
+    "options": ["Ethane", "Methane", "Propane", "Butane"],
+    "answer": "Methane"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "Which part of the human brain controls balance and posture?",
+    "options": ["Cerebrum", "Cerebellum", "Medulla Oblongata", "Hypothalamus"],
+    "answer": "Cerebellum"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "Which empire was ruled by Julius Caesar?",
+    "options": ["Greek Empire", "Ottoman Empire", "Roman Empire", "Persian Empire"],
+    "answer": "Roman Empire"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "What process converts sugar into alcohol using yeast?",
+    "options": ["Fermentation", "Oxidation", "Distillation", "Sublimation"],
+    "answer": "Fermentation"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "Which planet in our solar system has the shortest day (fastest rotation)?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "answer": "Jupiter"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "What is the law that states energy cannot be created or destroyed?",
+    "options": ["Boyle's Law", "First Law of Thermodynamics", "Newton's Third Law", "Kepler's Law"],
+    "answer": "First Law of Thermodynamics"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "Which country has the highest number of natural time zones?",
+    "options": ["Russia", "United States", "France", "China"],
+    "answer": "France"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "Which acid is present in human gastric juice inside the stomach?",
+    "options": ["Sulfuric Acid", "Nitric Acid", "Hydrochloric Acid", "Acetic Acid"],
+    "answer": "Hydrochloric Acid"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "Which landmark document was signed in England in 1215 to limit royal power?",
+    "options": ["Bill of Rights", "Magna Carta", "Declaration of Independence", "Treaty of Paris"],
+    "answer": "Magna Carta"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "What is the phenomenon where light bends as it passes from one medium to another?",
+    "options": ["Reflection", "Refraction", "Diffraction", "Dispersion"],
+    "answer": "Refraction"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "Which continent contains the landlocked country of Bolivia?",
+    "options": ["Africa", "Asia", "South America", "Europe"],
+    "answer": "South America"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "What is the primary structural protein found in human hair and nails?",
+    "options": ["Collagen", "Keratin", "Hemoglobin", "Fibrin"],
+    "answer": "Keratin"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "Which astronomical event occurs when the moon passes directly between Earth and the Sun?",
+    "options": ["Lunar Eclipse", "Solar Eclipse", "Equinox", "Solstice"],
+    "answer": "Solar Eclipse"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "What is the international system unit (SI) used to measure force?",
+    "options": ["Joule", "Pascal", "Newton", "Watt"],
+    "answer": "Newton"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "Which scientist proposed the heliocentric model of the solar system in 1543?",
+    "options": ["Nicolaus Copernicus", "Ptolemy", "Johannes Kepler", "Galileo Galilei"],
+    "answer": "Nicolaus Copernicus"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "What type of rock is formed from cooled lava or magma?",
+    "options": ["Sedimentary", "Metamorphic", "Igneous", "Fossiliferous"],
+    "answer": "Igneous"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "Which gas is primarily responsible for the greenhouse effect on Earth?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Helium"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "What is the capital city of Canada?",
+    "options": ["Toronto", "Vancouver", "Montreal", "Ottawa"],
+    "answer": "Ottawa"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "Which subatomic particle carries a negative electrical charge?",
+    "options": ["Proton", "Neutron", "Electron", "Positron"],
+    "answer": "Electron"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "Who discovered the antibiotic substance penicillin in 1928?",
+    "options": ["Alexander Fleming", "Louis Pasteur", "Robert Koch", "Edward Jenner"],
+    "answer": "Alexander Fleming"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "Which African country was formerly known as Abyssinia?",
+    "options": ["Egypt", "Ethiopia", "Ghana", "Nigeria"],
+    "answer": "Ethiopia"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "What pigment gives plants their green color and absorbs light for photosynthesis?",
+    "options": ["Carotene", "Xanthophyll", "Chlorophyll", "Anthocyanin"],
+    "answer": "Chlorophyll"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "Which island is the largest island in the world by land area?",
+    "options": ["Madagascar", "Greenland", "New Guinea", "Borneo"],
+    "answer": "Greenland"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "What is the name of the process by which a solid changes directly into a gas?",
+    "options": ["Evaporation", "Condensation", "Sublimation", "Deposition"],
+    "answer": "Sublimation"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "Which organ in the human body stores bile produced by the liver?",
+    "options": ["Spleen", "Gallbladder", "Pancreas", "Appendix"],
+    "answer": "Gallbladder"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "Which treaty officially formed the European Union in 1993?",
+    "options": ["Treaty of Rome", "Maastricht Treaty", "Treaty of Lisbon", "Paris Accord"],
+    "answer": "Maastricht Treaty"
+  }
+]

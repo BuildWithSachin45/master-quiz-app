@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "What is the SI unit of force?",
+    "options": [
+      "Joule",
+      "Newton",
+      "Watt",
+      "Pascal"
+    ],
+    "answer": "Newton"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "Which law states that for every action, there is an equal and opposite reaction?",
+    "options": [
+      "Newton's First Law",
+      "Newton's Second Law",
+      "Newton's Third Law",
+      "Law of Gravitation"
+    ],
+    "answer": "Newton's Third Law"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "What happens to the speed of light when it passes from air into glass?",
+    "options": [
+      "It speeds up",
+      "It slows down",
+      "It stays the same",
+      "It drops to zero"
+    ],
+    "answer": "It slows down"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "Which type of lens is thicker in the middle than at the edges and converges parallel light rays?",
+    "options": [
+      "Concave lens",
+      "Convex lens",
+      "Cylindrical lens",
+      "Diverging lens"
+    ],
+    "answer": "Convex lens"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "Which physical quantity measures the total work done per unit time?",
+    "options": [
+      "Force",
+      "Power",
+      "Energy",
+      "Momentum"
+    ],
+    "answer": "Power"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "What is the standard value of acceleration due to gravity on Earth's surface?",
+    "options": [
+      "8.9 m/s²",
+      "9.8 m/s²",
+      "10.8 m/s²",
+      "6.67 m/s²"
+    ],
+    "answer": "9.8 m/s²"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "Which instrument is connected in series within a circuit to measure electric current?",
+    "options": [
+      "Voltmeter",
+      "Ammeter",
+      "Galvanometer",
+      "Ohmmeter"
+    ],
+    "answer": "Ammeter"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "What form of energy is stored in a compressed mechanical spring?",
+    "options": [
+      "Kinetic Energy",
+      "Elastic Potential Energy",
+      "Thermal Energy",
+      "Chemical Energy"
+    ],
+    "answer": "Elastic Potential Energy"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "According to Ohm's law, voltage across a conductor is directly proportional to which quantity?",
+    "options": [
+      "Resistance",
+      "Electric current",
+      "Capacitance",
+      "Electric power"
+    ],
+    "answer": "Electric current"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "Which device converts mechanical energy into electrical energy using electromagnetic induction?",
+    "options": [
+      "Electric Motor",
+      "Generator",
+      "Transformer",
+      "Capacitor"
+    ],
+    "answer": "Generator"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "What is the SI unit of electric charge?",
+    "options": [
+      "Ampere",
+      "Coulomb",
+      "Volt",
+      "Ohm"
+    ],
+    "answer": "Coulomb"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "The rate of change of displacement with respect to time is defined as:",
+    "options": [
+      "Speed",
+      "Velocity",
+      "Acceleration",
+      "Impulse"
+    ],
+    "answer": "Velocity"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "Which color of visible light has the longest wavelength?",
+    "options": [
+      "Violet",
+      "Blue",
+      "Green",
+      "Red"
+    ],
+    "answer": "Red"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "What is the SI unit of frequency?",
+    "options": [
+      "Decibel",
+      "Hertz",
+      "Radian",
+      "Second"
+    ],
+    "answer": "Hertz"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "Which basic formula represents Newton's Second Law of Motion?",
+    "options": [
+      "Force = Mass × Acceleration",
+      "Force = Mass / Acceleration",
+      "Force = Mass + Acceleration",
+      "Force = Acceleration / Mass"
+    ],
+    "answer": "Force = Mass × Acceleration"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "The bending of light rays when passing obliquely from one transparent medium to another is called:",
+    "options": [
+      "Reflection",
+      "Refraction",
+      "Diffraction",
+      "Dispersion"
+    ],
+    "answer": "Refraction"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "Which subatomic particle carries a negative electric charge?",
+    "options": [
+      "Proton",
+      "Neutron",
+      "Electron",
+      "Photon"
+    ],
+    "answer": "Electron"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "What is the SI unit of pressure?",
+    "options": [
+      "Pascal",
+      "Bar",
+      "Atmosphere",
+      "Torr"
+    ],
+    "answer": "Pascal"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "Why can sound waves NOT travel through outer space?",
+    "options": [
+      "Space is too cold",
+      "Space lacks a physical medium for wave propagation",
+      "Gravity suppresses sound vibrations",
+      "Light blocks sound waves"
+    ],
+    "answer": "Space lacks a physical medium for wave propagation"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "The primary measure of an object's inertia is its:",
+    "options": [
+      "Velocity",
+      "Shape",
+      "Mass",
+      "Volume"
+    ],
+    "answer": "Mass"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "Which law of thermodynamics states that energy cannot be created or destroyed, only transformed?",
+    "options": [
+      "Zeroth Law",
+      "First Law",
+      "Second Law",
+      "Third Law"
+    ],
+    "answer": "First Law"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "What type of wave is a sound wave in air?",
+    "options": [
+      "Transverse wave",
+      "Longitudinal wave",
+      "Electromagnetic wave",
+      "Torsional wave"
+    ],
+    "answer": "Longitudinal wave"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "What simple formula gives the density of a uniform object?",
+    "options": [
+      "Density = Mass × Volume",
+      "Density = Mass / Volume",
+      "Density = Volume / Mass",
+      "Density = Mass + Volume"
+    ],
+    "answer": "Density = Mass / Volume"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "What simple formula calculates average speed?",
+    "options": [
+      "Speed = Total Distance / Total Time",
+      "Speed = Total Distance × Total Time",
+      "Speed = Total Time / Total Distance",
+      "Speed = Acceleration × Time"
+    ],
+    "answer": "Speed = Total Distance / Total Time"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "Which physical quantity is defined by the basic formula Linear Momentum = Mass × Velocity?",
+    "options": [
+      "Force",
+      "Work",
+      "Linear Momentum",
+      "Impulse"
+    ],
+    "answer": "Linear Momentum"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "The ratio of useful work output to total energy input in any real system defines its:",
+    "options": [
+      "Power",
+      "Efficiency",
+      "Mechanical advantage",
+      "Thermal resistance"
+    ],
+    "answer": "Efficiency"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "What is the SI unit of electrical resistance?",
+    "options": [
+      "Watt",
+      "Ohm",
+      "Siemens",
+      "Henry"
+    ],
+    "answer": "Ohm"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "Which temperature scale sets its zero point at theoretical absolute zero?",
+    "options": [
+      "Celsius",
+      "Fahrenheit",
+      "Kelvin",
+      "Rankine"
+    ],
+    "answer": "Kelvin"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "Using the formula Weight = Mass × Gravitational Acceleration, what is the weight of a 10 kg mass on Earth (g = 9.8 m/s²)?",
+    "options": [
+      "10 N",
+      "98 N",
+      "9.8 N",
+      "100 N"
+    ],
+    "answer": "98 N"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "Which force provides the necessary centripetal attraction to keep planets in orbit around the Sun?",
+    "options": [
+      "Centrifugal force",
+      "Gravitational force",
+      "Electromagnetic force",
+      "Nuclear force"
+    ],
+    "answer": "Gravitational force"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "Without air resistance, at what angle of launch does a projectile achieve its maximum horizontal distance?",
+    "options": [
+      "30°",
+      "45°",
+      "60°",
+      "90°"
+    ],
+    "answer": "45°"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "What happens to the electrical resistance of a intrinsic semiconductor as its temperature rises?",
+    "options": [
+      "It increases",
+      "It decreases",
+      "It remains constant",
+      "It drops to zero instantly"
+    ],
+    "answer": "It decreases"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "Which wave phenomenon causes light to spread out after passing through a narrow aperture?",
+    "options": [
+      "Interference",
+      "Diffraction",
+      "Polarization",
+      "Total internal reflection"
+    ],
+    "answer": "Diffraction"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "What basic formula defines mechanical work done when force and displacement act in the same direction?",
+    "options": [
+      "Work = Force × Distance",
+      "Work = Force / Distance",
+      "Work = Distance / Force",
+      "Work = Power × Distance"
+    ],
+    "answer": "Work = Force × Distance"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "Which principle states that an increase in fluid speed leads to a simultaneous drop in fluid pressure?",
+    "options": [
+      "Pascal's Principle",
+      "Archimedes' Principle",
+      "Bernoulli's Principle",
+      "Torricelli's Law"
+    ],
+    "answer": "Bernoulli's Principle"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "According to Kinetic Energy = 1/2 × Mass × Velocity squared, what happens to kinetic energy if velocity is doubled?",
+    "options": [
+      "It doubles",
+      "It triples",
+      "It quadruples",
+      "It stays the same"
+    ],
+    "answer": "It quadruples"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "In Young's double-slit interference, narrowing the gap between the two slits causes the interference fringes to:",
+    "options": [
+      "Move closer together",
+      "Spread farther apart",
+      "Disappear completely",
+      "Remain unchanged in spacing"
+    ],
+    "answer": "Spread farther apart"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "How much work is done by the centripetal force on an object traveling in a uniform circular path?",
+    "options": [
+      "Positive work",
+      "Negative work",
+      "Zero work",
+      "Infinite work"
+    ],
+    "answer": "Zero work"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "Which thermodynamic parameter remains completely constant during an isothermal process?",
+    "options": [
+      "Pressure",
+      "Volume",
+      "Temperature",
+      "Heat content"
+    ],
+    "answer": "Temperature"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "What is the effective focal length of a flat plane mirror?",
+    "options": [
+      "Zero",
+      "One meter",
+      "Infinity",
+      "Minus one meter"
+    ],
+    "answer": "Infinity"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "Which phenomenon conclusively demonstrates that light waves are transverse rather than longitudinal?",
+    "options": [
+      "Interference",
+      "Diffraction",
+      "Polarization",
+      "Refraction"
+    ],
+    "answer": "Polarization"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "Using Capacitance = Charge / Voltage, doubling the stored charge at constant voltage results in capacitance that is:",
+    "options": [
+      "Halved",
+      "Doubled",
+      "Unchanged, since capacitance depends on physical construction",
+      "Quadrupled"
+    ],
+    "answer": "Unchanged, since capacitance depends on physical construction"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "Kepler's Second Law (equal areas swept in equal times) directly stems from the conservation of:",
+    "options": [
+      "Linear momentum",
+      "Total kinetic energy",
+      "Angular momentum",
+      "Gravitational mass"
+    ],
+    "answer": "Angular momentum"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "In an ideal step-up transformer, how does output secondary voltage compare to input primary voltage?",
+    "options": [
+      "Secondary voltage is higher",
+      "Secondary voltage is lower",
+      "Secondary voltage is equal",
+      "Secondary voltage is zero"
+    ],
+    "answer": "Secondary voltage is higher"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "Using the relationship Period = 1 / Frequency, doubling a wave's frequency causes its time period to:",
+    "options": [
+      "Double",
+      "Halve",
+      "Quadruple",
+      "Stay identical"
+    ],
+    "answer": "Halve"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "What is the net electric force experienced by an electric dipole placed in a uniform electric field?",
+    "options": [
+      "Maximum positive force",
+      "Zero net force",
+      "Variable force depending on angle",
+      "Infinite force"
+    ],
+    "answer": "Zero net force"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "Using Lens Power = 1 / Focal Length (in meters), what is the unit used to express optical power?",
+    "options": [
+      "Watt",
+      "Diopter",
+      "Lumen",
+      "Candela"
+    ],
+    "answer": "Diopter"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "Which of the four fundamental interactions exhibits the greatest relative strength at short nuclear distances?",
+    "options": [
+      "Gravitational force",
+      "Weak nuclear force",
+      "Electromagnetic force",
+      "Strong nuclear force"
+    ],
+    "answer": "Strong nuclear force"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "By the wave speed relation (Speed = Frequency × Wavelength), if wave speed stays constant while frequency doubles, wavelength must:",
+    "options": [
+      "Double",
+      "Halve",
+      "Quadruple",
+      "Remain unchanged"
+    ],
+    "answer": "Halve"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "In a stretched string where wave velocity is proportional to the square root of tension, quadrupling tension changes fundamental frequency by what factor?",
+    "options": [
+      "Halved",
+      "Doubled",
+      "Quadrupled",
+      "Unchanged"
+    ],
+    "answer": "Doubled"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "Which nuclear decay process increases the atomic number of a nucleus by one without altering its mass number?",
+    "options": [
+      "Alpha decay",
+      "Beta-minus decay",
+      "Beta-plus decay",
+      "Gamma decay"
+    ],
+    "answer": "Beta-minus decay"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "In photoelectric emission, the threshold frequency primarily depends on:",
+    "options": [
+      "Intensity of incoming light",
+      "Material composition of the photosensitive surface",
+      "Distance from the light source",
+      "Angle of beam incidence"
+    ],
+    "answer": "Material composition of the photosensitive surface"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "According to Gravitational Potential Energy = Mass × Gravity × Height, doubling an object's height above ground will cause its potential energy to:",
+    "options": [
+      "Halve",
+      "Double",
+      "Quadruple",
+      "Remain constant"
+    ],
+    "answer": "Double"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "When an ideal gas expands adiabatically against external pressure without heat transfer, its temperature will:",
+    "options": [
+      "Increase",
+      "Decrease",
+      "Remain unchanged",
+      "Fluctuate endlessly"
+    ],
+    "answer": "Decrease"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "Which principle guarantees light stays confined inside the glass core of an optical fiber?",
+    "options": [
+      "Total internal reflection",
+      "Refraction",
+      "Diffraction",
+      "Scattering"
+    ],
+    "answer": "Total internal reflection"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "In simple harmonic motion, where does the oscillating particle experience zero acceleration?",
+    "options": [
+      "At both extreme positions",
+      "At the central equilibrium position",
+      "Midway between center and extreme",
+      "Acceleration is never zero"
+    ],
+    "answer": "At the central equilibrium position"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "According to de Broglie's relation (Wavelength = Planck's Constant / Momentum), increasing a particle's momentum will cause its quantum wavelength to:",
+    "options": [
+      "Increase",
+      "Decrease",
+      "Stay the same",
+      "Become zero instantly"
+    ],
+    "answer": "Decrease"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "Applying a forward bias voltage across a semiconductor p-n junction causes its depletion layer width to:",
+    "options": [
+      "Expand",
+      "Shrink",
+      "Remain identical",
+      "Fluctuate rhythmically"
+    ],
+    "answer": "Shrink"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "By the basic formula Pressure = Force / Area, spreading a fixed force over twice the contact area reduces pressure to:",
+    "options": [
+      "Half",
+      "Double",
+      "One quarter",
+      "Four times"
+    ],
+    "answer": "Half"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "What is the SI unit used to quantify self-inductance in an electrical inductor?",
+    "options": [
+      "Weber",
+      "Tesla",
+      "Henry",
+      "Farad"
+    ],
+    "answer": "Henry"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "In Einstein's photoelectric description (Max Kinetic Energy = Photon Energy - Work Function), what does the work function physically represent?",
+    "options": [
+      "Energy needed to ionize the entire atom",
+      "Minimum energy required to free an electron from the metal surface",
+      "Energy lost as heat during electron transit",
+      "Energy absorbed by the nucleus"
+    ],
+    "answer": "Minimum energy required to free an electron from the metal surface"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "Using Impulse = Force × Time interval, applying a force for double the duration produces an impulse that is:",
+    "options": [
+      "Halved",
+      "Doubled",
+      "Quadrupled",
+      "Unchanged"
+    ],
+    "answer": "Doubled"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "Under Special Relativity, how does an observer in an inertial frame view a clock moving at near-light speed relative to them?",
+    "options": [
+      "The moving clock ticks faster than their own",
+      "The moving clock ticks slower than their own",
+      "The moving clock ticks at the exact same rate",
+      "The moving clock reverses direction"
+    ],
+    "answer": "The moving clock ticks slower than their own"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "According to Torque = Moment of Inertia × Angular Acceleration, if moment of inertia is doubled while keeping torque constant, angular acceleration will:",
+    "options": [
+      "Halve",
+      "Double",
+      "Quadruple",
+      "Remain constant"
+    ],
+    "answer": "Halve"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "According to Bohr's model of the hydrogen atom, what physical value is quantized in integral multiples of Planck's constant divided by two pi?",
+    "options": [
+      "Linear velocity of the electron",
+      "Orbital radius of the electron",
+      "Angular momentum of the electron",
+      "Total potential energy"
+    ],
+    "answer": "Angular momentum of the electron"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "Which fundamental Maxwell law mathematically reflects the observational fact that isolated magnetic monopoles do not exist?",
+    "options": [
+      "Gauss's Law for Electricity",
+      "Gauss's Law for Magnetism",
+      "Faraday's Law of Induction",
+      "Ampere-Maxwell Law"
+    ],
+    "answer": "Gauss's Law for Magnetism"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "By the Carnot efficiency principle (Efficiency = 1 - Cold Temperature / Hot Temperature), raising the hot reservoir temperature while holding cold temperature constant will:",
+    "options": [
+      "Decrease engine efficiency",
+      "Increase engine efficiency",
+      "Leave engine efficiency unchanged",
+      "Reduce efficiency to zero"
+    ],
+    "answer": "Increase engine efficiency"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "Using Torque = Force × Lever Arm Distance, doubling the wrench length doubles the applied torque for a given perpendicular force because:",
+    "options": [
+      "Torque is inversely proportional to lever arm length",
+      "Torque is directly proportional to lever arm length",
+      "Lever arm length changes the applied force magnitude",
+      "Momentum is converted into force"
+    ],
+    "answer": "Torque is directly proportional to lever arm length"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "Heisenberg's Uncertainty Principle establishes a fundamental limit on the simultaneous precision when measuring which pair of quantities?",
+    "options": [
+      "Mass and Velocity",
+      "Position and Linear Momentum",
+      "Charge and Electric Field",
+      "Force and Displacement"
+    ],
+    "answer": "Position and Linear Momentum"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "According to Brewster's law, when unpolarized light strikes a transparent interface at Brewster's angle, reflected light is:",
+    "options": [
+      "Completely unpolarized",
+      "Completely linearly polarized parallel to the surface",
+      "Circularly polarized",
+      "Absorbed entirely"
+    ],
+    "answer": "Completely linearly polarized parallel to the surface"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "In a damped harmonic system, when the damping parameter exactly balances the natural frequency so the system returns to rest as quickly as possible without oscillating, the system is:",
+    "options": [
+      "Underdamped",
+      "Overdamped",
+      "Critically damped",
+      "Resonant"
+    ],
+    "answer": "Critically damped"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "In Compton scattering between a high-energy photon and a stationary free electron, how does the scattered photon's wavelength compare to its initial wavelength?",
+    "options": [
+      "Scattered wavelength is shorter",
+      "Scattered wavelength is longer",
+      "Scattered wavelength is identical",
+      "Scattered wavelength drops to zero"
+    ],
+    "answer": "Scattered wavelength is longer"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "Using Electric Field = Coulomb Constant × Charge / Distance squared, doubling your distance from a point charge changes electric field strength by what factor?",
+    "options": [
+      "It is halved",
+      "It decreases to one-fourth",
+      "It doubles",
+      "It quadruples"
+    ],
+    "answer": "It decreases to one-fourth"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "Which quantum statistical framework governs indistinguishable half-integer spin particles (fermions) obeying the Pauli exclusion principle?",
+    "options": [
+      "Maxwell-Boltzmann statistics",
+      "Bose-Einstein statistics",
+      "Fermi-Dirac statistics",
+      "Gibbs ensemble statistics"
+    ],
+    "answer": "Fermi-Dirac statistics"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "What physical quantity does the Poynting vector represent in classical electrodynamics?",
+    "options": [
+      "Electric charge density flow",
+      "Directional energy flux density of an electromagnetic field",
+      "Magnetic vector potential movement",
+      "Electrostatic potential gradient"
+    ],
+    "answer": "Directional energy flux density of an electromagnetic field"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "By Newton's law of gravitation (Force = G × Mass1 × Mass2 / Distance squared), doubling the separation distance between two masses changes the gravitational force to:",
+    "options": [
+      "Half its original value",
+      "One-fourth its original value",
+      "Double its original value",
+      "One-eighth its original value"
+    ],
+    "answer": "One-fourth its original value"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "Using Mass-Energy Equivalence (Energy = Mass × Speed of Light squared), what happens to total rest mass when bound nucleons form a stable atomic nucleus?",
+    "options": [
+      "Mass increases due to binding force",
+      "Mass decreases, releasing mass defect as binding energy",
+      "Mass remains completely unchanged",
+      "Mass converts into electric charge"
+    ],
+    "answer": "Mass decreases, releasing mass defect as binding energy"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "What physical boundary does the Schwarzschild radius define for a non-rotating mass in General Relativity?",
+    "options": [
+      "The outer limit of its gravitational field",
+      "The event horizon of a black hole from which light cannot escape",
+      "The radius where nuclear fusion initiates",
+      "The stable planetary orbit distance"
+    ],
+    "answer": "The event horizon of a black hole from which light cannot escape"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "In fluid mechanics, the Reynolds number relates inertial forces to viscous forces. A very high Reynolds number indicates:",
+    "options": [
+      "Strictly smooth laminar flow",
+      "Turbulent flow dominated by inertia",
+      "Zero fluid movement",
+      "Ideal frictionless fluid flow"
+    ],
+    "answer": "Turbulent flow dominated by inertia"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "Skin depth measures electromagnetic field penetration into a conductor. Increasing the wave frequency causes skin depth to:",
+    "options": [
+      "Increase",
+      "Decrease",
+      "Stay the same",
+      "Double indefinitely"
+    ],
+    "answer": "Decrease"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "According to Wien's displacement law (Peak Wavelength × Temperature = Constant), heating a blackbody causes its peak emission wavelength to:",
+    "options": [
+      "Shift toward longer wavelengths",
+      "Shift toward shorter wavelengths",
+      "Remain completely stationary",
+      "Disappear into infrared"
+    ],
+    "answer": "Shift toward shorter wavelengths"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "Which fundamental law relates the line integral of a magnetic field around a closed loop to the electric current passing through it?",
+    "options": [
+      "Gauss's Law",
+      "Ampere's Circuital Law",
+      "Lenz's Law",
+      "Snell's Law"
+    ],
+    "answer": "Ampere's Circuital Law"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "In special relativity, as an object's velocity approaches the speed of light, its relativistic momentum:",
+    "options": [
+      "Approaches a constant maximum",
+      "Approaches infinity",
+      "Drops toward zero",
+      "Becomes negative"
+    ],
+    "answer": "Approaches infinity"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "According to the ideal gas law (Pressure × Volume = Number of moles × Gas Constant × Temperature), doubling volume at constant temperature will cause pressure to:",
+    "options": [
+      "Double",
+      "Halve",
+      "Quadruple",
+      "Remain constant"
+    ],
+    "answer": "Halve"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "The Hall Effect voltage produced across a current-carrying conductor in a magnetic field is inversely proportional to:",
+    "options": [
+      "Magnetic field strength",
+      "Electric current magnitude",
+      "Charge carrier density",
+      "Sample length"
+    ],
+    "answer": "Charge carrier density"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "Using Hydrostatic Pressure = Density × Gravity × Depth, doubling depth underwater changes fluid pressure by what factor?",
+    "options": [
+      "Fluid pressure doubles",
+      "Fluid pressure quadruples",
+      "Fluid pressure is halved",
+      "Fluid pressure remains unchanged"
+    ],
+    "answer": "Fluid pressure doubles"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "What hallmark phenomenon defines a Type-I superconductor when cooled below its critical transition temperature?",
+    "options": [
+      "Complete expulsion of internal magnetic flux (Meissner Effect)",
+      "Sudden spike in electrical resistivity",
+      "Absorption of external magnetic field lines",
+      "Emission of visible light"
+    ],
+    "answer": "Complete expulsion of internal magnetic flux (Meissner Effect)"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "According to the Stefan-Boltzmann law (Radiated Power = Constant × Area × Temperature to the 4th power), doubling absolute temperature increases radiated thermal power by factor of:",
+    "options": [
+      "2",
+      "4",
+      "8",
+      "16"
+    ],
+    "answer": "16"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "In a 1D infinite potential well, narrowing the well width L causes the quantum ground state energy level to:",
+    "options": [
+      "Decrease",
+      "Increase",
+      "Stay identical",
+      "Drop to zero"
+    ],
+    "answer": "Increase"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "Phase velocity measures wave phase propagation speed, while group velocity physically represents the speed of:",
+    "options": [
+      "Individual crests only",
+      "Energy or wave envelope propagation",
+      "Electric potential oscillations",
+      "Massless photons only"
+    ],
+    "answer": "Energy or wave envelope propagation"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "Which quantum phenomenon allows a particle to cross a potential barrier higher than its total mechanical energy?",
+    "options": [
+      "Quantum tunneling",
+      "Quantum entanglement",
+      "Quantum Hall effect",
+      "Quantum decoherence"
+    ],
+    "answer": "Quantum tunneling"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "According to Coulomb's Law (Force = Coulomb Constant × Charge1 × Charge2 / Distance squared), doubling both charges keeps force identical if distance is:",
+    "options": [
+      "Halved",
+      "Doubled",
+      "Quadrupled",
+      "Kept original"
+    ],
+    "answer": "Doubled"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "According to Gauss's Law, what is the net electric field inside the hollow interior of a uniformly charged conducting sphere in electrostatic equilibrium?",
+    "options": [
+      "Zero",
+      "Proportional to sphere radius",
+      "Inversely proportional to distance",
+      "Infinite"
+    ],
+    "answer": "Zero"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "By the relationship Stress = Elastic Modulus × Strain, doubling applied stress within elastic limits causes strain to:",
+    "options": [
+      "Halve",
+      "Double",
+      "Quadruple",
+      "Remain unchanged"
+    ],
+    "answer": "Double"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "In a quantum simple harmonic oscillator, what is the minimum non-zero zero-point energy possessed by the ground state?",
+    "options": [
+      "Zero",
+      "Half of Planck's reduced constant times natural frequency",
+      "One full Planck constant times natural frequency",
+      "Two times Planck's constant times frequency"
+    ],
+    "answer": "Half of Planck's reduced constant times natural frequency"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "According to Faraday's Law of Induction (Induced EMF = Rate of change of Magnetic Flux), faster movement of a magnet through a coil causes induced EMF to:",
+    "options": [
+      "Decrease",
+      "Increase",
+      "Stay constant",
+      "Drop to zero"
+    ],
+    "answer": "Increase"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "In thermal physics, what role does a moderator serve in a nuclear fission reactor?",
+    "options": [
+      "It captures excess neutrons to stop reaction",
+      "It slows down fast neutrons to sustain controlled fission",
+      "It absorbs gamma radiation leakage",
+      "It generates nuclear fuel particles"
+    ],
+    "answer": "It slows down fast neutrons to sustain controlled fission"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "The fine-structure constant characterizes the strength of which fundamental force in quantum electrodynamics?",
+    "options": [
+      "Gravitational force",
+      "Weak nuclear force",
+      "Electromagnetic force",
+      "Strong nuclear force"
+    ],
+    "answer": "Electromagnetic force"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "In thermodynamics, what physical transition is quantitatively described by the Clausius-Clapeyron relation?",
+    "options": [
+      "Phase change equilibrium between two phases of matter",
+      "Irreversible heat flow between solid bodies",
+      "Free expansion of an ideal gas",
+      "Radiative heat transfer in a vacuum"
+    ],
+    "answer": "Phase change equilibrium between two phases of matter"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "Using Speed of Wave = 1 / Square Root of (Permittivity × Permeability), increasing a dielectric medium's permittivity causes light propagation speed to:",
+    "options": [
+      "Increase",
+      "Decrease",
+      "Remain equal to speed in vacuum",
+      "Instantly drop to zero"
+    ],
+    "answer": "Decrease"
+  }
+]

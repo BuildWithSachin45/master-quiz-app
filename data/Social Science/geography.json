@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "Which is the largest continent on Earth by both land area and population?",
+    "options": [
+      "Africa",
+      "North America",
+      "Asia",
+      "Europe"
+    ],
+    "answer": "Asia"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "Which river is widely considered the longest river in India?",
+    "options": [
+      "Yamuna",
+      "Ganga",
+      "Godavari",
+      "Brahmaputra"
+    ],
+    "answer": "Ganga"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "The Western Ghats and Eastern Ghats meet at which hill range in Southern India?",
+    "options": [
+      "Anaimalai Hills",
+      "Nilgiri Hills",
+      "Cardamom Hills",
+      "Palani Hills"
+    ],
+    "answer": "Nilgiri Hills"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "Which ocean is the largest and deepest on Earth?",
+    "options": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Arctic Ocean"
+    ],
+    "answer": "Pacific Ocean"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "Which Indian state has the longest coastline among all mainland states?",
+    "options": [
+      "Maharashtra",
+      "Tamil Nadu",
+      "Gujarat",
+      "Andhra Pradesh"
+    ],
+    "answer": "Gujarat"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "What line of latitude passes through approximately the middle of India?",
+    "options": [
+      "Equator",
+      "Tropic of Cancer",
+      "Tropic of Capricorn",
+      "Arctic Circle"
+    ],
+    "answer": "Tropic of Cancer"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "Which is the highest mountain peak in India (located in Sikkim)?",
+    "options": [
+      "Nanda Devi",
+      "Kangchenjunga",
+      "Kamet",
+      "Anamudi"
+    ],
+    "answer": "Kangchenjunga"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "The Thar Desert, also known as the Great Indian Desert, is primarily located in which Indian state?",
+    "options": [
+      "Gujarat",
+      "Rajasthan",
+      "Punjab",
+      "Haryana"
+    ],
+    "answer": "Rajasthan"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "Which island country lies off the southern coast of India, separated by the Palk Strait?",
+    "options": [
+      "Maldives",
+      "Sri Lanka",
+      "Madagascar",
+      "Seychelles"
+    ],
+    "answer": "Sri Lanka"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "Which is the highest peak in the Western Ghats and South India?",
+    "options": [
+      "Doddabetta",
+      "Anamudi",
+      "Mullayanagiri",
+      "Kalsubai"
+    ],
+    "answer": "Anamudi"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "Which atmospheric layer is closest to the Earth's surface where almost all weather phenomena occur?",
+    "options": [
+      "Stratosphere",
+      "Troposphere",
+      "Mesosphere",
+      "Thermosphere"
+    ],
+    "answer": "Troposphere"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "Which Indian river is famously known as the 'Dakshin Ganga' (Ganga of the South)?",
+    "options": [
+      "Krishna",
+      "Kaveri",
+      "Godavari",
+      "Narmada"
+    ],
+    "answer": "Godavari"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "Which water body borders India to its west?",
+    "options": [
+      "Bay of Bengal",
+      "Arabian Sea",
+      "Indian Ocean",
+      "Red Sea"
+    ],
+    "answer": "Arabian Sea"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "Majuli, the world's largest river island, is located on which river in Assam, India?",
+    "options": [
+      "Ganga",
+      "Brahmaputra",
+      "Meghna",
+      "Hooghly"
+    ],
+    "answer": "Brahmaputra"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "Which mountain range forms the northern boundary of the Indian subcontinent?",
+    "options": [
+      "Aravalli Range",
+      "Himalayas",
+      "Vindhya Range",
+      "Satpura Range"
+    ],
+    "answer": "Himalayas"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "What is the capital city of Australia?",
+    "options": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Brisbane"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "Which West-flowing river in India flows through a rift valley between the Vindhya and Satpura ranges?",
+    "options": [
+      "Narmada",
+      "Tapi",
+      "Mahi",
+      "Luni"
+    ],
+    "answer": "Narmada"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "The Sundarbans, home to the Royal Bengal Tiger and the world's largest mangrove forest, is located in which delta?",
+    "options": [
+      "Ganga-Brahmaputra Delta",
+      "Godavari Delta",
+      "Mekong Delta",
+      "Indus Delta"
+    ],
+    "answer": "Ganga-Brahmaputra Delta"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "Which active volcano is located in the Andaman and Nicobar Islands of India?",
+    "options": [
+      "Barren Island",
+      "Narcondam Island",
+      "Deccan Traps",
+      "Baratang"
+    ],
+    "answer": "Barren Island"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "Which imaginary line corresponds to 0° longitude?",
+    "options": [
+      "Equator",
+      "Prime Meridian",
+      "International Date Line",
+      "Tropic of Capricorn"
+    ],
+    "answer": "Prime Meridian"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "Which is the largest hot desert in the world?",
+    "options": [
+      "Gobi Desert",
+      "Sahara Desert",
+      "Kalahari Desert",
+      "Atacama Desert"
+    ],
+    "answer": "Sahara Desert"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "Which river is considered the longest in the world?",
+    "options": [
+      "Amazon",
+      "Nile",
+      "Mississippi",
+      "Yangtze"
+    ],
+    "answer": "Nile"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "Which country has the largest total land area in the world?",
+    "options": [
+      "Canada",
+      "China",
+      "United States",
+      "Russia"
+    ],
+    "answer": "Russia"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "Mount Everest, the highest peak in the world, is located in which mountain range?",
+    "options": [
+      "Andes",
+      "Alps",
+      "Himalayas",
+      "Rockies"
+    ],
+    "answer": "Himalayas"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "Which narrow strip of land connects North America and South America?",
+    "options": [
+      "Isthmus of Suez",
+      "Isthmus of Panama",
+      "Bering Strait",
+      "Strait of Gibraltar"
+    ],
+    "answer": "Isthmus of Panama"
+  },
+  {
+    "id": 26,
+    "difficulty": "medium",
+    "question": "The Standard Meridian of India passes through Mirzapur in Uttar Pradesh. What is its longitudinal value?",
+    "options": [
+      "80.5° E",
+      "82.5° E (82°30' E)",
+      "85.0° E",
+      "88.5° E"
+    ],
+    "answer": "82.5° E (82°30' E)"
+  },
+  {
+    "id": 27,
+    "difficulty": "medium",
+    "question": "Which pass connects Srinagar to Leh in the union territory of Jammu & Kashmir and Ladakh?",
+    "options": [
+      "Nathu La",
+      "Zoji La",
+      "Shipki La",
+      "Rohtang Pass"
+    ],
+    "answer": "Zoji La"
+  },
+  {
+    "id": 28,
+    "difficulty": "medium",
+    "question": "Chilika Lake, the largest coastal lagoon in India, is situated in which state?",
+    "options": [
+      "Andhra Pradesh",
+      "Odisha",
+      "West Bengal",
+      "Kerala"
+    ],
+    "answer": "Odisha"
+  },
+  {
+    "id": 29,
+    "difficulty": "medium",
+    "question": "Which channel separates the Andaman Islands from the Nicobar Islands?",
+    "options": [
+      "Nine Degree Channel",
+      "Ten Degree Channel",
+      "Eight Degree Channel",
+      "Duncan Passage"
+    ],
+    "answer": "Ten Degree Channel"
+  },
+  {
+    "id": 30,
+    "difficulty": "medium",
+    "question": "Loktak Lake, famous for its floating vegetation called 'Phumdis', is located in which North-Eastern state?",
+    "options": [
+      "Assam",
+      "Manipur",
+      "Meghalaya",
+      "Mizoram"
+    ],
+    "answer": "Manipur"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "What type of soil covers the largest area in India and is highly fertile for agriculture?",
+    "options": [
+      "Black Soil (Regur)",
+      "Alluvial Soil",
+      "Red and Yellow Soil",
+      "Laterite Soil"
+    ],
+    "answer": "Alluvial Soil"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "Which is the oldest fold mountain range in India?",
+    "options": [
+      "Himalayas",
+      "Aravalli Range",
+      "Vindhya Range",
+      "Satpura Range"
+    ],
+    "answer": "Aravalli Range"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "Which boundary line demarcates the border between India and China?",
+    "options": [
+      "Radcliffe Line",
+      "McMahon Line",
+      "Durand Line",
+      "49th Parallel"
+    ],
+    "answer": "McMahon Line"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "What is the local name for the tropical cyclone pre-monsoon showers in Kerala and Karnataka that help in ripening mangoes?",
+    "options": [
+      "Nor'westers",
+      "Mango Showers",
+      "Loo",
+      "Blossom Showers"
+    ],
+    "answer": "Mango Showers"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "Which Indian river originates from the Trimbakeshwar near Nashik in Maharashtra?",
+    "options": [
+      "Krishna",
+      "Godavari",
+      "Kaveri",
+      "Mahanadi"
+    ],
+    "answer": "Godavari"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "Vembanad Lake, the longest lake in India, is situated in which state?",
+    "options": [
+      "Tamil Nadu",
+      "Kerala",
+      "Karnataka",
+      "Andhra Pradesh"
+    ],
+    "answer": "Kerala"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "Which layer of the atmosphere contains the ozone layer that absorbs harmful ultraviolet rays?",
+    "options": [
+      "Troposphere",
+      "Stratosphere",
+      "Mesosphere",
+      "Exosphere"
+    ],
+    "answer": "Stratosphere"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "Mawsynram, known as the wettest place on Earth due to highest average annual rainfall, is located in which hill range?",
+    "options": [
+      "Garo Hills",
+      "Khasi Hills",
+      "Jaintia Hills",
+      "Lushai Hills"
+    ],
+    "answer": "Khasi Hills"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "Which river forms the famous Jog Falls (Gersoppa Falls) in Karnataka?",
+    "options": [
+      "Sharavathi",
+      "Kaveri",
+      "Tungabhadra",
+      "Netravati"
+    ],
+    "answer": "Sharavathi"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "What is the name given to the hot, dry winds that blow over the Northern Plains of India during the summer season?",
+    "options": [
+      "Chinook",
+      "Mistral",
+      "Loo",
+      "Sirocco"
+    ],
+    "answer": "Loo"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "In which state is the Sambhar Salt Lake, India's largest inland salt lake, located?",
+    "options": [
+      "Gujarat",
+      "Rajasthan",
+      "Haryana",
+      "Punjab"
+    ],
+    "answer": "Rajasthan"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "Which glacier is the source of the river Bhagirathi, one of the headstreams of the Ganga?",
+    "options": [
+      "Pindari Glacier",
+      "Gangotri Glacier (Gaumukh)",
+      "Siachen Glacier",
+      "Milam Glacier"
+    ],
+    "answer": "Gangotri Glacier (Gaumukh)"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "Which soil type is also known as 'Regur Soil' and is ideal for growing cotton?",
+    "options": [
+      "Laterite Soil",
+      "Black Soil",
+      "Red Soil",
+      "Arid Soil"
+    ],
+    "answer": "Black Soil"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "The Indira Point, the southernmost point of India's territory, is situated in which island group?",
+    "options": [
+      "Lakshadweep Islands",
+      "Great Nicobar Island",
+      "South Andaman",
+      "North Andaman"
+    ],
+    "answer": "Great Nicobar Island"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "At which confluence do the Alaknanda and Bhagirathi rivers meet to officially form the River Ganga?",
+    "options": [
+      "Rudraprayag",
+      "Devprayag",
+      "Karnaprayag",
+      "Vishnuprayag"
+    ],
+    "answer": "Devprayag"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "The Deccan Plateau in India was primarily formed due to which geological activity?",
+    "options": [
+      "Glacial Erosion",
+      "Volcanic Eruption (Fissure Lava Flow)",
+      "Wind Deposition",
+      "River Siltation"
+    ],
+    "answer": "Volcanic Eruption (Fissure Lava Flow)"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "Which ocean current is a warm ocean current flowing along the eastern coast of Japan?",
+    "options": [
+      "Oyashio Current",
+      "Kuroshio Current",
+      "California Current",
+      "Canary Current"
+    ],
+    "answer": "Kuroshio Current"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "Which region of India receives rainfall during winter from the 'Retreating Monsoon' (North-East Monsoon)?",
+    "options": [
+      "Punjab Plains",
+      "Coromandel Coast (Tamil Nadu)",
+      "Konkan Coast",
+      "Malabar Coast"
+    ],
+    "answer": "Coromandel Coast (Tamil Nadu)"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "In which plateau region of India are major mineral deposits like iron ore, coal, and mica found in abundance?",
+    "options": [
+      "Malwa Plateau",
+      "Chota Nagpur Plateau",
+      "Deccan Plateau",
+      "Shillong Plateau"
+    ],
+    "answer": "Chota Nagpur Plateau"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "Which natural vegetation type is characterized by trees like Rosewood, Ebony, and Mahogany found in heavy rainfall areas of Western Ghats?",
+    "options": [
+      "Tropical Deciduous Forests",
+      "Tropical Evergreen Forests",
+      "Thorn Forests",
+      "Montane Forests"
+    ],
+    "answer": "Tropical Evergreen Forests"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "Which strait separates Europe from Africa at the entrance of the Mediterranean Sea?",
+    "options": [
+      "Strait of Hormuz",
+      "Strait of Malacca",
+      "Strait of Gibraltar",
+      "Bering Strait"
+    ],
+    "answer": "Strait of Gibraltar"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "Which is the largest landlocked country in the world by area?",
+    "options": [
+      "Mongolia",
+      "Kazakhstan",
+      "Chad",
+      "Bolivia"
+    ],
+    "answer": "Kazakhstan"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "Lake Baikal, the deepest freshwater lake in the world, is located in which country?",
+    "options": [
+      "Canada",
+      "United States",
+      "Russia",
+      "China"
+    ],
+    "answer": "Russia"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "What is the term for a narrow body of water connecting two larger bodies of water?",
+    "options": [
+      "Isthmus",
+      "Strait",
+      "Peninsula",
+      "Archipelago"
+    ],
+    "answer": "Strait"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "Which river flows through the Grand Canyon in the United States?",
+    "options": [
+      "Mississippi River",
+      "Colorado River",
+      "Missouri River",
+      "Rio Grande"
+    ],
+    "answer": "Colorado River"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "The Andes mountain range stretches across which continent?",
+    "options": [
+      "North America",
+      "Europe",
+      "South America",
+      "Africa"
+    ],
+    "answer": "South America"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "Which desert is known as the driest non-polar desert on Earth?",
+    "options": [
+      "Atacama Desert",
+      "Gobi Desert",
+      "Kalahari Desert",
+      "Mojave Desert"
+    ],
+    "answer": "Atacama Desert"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "Which sea lies between Europe and Africa and is connected to the Red Sea by the Suez Canal?",
+    "options": [
+      "Black Sea",
+      "Mediterranean Sea",
+      "Caspian Sea",
+      "Baltic Sea"
+    ],
+    "answer": "Mediterranean Sea"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "Angel Falls, the world's highest uninterrupted waterfall, is located in which South American country?",
+    "options": [
+      "Brazil",
+      "Colombia",
+      "Venezuela",
+      "Peru"
+    ],
+    "answer": "Venezuela"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "Which country encompasses the greatest number of natural islands in the world (Archipelago)?",
+    "options": [
+      "Indonesia",
+      "Philippines",
+      "Sweden",
+      "Greece"
+    ],
+    "answer": "Sweden"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "The 'Nor'westers' or locally known 'Kalbaishakhi' are seasonal thunderstorms experienced during spring in which eastern state of India?",
+    "options": [
+      "Odisha",
+      "West Bengal",
+      "Assam",
+      "Bihar"
+    ],
+    "answer": "West Bengal"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "Which altitude region of the Himalayas is characterized by dense forests of oak, chestnut, and conifers, situated between the Shiwaliks and the Himadri?",
+    "options": [
+      "Himadri (Greater Himalayas)",
+      "Himachal (Lesser Himalayas)",
+      "Shiwalik (Outer Himalayas)",
+      "Trans-Himalayas"
+    ],
+    "answer": "Himachal (Lesser Himalayas)"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "Which tributary of the Indus River originates near the Mansarovar Lake and enters India through the Shipki La pass?",
+    "options": [
+      "Jhelum",
+      "Chenab",
+      "Sutlej",
+      "Ravi"
+    ],
+    "answer": "Sutlej"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "The 'Karewas'—glacial clay deposits famous for Saffron (Zafran) cultivation—are unique landforms found in which region?",
+    "options": [
+      "Kullu Valley",
+      "Kashmir Valley",
+      "Kangra Valley",
+      "Dharamsala"
+    ],
+    "answer": "Kashmir Valley"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "Which rift valley river flows westward into the Gulf of Khambhat (Arabian Sea) along with the Narmada?",
+    "options": [
+      "Sabarmati",
+      "Tapi (Tapti)",
+      "Mahi",
+      "Luni"
+    ],
+    "answer": "Tapi (Tapti)"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "Which major river project in India is built across the Sutlej River in Himachal Pradesh and Punjab?",
+    "options": [
+      "Hirakud Dam",
+      "Bhakra Nangal Project",
+      "Tehri Dam",
+      "Sardar Sarovar Dam"
+    ],
+    "answer": "Bhakra Nangal Project"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "Which mountain range acts as a water divide between the Ganga river system and the Indus river system?",
+    "options": [
+      "Aravalli Range",
+      "Delhi Ridge / Ambala Divide",
+      "Vindhya Range",
+      "Satpura Range"
+    ],
+    "answer": "Delhi Ridge / Ambala Divide"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "Which atmospheric phenomenon involves the periodic warming of sea surface temperatures in the equatorial Pacific, often causing weaker monsoons in India?",
+    "options": [
+      "La Niña",
+      "El Niño",
+      "Indian Ocean Dipole",
+      "Walker Circulation"
+    ],
+    "answer": "El Niño"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "What is the geological name of the boundary zone where the Indian Tectonic Plate collides with the Eurasian Tectonic Plate?",
+    "options": [
+      "Indus-Yarlung Tsangpo Suture Zone",
+      "Main Boundary Thrust",
+      "Main Central Thrust",
+      "Himalayan Frontal Fault"
+    ],
+    "answer": "Indus-Yarlung Tsangpo Suture Zone"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "In the soil profile of India, 'Usar' or 'Kallar' soil is the local name for which type of soil problem?",
+    "options": [
+      "Acidic Soil",
+      "Saline and Alkaline Soil",
+      "Peaty Soil",
+      "Desert Soil"
+    ],
+    "answer": "Saline and Alkaline Soil"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "Which port in India, located in Gujarat, was built as a tidal port to ease the traffic on Mumbai port post-independence?",
+    "options": [
+      "Mormugao Port",
+      "Kandla Port (Deendayal Port)",
+      "JNPT Port",
+      "Paradip Port"
+    ],
+    "answer": "Kandla Port (Deendayal Port)"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "The 'Rohtang Pass' connects the Kullu Valley with which remote valleys of Himachal Pradesh?",
+    "options": [
+      "Spiti and Kinnaur",
+      "Lahaul and Spiti",
+      "Kangra and Chamba",
+      "Zanskar and Nubra"
+    ],
+    "answer": "Lahaul and Spiti"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "The 'Bhabar' region along the foothills of the Shiwaliks is characterized by which physical feature?",
+    "options": [
+      "Swampy and marshy land",
+      "Pebble-studded un-assorted river deposits",
+      "Old fine alluvial plains",
+      "Saline flats"
+    ],
+    "answer": "Pebble-studded un-assorted river deposits"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "The term 'Bangar' in Indian physical geography refers to which type of landform?",
+    "options": [
+      "New alluvial soil deposited by floods",
+      "Older alluvial soil found above flood plains",
+      "Coastal sand dunes",
+      "Swampy forest region"
+    ],
+    "answer": "Older alluvial soil found above flood plains"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "Which pass is located on the Tri-Junction of India, China, and Myanmar in the state of Arunachal Pradesh?",
+    "options": [
+      "Bom Di La",
+      "Diphu Pass",
+      "Nathu La",
+      "Jelep La"
+    ],
+    "answer": "Diphu Pass"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "Which river system has major tributaries named Dibang, Lohit, Subansiri, and Dhansiri?",
+    "options": [
+      "Ganga",
+      "Brahmaputra",
+      "Indus",
+      "Mahanadi"
+    ],
+    "answer": "Brahmaputra"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "Which lake in Ladakh is an endorheic lake bisected by the Line of Actual Control (LAC) between India and China?",
+    "options": [
+      "Tso Moriri",
+      "Pangong Tso",
+      "Wular Lake",
+      "Dal Lake"
+    ],
+    "answer": "Pangong Tso"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "The Tropic of Cancer does NOT pass through which of the following Indian states?",
+    "options": [
+      "Rajasthan",
+      "Tripura",
+      "Odisha",
+      "Mizoram"
+    ],
+    "answer": "Odisha"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "Which mountain peak is the highest point of the Aravalli Range?",
+    "options": [
+      "Guru Shikhar",
+      "Dhupgarh",
+      "Kalsubai",
+      "Parasnath"
+    ],
+    "answer": "Guru Shikhar"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "The Pulicat Lake, India's second largest brackish water lagoon, is situated on the border of which two states?",
+    "options": [
+      "Tamil Nadu and Kerala",
+      "Andhra Pradesh and Tamil Nadu",
+      "Odisha and Andhra Pradesh",
+      "Karnataka and Goa"
+    ],
+    "answer": "Andhra Pradesh and Tamil Nadu"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "What is the Mohorovičić Discontinuity (Moho)?",
+    "options": [
+      "Boundary between Inner and Outer Core",
+      "Boundary between Crust and Mantle",
+      "Boundary between Upper and Lower Mantle",
+      "Boundary between Atmosphere and Hydrosphere"
+    ],
+    "answer": "Boundary between Crust and Mantle"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "Which ocean current is responsible for keeping parts of northwestern Europe's coast ice-free during winter?",
+    "options": [
+      "Labrador Current",
+      "North Atlantic Drift (Gulf Stream)",
+      "Canary Current",
+      "Benguela Current"
+    ],
+    "answer": "North Atlantic Drift (Gulf Stream)"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "What is the boundary between the troposphere and the stratosphere called?",
+    "options": [
+      "Stratopause",
+      "Tropopause",
+      "Mesopause",
+      "Thermopause"
+    ],
+    "answer": "Tropopause"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "Which type of rainfall occurs when moisture-laden air is forced to rise over a mountain range?",
+    "options": [
+      "Convectional Rainfall",
+      "Orographic Rainfall",
+      "Cyclonic Rainfall",
+      "Frontal Rainfall"
+    ],
+    "answer": "Orographic Rainfall"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "The Doldrums refer to a region of calm winds near which line of latitude?",
+    "options": [
+      "Tropic of Cancer",
+      "Equator (Intertropical Convergence Zone)",
+      "Horse Latitudes",
+      "Arctic Circle"
+    ],
+    "answer": "Equator (Intertropical Convergence Zone)"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "Which theory proposed by Alfred Wegener in 1912 states that continents were once joined in a single supercontinent called Pangaea?",
+    "options": [
+      "Plate Tectonics Theory",
+      "Continental Drift Theory",
+      "Seafloor Spreading Theory",
+      "Isostasy Theory"
+    ],
+    "answer": "Continental Drift Theory"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "The Great Rift Valley, a continuous geographic trench, stretches primarily across which continent?",
+    "options": [
+      "Asia",
+      "Africa",
+      "Europe",
+      "Australia"
+    ],
+    "answer": "Africa"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "Which deep-ocean trench is the deepest point on Earth?",
+    "options": [
+      "Puerto Rico Trench",
+      "Mariana Trench (Challenger Deep)",
+      "Java Trench",
+      "Sunda Trench"
+    ],
+    "answer": "Mariana Trench (Challenger Deep)"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "What is the term for a crescent-shaped sand dune formed primarily by wind direction in desert landforms?",
+    "options": [
+      "Seif",
+      "Barchan",
+      "Loess",
+      "Pediment"
+    ],
+    "answer": "Barchan"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "Which cold ocean current flows southward along the western coast of South America, supporting rich fishing grounds?",
+    "options": [
+      "Humboldt (Peru) Current",
+      "Falkland Current",
+      "Brazil Current",
+      "Agulhas Current"
+    ],
+    "answer": "Humboldt (Peru) Current"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "Lake Victoria, the largest tropical lake in the world, is shared by which three African nations?",
+    "options": [
+      "Kenya, Uganda, and Tanzania",
+      "Nigeria, Niger, and Chad",
+      "Ethiopia, Somalia, and Kenya",
+      "Zambia, Zimbabwe, and Mozambique"
+    ],
+    "answer": "Kenya, Uganda, and Tanzania"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "Which term describes the movement of crustal plates sliding horizontally past one another, as seen at the San Andreas Fault?",
+    "options": [
+      "Convergent Boundary",
+      "Divergent Boundary",
+      "Transform Fault Boundary",
+      "Subduction Zone"
+    ],
+    "answer": "Transform Fault Boundary"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "The Sargasso Sea is unique because it is bounded by ocean currents rather than land. In which ocean is it located?",
+    "options": [
+      "Pacific Ocean",
+      "North Atlantic Ocean",
+      "Indian Ocean",
+      "Southern Ocean"
+    ],
+    "answer": "North Atlantic Ocean"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "What is the geographical term for a ring-shaped coral reef, island, or series of islets surrounding a body of water?",
+    "options": [
+      "Barrier Reef",
+      "Fringing Reef",
+      "Atoll",
+      "Fjord"
+    ],
+    "answer": "Atoll"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "Which climate classification system, developed in 1900, is most widely used to categorize global climate zones based on vegetation, rainfall, and temperature?",
+    "options": [
+      "Thornthwaite system",
+      "Köppen climate classification",
+      "Trewartha classification",
+      "Strahler classification"
+    ],
+    "answer": "Köppen climate classification"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "The Kattegat and Skagerrak straits connect the North Sea with which sea?",
+    "options": [
+      "Baltic Sea",
+      "Norwegian Sea",
+      "Black Sea",
+      "White Sea"
+    ],
+    "answer": "Baltic Sea"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "Which wind belt is situated between 30° and 35° north and south latitudes, characterized by high pressure and calm, variable winds?",
+    "options": [
+      "Trade Winds",
+      "Horse Latitudes",
+      "Roaring Forties",
+      "Doldrums"
+    ],
+    "answer": "Horse Latitudes"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "What is the term for a long, narrow, deep inlet of the sea between steep cliffs, typically formed by submergence of a glaciated valley?",
+    "options": [
+      "Ria",
+      "Fjord",
+      "Estuary",
+      "Lagoon"
+    ],
+    "answer": "Fjord"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "The Great Artesian Basin, one of the largest underground freshwater reservoirs in the world, is located in which country?",
+    "options": [
+      "United States",
+      "Australia",
+      "South Africa",
+      "Argentina"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "Which mountain peak in South America is the highest mountain outside of Asia?",
+    "options": [
+      "Mount McKinley (Denali)",
+      "Aconcagua",
+      "Kilimanjaro",
+      "Elbrus"
+    ],
+    "answer": "Aconcagua"
+  }
+]

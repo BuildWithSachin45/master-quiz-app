@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "What is the core defining characteristic of a blockchain technology system?",
+    "options": [
+      "Decentralized and distributed digital ledger",
+      "Centralized relational database system",
+      "Single-server cloud storage platform",
+      "Proprietary file system"
+    ],
+    "answer": "Decentralized and distributed digital ledger"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "Who is credited with publishing the original Bitcoin whitepaper in 2008?",
+    "options": [
+      "Satoshi Nakamoto",
+      "Vitalik Buterin",
+      "Nick Szabo",
+      "Hal Finney"
+    ],
+    "answer": "Satoshi Nakamoto"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "How are individual blocks linked together cryptographically in a blockchain?",
+    "options": [
+      "Each block contains the cryptographic hash of the previous block",
+      "Blocks are linked via sequential numerical IP addresses",
+      "Each block contains the user password of the network admin",
+      "Blocks are connected using central database pointers"
+    ],
+    "answer": "Each block contains the cryptographic hash of the previous block"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "Which cryptographic hashing algorithm is primarily used in the Bitcoin network?",
+    "options": [
+      "SHA-256",
+      "MD5",
+      "SHA-1",
+      "Scrypt"
+    ],
+    "answer": "SHA-256"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "What is a smart contract?",
+    "options": [
+      "A self-executing digital agreement with terms directly written into code",
+      "A legal paper contract scanned and stored on cloud servers",
+      "An AI chatbot used to resolve legal disputes",
+      "A encrypted digital signature software license"
+    ],
+    "answer": "A self-executing digital agreement with terms directly written into code"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "Which consensus mechanism requires participants to perform computational work to validate transactions?",
+    "options": [
+      "Proof of Work (PoW)",
+      "Proof of Stake (PoS)",
+      "Proof of Authority (PoA)",
+      "Delegated Proof of Stake (DPoS)"
+    ],
+    "answer": "Proof of Work (PoW)"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "Which consensus mechanism selects block validators based on the amount of cryptocurrency they hold and lock up?",
+    "options": [
+      "Proof of Stake (PoS)",
+      "Proof of Work (PoW)",
+      "Proof of Space",
+      "Proof of Burn"
+    ],
+    "answer": "Proof of Stake (PoS)"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "What is the first block ever created in a blockchain network called?",
+    "options": [
+      "Genesis Block",
+      "Root Block",
+      "Alpha Block",
+      "Prime Block"
+    ],
+    "answer": "Genesis Block"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "In asymmetric cryptography, which key is kept secret and used to sign transactions digitally?",
+    "options": [
+      "Private Key",
+      "Public Key",
+      "Symmetric Key",
+      "Master Hash"
+    ],
+    "answer": "Private Key"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "Which key is shared publicly to generate blockchain receiving addresses?",
+    "options": [
+      "Public Key",
+      "Private Key",
+      "Secret Seed",
+      "Recovery Key"
+    ],
+    "answer": "Public Key"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "What property ensures that once data is written to a blockchain, it cannot be modified or deleted?",
+    "options": [
+      "Immutability",
+      "Scalability",
+      "Interoperability",
+      "Fungibility"
+    ],
+    "answer": "Immutability"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "What is a computer connected to a blockchain network that maintains a copy of the ledger called?",
+    "options": [
+      "Node",
+      "Client",
+      "Router",
+      "Server"
+    ],
+    "answer": "Node"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "Which blockchain network pioneered the widespread deployment and use of smart contracts?",
+    "options": [
+      "Ethereum",
+      "Bitcoin",
+      "Litecoin",
+      "Dogecoin"
+    ],
+    "answer": "Ethereum"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "What is the unit used on Ethereum to measure the computational effort required to execute smart contract operations?",
+    "options": [
+      "Gas",
+      "Satoshi",
+      "Gwei",
+      "Watt"
+    ],
+    "answer": "Gas"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "What does the abbreviation 'dApp' stand for?",
+    "options": [
+      "Decentralized Application",
+      "Digital Application",
+      "Distributed Algorithm Protocol",
+      "Data Access Process"
+    ],
+    "answer": "Decentralized Application"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "What is a crypto wallet used for?",
+    "options": [
+      "Storing public and private cryptographic keys to manage assets",
+      "Storing fiat currency inside blockchain blocks",
+      "Mining new coins automatically in the background",
+      "Speeding up internet connection bandwidth"
+    ],
+    "answer": "Storing public and private cryptographic keys to manage assets"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "What is a major difference between a public blockchain and a private blockchain?",
+    "options": [
+      "Public blockchains are permissionless; private blockchains restrict network access",
+      "Public blockchains do not use cryptography",
+      "Private blockchains do not maintain a digital ledger",
+      "Public blockchains are managed by a single corporate entity"
+    ],
+    "answer": "Public blockchains are permissionless; private blockchains restrict network access"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "What does the acronym 'NFT' stand for?",
+    "options": [
+      "Non-Fungible Token",
+      "New Financial Transaction",
+      "Network File Transfer",
+      "Non-Formatted Token"
+    ],
+    "answer": "Non-Fungible Token"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "Which standard is widely used for creating fungible tokens on the Ethereum network?",
+    "options": [
+      "ERC-20",
+      "ERC-721",
+      "ERC-1155",
+      "EIP-1559"
+    ],
+    "answer": "ERC-20"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "Which Ethereum standard is designed explicitly for unique, non-fungible assets (NFTs)?",
+    "options": [
+      "ERC-721",
+      "ERC-20",
+      "ERC-777",
+      "ERC-223"
+    ],
+    "answer": "ERC-721"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "In Proof of Work networks, what is the term for nodes that compete to solve cryptographic puzzles to construct blocks?",
+    "options": [
+      "Miners",
+      "Validators",
+      "Stakers",
+      "Delegators"
+    ],
+    "answer": "Miners"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "What occurs during a Bitcoin 'Halving' event?",
+    "options": [
+      "The block reward granted to miners for finding new blocks is cut in half",
+      "The total supply of Bitcoin is cut by 50%",
+      "Transaction fees are halved network-wide",
+      "Block generation time is reduced from 10 minutes to 5 minutes"
+    ],
+    "answer": "The block reward granted to miners for finding new blocks is cut in half"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "What core problem in digital cash systems does blockchain technology solve without requiring a trusted intermediary?",
+    "options": [
+      "Double-Spending Problem",
+      "Data Compression Problem",
+      "Domain Name Resolution",
+      "Bandwidth Throttling"
+    ],
+    "answer": "Double-Spending Problem"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "What type of storage setup is considered a 'cold wallet'?",
+    "options": [
+      "An offline hardware device or paper seed disconnected from the internet",
+      "A browser extension wallet running on a desktop computer",
+      "A centralized exchange account wallet",
+      "A mobile app wallet connected to 5G network"
+    ],
+    "answer": "An offline hardware device or paper seed disconnected from the internet"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "What is a 'hot wallet'?",
+    "options": [
+      "A cryptocurrency wallet connected to the internet",
+      "A hardware wallet stored in a high-temperature facility",
+      "A wallet experiencing extremely high transaction volume",
+      "A wallet whose private key is permanently destroyed"
+    ],
+    "answer": "A cryptocurrency wallet connected to the internet"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "What is the smallest fractional unit of Bitcoin named after its creator?",
+    "options": [
+      "Satoshi",
+      "Gwei",
+      "Wei",
+      "Finney"
+    ],
+    "answer": "Satoshi"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "How many Satoshis equal one whole Bitcoin ($1 \\text{ BTC}$)?",
+    "options": [
+      "100,000,000 ($10^8$)",
+      "1,000,000 ($10^6$)",
+      "1,000,000,000 ($10^9$)",
+      "10,000 ($10^4$)"
+    ],
+    "answer": "100,000,000 ($10^8$)"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "What is a block reward?",
+    "options": [
+      "Newly minted cryptocurrency given to a miner/validator for adding a valid block",
+      "A refund sent to users who pay high gas fees",
+      "An interest payment issued by central banks for staking",
+      "A discount code for purchasing hardware wallets"
+    ],
+    "answer": "Newly minted cryptocurrency given to a miner/validator for adding a valid block"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "What primary function does a cryptographic hash function perform?",
+    "options": [
+      "Converts input data of any length into a deterministic, fixed-length output string",
+      "Encrypts data so it can easily be decrypted using a shared password",
+      "Compresses large video files for faster transmission",
+      "Generates random human-readable usernames"
+    ],
+    "answer": "Converts input data of any length into a deterministic, fixed-length output string"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "What phrase usually represents a human-readable representation of a wallet's private key (typically 12 or 24 words)?",
+    "options": [
+      "Seed Phrase (Mnemonic)",
+      "Public Address",
+      "Transaction ID",
+      "Gas Limit"
+    ],
+    "answer": "Seed Phrase (Mnemonic)"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "Which data structure is utilized within blocks to efficiently aggregate and verify large volumes of transactions?",
+    "options": [
+      "Merkle Tree (Hash Tree)",
+      "Binary Search Tree",
+      "B-Tree",
+      "Red-Black Tree"
+    ],
+    "answer": "Merkle Tree (Hash Tree)"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "What is the top-level hash in a Merkle tree stored in the block header called?",
+    "options": [
+      "Merkle Root",
+      "Genesis Root",
+      "Leaf Hash",
+      "State Root"
+    ],
+    "answer": "Merkle Root"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "In Bitcoin mining, what is a 'Nonce'?",
+    "options": [
+      "A 32-bit arbitrary number miners iterate to produce a block hash below the difficulty target",
+      "The total count of active nodes on the network",
+      "The private key used to sign the genesis block",
+      "A fixed protocol parameter defining transaction size"
+    ],
+    "answer": "A 32-bit arbitrary number miners iterate to produce a block hash below the difficulty target"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "What accounting model does Bitcoin use to track ownership and balances across transactions?",
+    "options": [
+      "UTXO Model (Unspent Transaction Output)",
+      "Account/Balance Model",
+      "Double-Entry Ledger Model",
+      "State-Object Model"
+    ],
+    "answer": "UTXO Model (Unspent Transaction Output)"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "In contrast to Bitcoin's UTXO model, what accounting architecture does Ethereum utilize?",
+    "options": [
+      "Account-Based Model",
+      "UTXO Model",
+      "Directed Acyclic Graph Model",
+      "Directed Key-Value Model"
+    ],
+    "answer": "Account-Based Model"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "What classic computer science problem describes the difficulty of reaching consensus among distributed actors when some may be malicious?",
+    "options": [
+      "Byzantine Generals Problem",
+      "Dining Philosophers Problem",
+      "Halting Problem",
+      "Two Generals Problem"
+    ],
+    "answer": "Byzantine Generals Problem"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "What protocol update condition causes a permanent divergence in the blockchain, requiring all nodes to upgrade to the new rules?",
+    "options": [
+      "Hard Fork",
+      "Soft Fork",
+      "Reorganization (Reorg)",
+      "State Pruning"
+    ],
+    "answer": "Hard Fork"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "What is a backward-compatible protocol change where non-upgraded nodes still accept new blocks?",
+    "options": [
+      "Soft Fork",
+      "Hard Fork",
+      "Chain Split",
+      "Network Partition"
+    ],
+    "answer": "Soft Fork"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "What is a '51% Attack' on a Proof of Work network?",
+    "options": [
+      "An entity controlling over 50% of network hash rate alters history or double-spends coins",
+      "An attacker steals 51% of all stored coins in exchanges",
+      "A virus infecting 51% of mobile wallets",
+      "A bug causing 51% of transactions to lose gas"
+    ],
+    "answer": "An entity controlling over 50% of network hash rate alters history or double-spends coins"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "What runtime environment executes smart contracts on the Ethereum network?",
+    "options": [
+      "Ethereum Virtual Machine (EVM)",
+      "WebAssembly (Wasm)",
+      "Java Virtual Machine (JVM)",
+      "LLVM Core Engine"
+    ],
+    "answer": "Ethereum Virtual Machine (EVM)"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "Which contract-oriented object-oriented language is most widely used for compiling EVM smart contracts?",
+    "options": [
+      "Solidity",
+      "Rust",
+      "TypeScript",
+      "Go"
+    ],
+    "answer": "Solidity"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "What peer-to-peer hypermedia protocol is often used for decentralized off-chain storage of NFT media and files?",
+    "options": [
+      "IPFS (InterPlanetary File System)",
+      "HTTPS",
+      "FTP",
+      "BitTorrent Protocol"
+    ],
+    "answer": "IPFS (InterPlanetary File System)"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "What attack vector occurs when an actor creates numerous fake identities or nodes to gain control over a network?",
+    "options": [
+      "Sybil Attack",
+      "Reentrancy Attack",
+      "Eclipse Attack",
+      "Man-in-the-Middle Attack"
+    ],
+    "answer": "Sybil Attack"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "What major change did EIP-1559 introduce to Ethereum's transaction fee mechanism?",
+    "options": [
+      "Introduced a base fee that is burned on every transaction",
+      "Completely eliminated transaction fees for users",
+      "Replaced miners with centralized sequencers",
+      "Fixed gas prices to $1 USD equivalent"
+    ],
+    "answer": "Introduced a base fee that is burned on every transaction"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "What organization type operates based on rules encoded as smart contracts and governed by token holders?",
+    "options": [
+      "DAO (Decentralized Autonomous Organization)",
+      "LLC (Limited Liability Company)",
+      "Non-Profit Foundation",
+      "Centralized Consortium"
+    ],
+    "answer": "DAO (Decentralized Autonomous Organization)"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "In smart contract development, what is a blockchain 'Oracle'?",
+    "options": [
+      "A service supplying external, off-chain real-world data into smart contracts",
+      "An automated bug detection tool for Solidity code",
+      "A database indexer for historical transaction logs",
+      "A consensus algorithm based on predictive AI"
+    ],
+    "answer": "A service supplying external, off-chain real-world data into smart contracts"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "Which vulnerability allows an external contract to repeatedly withdraw funds before internal balance updates finalize?",
+    "options": [
+      "Reentrancy Attack",
+      "Integer Overflow",
+      "Front-Running",
+      "Timestamp Dependence"
+    ],
+    "answer": "Reentrancy Attack"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "What is the fundamental difference between Layer 1 and Layer 2 blockchain solutions?",
+    "options": [
+      "Layer 1 is base protocol architecture; Layer 2 executes off-chain to boost throughput",
+      "Layer 1 uses private keys; Layer 2 uses public passwords",
+      "Layer 1 is written in C++; Layer 2 is written exclusively in Python",
+      "Layer 1 is centralized; Layer 2 is fully decentralized"
+    ],
+    "answer": "Layer 1 is base protocol architecture; Layer 2 executes off-chain to boost throughput"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "Which elliptic curve parameters are defined and utilized by Bitcoin's signature algorithm?",
+    "options": [
+      "secp256k1",
+      "ed25519",
+      "Curve25519",
+      "secp256r1"
+    ],
+    "answer": "secp256k1"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "Which multi-token standard enables managing both fungible and non-fungible tokens inside a single smart contract?",
+    "options": [
+      "ERC-1155",
+      "ERC-20",
+      "ERC-721",
+      "ERC-777"
+    ],
+    "answer": "ERC-1155"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "What cryptographic technique enables one party to prove to another that a statement is true without revealing additional details?",
+    "options": [
+      "Zero-Knowledge Proof (ZKP)",
+      "Homomorphic Encryption",
+      "Symmetric Key Exchange",
+      "Blind Signature Scheme"
+    ],
+    "answer": "Zero-Knowledge Proof (ZKP)"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "In Decentralized Finance (DeFi), what is a Liquidity Pool?",
+    "options": [
+      "Cryptocurrency tokens locked in a smart contract facilitating trading or lending",
+      "A centralized fund managed by crypto venture capital firms",
+      "A collection of mining rigs pooling hash power together",
+      "A storage server hosting decentralized website source code"
+    ],
+    "answer": "Cryptocurrency tokens locked in a smart contract facilitating trading or lending"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "What DEX model replaces conventional central limit order books with mathematical liquidity formulas?",
+    "options": [
+      "Automated Market Maker (AMM)",
+      "Peer-to-Peer Order Book",
+      "Dark Pool Exchange",
+      "Over-The-Counter (OTC) Desk"
+    ],
+    "answer": "Automated Market Maker (AMM)"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "In decentralized exchanges, what term describes the difference between expected trade price and execution price?",
+    "options": [
+      "Slippage",
+      "Spread",
+      "Margin",
+      "Impermanent Loss"
+    ],
+    "answer": "Slippage"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "What holding area on a node stores valid pending transactions before they get mined/validated into a block?",
+    "options": [
+      "Mempool",
+      "Staging Buffer",
+      "Tx Stack",
+      "Validation Queue"
+    ],
+    "answer": "Mempool"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "What consensus variant grants block production power to nodes holding high real-world identity reputations?",
+    "options": [
+      "Proof of Authority (PoA)",
+      "Proof of Work (PoW)",
+      "Proof of Space",
+      "Proof of Elapsed Time"
+    ],
+    "answer": "Proof of Authority (PoA)"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "What mechanism allows off-chain multi-transaction exchanges between parties, submitting only final state outcomes to the chain?",
+    "options": [
+      "State Channels",
+      "Sidechains",
+      "Atomic Swaps",
+      "Sharding"
+    ],
+    "answer": "State Channels"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "What attack vector sends dust-sized crypto amounts to target wallet addresses to trace transactional identity clusters?",
+    "options": [
+      "Dusting Attack",
+      "Phishing Attack",
+      "Reentrancy Attack",
+      "Sandwich Attack"
+    ],
+    "answer": "Dusting Attack"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "What term describes isolating a specific node network view by controlling all its inbound/outbound connection peers?",
+    "options": [
+      "Eclipse Attack",
+      "Sybil Attack",
+      "DDoS Attack",
+      "Replay Attack"
+    ],
+    "answer": "Eclipse Attack"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "What type of attack re-transmits valid signed transactions on a secondary branched network to execute duplicate actions?",
+    "options": [
+      "Replay Attack",
+      "Man-in-the-Middle Attack",
+      "Front-Running Attack",
+      "Sandwich Attack"
+    ],
+    "answer": "Replay Attack"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "What structural feature differentiates zk-STARKs from zk-SNARKs?",
+    "options": [
+      "zk-STARKs do not require a trusted setup phase and are quantum-resistant",
+      "zk-STARKs produce smaller proof sizes than zk-SNARKs",
+      "zk-SNARKs rely on hash-based functions instead of elliptic curves",
+      "zk-SNARKs are used exclusively on Layer 1 base chains"
+    ],
+    "answer": "zk-STARKs do not require a trusted setup phase and are quantum-resistant"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "Which Layer 2 scaling paradigm uses fraud proofs with a dispute challenge period (e.g., 7 days) before finalizing withdrawal states?",
+    "options": [
+      "Optimistic Rollups",
+      "ZK-Rollups",
+      "Validium",
+      "State Channels"
+    ],
+    "answer": "Optimistic Rollups"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "Which Layer 2 scaling scheme publishes validity proofs (like zk-SNARKs) to instantly verify off-chain batch state transitions?",
+    "options": [
+      "ZK-Rollups",
+      "Optimistic Rollups",
+      "Plasma",
+      "Sidechains"
+    ],
+    "answer": "ZK-Rollups"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "What does MEV stand for in modern blockchain transaction processing context?",
+    "options": [
+      "Maximal (or Miner) Extractable Value",
+      "Minimum Essential Validation",
+      "Mainnet Ethereum Volume",
+      "Multi-Element Verification"
+    ],
+    "answer": "Maximal (or Miner) Extractable Value"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "In MEV terminology, what type of attack places trades directly before and after a targeted user transaction on an AMM?",
+    "options": [
+      "Sandwich Attack",
+      "Reentrancy Attack",
+      "Flash Loan Attack",
+      "Sybil Attack"
+    ],
+    "answer": "Sandwich Attack"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "What is a Flash Loan in DeFi platforms?",
+    "options": [
+      "An uncollateralized loan that must be borrowed and repaid within a single atomic transaction block",
+      "A instant loan granted by central banks for staking nodes",
+      "A micro-loan disbursed via lightning network routing nodes",
+      "A high-interest loan backed by physical hardware collateral"
+    ],
+    "answer": "An uncollateralized loan that must be borrowed and repaid within a single atomic transaction block"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "What is the minimum non-faulty node threshold required for standard Practical Byzantine Fault Tolerance (PBFT) algorithms to operate?",
+    "options": [
+      "At least $3f + 1$ total nodes to tolerate $f$ faulty nodes",
+      "At least $2f + 1$ total nodes to tolerate $f$ faulty nodes",
+      "At least $f + 1$ total nodes to tolerate $f$ faulty nodes",
+      "At least $4f + 1$ total nodes to tolerate $f$ faulty nodes"
+    ],
+    "answer": "At least $3f + 1$ total nodes to tolerate $f$ faulty nodes"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "What advantage do BLS (Boneh-Lynn-Shacham) cryptographic signatures offer Ethereum's PoS consensus architecture?",
+    "options": [
+      "Allows aggregating thousands of signatures into a single compact proof",
+      "Provides faster symmetric encryption than AES",
+      "Eliminates public keys entirely from block validation",
+      "Encrypts smart contract source code natively"
+    ],
+    "answer": "Allows aggregating thousands of signatures into a single compact proof"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "In database and blockchain scaling, what is Sharding?",
+    "options": [
+      "Partitioning state and transaction history into independent parallel data pieces",
+      "Compressing block sizes using zip algorithms",
+      "Splitting public keys into three distinct parts",
+      "Moving node infrastructure entirely off-chain"
+    ],
+    "answer": "Partitioning state and transaction history into independent parallel data pieces"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "In Proof of Stake systems, what is 'Slashing'?",
+    "options": [
+      "A security mechanism burning a portion of a validator's staked assets for malicious behavior",
+      "Reducing transaction fees by 50% during off-peak network hours",
+      "Truncating block size headers to improve bandwidth",
+      "Clearing inactive pending transactions from mempools"
+    ],
+    "answer": "A security mechanism burning a portion of a validator's staked assets for malicious behavior"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "What advanced tree design replaces Merkle trees in upcoming Ethereum execution state roadmaps to decrease proof size?",
+    "options": [
+      "Verkle Trees",
+      "Merkle Mountain Ranges",
+      "Radix Trees",
+      "Splay Trees"
+    ],
+    "answer": "Verkle Trees"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "Which EVM instruction code allows predictable deterministic smart contract addresses independent of deployer nonce?",
+    "options": [
+      "CREATE2",
+      "CREATE",
+      "DELEGATECALL",
+      "STATICCALL"
+    ],
+    "answer": "CREATE2"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "Why is using `tx.origin` for smart contract authentication considered dangerous in Solidity?",
+    "options": [
+      "It makes the contract vulnerable to phishing attacks via intermediate calling contracts",
+      "It consumes double the gas compared to `msg.sender`",
+      "It causes integer overflow errors in EVM execution",
+      "It exposes the user's private key in raw transaction logs"
+    ],
+    "answer": "It makes the contract vulnerable to phishing attacks via intermediate calling contracts"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "What constant product formula governs liquidity token dynamics in standard Automated Market Makers like Uniswap v2?",
+    "options": [
+      "$x \\cdot y = k$",
+      "$x + y = k$",
+      "$x^2 + y^2 = k$",
+      "$x \\cdot y + z = k$"
+    ],
+    "answer": "$x \\cdot y = k$"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "What risk do liquidity providers face when asset prices in an AMM pool diverge relative to external markets?",
+    "options": [
+      "Impermanent Loss",
+      "Slippage Decay",
+      "Flash Minting Loss",
+      "Staking Penalty"
+    ],
+    "answer": "Impermanent Loss"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "What is the goal of Account Abstraction (EIP-4337) on Ethereum?",
+    "options": [
+      "Enables smart contract logic to define user wallets directly without protocol Layer-1 consensus changes",
+      "Converts all user accounts into hardware cold wallets automatically",
+      "Abstracts gas fees by forcing miners to cover execution costs",
+      "Combines private and public keys into single unified hash strings"
+    ],
+    "answer": "Enables smart contract logic to define user wallets directly without protocol Layer-1 consensus changes"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "What probabilistic data structure in Ethereum block headers enables fast scanning for contract event logs?",
+    "options": [
+      "Bloom Filter",
+      "HyperLogLog",
+      "Skip List",
+      "Cuckoo Filter"
+    ],
+    "answer": "Bloom Filter"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "What feature distinguishes `DELEGATECALL` from `CALL` in EVM smart contract execution?",
+    "options": [
+      "`DELEGATECALL` executes target code inside the caller contract's context and storage",
+      "`DELEGATECALL` transfers native gas tokens automatically",
+      "`DELEGATECALL` creates a new instance of target contract bytecode",
+      "`DELEGATECALL` prevents access to state storage entirely"
+    ],
+    "answer": "`DELEGATECALL` executes target code inside the caller contract's context and storage"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "What mechanism enables trustless atomic token swaps between completely separate, non-interoperable blockchains?",
+    "options": [
+      "Hashed Timelock Contracts (HTLC)",
+      "Zero-Knowledge Rollups",
+      "Optimistic Sequencers",
+      "Centralized Bridge Multisigs"
+    ],
+    "answer": "Hashed Timelock Contracts (HTLC)"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "In Bitcoin's Taproot upgrade, what signature scheme replaced traditional ECDSA to enable signature aggregation?",
+    "options": [
+      "Schnorr Signatures",
+      "BLS Signatures",
+      "Lamport Signatures",
+      "RSA Signatures"
+    ],
+    "answer": "Schnorr Signatures"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "What attack occurs when a miner deliberately withholds found blocks to release strategically and invalidate honest blocks?",
+    "options": [
+      "Selfish Mining Attack",
+      "Finney Attack",
+      "Vector Attack",
+      "Goldfinger Attack"
+    ],
+    "answer": "Selfish Mining Attack"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "In Nakamoto Consensus, how do honest nodes determine the valid operational canonical chain?",
+    "options": [
+      "Select the chain with the highest cumulative Proof of Work difficulty",
+      "Select the chain containing the largest total transaction count",
+      "Select the chain with the fewest block reorgs",
+      "Select the chain chosen by the oldest node IP"
+    ],
+    "answer": "Select the chain with the highest cumulative Proof of Work difficulty"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "What cryptographic technique prevents front-running by hiding transaction choices during an initial bidding phase?",
+    "options": [
+      "Commit-Reveal Scheme",
+      "Elliptic Curve Diffie-Hellman",
+      "Ring Signatures",
+      "Shamir's Secret Sharing"
+    ],
+    "answer": "Commit-Reveal Scheme"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "What protocol paradigm allows stakers to reuse locked ETH to simultaneously secure secondary dApps, middleware, or oracles?",
+    "options": [
+      "Restaking (e.g. EigenLayer)",
+      "Liquid Staking",
+      "Yield Farming",
+      "Cross-Chain Bonding"
+    ],
+    "answer": "Restaking (e.g. EigenLayer)"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "What mathematical principle underpins why combining diverse independent block producers minimizes censorship risk?",
+    "options": [
+      "Condorcet's Jury Theorem",
+      "Central Limit Theorem",
+      "Little's Law",
+      "Moore's Law"
+    ],
+    "answer": "Condorcet's Jury Theorem"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "What phenomenon occurs in machine learning or blockchain protocols when statistical input data distribution shifts over time?",
+    "options": [
+      "Concept Drift",
+      "Overfitting",
+      "State Explosion",
+      "State Decay"
+    ],
+    "answer": "Concept Drift"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "Which modular blockchain layer specializes exclusively in ordering and agreeing on transaction sequence without execution?",
+    "options": [
+      "Consensus Layer",
+      "Execution Layer",
+      "Data Availability Layer",
+      "Settlement Layer"
+    ],
+    "answer": "Consensus Layer"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "What is the primary function of a Data Availability (DA) layer like Celestia in modular architectures?",
+    "options": [
+      "Ensuring transaction data is published so anyone can reconstruct network state",
+      "Executing state changes as fast as possible",
+      "Translating Solidity code into WebAssembly",
+      "Providing off-chain fiat currency conversions"
+    ],
+    "answer": "Ensuring transaction data is published so anyone can reconstruct network state"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "What is a 'Long-Range Attack' in Proof of Stake systems?",
+    "options": [
+      "An attacker builds an alternative historical chain starting from genesis using historical validator keys",
+      "A physical network attack cutting submarine fiber optic cables",
+      "A high-latency transaction spam attack overwhelming mempools",
+      "A remote code execution bug targeting hardware wallets"
+    ],
+    "answer": "An attacker builds an alternative historical chain starting from genesis using historical validator keys"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "What technology allows Bitcoin to represent complex smart contracts using Merklized Abstract Syntax Trees?",
+    "options": [
+      "MAST (Merklized Alternative Script Trees)",
+      "SegWit",
+      "Lightning Network",
+      "RGB Protocol"
+    ],
+    "answer": "MAST (Merklized Alternative Script Trees)"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "What privacy feature in Monero obscures transaction senders by mixing signature inputs with decoy keys?",
+    "options": [
+      "Ring Signatures",
+      "zk-SNARKs",
+      "CoinJoin",
+      "Bulletproofs"
+    ],
+    "answer": "Ring Signatures"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "What privacy feature in Monero hides transaction transfer amounts mathematically?",
+    "options": [
+      "Ring Confidential Transactions (RingCT)",
+      "Stealth Addresses",
+      "Pedersen Commitments",
+      "Shielded Pools"
+    ],
+    "answer": "Ring Confidential Transactions (RingCT)"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "What mechanism enables off-chain data availability in Ethereum rollups while keeping data proofs verified on-chain (e.g., EIP-4844)?",
+    "options": [
+      "Proto-Danksharding (Blob Carry Transactions)",
+      "State Channels",
+      "Plasma Chains",
+      "Validium proofs"
+    ],
+    "answer": "Proto-Danksharding (Blob Carry Transactions)"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "What algorithm does the Raft consensus framework use for agreeing on replicated state logs?",
+    "options": [
+      "Leader-Based Consensus (Leader Election, Log Replication, Safety)",
+      "Proof of Work cryptographic hashing",
+      "Gossip Protocol with probabilistic sampling",
+      "Pairwise Zero-Knowledge validity checks"
+    ],
+    "answer": "Leader-Based Consensus (Leader Election, Log Replication, Safety)"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "In EVM gas mechanics, what happens to unspent execution gas at the end of a successful transaction call?",
+    "options": [
+      "It is refunded back to the transaction originator (`tx.origin`)",
+      "It is permanently burned by the EVM",
+      "It is awarded to the block proposer as MEV tip",
+      "It is locked inside the target contract storage"
+    ],
+    "answer": "It is refunded back to the transaction originator (`tx.origin`)"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "What problem does the 'Weak Subjectivity' concept address in Proof of Stake consensus?",
+    "options": [
+      "Prevents newly joining or long-offline nodes from accepting forged historical forks",
+      "Resolves transaction order collisions during network partitions",
+      "Calculates dynamic gas limit reductions during high load",
+      "Prevents MEV searchers from front-running transactions"
+    ],
+    "answer": "Prevents newly joining or long-offline nodes from accepting forged historical forks"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "What technique allows light clients to verify a specific piece of data exists in a block without downloading the full block?",
+    "options": [
+      "Merkle Inclusion Proofs",
+      "Bloom Filter Clearing",
+      "State Pruning",
+      "Zero-Knowledge Encryption"
+    ],
+    "answer": "Merkle Inclusion Proofs"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "What vulnerability happens when a smart contract depends on `block.timestamp` to yield random outcomes?",
+    "options": [
+      "Timestamp Manipulation by miners/validators within an acceptable time drift window",
+      "Reentrancy Exploit",
+      "Stack Overflow",
+      "Gas Limit Exhaustion"
+    ],
+    "answer": "Timestamp Manipulation by miners/validators within an acceptable time drift window"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "What cryptographic curve pairing allows constant-size non-interactive zero-knowledge verification in zk-SNARK systems?",
+    "options": [
+      "BN-254 (alt_bn128) / BLS12-381",
+      "secp256k1",
+      "Curve25519",
+      "NIST P-256"
+    ],
+    "answer": "BN-254 (alt_bn128) / BLS12-381"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "What paradigm shift describes moving from monolith blockchains executing state, consensus, and DA together toward modular specialized networks?",
+    "options": [
+      "Modular Blockchain Architecture",
+      "Distributed Cloud Computing",
+      "Cross-Chain Relaying",
+      "Sharded Hash Graphing"
+    ],
+    "answer": "Modular Blockchain Architecture"
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "Which superhero is secretly billionaire Bruce Wayne?",
+    "options": [
+      "Superman",
+      "Batman",
+      "Iron Man",
+      "Spider-Man"
+    ],
+    "answer": "Batman"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "What kind of creature is Chewbacca in the 'Star Wars' universe?",
+    "options": [
+      "Ewok",
+      "Wookiee",
+      "Hutt",
+      "Jawa"
+    ],
+    "answer": "Wookiee"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "What is the name of the wizard boy with a lightning bolt scar on his forehead?",
+    "options": [
+      "Ron Weasley",
+      "Percy Jackson",
+      "Harry Potter",
+      "Neville Longbottom"
+    ],
+    "answer": "Harry Potter"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "Which Disney character gains a magical genie from a lamp?",
+    "options": [
+      "Aladdin",
+      "Hercules",
+      "Tarzan",
+      "Simba"
+    ],
+    "answer": "Aladdin"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "Who is the main protagonist in J.R.R. Tolkien's 'The Hobbit'?",
+    "options": [
+      "Frodo Baggins",
+      "Bilbo Baggins",
+      "Samwise Gamgee",
+      "Aragorn"
+    ],
+    "answer": "Bilbo Baggins"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "Which Marvel superhero gets his powers from a radioactive spider bite?",
+    "options": [
+      "Peter Parker",
+      "Tony Stark",
+      "Steve Rogers",
+      "Bruce Banner"
+    ],
+    "answer": "Peter Parker"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "What is the name of the famous detective who lives at 221B Baker Street?",
+    "options": [
+      "Hercule Poirot",
+      "Sherlock Holmes",
+      "Sam Spade",
+      "Philip Marlowe"
+    ],
+    "answer": "Sherlock Holmes"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "Which cartoon character loves eating spinach to gain super strength?",
+    "options": [
+      "Popeye",
+      "Bluto",
+      "Johnny Bravo",
+      "Fred Flintstone"
+    ],
+    "answer": "Popeye"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "What is the name of Mickey Mouse's pet dog?",
+    "options": [
+      "Goofy",
+      "Pluto",
+      "Snoopy",
+      "Bolt"
+    ],
+    "answer": "Pluto"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "Which fictional bear lives in 100 Acre Wood and loves honey?",
+    "options": [
+      "Paddington Bear",
+      "Yogi Bear",
+      "Winnie-the-Pooh",
+      "Baloo"
+    ],
+    "answer": "Winnie-the-Pooh"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "Who is the arch-nemesis of Batman?",
+    "options": [
+      "Lex Luthor",
+      "The Joker",
+      "Green Goblin",
+      "Magneto"
+    ],
+    "answer": "The Joker"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "What is the name of the snow monster created by Elsa in 'Frozen'?",
+    "options": [
+      "Olaf",
+      "Marshmallow",
+      "Sven",
+      "Yeti"
+    ],
+    "answer": "Marshmallow"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "Which fictional character never grows up and lives in Neverland?",
+    "options": [
+      "Pinocchio",
+      "Peter Pan",
+      "Mowgli",
+      "Robin Hood"
+    ],
+    "answer": "Peter Pan"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "What is the true identity of Superman?",
+    "options": [
+      "Clark Kent",
+      "Barry Allen",
+      "Arthur Curry",
+      "Hal Jordan"
+    ],
+    "answer": "Clark Kent"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "Which Video Game character is a plumber who saves Princess Peach?",
+    "options": [
+      "Sonic",
+      "Link",
+      "Mario",
+      "Luigi"
+    ],
+    "answer": "Mario"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "Who is Luke Skywalker's father in 'Star Wars'?",
+    "options": [
+      "Obi-Wan Kenobi",
+      "Darth Vader",
+      "Emperor Palpatine",
+      "Han Solo"
+    ],
+    "answer": "Darth Vader"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "Which princess loses a glass slipper while leaving a royal ball at midnight?",
+    "options": [
+      "Snow White",
+      "Cinderella",
+      "Sleeping Beauty",
+      "Ariel"
+    ],
+    "answer": "Cinderella"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "What type of animal is Sonic created by SEGA?",
+    "options": [
+      "Hedgehog",
+      "Fox",
+      "Echidna",
+      "Rabbit"
+    ],
+    "answer": "Hedgehog"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "Who is the green, giant monster alter-ego of Dr. Bruce Banner?",
+    "options": [
+      "The Thing",
+      "The Hulk",
+      "Abomination",
+      "Venom"
+    ],
+    "answer": "The Hulk"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "What is the name of SpongeBob's best friend in Bikini Bottom?",
+    "options": [
+      "Squidward",
+      "Patrick Star",
+      "Mr. Krabs",
+      "Plankton"
+    ],
+    "answer": "Patrick Star"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "Which fictional sea captain steers the Black Pearl in 'Pirates of the Caribbean'?",
+    "options": [
+      "Captain Hook",
+      "Captain Jack Sparrow",
+      "Captain Ahab",
+      "Captain Nemo"
+    ],
+    "answer": "Captain Jack Sparrow"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "Who is the legendary archer from Sherwood Forest who steals from the rich to give to the poor?",
+    "options": [
+      "King Arthur",
+      "Robin Hood",
+      "William Tell",
+      "Lancelot"
+    ],
+    "answer": "Robin Hood"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "What is the name of Thor's famous hammer?",
+    "options": [
+      "Mjolnir",
+      "Stormbreaker",
+      "Gungnir",
+      "Aegis"
+    ],
+    "answer": "Mjolnir"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "Which famous cat is always trying to catch Jerry the mouse?",
+    "options": [
+      "Garfield",
+      "Tom",
+      "Sylvester",
+      "Felix"
+    ],
+    "answer": "Tom"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "What kind of creature is Pikachu in the Pokémon franchise?",
+    "options": [
+      "Mouse",
+      "Cat",
+      "Dog",
+      "Dragon"
+    ],
+    "answer": "Mouse"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "Who is the main villain in Harry Potter who must not be named?",
+    "options": [
+      "Grindelwald",
+      "Lord Voldemort",
+      "Lucius Malfoy",
+      "Severus Snape"
+    ],
+    "answer": "Lord Voldemort"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "What is the name of Barbie's iconic male companion?",
+    "options": [
+      "Ken",
+      "Ryan",
+      "Blaine",
+      "Brad"
+    ],
+    "answer": "Ken"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "Which iconic character says 'I'm gonna make him an offer he can't refuse'?",
+    "options": [
+      "Scarface",
+      "Vito Corleone",
+      "Tony Soprano",
+      "Goodfella"
+    ],
+    "answer": "Vito Corleone"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "What color is the Sesame Street character Elmo?",
+    "options": [
+      "Blue",
+      "Red",
+      "Yellow",
+      "Green"
+    ],
+    "answer": "Red"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "Which Disney character falls down a rabbit hole into Wonderland?",
+    "options": [
+      "Wendy",
+      "Alice",
+      "Dorothy",
+      "Belle"
+    ],
+    "answer": "Alice"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "What is the name of Sherlock Holmes's faithful loyal assistant and chronicler?",
+    "options": [
+      "Dr. John Watson",
+      "Inspector Lestrade",
+      "Mycroft Holmes",
+      "Professor Moriarty"
+    ],
+    "answer": "Dr. John Watson"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "In 'The Lord of the Rings', what is the original Hobbit name of Gollum?",
+    "options": [
+      "Deagol",
+      "Smeagol",
+      "Bandobras",
+      "Tobold"
+    ],
+    "answer": "Smeagol"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "What is the name of Captain Ahab's ship in Herman Melville's 'Moby-Dick'?",
+    "options": [
+      "Pequod",
+      "Hispaniola",
+      "Nautilus",
+      "Endeavour"
+    ],
+    "answer": "Pequod"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "Which Marvel character is also known as the 'Merc with a Mouth'?",
+    "options": [
+      "Wolverine",
+      "Deadpool",
+      "Punisher",
+      "Taskmaster"
+    ],
+    "answer": "Deadpool"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "What is the full name of the main protagonist in 'The Hunger Games'?",
+    "options": [
+      "Katniss Everdeen",
+      "Primrose Everdeen",
+      "Johanna Mason",
+      "Gale Hawthorne"
+    ],
+    "answer": "Katniss Everdeen"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "Which fictional city is the home of The Simpsons?",
+    "options": [
+      "Quahog",
+      "Springfield",
+      "South Park",
+      "Shelbyville"
+    ],
+    "answer": "Springfield"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "What is the alter-ego of the DC Comics superhero Flash (the most famous modern version)?",
+    "options": [
+      "Jay Garrick",
+      "Barry Allen",
+      "Wally West",
+      "Bart Allen"
+    ],
+    "answer": "Barry Allen"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "Who is the main AI assistant inside Tony Stark's Iron Man suit prior to F.R.I.D.A.Y.?",
+    "options": [
+      "KAREN",
+      "J.A.R.V.I.S.",
+      "C.O.R.T.A.N.A.",
+      "A.L.I.C.E."
+    ],
+    "answer": "J.A.R.V.I.S."
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "In C.S. Lewis's 'The Chronicles of Narnia', what type of creature is Aslan?",
+    "options": [
+      "Bear",
+      "Lion",
+      "Wolf",
+      "Leopard"
+    ],
+    "answer": "Lion"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "Which fictional spy is designated as Agent 007?",
+    "options": [
+      "Jason Bourne",
+      "James Bond",
+      "Ethan Hunt",
+      "Jack Reacher"
+    ],
+    "answer": "James Bond"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "Who is the main antagonist in Mary Shelley's 1818 classic Gothic horror novel?",
+    "options": [
+      "Count Dracula",
+      "Victor Frankenstein's Monster",
+      "Dr. Jekyll",
+      "Dorian Gray"
+    ],
+    "answer": "Victor Frankenstein's Monster"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "What is the home planet of Spock in the 'Star Trek' franchise?",
+    "options": [
+      "Romulus",
+      "Vulcan",
+      "Qo'noS",
+      "Krypton"
+    ],
+    "answer": "Vulcan"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "Which character is the master of the Dark Arts and head of Slytherin in Harry Potter's early years?",
+    "options": [
+      "Severus Snape",
+      "Gellert Grindelwald",
+      "Horace Slughorn",
+      "Remus Lupin"
+    ],
+    "answer": "Severus Snape"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "What is the true identity of the vigilante superhero Daredevil?",
+    "options": [
+      "Matt Murdock",
+      "Danny Rand",
+      "Luke Cage",
+      "Marc Spector"
+    ],
+    "answer": "Matt Murdock"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "What is the name of the main protagonist in Nintendo's 'The Legend of Zelda' series?",
+    "options": [
+      "Zelda",
+      "Link",
+      "Ganon",
+      "Sheik"
+    ],
+    "answer": "Link"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "In 'The Great Gatsby', who is the narrator of the story?",
+    "options": [
+      "Jay Gatsby",
+      "Nick Carraway",
+      "Tom Buchanan",
+      "George Wilson"
+    ],
+    "answer": "Nick Carraway"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "Which character is known as the 'Prince of All Saiyans' in Dragon Ball Z?",
+    "options": [
+      "Goku",
+      "Vegeta",
+      "Gohan",
+      "Trunks"
+    ],
+    "answer": "Vegeta"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "What is the name of the tiger in Yann Martel's novel 'Life of Pi'?",
+    "options": [
+      "Shere Khan",
+      "Richard Parker",
+      "Tigger",
+      "Rajah"
+    ],
+    "answer": "Richard Parker"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "Who is the main protagonist in the anime series 'One Piece'?",
+    "options": [
+      "Roronoa Zoro",
+      "Monkey D. Luffy",
+      "Vinsmoke Sanji",
+      "Portgas D. Ace"
+    ],
+    "answer": "Monkey D. Luffy"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "What is the real name of Wonder Woman?",
+    "options": [
+      "Kara Zor-El",
+      "Diana Prince",
+      "Barbara Gordon",
+      "Selina Kyle"
+    ],
+    "answer": "Diana Prince"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "Which fictional captain commands the submarine Nautilus in Jules Verne's novels?",
+    "options": [
+      "Captain Ahab",
+      "Captain Nemo",
+      "Captain Flint",
+      "Captain Bligh"
+    ],
+    "answer": "Captain Nemo"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "Who is the main protagonist in Shakespeare's tragedy set in Denmark?",
+    "options": [
+      "Macbeth",
+      "Hamlet",
+      "Othello",
+      "King Lear"
+    ],
+    "answer": "Hamlet"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "What is the name of the cowboy doll in Pixar's 'Toy Story'?",
+    "options": [
+      "Buzz Lightyear",
+      "Woody",
+      "Jesse",
+      "Bullseye"
+    ],
+    "answer": "Woody"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "Which classic character transformed into a monstrous persona after drinking a potion?",
+    "options": [
+      "Dr. Jekyll",
+      "Dorian Gray",
+      "Count Dracula",
+      "Van Helsing"
+    ],
+    "answer": "Dr. Jekyll"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "What is the name of the sentient computer aboard the spaceship Discovery One in '2001: A Space Odyssey'?",
+    "options": [
+      "HAL 9000",
+      "AUTO",
+      "GLaDOS",
+      "Mother"
+    ],
+    "answer": "HAL 9000"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "Who is the primary protagonist of the 'Halo' video game franchise?",
+    "options": [
+      "Marcus Fenix",
+      "Master Chief (John-117)",
+      "Commander Shepard",
+      "Doom Slayer"
+    ],
+    "answer": "Master Chief (John-117)"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "Which character serves as the Lord of Mordor and creator of the One Ring?",
+    "options": [
+      "Saruman",
+      "Sauron",
+      "Morgoth",
+      "Witch-king"
+    ],
+    "answer": "Sauron"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "What is the name of the female protagonist in 'The Last of Us' video game series?",
+    "options": [
+      "Ellie",
+      "Ciri",
+      "Lara Croft",
+      "Jill Valentine"
+    ],
+    "answer": "Ellie"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "Which fictional detective was created by Agatha Christie and features in 33 novels?",
+    "options": [
+      "Hercule Poirot",
+      "Sherlock Holmes",
+      "Inspector Clouseau",
+      "Nero Wolfe"
+    ],
+    "answer": "Hercule Poirot"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "What is the name of the clown entity that haunts the town of Derry in Stephen King's 'It'?",
+    "options": [
+      "Pennywise",
+      "Art the Clown",
+      "Bozo",
+      "Twisty"
+    ],
+    "answer": "Pennywise"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "In George R.R. Martin's 'A Song of Ice and Fire', what is the ancestral Valyrian steel sword of House Stark?",
+    "options": [
+      "Longclaw",
+      "Ice",
+      "Oathkeeper",
+      "Heartsbane"
+    ],
+    "answer": "Ice"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "What is the full real name of the comic character known as 'The Comedian' in Watchmen?",
+    "options": [
+      "Edward Morgan Blake",
+      "Walter Joseph Kovacs",
+      "Adrian Veidt",
+      "Jon Osterman"
+    ],
+    "answer": "Edward Morgan Blake"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "In 'Moby-Dick', who is the only crew member of the Pequod to survive the encounter with the white whale?",
+    "options": [
+      "Queequeg",
+      "Ishmael",
+      "Starbuck",
+      "Pip"
+    ],
+    "answer": "Ishmael"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "Which mythical entity was created by H.P. Lovecraft and first appeared in a 1928 Weird Tales short story?",
+    "options": [
+      "Nyarlathotep",
+      "Cthulhu",
+      "Azathoth",
+      "Yog-Sothoth"
+    ],
+    "answer": "Cthulhu"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "What is the real name of the superhero Wolverine in Marvel Comics?",
+    "options": [
+      "James Howlett",
+      "Victor Creed",
+      "Scott Summers",
+      "Remy LeBeau"
+    ],
+    "answer": "James Howlett"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "In Jane Austen's 'Pride and Prejudice', what is Mr. Darcy's first name?",
+    "options": [
+      "Charles",
+      "Fitzwilliam",
+      "George",
+      "William"
+    ],
+    "answer": "Fitzwilliam"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "What is the full name of Raskolnikov, the protagonist of Dostoyevsky's 'Crime and Punishment'?",
+    "options": [
+      "Rodion Romanovich Raskolnikov",
+      "Dmitri Fyodorovich Raskolnikov",
+      "Pavel Ivanovich Raskolnikov",
+      "Lev Nikolayevich Raskolnikov"
+    ],
+    "answer": "Rodion Romanovich Raskolnikov"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "What is the name of the AI antagonist in the 'Portal' video game series?",
+    "options": [
+      "SHODAN",
+      "GLaDOS",
+      "AM",
+      "Mother"
+    ],
+    "answer": "GLaDOS"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "In 'Les Misérables', what is the prisoner number of Jean Valjean?",
+    "options": [
+      "24601",
+      "53221",
+      "91823",
+      "10245"
+    ],
+    "answer": "24601"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "Which classic literary anti-hero was created by Lord Byron and appears in 'Childe Harold's Pilgrimage'?",
+    "options": [
+      "Heathcliff",
+      "The Byronic Hero",
+      "Manfred",
+      "Don Juan"
+    ],
+    "answer": "The Byronic Hero"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "What is the birth name of the DC Comics villain Bane?",
+    "options": [
+      "Unknown / Never revealed",
+      "Dorrance",
+      "Antonio Diego",
+      "Eduardo Dorrance"
+    ],
+    "answer": "Unknown / Never revealed"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "In Frank Herbert's 'Dune', what is the native Fremen name given to Paul Atreides?",
+    "options": [
+      "Usul",
+      "Muad'Dib",
+      "Kwisatz Haderach",
+      "Lisan al-Gaib"
+    ],
+    "answer": "Usul"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "Who is the tragic protagonist of Thomas Hardy's novel 'Tess of the d'Urbervilles'?",
+    "options": [
+      "Tess Durbeyfield",
+      "Bathsheba Everdene",
+      "Eustacia Vye",
+      "Sue Bridehead"
+    ],
+    "answer": "Tess Durbeyfield"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "In 'The Hitchhiker's Guide to the Galaxy', what is the name of the depressed android?",
+    "options": [
+      "Marvin",
+      "Arthur",
+      "Ford",
+      "Zaphod"
+    ],
+    "answer": "Marvin"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "What is the true name of the Phantom of the Opera in Gaston Leroux's original 1910 novel?",
+    "options": [
+      "Erik",
+      "Raoul",
+      "Christine",
+      "Philippe"
+    ],
+    "answer": "Erik"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "Which Marvel character is the daughter of Magneto and twin sister to Quicksilver?",
+    "options": [
+      "Scarlet Witch (Wanda Maximoff)",
+      "Polaris",
+      "Rogue",
+      "Jean Grey"
+    ],
+    "answer": "Scarlet Witch (Wanda Maximoff)"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "In John Milton's 'Paradise Lost', which character famously states 'Better to reign in Hell, than serve in Heav'n'?",
+    "options": [
+      "Satan",
+      "Beelzebub",
+      "Belial",
+      "Mammon"
+    ],
+    "answer": "Satan"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "What is the original name of the supervillain Red Skull in Marvel Comics?",
+    "options": [
+      "Johann Schmidt",
+      "Baron Zemo",
+      "Arnim Zola",
+      "Wolfgang von Strucker"
+    ],
+    "answer": "Johann Schmidt"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "In 'Catch-22' by Joseph Heller, what is the name of the protagonist bomber captain?",
+    "options": [
+      "John Yossarian",
+      "Milo Minderbinder",
+      "Major Major",
+      "Doc Daneeka"
+    ],
+    "answer": "John Yossarian"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "What is the name of the vampire hunter in Bram Stoker's 'Dracula' who leads the hunt against the Count?",
+    "options": [
+      "Abraham Van Helsing",
+      "Jonathan Harker",
+      "Dr. John Seward",
+      "Quincey Morris"
+    ],
+    "answer": "Abraham Van Helsing"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "What is the name of the artificial intelligence computer that rebels in Harlan Ellison's short story 'I Have No Mouth, and I Must Scream'?",
+    "options": [
+      "AM",
+      "SHODAN",
+      "HAL 9000",
+      "Wintermute"
+    ],
+    "answer": "AM"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "In 'The Silmarillion' by J.R.R. Tolkien, who is the first Dark Lord preceding Sauron?",
+    "options": [
+      "Morgoth (Melkor)",
+      "Ancalagon",
+      "Gothmog",
+      "Glaurung"
+    ],
+    "answer": "Morgoth (Melkor)"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "Which Shakespearean character famously delivers the 'To be, or not to be' soliloquy?",
+    "options": [
+      "Prince Hamlet",
+      "Macbeth",
+      "King Lear",
+      "Romeo"
+    ],
+    "answer": "Prince Hamlet"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "What is the identity of the mysterious vigilante in Alan Moore's graphic novel 'V for Vendetta'?",
+    "options": [
+      "V (Identity never explicitly revealed)",
+      "Evey Hammond",
+      "Gordon Deitrich",
+      "Valerie Page"
+    ],
+    "answer": "V (Identity never explicitly revealed)"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "Which character serves as the captain of the spaceship Serenity in Joss Whedon's 'Firefly'?",
+    "options": [
+      "Malcolm Reynolds",
+      "Jayne Cobb",
+      "Hoban Washburne",
+      "Derrial Book"
+    ],
+    "answer": "Malcolm Reynolds"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "In Neil Gaiman's 'The Sandman', what is the primary title and name of the main protagonist?",
+    "options": [
+      "Dream / Morpheus",
+      "Lucifer",
+      "Death",
+      "Destiny"
+    ],
+    "answer": "Dream / Morpheus"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "What is the true name of the Marvel character Hawkeye?",
+    "options": [
+      "Clint Barton",
+      "Barney Barton",
+      "Kate Bishop",
+      "Roy Harper"
+    ],
+    "answer": "Clint Barton"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "Who is the main protagonist in Isaac Asimov's 'Foundation' series who predicts the fall of the Galactic Empire using psychohistory?",
+    "options": [
+      "Hari Seldon",
+      "Gaal Dornick",
+      "Salvor Hardin",
+      "Hober Mallow"
+    ],
+    "answer": "Hari Seldon"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "In Miguel de Cervantes' novel, what is the real name of Don Quixote?",
+    "options": [
+      "Alonso Quijano",
+      "Sancho Panza",
+      "Dulce de Toboso",
+      "Pedro Perez"
+    ],
+    "answer": "Alonso Quijano"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "Which member of the Watchmen possesses actual superhuman powers?",
+    "options": [
+      "Doctor Manhattan",
+      "Nite Owl",
+      "Silk Spectre",
+      "Ozymandias"
+    ],
+    "answer": "Doctor Manhattan"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "What is the full name of the chief adversary in Alexandre Dumas's 'The Count of Monte Cristo' who frames Edmond Dantès?",
+    "options": [
+      "Fernand Mondego",
+      "Gérard de Villefort",
+      "Baron Danglars",
+      "Gaspard Caderousse"
+    ],
+    "answer": "Fernand Mondego"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "In Philip K. Dick's novel 'Do Androids Dream of Electric Sheep?', what is the name of the Rick Deckard's bounty hunter target model?",
+    "options": [
+      "Nexus-6",
+      "Nexus-5",
+      "Replicant-8",
+      "Cyberdyne-T800"
+    ],
+    "answer": "Nexus-6"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "What is the name of the protagonist in George Orwell's '1984'?",
+    "options": [
+      "Winston Smith",
+      "O'Brien",
+      "Emmanuel Goldstein",
+      "Symes"
+    ],
+    "answer": "Winston Smith"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "Which fictional character is the owner of the Chocolate Factory in Roald Dahl's famous book?",
+    "options": [
+      "Willy Wonka",
+      "Charlie Bucket",
+      "Arthur Slugworth",
+      "Veruca Salt"
+    ],
+    "answer": "Willy Wonka"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "In 'The Wheel of Time' series by Robert Jordan, who is revealed as the Dragon Reborn?",
+    "options": [
+      "Rand al'Thor",
+      "Matrim Cauthon",
+      "Perrin Aybara",
+      "Egwene al'Vere"
+    ],
+    "answer": "Rand al'Thor"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "What is the real name of the DC superhero Green Arrow?",
+    "options": [
+      "Oliver Queen",
+      "Roy Harper",
+      "Connor Hawke",
+      "Carter Hall"
+    ],
+    "answer": "Oliver Queen"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "Who is the primary protagonist in William Faulkner's novel 'The Sound and the Fury' across its first section?",
+    "options": [
+      "Benjamin 'Benjy' Compson",
+      "Quentin Compson",
+      "Jason Compson III",
+      "Dilsey Gibson"
+    ],
+    "answer": "Benjamin 'Benjy' Compson"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "In the anime 'Attack on Titan', what is the name of the protagonist who vows to eradicate all Titans?",
+    "options": [
+      "Eren Yeager",
+      "Armin Arlert",
+      "Levi Ackerman",
+      "Erwin Smith"
+    ],
+    "answer": "Eren Yeager"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "What is the name of the main computer network in Neuromancer by William Gibson?",
+    "options": [
+      "Wintermute",
+      "Neuromancer",
+      "The Matrix",
+      "Skynet"
+    ],
+    "answer": "Wintermute"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "Who is the tragic anti-hero in Michael Moorcock's famous sword and sorcery fantasy saga?",
+    "options": [
+      "Elric of Melniboné",
+      "Conan the Barbarian",
+      "Fafhrd",
+      "Corum"
+    ],
+    "answer": "Elric of Melniboné"
+  }
+]

@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Master Quiz</title>
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="assets/images/favicon.ico">
+    <!-- Bootstrap 5 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Bootstrap Icons -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet">
+    <!-- Custom Theme CSS (Navy + Orange) -->
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body class="overflow-x-hidden" data-bs-spy="scroll" data-bs-target="#navbarMain" data-bs-offset="80">
+
+    <!-- Navigation Bar -->
+    <nav id="navbarMain" class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top shadow-sm">
+        <div class="container">
+            <a class="navbar-brand fw-bold fs-3 text-primary d-flex align-items-center gap-2" href="#home">
+                <i class="bi bi-patch-question-fill text-warning"></i>
+                <span>Master Quiz</span>
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto align-items-lg-center gap-2">
+
+
+                    <li class="nav-item">
+                        <a class="nav-link active" href="#home">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#about">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#categories">Categories</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#contact">Contact Me</a>
+
+
+                        
+                    </li>
+                    <li class="nav-item ms-lg-2">
+                        <a class="btn btn-primary px-3 rounded-pill fw-semibold" href="setup.html">Start Quiz</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Home Section -->
+    <section id="home" class="py-5 bg-light min-vh-100 d-flex align-items-center">
+        <div class="container">
+            <div class="row align-items-center g-5">
+                <div class="col-lg-7 text-center text-lg-start">
+                    <div class="d-inline-flex align-items-center gap-2 px-3 py-1 rounded-pill bg-white border border-warning shadow-sm mb-3">
+                        <span class="badge bg-primary text-white rounded-pill">New</span>
+                        <span class="small fw-bold text-dark"><i class="bi bi-people-fill text-primary me-1"></i>2-Player Pass & Play Mode Included</span>
+                    </div>
+                    <h1 class="display-4 fw-bold text-dark mb-4">Test & Expand Your Knowledge</h1>
+                    <p class="lead text-secondary mb-5">
+                        Explore multiple subjects ranging from Computer Science to General Knowledge. Take customizable quizzes anytime, anywhere, or download our standalone application.
+                    </p>
+                    <div class="d-flex flex-wrap justify-content-center justify-content-lg-start gap-3">
+                        <a href="setup.html" class="btn btn-primary btn-lg px-4 rounded-pill shadow-sm">
+                            <i class="bi bi-play-circle-fill me-2"></i>Start Quiz Now
+                        </a>
+                        <a href="#" class="btn btn-outline-dark btn-lg px-4 rounded-pill shadow-sm">
+                            <i class="bi bi-download me-2"></i>Download APK
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-5 text-center">
+                    <div class="ratio ratio-1x1 rounded-circle border border-5 border-white shadow-lg mx-auto overflow-hidden bg-primary-subtle d-flex align-items-center justify-content-center" style="max-width: 380px;">
+                        <img src="assets/images/banner.png" alt="Quiz Banner" class="w-100 h-100 object-fit-cover">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="py-5 bg-white">
+        <div class="container py-4">
+            <div class="text-center mx-auto mb-5" style="max-width: 800px;">
+                <h2 class="display-6 fw-bold text-dark mb-2">About Master Quiz</h2>
+                <h5 class="text-primary fw-medium mb-3">Designed for learning, testing, and continuous practice.</h5>
+                <p class="text-muted">
+                    Master Quiz is an interactive self-assessment platform offering thousands of structured questions organized neatly across primary academic and technical categories. Whether preparing for academic evaluations, sharpening foundational concepts, or testing general awareness, this platform provides immediate feedback to track your progress effectively.
+                </p>
+            </div>
+
+            <!-- Steps for the Quiz -->
+            <div class="row g-4 mt-2">
+                <!-- Mode Step -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card h-100 border shadow-sm rounded-4 text-center p-4 bg-light">
+                        <div class="badge bg-primary rounded-circle d-inline-flex align-items-center justify-content-center mx-auto mb-3" style="width: 48px; height: 48px; font-size: 1.25rem;">
+                            1
+                        </div>
+                        <h5 class="fw-bold mb-2">Game Mode & Topic</h5>
+                        <p class="text-muted small mb-0">Play solo or challenge a friend in 2-Player Pass & Play, then pick your category.</p>
+                    </div>
+                </div>
+                <!-- Difficulty Step -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card h-100 border shadow-sm rounded-4 text-center p-4 bg-light">
+                        <div class="badge bg-primary rounded-circle d-inline-flex align-items-center justify-content-center mx-auto mb-3" style="width: 48px; height: 48px; font-size: 1.25rem;">
+                            2
+                        </div>
+                        <h5 class="fw-bold mb-2">Difficulty</h5>
+                        <p class="text-muted small mb-0">Select a challenge level suitable for your current skill level.</p>
+                    </div>
+                </div>
+                <!-- Question Count Step -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card h-100 border shadow-sm rounded-4 text-center p-4 bg-light">
+                        <div class="badge bg-primary rounded-circle d-inline-flex align-items-center justify-content-center mx-auto mb-3" style="width: 48px; height: 48px; font-size: 1.25rem;">
+                            3
+                        </div>
+                        <h5 class="fw-bold mb-2">No. of Questions</h5>
+                        <p class="text-muted small mb-0">Specify how many questions you wish to attempt per session.</p>
+                    </div>
+                </div>
+                <!-- Answering / Passing Step -->
+                <div class="col-md-6 col-lg-6">
+                    <div class="card h-100 border shadow-sm rounded-4 text-center p-4 bg-light">
+                        <div class="badge bg-primary rounded-circle d-inline-flex align-items-center justify-content-center mx-auto mb-3" style="width: 48px; height: 48px; font-size: 1.25rem;">
+                            4
+                        </div>
+                        <h5 class="fw-bold mb-2">Answer or Pass</h5>
+                        <p class="text-muted small mb-0">Work through MCQs with instant feedback, earn speed badges, or pass tricky questions to your opponent.</p>
+                    </div>
+                </div>
+                <!-- Review Score Step -->
+                <div class="col-md-12 col-lg-6">
+                    <div class="card h-100 border shadow-sm rounded-4 text-center p-4 bg-light">
+                        <div class="badge bg-primary rounded-circle d-inline-flex align-items-center justify-content-center mx-auto mb-3" style="width: 48px; height: 48px; font-size: 1.25rem;">
+                            5
+                        </div>
+                        <h5 class="fw-bold mb-2">Review Score & Winner</h5>
+                        <p class="text-muted small mb-0">View full statistics, per-question analysis, and head-to-head match outcomes.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Categories Section -->
+    <section id="categories" class="py-5 bg-light">
+        <div class="container py-4">
+            <div class="text-center mb-5">
+                <h2 class="display-6 fw-bold text-dark">Explore Category</h2>
+                <p class="text-muted">Click any main topic below to view subcategories. You can open multiple categories at once.</p>
+            </div>
+
+            <!-- Categories Multi-Accordion -->
+            <div class="row g-3">
+                <!-- 1. Aptitude and Reasoning -->
+                <div class="col-md-6">
+                    <div class="card border shadow-sm rounded-3">
+                        <div class="card-header bg-white border-0 py-3">
+                            <button class="btn btn-link text-decoration-none text-dark w-100 text-start d-flex justify-content-between align-items-center fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#catAptitude">
+                                <span><i class="bi bi-calculator text-primary me-2"></i>Aptitude and Reasoning</span>
+                                <i class="bi bi-chevron-down text-muted"></i>
+                            </button>
+                        </div>
+                        <div id="catAptitude" class="collapse">
+                            <div class="card-body border-top bg-light">
+                                <ul class="list-group list-group-flush bg-transparent">
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Analytical Reasoning</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Critical Thinking</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Logical Reasoning</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Mathematical Reasoning</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Quantitative Aptitude</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 2. Computer Science -->
+                <div class="col-md-6">
+                    <div class="card border shadow-sm rounded-3">
+                        <div class="card-header bg-white border-0 py-3">
+                            <button class="btn btn-link text-decoration-none text-dark w-100 text-start d-flex justify-content-between align-items-center fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#catCS">
+                                <span><i class="bi bi-hdd-network text-primary me-2"></i>Computer Science</span>
+                                <i class="bi bi-chevron-down text-muted"></i>
+                            </button>
+                        </div>
+                        <div id="catCS" class="collapse">
+                            <div class="card-body border-top bg-light">
+                                <ul class="list-group list-group-flush bg-transparent">
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Computer Network</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Cyber Security</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Database Management System</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Operating System</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Software Engineer</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 3. Emerging Technologies -->
+                <div class="col-md-6">
+                    <div class="card border shadow-sm rounded-3">
+                        <div class="card-header bg-white border-0 py-3">
+                            <button class="btn btn-link text-decoration-none text-dark w-100 text-start d-flex justify-content-between align-items-center fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#catEmerging">
+                                <span><i class="bi bi-cpu text-primary me-2"></i>Emerging Technologies</span>
+                                <i class="bi bi-chevron-down text-muted"></i>
+                            </button>
+                        </div>
+                        <div id="catEmerging" class="collapse">
+                            <div class="card-body border-top bg-light">
+                                <ul class="list-group list-group-flush bg-transparent">
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Artificial Intelligence</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Blockchain</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Cloud Computing</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Internet of Things</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Machine Learning</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 4. Programming -->
+                <div class="col-md-6">
+                    <div class="card border shadow-sm rounded-3">
+                        <div class="card-header bg-white border-0 py-3">
+                            <button class="btn btn-link text-decoration-none text-dark w-100 text-start d-flex justify-content-between align-items-center fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#catProg">
+                                <span><i class="bi bi-code-slash text-primary me-2"></i>Programming</span>
+                                <i class="bi bi-chevron-down text-muted"></i>
+                            </button>
+                        </div>
+                        <div id="catProg" class="collapse">
+                            <div class="card-body border-top bg-light">
+                                <ul class="list-group list-group-flush bg-transparent">
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> C / Java</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Dev Tools</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Programming Concept</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Python / JavaScript</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Web Development</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 5. Science -->
+                <div class="col-md-6">
+                    <div class="card border shadow-sm rounded-3">
+                        <div class="card-header bg-white border-0 py-3">
+                            <button class="btn btn-link text-decoration-none text-dark w-100 text-start d-flex justify-content-between align-items-center fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#catScience">
+                                <span><i class="bi bi-atom text-primary me-2"></i>Science</span>
+                                <i class="bi bi-chevron-down text-muted"></i>
+                            </button>
+                        </div>
+                        <div id="catScience" class="collapse">
+                            <div class="card-body border-top bg-light">
+                                <ul class="list-group list-group-flush bg-transparent">
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Astronomy</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Biology</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Chemistry</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Physics</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Scientist & Inventors</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 6. Social Science -->
+                <div class="col-md-6">
+                    <div class="card border shadow-sm rounded-3">
+                        <div class="card-header bg-white border-0 py-3">
+                            <button class="btn btn-link text-decoration-none text-dark w-100 text-start d-flex justify-content-between align-items-center fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#catSocial">
+                                <span><i class="bi bi-people text-primary me-2"></i>Social Science</span>
+                                <i class="bi bi-chevron-down text-muted"></i>
+                            </button>
+                        </div>
+                        <div id="catSocial" class="collapse">
+                            <div class="card-body border-top bg-light">
+                                <ul class="list-group list-group-flush bg-transparent">
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Culture</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Environment</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Geography</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> History</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Politics</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 7. General Knowledge -->
+                <div class="col-md-6">
+                    <div class="card border shadow-sm rounded-3">
+                        <div class="card-header bg-white border-0 py-3">
+                            <button class="btn btn-link text-decoration-none text-dark w-100 text-start d-flex justify-content-between align-items-center fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#catGK">
+                                <span><i class="bi bi-globe-americas text-primary me-2"></i>General Knowledge</span>
+                                <i class="bi bi-chevron-down text-muted"></i>
+                            </button>
+                        </div>
+                        <div id="catGK" class="collapse">
+                            <div class="card-body border-top bg-light">
+                                <ul class="list-group list-group-flush bg-transparent">
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Awards</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Books</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Capitals</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Indian Constitution</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> World Records</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 8. Learning Basics -->
+                <div class="col-md-6">
+                    <div class="card border shadow-sm rounded-3">
+                        <div class="card-header bg-white border-0 py-3">
+                            <button class="btn btn-link text-decoration-none text-dark w-100 text-start d-flex justify-content-between align-items-center fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#catBasics">
+                                <span><i class="bi bi-book text-primary me-2"></i>Learning Basics</span>
+                                <i class="bi bi-chevron-down text-muted"></i>
+                            </button>
+                        </div>
+                        <div id="catBasics" class="collapse">
+                            <div class="card-body border-top bg-light">
+                                <ul class="list-group list-group-flush bg-transparent">
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Basic Maths</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Basic Science</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Computer Basic</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> General Knowledge</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Grammar</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 9. Entertainment -->
+                <div class="col-md-6">
+                    <div class="card border shadow-sm rounded-3">
+                        <div class="card-header bg-white border-0 py-3">
+                            <button class="btn btn-link text-decoration-none text-dark w-100 text-start d-flex justify-content-between align-items-center fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#catEntertainment">
+                                <span><i class="bi bi-film text-primary me-2"></i>Entertainment</span>
+                                <i class="bi bi-chevron-down text-muted"></i>
+                            </button>
+                        </div>
+                        <div id="catEntertainment" class="collapse">
+                            <div class="card-body border-top bg-light">
+                                <ul class="list-group list-group-flush bg-transparent">
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Bollywood</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Hollywood</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Marvel</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Fictional Character</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Music</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 10. Sports -->
+                <div class="col-md-6">
+                    <div class="card border shadow-sm rounded-3">
+                        <div class="card-header bg-white border-0 py-3">
+                            <button class="btn btn-link text-decoration-none text-dark w-100 text-start d-flex justify-content-between align-items-center fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#catSports">
+                                <span><i class="bi bi-trophy text-primary me-2"></i>Sports</span>
+                                <i class="bi bi-chevron-down text-muted"></i>
+                            </button>
+                        </div>
+                        <div id="catSports" class="collapse">
+                            <div class="card-body border-top bg-light">
+                                <ul class="list-group list-group-flush bg-transparent">
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> All Sports</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Cricket</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Football</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> ICC Tournament</li>
+                                    <li class="list-group-item bg-transparent border-0 py-1"><i class="bi bi-dot"></i> Olympic</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Try It Yourself Callout -->
+            <div class="card border-0 rounded-4 bg-primary text-white text-center p-4 p-md-5 mt-5 shadow-sm">
+                <h3 class="fw-bold mb-2">Ready to Challenge Yourself?</h3>
+                <p class="lead mb-4">Pick your favorite subject and test your comprehension right now!</p>
+                <div>
+                    <a href="setup.html" class="btn btn-light btn-lg px-4 rounded-pill fw-bold text-primary shadow">
+                        Try It Yourself
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Me Section -->
+    <section id="contact" class="py-5 bg-white">
+        <div class="container py-4 text-center">
+            <h2 class="display-6 fw-bold text-dark mb-3">Contact Me</h2>
+            <p class="text-muted mb-5">Have questions, feedback, or suggestions? Reach out directly via phone, email, or WhatsApp.</p>
+            <div class="d-flex justify-content-center align-items-center gap-4 flex-wrap">
+                <!-- Phone -->
+                <a href="tel:+918127090047" class="btn btn-outline-primary rounded-circle d-flex align-items-center justify-content-center shadow-sm" style="width: 60px; height: 60px; font-size: 1.5rem;" title="Call Me">
+                    <i class="bi bi-telephone-fill"></i>
+                </a>
+                <!-- Email -->
+                <a href="mailto:sachinkori9324@gmail.com?subject=Master%20Quiz%20Enquiry" class="btn btn-outline-danger rounded-circle d-flex align-items-center justify-content-center shadow-sm" style="width: 60px; height: 60px; font-size: 1.5rem;" title="Send Email">
+                    <i class="bi bi-envelope-fill"></i>
+                </a>
+                <!-- WhatsApp -->
+                <a href="https://wa.me/918127090047?text=Hi,%20I%20have%20an%20enquiry%20regarding%20Master%20Quiz." target="_blank" class="btn btn-outline-success rounded-circle d-flex align-items-center justify-content-center shadow-sm" style="width: 60px; height: 60px; font-size: 1.5rem;" title="Chat on WhatsApp">
+                    <i class="bi bi-whatsapp"></i>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-dark py-4 text-white border-top border-secondary">
+        <div class="container text-center">
+            <p class="mb-0 small text-white-50">
+                All rights reserved with BuildwithSachin45
+            </p>
+        </div>
+    </footer>
+
+    <!-- Bootstrap 5 Bundle JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "What is the capital city of France?",
+    "options": [
+      "Marseille",
+      "Lyon",
+      "Paris",
+      "Nice"
+    ],
+    "answer": "Paris"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "Which city serves as the capital of Japan?",
+    "options": [
+      "Kyoto",
+      "Osaka",
+      "Tokyo",
+      "Hiroshima"
+    ],
+    "answer": "Tokyo"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "What is the capital of the United States?",
+    "options": [
+      "New York City",
+      "Washington, D.C.",
+      "Los Angeles",
+      "Chicago"
+    ],
+    "answer": "Washington, D.C."
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "What is the capital city of India?",
+    "options": [
+      "Mumbai",
+      "Kolkata",
+      "New Delhi",
+      "Bengaluru"
+    ],
+    "answer": "New Delhi"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "Which city is the capital of Germany?",
+    "options": [
+      "Munich",
+      "Frankfurt",
+      "Berlin",
+      "Hamburg"
+    ],
+    "answer": "Berlin"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "What is the capital city of Italy?",
+    "options": [
+      "Milan",
+      "Rome",
+      "Venice",
+      "Florence"
+    ],
+    "answer": "Rome"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "Which city is the capital of the United Kingdom?",
+    "options": [
+      "Edinburgh",
+      "Manchester",
+      "London",
+      "Birmingham"
+    ],
+    "answer": "London"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "What is the capital city of Russia?",
+    "options": [
+      "Saint Petersburg",
+      "Moscow",
+      "Kazan",
+      "Novosibirsk"
+    ],
+    "answer": "Moscow"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "Which city serves as the capital of China?",
+    "options": [
+      "Shanghai",
+      "Beijing",
+      "Guangzhou",
+      "Shenzhen"
+    ],
+    "answer": "Beijing"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "What is the capital city of Canada?",
+    "options": [
+      "Toronto",
+      "Vancouver",
+      "Montreal",
+      "Ottawa"
+    ],
+    "answer": "Ottawa"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "Which city is the capital of Egypt?",
+    "options": [
+      "Alexandria",
+      "Cairo",
+      "Giza",
+      "Luxor"
+    ],
+    "answer": "Cairo"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "What is the capital of Spain?",
+    "options": [
+      "Barcelona",
+      "Madrid",
+      "Seville",
+      "Valencia"
+    ],
+    "answer": "Madrid"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "Which city is the capital of Argentina?",
+    "options": [
+      "Buenos Aires",
+      "Córdoba",
+      "Rosario",
+      "Mendoza"
+    ],
+    "answer": "Buenos Aires"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "What is the capital of Thailand?",
+    "options": [
+      "Chiang Mai",
+      "Phuket",
+      "Bangkok",
+      "Pattaya"
+    ],
+    "answer": "Bangkok"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "Which city serves as the capital of Mexico?",
+    "options": [
+      "Guadalajara",
+      "Mexico City",
+      "Monterrey",
+      "Cancún"
+    ],
+    "answer": "Mexico City"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "What is the state capital of New York State in the USA?",
+    "options": [
+      "New York City",
+      "Buffalo",
+      "Albany",
+      "Rochester"
+    ],
+    "answer": "Albany"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "What is the capital of the Indian state of Maharashtra?",
+    "options": [
+      "Pune",
+      "Nagpur",
+      "Mumbai",
+      "Nashik"
+    ],
+    "answer": "Mumbai"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "Which city is the capital of South Korea?",
+    "options": [
+      "Busan",
+      "Seoul",
+      "Incheon",
+      "Daegu"
+    ],
+    "answer": "Seoul"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "What is the capital city of Greece?",
+    "options": [
+      "Thessaloniki",
+      "Santorini",
+      "Athens",
+      "Heraklion"
+    ],
+    "answer": "Athens"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "Which city is the capital of Portugal?",
+    "options": [
+      "Porto",
+      "Lisbon",
+      "Faro",
+      "Coimbra"
+    ],
+    "answer": "Lisbon"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "What is the capital of Australia?",
+    "options": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Perth"
+    ],
+    "answer": "Canberra"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "Which city is the capital of Saudi Arabia?",
+    "options": [
+      "Jeddah",
+      "Riyadh",
+      "Mecca",
+      "Medina"
+    ],
+    "answer": "Riyadh"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "What is the state capital of Texas in the USA?",
+    "options": [
+      "Houston",
+      "Dallas",
+      "Austin",
+      "San Antonio"
+    ],
+    "answer": "Austin"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "Which city serves as the capital of Kenya?",
+    "options": [
+      "Mombasa",
+      "Nairobi",
+      "Kisumu",
+      "Nakuru"
+    ],
+    "answer": "Nairobi"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "What is the capital city of Iraq?",
+    "options": [
+      "Mosul",
+      "Basra",
+      "Erbil",
+      "Baghdad"
+    ],
+    "answer": "Baghdad"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "What is the capital of the Indian state of Tamil Nadu?",
+    "options": [
+      "Coimbatore",
+      "Madurai",
+      "Chennai",
+      "Tiruchirappalli"
+    ],
+    "answer": "Chennai"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "Which city is the capital of Ireland?",
+    "options": [
+      "Cork",
+      "Galway",
+      "Dublin",
+      "Belfast"
+    ],
+    "answer": "Dublin"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "What is the capital of Sweden?",
+    "options": [
+      "Gothenburg",
+      "Stockholm",
+      "Malmö",
+      "Uppsala"
+    ],
+    "answer": "Stockholm"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "Which city is the capital of Indonesia?",
+    "options": [
+      "Bali",
+      "Surabaya",
+      "Jakarta",
+      "Bandung"
+    ],
+    "answer": "Jakarta"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "What is the capital city of Netherlands?",
+    "options": [
+      "Rotterdam",
+      "The Hague",
+      "Amsterdam",
+      "Utrecht"
+    ],
+    "answer": "Amsterdam"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "Which city is the capital of Brazil?",
+    "options": [
+      "Rio de Janeiro",
+      "São Paulo",
+      "Brasília",
+      "Salvador"
+    ],
+    "answer": "Brasília"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "What is the state capital of California in the USA?",
+    "options": [
+      "Los Angeles",
+      "San Francisco",
+      "Sacramento",
+      "San Diego"
+    ],
+    "answer": "Sacramento"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "What is the administrative capital of South Africa?",
+    "options": [
+      "Cape Town",
+      "Pretoria",
+      "Bloemfontein",
+      "Johannesburg"
+    ],
+    "answer": "Pretoria"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "Which city is the capital of Turkey?",
+    "options": [
+      "Istanbul",
+      "Ankara",
+      "Izmir",
+      "Antalya"
+    ],
+    "answer": "Ankara"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "What is the state capital of Florida in the USA?",
+    "options": [
+      "Miami",
+      "Orlando",
+      "Tampa",
+      "Tallahassee"
+    ],
+    "answer": "Tallahassee"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "What is the capital of the Indian state of Rajasthan?",
+    "options": [
+      "Jodhpur",
+      "Udaipur",
+      "Jaipur",
+      "Jaisalmer"
+    ],
+    "answer": "Jaipur"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "Which city is the official capital of Switzerland?",
+    "options": [
+      "Zurich",
+      "Geneva",
+      "Bern",
+      "Basel"
+    ],
+    "answer": "Bern"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "What is the capital city of New Zealand?",
+    "options": [
+      "Auckland",
+      "Christchurch",
+      "Wellington",
+      "Hamilton"
+    ],
+    "answer": "Wellington"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "Which city is the capital of Pakistan?",
+    "options": [
+      "Karachi",
+      "Lahore",
+      "Islamabad",
+      "Rawalpindi"
+    ],
+    "answer": "Islamabad"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "What is the capital city of Vietnam?",
+    "options": [
+      "Ho Chi Minh City",
+      "Hanoi",
+      "Da Nang",
+      "Haiphong"
+    ],
+    "answer": "Hanoi"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "What is the capital of the Canadian province of British Columbia?",
+    "options": [
+      "Vancouver",
+      "Victoria",
+      "Kelowna",
+      "Surrey"
+    ],
+    "answer": "Victoria"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "Which city is the capital of Nigeria?",
+    "options": [
+      "Lagos",
+      "Abuja",
+      "Kano",
+      "Ibadan"
+    ],
+    "answer": "Abuja"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "What is the capital city of Poland?",
+    "options": [
+      "Kraków",
+      "Gdańsk",
+      "Warsaw",
+      "Wrocław"
+    ],
+    "answer": "Warsaw"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "What is the capital of the Indian state of West Bengal?",
+    "options": [
+      "Siliguri",
+      "Asansol",
+      "Kolkata",
+      "Durgapur"
+    ],
+    "answer": "Kolkata"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "Which city is the capital of Morocco?",
+    "options": [
+      "Casablanca",
+      "Marrakesh",
+      "Rabat",
+      "Fes"
+    ],
+    "answer": "Rabat"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "What is the state capital of Illinois in the USA?",
+    "options": [
+      "Chicago",
+      "Springfield",
+      "Peoria",
+      "Rockford"
+    ],
+    "answer": "Springfield"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "Which city serves as the capital of the Philippines?",
+    "options": [
+      "Cebu City",
+      "Davao City",
+      "Manila",
+      "Quezon City"
+    ],
+    "answer": "Manila"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "What is the capital of the Australian state of New South Wales?",
+    "options": [
+      "Sydney",
+      "Newcastle",
+      "Wollongong",
+      "Canberra"
+    ],
+    "answer": "Sydney"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "Which city is the capital of Norway?",
+    "options": [
+      "Bergen",
+      "Oslo",
+      "Trondheim",
+      "Stavanger"
+    ],
+    "answer": "Oslo"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "What is the state capital of Washington in the USA?",
+    "options": [
+      "Seattle",
+      "Spokane",
+      "Olympia",
+      "Tacoma"
+    ],
+    "answer": "Olympia"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "What is the capital of Colombia?",
+    "options": [
+      "Medellín",
+      "Cali",
+      "Bogotá",
+      "Cartagena"
+    ],
+    "answer": "Bogotá"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "Which city serves as the capital of Finland?",
+    "options": [
+      "Tampere",
+      "Turku",
+      "Helsinki",
+      "Oulu"
+    ],
+    "answer": "Helsinki"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "What is the capital of the Indian state of Gujarat?",
+    "options": [
+      "Ahmedabad",
+      "Surat",
+      "Gandhinagar",
+      "Vadodara"
+    ],
+    "answer": "Gandhinagar"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "Which city is the capital of Chile?",
+    "options": [
+      "Valparaíso",
+      "Santiago",
+      "Concepción",
+      "Mendoza"
+    ],
+    "answer": "Santiago"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "What is the capital of the Canadian province of Quebec?",
+    "options": [
+      "Montreal",
+      "Quebec City",
+      "Laval",
+      "Gatineau"
+    ],
+    "answer": "Quebec City"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "Which city is the capital of Austria?",
+    "options": [
+      "Salzburg",
+      "Innsbruck",
+      "Vienna",
+      "Graz"
+    ],
+    "answer": "Vienna"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "What is the state capital of Pennsylvania in the USA?",
+    "options": [
+      "Philadelphia",
+      "Pittsburgh",
+      "Harrisburg",
+      "Scranton"
+    ],
+    "answer": "Harrisburg"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "Which city serves as the capital of Peru?",
+    "options": [
+      "Cusco",
+      "Arequipa",
+      "Lima",
+      "Trujillo"
+    ],
+    "answer": "Lima"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "What is the capital of the Indian state of Kerala?",
+    "options": [
+      "Kochi",
+      "Thiruvananthapuram",
+      "Kozhikode",
+      "Thrissur"
+    ],
+    "answer": "Thiruvananthapuram"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "Which city is the capital of Denmark?",
+    "options": [
+      "Aarhus",
+      "Odense",
+      "Copenhagen",
+      "Aalborg"
+    ],
+    "answer": "Copenhagen"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "What is the political capital of Côte d'Ivoire (Ivory Coast)?",
+    "options": [
+      "Abidjan",
+      "Yamoussoukro",
+      "Bouaké",
+      "San-Pédro"
+    ],
+    "answer": "Yamoussoukro"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "Which city became the official political capital of Burundi in 2019?",
+    "options": [
+      "Bujumbura",
+      "Gitega",
+      "Ngozi",
+      "Rumonge"
+    ],
+    "answer": "Gitega"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "What is the constitutional and official capital of Bolivia?",
+    "options": [
+      "La Paz",
+      "Sucre",
+      "Santa Cruz de la Sierra",
+      "Cochabamba"
+    ],
+    "answer": "Sucre"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "What is the official capital city of Myanmar (Burma)?",
+    "options": [
+      "Yangon",
+      "Mandalay",
+      "Naypyidaw",
+      "Bagan"
+    ],
+    "answer": "Naypyidaw"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "Which city is the capital of Sri Lanka's official legislative power?",
+    "options": [
+      "Colombo",
+      "Sri Jayawardenepura Kotte",
+      "Kandy",
+      "Galle"
+    ],
+    "answer": "Sri Jayawardenepura Kotte"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "What is the state capital of Alaska in the USA?",
+    "options": [
+      "Anchorage",
+      "Fairbanks",
+      "Juneau",
+      "Sitka"
+    ],
+    "answer": "Juneau"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "What is the capital city of Kazakhstan?",
+    "options": [
+      "Almaty",
+      "Astana",
+      "Shymkent",
+      "Karaganda"
+    ],
+    "answer": "Astana"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "Which city is the capital of the Pacific island nation of Palau?",
+    "options": [
+      "Koror",
+      "Ngerulmud",
+      "Airai",
+      "Melekeok"
+    ],
+    "answer": "Ngerulmud"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "What is the official capital of Benin?",
+    "options": [
+      "Cotonou",
+      "Porto-Novo",
+      "Parakou",
+      "Abomey"
+    ],
+    "answer": "Porto-Novo"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "What is the capital of the Indian state of Nagaland?",
+    "options": [
+      "Dimapur",
+      "Kohima",
+      "Mokokchung",
+      "Tuensang"
+    ],
+    "answer": "Kohima"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "Which city is the capital of Liechtenstein?",
+    "options": [
+      "Schaan",
+      "Vaduz",
+      "Balzers",
+      "Triesen"
+    ],
+    "answer": "Vaduz"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "What is the state capital of Missouri in the USA?",
+    "options": [
+      "Kansas City",
+      "St. Louis",
+      "Jefferson City",
+      "Springfield"
+    ],
+    "answer": "Jefferson City"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "Which city serves as the capital of Tanzania?",
+    "options": [
+      "Dar es Salaam",
+      "Dodoma",
+      "Arusha",
+      "Mwanza"
+    ],
+    "answer": "Dodoma"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "What is the capital city of Mongolia?",
+    "options": [
+      "Erdenet",
+      "Ulaanbaatar",
+      "Darkhan",
+      "Choibalsan"
+    ],
+    "answer": "Ulaanbaatar"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "What is the capital of the Canadian province of Saskatchewan?",
+    "options": [
+      "Saskatoon",
+      "Regina",
+      "Prince Albert",
+      "Moose Jaw"
+    ],
+    "answer": "Regina"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "Which city is the capital of Malta?",
+    "options": [
+      "Birkirkara",
+      "Sliema",
+      "Valletta",
+      "Mdina"
+    ],
+    "answer": "Valletta"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "What is the state capital of Vermont in the USA?",
+    "options": [
+      "Burlington",
+      "Montpelier",
+      "Rutland",
+      "Barre"
+    ],
+    "answer": "Montpelier"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "What is the capital of the Indian state of Mizoram?",
+    "options": [
+      "Lunglei",
+      "Aizawl",
+      "Champhai",
+      "Serchhip"
+    ],
+    "answer": "Aizawl"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "Which city serves as the capital of Bhutan?",
+    "options": [
+      "Paro",
+      "Punakha",
+      "Thimphu",
+      "Phuntsholing"
+    ],
+    "answer": "Thimphu"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "What is the capital city of Madagascar?",
+    "options": [
+      "Toamasina",
+      "Antananarivo",
+      "Mahajanga",
+      "Antsirabe"
+    ],
+    "answer": "Antananarivo"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "What is the judicial capital of South Africa?",
+    "options": [
+      "Pretoria",
+      "Cape Town",
+      "Bloemfontein",
+      "Durban"
+    ],
+    "answer": "Bloemfontein"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "Which city is the capital of Suriname?",
+    "options": [
+      "Paramaribo",
+      "Lelydorp",
+      "Nieuw Nickerie",
+      "Moengo"
+    ],
+    "answer": "Paramaribo"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "What is the state capital of North Carolina in the USA?",
+    "options": [
+      "Charlotte",
+      "Raleigh",
+      "Greensboro",
+      "Durham"
+    ],
+    "answer": "Raleigh"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "What is the capital of the Australian state of Tasmania?",
+    "options": [
+      "Launceston",
+      "Hobart",
+      "Devonport",
+      "Burnie"
+    ],
+    "answer": "Hobart"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "Which city is the capital of San Marino?",
+    "options": [
+      "Dogana",
+      "City of San Marino",
+      "Borgo Maggiore",
+      "Serravalle"
+    ],
+    "answer": "City of San Marino"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "What is the capital of the Indian state of Arunachal Pradesh?",
+    "options": [
+      "Itanagar",
+      "Tawang",
+      "Naharlagun",
+      "Pasighat"
+    ],
+    "answer": "Itanagar"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "Which city is the capital of Equatorial Guinea?",
+    "options": [
+      "Bata",
+      "Malabo",
+      "Ebebiyin",
+      "Oyala"
+    ],
+    "answer": "Malabo"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "What is the state capital of Nevada in the USA?",
+    "options": [
+      "Las Vegas",
+      "Reno",
+      "Carson City",
+      "Henderson"
+    ],
+    "answer": "Carson City"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "What is the capital city of Kyrgyzstan?",
+    "options": [
+      "Osh",
+      "Bishkek",
+      "Jalal-Abad",
+      "Karakol"
+    ],
+    "answer": "Bishkek"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "Which city is the capital of the African country Eritrea?",
+    "options": [
+      "Massawa",
+      "Asmara",
+      "Keren",
+      "Assab"
+    ],
+    "answer": "Asmara"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "What is the capital of the Brazilian state of Amazonas?",
+    "options": [
+      "Belém",
+      "Manaus",
+      "Santarém",
+      "Macapá"
+    ],
+    "answer": "Manaus"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "Which city is the capital of Belize?",
+    "options": [
+      "Belize City",
+      "Belmopan",
+      "San Ignacio",
+      "Orange Walk Town"
+    ],
+    "answer": "Belmopan"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "What is the capital of the Indian state of Chhattisgarh?",
+    "options": [
+      "Bhilai",
+      "Bilaspur",
+      "Raipur",
+      "Korba"
+    ],
+    "answer": "Raipur"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "What is the state capital of Kentucky in the USA?",
+    "options": [
+      "Louisville",
+      "Lexington",
+      "Frankfort",
+      "Bowling Green"
+    ],
+    "answer": "Frankfort"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "Which city is the capital of Timor-Leste (East Timor)?",
+    "options": [
+      "Dili",
+      "Baucau",
+      "Maliana",
+      "Suai"
+    ],
+    "answer": "Dili"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "What is the capital city of Mauritania?",
+    "options": [
+      "Nouakchott",
+      "Nouadhibou",
+      "Kiffa",
+      "Rosso"
+    ],
+    "answer": "Nouakchott"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "What is the capital of the Canadian territory of Yukon?",
+    "options": [
+      "Dawson City",
+      "Whitehorse",
+      "Yellowknife",
+      "Iqaluit"
+    ],
+    "answer": "Whitehorse"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "Which city is the capital of the island nation of Tuvalu?",
+    "options": [
+      "Funafuti",
+      "Tarawa",
+      "Majuro",
+      "Nuku'alofa"
+    ],
+    "answer": "Funafuti"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "What is the state capital of South Dakota in the USA?",
+    "options": [
+      "Sioux Falls",
+      "Rapid City",
+      "Pierre",
+      "Aberdeen"
+    ],
+    "answer": "Pierre"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "Which city is the official capital of Eswatini (Swaziland) for executive administration?",
+    "options": [
+      "Lobamba",
+      "Mbabane",
+      "Manzini",
+      "Big Bend"
+    ],
+    "answer": "Mbabane"
+  }
+]

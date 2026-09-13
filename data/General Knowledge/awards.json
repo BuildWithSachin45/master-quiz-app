@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "Which prestigious award is presented annually for excellence in the American film industry?",
+    "options": [
+      "Grammy Award",
+      "Academy Award (Oscar)",
+      "Emmy Award",
+      "Tony Award"
+    ],
+    "answer": "Academy Award (Oscar)"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "Which Nobel Prize category was NOT established in Alfred Nobel's original will?",
+    "options": [
+      "Peace",
+      "Literature",
+      "Economic Sciences",
+      "Physics"
+    ],
+    "answer": "Economic Sciences"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "The Grammy Awards honor outstanding achievements in which industry?",
+    "options": [
+      "Television",
+      "Music",
+      "Theatre",
+      "Journalism"
+    ],
+    "answer": "Music"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "What is India's highest civilian honor?",
+    "options": [
+      "Padma Vibhushan",
+      "Padma Bhushan",
+      "Bharat Ratna",
+      "Param Vir Chakra"
+    ],
+    "answer": "Bharat Ratna"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "The Pulitzer Prize is primarily awarded for achievements in which field?",
+    "options": [
+      "Journalism and Literature",
+      "Film and Television",
+      "Sports and Athletics",
+      "Architecture and Design"
+    ],
+    "answer": "Journalism and Literature"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "Which award ceremony honors excellence in American Broadway theatre?",
+    "options": [
+      "Tony Award",
+      "Emmy Award",
+      "Golden Globe Award",
+      "BAFTA Award"
+    ],
+    "answer": "Tony Award"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "The Emmy Awards recognize excellence in which media industry?",
+    "options": [
+      "Radio",
+      "Television",
+      "Film",
+      "Print Media"
+    ],
+    "answer": "Television"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "Which country awards the Nobel Prizes (except for the Nobel Peace Prize)?",
+    "options": [
+      "Norway",
+      "Sweden",
+      "Denmark",
+      "Switzerland"
+    ],
+    "answer": "Sweden"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "Where is the Nobel Peace Prize presented annually?",
+    "options": [
+      "Stockholm, Sweden",
+      "Oslo, Norway",
+      "Geneva, Switzerland",
+      "Copenhagen, Denmark"
+    ],
+    "answer": "Oslo, Norway"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "What award is given to the winner of the FIFA World Cup tournament in football?",
+    "options": [
+      "Claret Jug",
+      "FIFA World Cup Trophy",
+      "Webb Ellis Cup",
+      "Vince Lombardi Trophy"
+    ],
+    "answer": "FIFA World Cup Trophy"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "What major award honors excellence in Indian cinema and is presented by the Directorate of Film Festivals?",
+    "options": [
+      "Filmfare Award",
+      "National Film Award",
+      "IIFA Award",
+      "Zee Cine Award"
+    ],
+    "answer": "National Film Award"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "Which award is widely regarded as the highest honor in Indian cinema?",
+    "options": [
+      "Dadasaheb Phalke Award",
+      "Filmfare Lifetime Achievement Award",
+      "Sangeet Natak Akademi Award",
+      "National Film Award for Best Actor"
+    ],
+    "answer": "Dadasaheb Phalke Award"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "What color is the highest civilian award medal in France, known as the Legion of Honour?",
+    "options": [
+      "Blue Ribbon",
+      "Red Ribbon",
+      "Green Ribbon",
+      "Gold Ribbon"
+    ],
+    "answer": "Red Ribbon"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "Which annual award recognizes the best European football player of the year?",
+    "options": [
+      "Ballon d'Or",
+      "Golden Boot",
+      "Golden Boy",
+      "Puskás Award"
+    ],
+    "answer": "Ballon d'Or"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "What is the highest military decoration awarded in the United States?",
+    "options": [
+      "Purple Heart",
+      "Medal of Honor",
+      "Distinguished Flying Cross",
+      "Silver Star"
+    ],
+    "answer": "Medal of Honor"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "What is India's highest wartime military decoration for valour?",
+    "options": [
+      "Maha Vir Chakra",
+      "Param Vir Chakra",
+      "Ashoka Chakra",
+      "Vir Chakra"
+    ],
+    "answer": "Param Vir Chakra"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "The Booker Prize is awarded annually for the best written work in which discipline?",
+    "options": [
+      "Poetry",
+      "Fiction Novel",
+      "Biography",
+      "Drama"
+    ],
+    "answer": "Fiction Novel"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "What term refers to winning an Emmy, Grammy, Oscar, and Tony Award?",
+    "options": [
+      "Grand Slam",
+      "EGOT",
+      "Triple Crown",
+      "Golden Quad"
+    ],
+    "answer": "EGOT"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "The BAFTA Awards are presented by the national academy of which country?",
+    "options": [
+      "United States",
+      "United Kingdom",
+      "Australia",
+      "Canada"
+    ],
+    "answer": "United Kingdom"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "What award is given annually to the best FIFA goal scored in a calendar year?",
+    "options": [
+      "Golden Ball",
+      "Puskás Award",
+      "Golden Glove",
+      "Best FIFA Men's Player"
+    ],
+    "answer": "Puskás Award"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "Which British award honors outstanding achievements in classical and pop music performance?",
+    "options": [
+      "BRIT Awards",
+      "Mercury Prize",
+      "Ivor Novello Award",
+      "MOBO Awards"
+    ],
+    "answer": "BRIT Awards"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "The Golden Raspberry Awards (Razzies) are presented to celebrate what in film?",
+    "options": [
+      "Best Visual Effects",
+      "Worst Cinematic Achievements",
+      "Best Low-Budget Films",
+      "Top Student Films"
+    ],
+    "answer": "Worst Cinematic Achievements"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "Which prize is widely considered the highest international honor in Mathematics?",
+    "options": [
+      "Turing Award",
+      "Fields Medal",
+      "Abel Prize",
+      "Prize of the AMS"
+    ],
+    "answer": "Fields Medal"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "What award is presented annually for excellence in computer science and technology?",
+    "options": [
+      "Turing Award",
+      "Copley Medal",
+      "Draper Prize",
+      "Edison Medal"
+    ],
+    "answer": "Turing Award"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "Which highest Indian peacetime military decoration is awarded for bravery away from the battlefield?",
+    "options": [
+      "Shaurya Chakra",
+      "Kirti Chakra",
+      "Ashoka Chakra",
+      "Sena Medal"
+    ],
+    "answer": "Ashoka Chakra"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "The Palme d'Or is the highest prize awarded at which famous film festival?",
+    "options": [
+      "Venice Film Festival",
+      "Cannes Film Festival",
+      "Berlin International Film Festival",
+      "Sundance Film Festival"
+    ],
+    "answer": "Cannes Film Festival"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "What award honors annual architectural achievement globally and is known as 'Architecture's Nobel'?",
+    "options": [
+      "Stirling Prize",
+      "Pritzker Architecture Prize",
+      "RIBA Gold Medal",
+      "AIA Gold Medal"
+    ],
+    "answer": "Pritzker Architecture Prize"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "Which national honor is presented by the President of India for sports coaching excellence?",
+    "options": [
+      "Arjuna Award",
+      "Dronacharya Award",
+      "Major Dhyan Chand Khel Ratna",
+      "Rashtriya Khel Protsahan Puraskar"
+    ],
+    "answer": "Dronacharya Award"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "What is India's highest sporting honor?",
+    "options": [
+      "Arjuna Award",
+      "Major Dhyan Chand Khel Ratna Award",
+      "Dronacharya Award",
+      "C. K. Nayudu Lifetime Achievement Award"
+    ],
+    "answer": "Major Dhyan Chand Khel Ratna Award"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "The Golden Bear is the highest prize awarded at which international film festival?",
+    "options": [
+      "Venice International Film Festival",
+      "Berlin International Film Festival",
+      "Toronto International Film Festival",
+      "Locarno Film Festival"
+    ],
+    "answer": "Berlin International Film Festival"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "options": [
+      "Rosalind Franklin",
+      "Marie Curie",
+      "Irène Joliot-Curie",
+      "Bertha von Suttner"
+    ],
+    "answer": "Marie Curie"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "In which year were the first Nobel Prizes awarded?",
+    "options": [
+      "1895",
+      "1901",
+      "1911",
+      "1923"
+    ],
+    "answer": "1901"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "Who was the first Indian to receive a Nobel Prize?",
+    "options": [
+      "C. V. Raman",
+      "Rabindranath Tagore",
+      "Mother Teresa",
+      "Amartya Sen"
+    ],
+    "answer": "Rabindranath Tagore"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "Who was the first recipient of the Bharat Ratna award in 1954 alongside C. Rajagopalachari and C. V. Raman?",
+    "options": [
+      "Dr. Sarvepalli Radhakrishnan",
+      "Jawaharlal Nehru",
+      "Dr. Rajendra Prasad",
+      "Sardar Vallabhbhai Patel"
+    ],
+    "answer": "Dr. Sarvepalli Radhakrishnan"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "The Ramon Magsaysay Award is widely regarded as Asia's equivalent to which honor?",
+    "options": [
+      "Pulitzer Prize",
+      "Nobel Prize",
+      "Fields Medal",
+      "Booker Prize"
+    ],
+    "answer": "Nobel Prize"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "Which prestigious award is given annually by the Government of India for literary merit in any of the 22 official languages?",
+    "options": [
+      "Jnanpith Award",
+      "Sahitya Akademi Award",
+      "Saraswati Samman",
+      "Vyas Samman"
+    ],
+    "answer": "Sahitya Akademi Award"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "Which country awards the Order of the Rising Sun?",
+    "options": [
+      "China",
+      "Japan",
+      "South Korea",
+      "Thailand"
+    ],
+    "answer": "Japan"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "The Golden Lion is the highest award presented at which international film festival?",
+    "options": [
+      "Cannes Film Festival",
+      "Venice Film Festival",
+      "San Sebastián Film Festival",
+      "Tokyo International Film Festival"
+    ],
+    "answer": "Venice Film Festival"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "Who is the only person to win Nobel Prizes in two different scientific fields?",
+    "options": [
+      "Linus Pauling",
+      "Marie Curie",
+      "John Bardeen",
+      "Frederick Sanger"
+    ],
+    "answer": "Marie Curie"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "Which organization has won the Nobel Peace Prize three separate times (1917, 1944, and 1963)?",
+    "options": [
+      "UNHCR",
+      "International Committee of the Red Cross",
+      "Amnesty International",
+      "Doctors Without Borders"
+    ],
+    "answer": "International Committee of the Red Cross"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "Who was the first person to win the Dadasaheb Phalke Award when it was introduced in 1969?",
+    "options": [
+      "Prithviraj Kapoor",
+      "Devika Rani",
+      "Satyajit Ray",
+      "Lata Mangeshkar"
+    ],
+    "answer": "Devika Rani"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "Which annual award recognizes the best contemporary album by a British or Irish artist?",
+    "options": [
+      "Mercury Prize",
+      "Ivor Novello Award",
+      "Polar Music Prize",
+      "Gramophone Classical Music Award"
+    ],
+    "answer": "Mercury Prize"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "Which prestigious prize is presented annually for outstanding contributions to Mathematics by the King of Norway?",
+    "options": [
+      "Fields Medal",
+      "Abel Prize",
+      "Wolf Prize",
+      "Ramanujan Prize"
+    ],
+    "answer": "Abel Prize"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "The Shanti Swarup Bhatnagar Prize in India is awarded for outstanding performance in which field?",
+    "options": [
+      "Performing Arts",
+      "Science and Technology",
+      "Social Service",
+      "Literature and Poetry"
+    ],
+    "answer": "Science and Technology"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "Who was the first athlete to be awarded the Bharat Ratna?",
+    "options": [
+      "Major Dhyan Chand",
+      "Sachin Tendulkar",
+      "Milkha Singh",
+      "P. T. Usha"
+    ],
+    "answer": "Sachin Tendulkar"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "Which award is given annually by the BirIa Foundation for outstanding prose or poetry in any Indian language published in the last 10 years?",
+    "options": [
+      "Saraswati Samman",
+      "Jnanpith Award",
+      "Kalidas Samman",
+      "Kabir Samman"
+    ],
+    "answer": "Saraswati Samman"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "Which US Presidential award is the highest civilian honor in the United States?",
+    "options": [
+      "Congressional Gold Medal",
+      "Presidential Medal of Freedom",
+      "National Medal of Science",
+      "Presidential Citizens Medal"
+    ],
+    "answer": "Presidential Medal of Freedom"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "Which non-governmental award honors individuals and organizations for courageous work in human rights and environmental protection, often termed the 'Alternative Nobel Prize'?",
+    "options": [
+      "Right Livelihood Award",
+      "Goldman Environmental Prize",
+      "Templeton Prize",
+      "Tyler Prize for Environmental Achievement"
+    ],
+    "answer": "Right Livelihood Award"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "What highest honor is awarded by the Royal Institute of British Architects (RIBA)?",
+    "options": [
+      "Stirling Prize",
+      "Royal Gold Medal",
+      "Agakhan Award",
+      "Mies van der Rohe Award"
+    ],
+    "answer": "Royal Gold Medal"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "The Abel Prize is named after which famous mathematician?",
+    "options": [
+      "Niels Henrik Abel",
+      "Bernhard Riemann",
+      "Leonhard Euler",
+      "Carl Friedrich Gauss"
+    ],
+    "answer": "Niels Henrik Abel"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "Who was the first woman of African descent to win a Nobel Prize in Literature?",
+    "options": [
+      "Toni Morrison",
+      "Nadine Gordimer",
+      "Maya Angelou",
+      "Alice Walker"
+    ],
+    "answer": "Toni Morrison"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "The Copley Medal, established in 1731, is the oldest surviving scientific award given by which institution?",
+    "options": [
+      "French Academy of Sciences",
+      "Royal Society of London",
+      "Prussian Academy of Sciences",
+      "American Philosophical Society"
+    ],
+    "answer": "Royal Society of London"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "Who is the only person to have received both a Nobel Prize in Literature and an Academy Award (Oscar)?",
+    "options": [
+      "George Bernard Shaw",
+      "Ernest Hemingway",
+      "Bob Dylan",
+      "Both George Bernard Shaw and Bob Dylan"
+    ],
+    "answer": "Both George Bernard Shaw and Bob Dylan"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "Which Indian award is given specifically for outstanding contributions to journalism, literature, and community leadership in Asia?",
+    "options": [
+      "Ramon Magsaysay Award",
+      "Chameli Devi Jain Award",
+      "Ramnath Goenka Excellence in Journalism Award",
+      "B. C. Roy Award"
+    ],
+    "answer": "Ramnath Goenka Excellence in Journalism Award"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "Which annual literary award is open to books published in the UK that have been translated into English?",
+    "options": [
+      "International Booker Prize",
+      "Women's Prize for Fiction",
+      "Costa Book Awards",
+      "Dublin Literary Award"
+    ],
+    "answer": "International Booker Prize"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "The Tyler Prize is widely recognized as the premier international award for which discipline?",
+    "options": [
+      "Environmental Science and Energy",
+      "Astronomy and Cosmology",
+      "Biomedical Engineering",
+      "Economic Policy"
+    ],
+    "answer": "Environmental Science and Energy"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "Which Indian award was introduced in 1961 to honor outstanding performance in national sports?",
+    "options": [
+      "Arjuna Award",
+      "Dhyan Chand Award",
+      "Khel Ratna Award",
+      "Rashtriya Khel Protsahan Puraskar"
+    ],
+    "answer": "Arjuna Award"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "Who is the youngest-ever Nobel Prize laureate?",
+    "options": [
+      "Nadia Murad",
+      "Malala Yousafzai",
+      "Lawrence Bragg",
+      "Niels Bohr"
+    ],
+    "answer": "Malala Yousafzai"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "Which award, presented by the International Mathematical Union, is given every 4 years to mathematicians under 40 years of age?",
+    "options": [
+      "Abel Prize",
+      "Fields Medal",
+      "Nevanlinna Prize",
+      "Gauss Prize"
+    ],
+    "answer": "Fields Medal"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "Which country bestows the Order of Merit of the Federal Republic, its highest federal decoration?",
+    "options": [
+      "Austria",
+      "Germany",
+      "Switzerland",
+      "Belgium"
+    ],
+    "answer": "Germany"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "Which individual refusal of a Nobel Prize in Literature in 1964 remains the most famous voluntary decline in Nobel history?",
+    "options": [
+      "Boris Pasternak",
+      "Jean-Paul Sartre",
+      "George Bernard Shaw",
+      "Alexander Solzhenitsyn"
+    ],
+    "answer": "Jean-Paul Sartre"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "Who is the only individual to have won two unshared Nobel Prizes (Chemistry 1954, Peace 1962)?",
+    "options": [
+      "Linus Pauling",
+      "Marie Curie",
+      "John Bardeen",
+      "Frederick Sanger"
+    ],
+    "answer": "Linus Pauling"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "Who was the first recipient of the prestigious Indian literary award, the Jnanpith Award, in 1965?",
+    "options": [
+      "Tarasankar Bandyopadhyay",
+      "G. Sankara Kurup",
+      "K. Shivaram Karanth",
+      "Umashankar Joshi"
+    ],
+    "answer": "G. Sankara Kurup"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "The Templeton Prize is awarded for exceptional contributions to which domain?",
+    "options": [
+      "Affirming life's spiritual dimension through insight, discovery, or practical works",
+      "Advancements in theoretical particle physics and quantum computing",
+      "Preservation of indigenous musical traditions in developing nations",
+      "International diplomacy and non-proliferation treaty formulation"
+    ],
+    "answer": "Affirming life's spiritual dimension through insight, discovery, or practical works"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "Which scientist is the only person to have been awarded the Nobel Prize in Physics twice (1956 and 1972)?",
+    "options": [
+      "Richard Feynman",
+      "John Bardeen",
+      "Niels Bohr",
+      "Paul Dirac"
+    ],
+    "answer": "John Bardeen"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "What is the maximum number of individuals that can share a single Nobel Prize category in any given year?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "answer": "Three"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "Which prestigious award, founded in 1978 by the Wolf Foundation, is awarded in Israel across Agriculture, Chemistry, Mathematics, Medicine, Physics, and Arts?",
+    "options": [
+      "Dan David Prize",
+      "Wolf Prize",
+      "Harvey Prize",
+      "Genesis Prize"
+    ],
+    "answer": "Wolf Prize"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "In 2018, the Nobel Prize in Literature was postponed due to a crisis inside the award body. What is the official name of the awarding committee?",
+    "options": [
+      "Nobel Assembly at Karolinska Institute",
+      "Swedish Academy",
+      "Royal Swedish Academy of Sciences",
+      "Norwegian Nobel Committee"
+    ],
+    "answer": "Swedish Academy"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "Who was the first woman to win the Fields Medal in Mathematics (2014)?",
+    "options": [
+      "Maryam Mirzakhani",
+      "Karen Uhlenbeck",
+      "Claire Voisin",
+      "Maryna Viazovska"
+    ],
+    "answer": "Maryam Mirzakhani"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "Who was the first woman awarded the Abel Prize in Mathematics (2019)?",
+    "options": [
+      "Maryam Mirzakhani",
+      "Karen Uhlenbeck",
+      "Sophie Germain",
+      "Julia Robinson"
+    ],
+    "answer": "Karen Uhlenbeck"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "Which international decoration was established in 1918 as the highest military award of Poland?",
+    "options": [
+      "Virtuti Militari",
+      "Order of the White Eagle",
+      "Cross of Valour",
+      "Order of Polonia Restituta"
+    ],
+    "answer": "Virtuti Militari"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "Who is the only person to win both a Nobel Prize (Chemistry, 1958 and 1980) and two separate unshared Nobel awards in Chemistry?",
+    "options": [
+      "Linus Pauling",
+      "Frederick Sanger",
+      "Barry Sharpless",
+      "Marie Curie"
+    ],
+    "answer": "Frederick Sanger"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "Which award is widely regarded as the 'Green Nobel' for grassroots environmental activism?",
+    "options": [
+      "Tyler Prize",
+      "Goldman Environmental Prize",
+      "Blue Planet Prize",
+      "UNEP Champions of the Earth"
+    ],
+    "answer": "Goldman Environmental Prize"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "Which Indian scientist was awarded the Copley Medal by the Royal Society of London in 1988?",
+    "options": [
+      "Homi J. Bhabha",
+      "Subrahmanyan Chandrasekhar",
+      "C. V. Raman",
+      "Srinivasa Ramanujan"
+    ],
+    "answer": "Subrahmanyan Chandrasekhar"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "What award is given by the American Mathematical Society for outstanding exposition in mathematics?",
+    "options": [
+      "Steele Prize",
+      "Bôcher Memorial Prize",
+      "Cole Prize",
+      "Veblen Prize"
+    ],
+    "answer": "Steele Prize"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "Which world leader was awarded the Nobel Prize in Literature in 1953?",
+    "options": [
+      "Woodrow Wilson",
+      "Winston Churchill",
+      "Dag Hammarskjöld",
+      "Theodore Roosevelt"
+    ],
+    "answer": "Winston Churchill"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "Who was the first non-European to win the Nobel Prize in Physics?",
+    "options": [
+      "C. V. Raman",
+      "Hideki Yukawa",
+      "Subrahmanyan Chandrasekhar",
+      "Chen Ning Yang"
+    ],
+    "answer": "C. V. Raman"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "Which Indian recipient declined the Padma Bhushan in 1992, stating that national honors should not be accepted when government policies were contested?",
+    "options": [
+      "P. N. Haksar",
+      "Baba Amte",
+      "K. Shivaram Karanth",
+      "Vilayat Khan"
+    ],
+    "answer": "P. N. Haksar"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "The Kyotoc Prize is a private award for global achievement presented by which foundation?",
+    "options": [
+      "Nippon Foundation",
+      "Inamori Foundation",
+      "Sasakawa Peace Foundation",
+      "Japan Foundation"
+    ],
+    "answer": "Inamori Foundation"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "Which highest order of chivalry in the British honors system was founded by King Edward III in 1348?",
+    "options": [
+      "Order of the Thistle",
+      "Order of the Garter",
+      "Order of the Bath",
+      "Order of St Michael and St George"
+    ],
+    "answer": "Order of the Garter"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "The Borlaug Award is given annually to Indian scientists for outstanding research and contribution in which field?",
+    "options": [
+      "Nuclear Physics",
+      "Agriculture and Environment",
+      "Space Exploration",
+      "Molecular Biology"
+    ],
+    "answer": "Agriculture and Environment"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "Which literary award was established in memory of the creator of James Bond to honor thriller fiction?",
+    "options": [
+      "CWA Ian Fleming Steel Dagger",
+      "Edgar Allan Poe Award",
+      "Agatha Award",
+      "Arthur C. Clarke Award"
+    ],
+    "answer": "CWA Ian Fleming Steel Dagger"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "Who was the first African woman to win the Nobel Peace Prize (2004)?",
+    "options": [
+      "Wangari Maathai",
+      "Ellen Johnson Sirleaf",
+      "Leymah Gbowee",
+      "Nkosazana Dlamini-Zuma"
+    ],
+    "answer": "Wangari Maathai"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "The Stirling Prize is awarded annually by RIBA for the best new building in which geographic area?",
+    "options": [
+      "Global",
+      "United Kingdom",
+      "European Union",
+      "Commonwealth Nations"
+    ],
+    "answer": "United Kingdom"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "Who is the only posthumous recipient of the Nobel Peace Prize (1961) after the rules were tightened regarding posthumous awards?",
+    "options": [
+      "Mahatma Gandhi",
+      "Dag Hammarskjöld",
+      "Erik Axel Karlfeldt",
+      "Ralph Bunche"
+    ],
+    "answer": "Dag Hammarskjöld"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "Which prestigious award, instituted in 1986 by the Indian Council for Cultural Relations (ICCR), honors international understanding?",
+    "options": [
+      "Jawaharlal Nehru Award for International Understanding",
+      "Gandhi Peace Prize",
+      "Indira Gandhi Prize",
+      "Tagore Award"
+    ],
+    "answer": "Jawaharlal Nehru Award for International Understanding"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "Who was the first woman to win the Pritzker Architecture Prize (2004)?",
+    "options": [
+      "Kazuyo Sejima",
+      "Zaha Hadid",
+      "Yvonne Farrell",
+      "Shelley McNamara"
+    ],
+    "answer": "Zaha Hadid"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "Which Swedish award, established in 1980, honors achievements in music across genres and is nicknamed the 'Nobel Prize of Music'?",
+    "options": [
+      "Polar Music Prize",
+      "Léonie Sonning Music Prize",
+      "Ernst von Siemens Music Prize",
+      "Grawemeyer Award"
+    ],
+    "answer": "Polar Music Prize"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "In which category was the first-ever posthumous Bharat Ratna awarded to Lal Bahadur Shastri in 1966?",
+    "options": [
+      "Public Affairs",
+      "Civil Service",
+      "Social Work",
+      "Literature"
+    ],
+    "answer": "Public Affairs"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "The Rolf Schock Prizes are awarded every two years in Stockholm in Logic/Philosophy, Mathematics, Visual Arts, and which other field?",
+    "options": [
+      "Musical Arts",
+      "Economic Theory",
+      "Environmental Design",
+      "Literary Translation"
+    ],
+    "answer": "Musical Arts"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "Which award is presented annually by the Hollywood Foreign Press Association (HFPA) / Dick Clark Productions?",
+    "options": [
+      "Critics' Choice Movie Award",
+      "Golden Globe Award",
+      "Screen Actors Guild Award",
+      "People's Choice Award"
+    ],
+    "answer": "Golden Globe Award"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "What is the official medal awarded for the Nobel Peace Prize made of?",
+    "options": [
+      "18K Green Gold plated with 24K Gold",
+      "Pure 24K Solid Gold",
+      "Platinum with Gold Foil",
+      "14K Yellow Gold"
+    ],
+    "answer": "18K Green Gold plated with 24K Gold"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "The UNESCO/Guillermo Cano World Press Freedom Prize is named in honor of a journalist assassinated in which country?",
+    "options": [
+      "Mexico",
+      "Colombia",
+      "Philippines",
+      "Russia"
+    ],
+    "answer": "Colombia"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "Which Indian civilian award features a embossed leaf of the Pipal tree on its obverse side?",
+    "options": [
+      "Padma Shri",
+      "Padma Bhushan",
+      "Padma Vibhushan",
+      "Bharat Ratna"
+    ],
+    "answer": "Bharat Ratna"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "Who was the first recipient of the International Gandhi Peace Prize awarded by the Government of India in 1995?",
+    "options": [
+      "Julius Nyerere",
+      "Nelson Mandela",
+      "A. T. Ariyaratne",
+      "John Hume"
+    ],
+    "answer": "Julius Nyerere"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "Which award is recognized as the highest honor bestowed upon a living visual artist in the United Kingdom?",
+    "options": [
+      "Turner Prize",
+      "BP Portrait Award",
+      "John Moores Painting Prize",
+      "Jerwood Painting Prize"
+    ],
+    "answer": "Turner Prize"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "Which scientist declined the Nobel Prize in Medicine in 1939 under pressure from his country's government?",
+    "options": [
+      "Gerhard Domagk",
+      "Richard Kuhn",
+      "Adolf Butenandt",
+      "All three of these options"
+    ],
+    "answer": "All three of these options"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "What is the highest civilian award given by the Government of Bangladesh to individuals or organizations?",
+    "options": [
+      "Independence Award (Swadhinata Puraskar)",
+      "Ekushey Padak",
+      "Bangladesh Freedom Honour",
+      "National Film Award"
+    ],
+    "answer": "Independence Award (Swadhinata Puraskar)"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "Which French author declined the Nobel Prize in Literature in 1964 but was officially recorded as the laureate?",
+    "options": [
+      "Albert Camus",
+      "Jean-Paul Sartre",
+      "André Gide",
+      "Claude Simon"
+    ],
+    "answer": "Jean-Paul Sartre"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "Who was the first Indian woman to win an Academy Award (Oscar)?",
+    "options": [
+      "Bhanu Athaiya",
+      "Guneet Monga",
+      "Ritu Kumar",
+      "Neeta Lulla"
+    ],
+    "answer": "Bhanu Athaiya"
+  }
+]

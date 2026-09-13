@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "Which planet in our solar system is known as the Red Planet?",
+    "options": [
+      "Venus",
+      "Mars",
+      "Jupiter",
+      "Saturn"
+    ],
+    "answer": "Mars"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "What is the largest planet in our solar system?",
+    "options": [
+      "Saturn",
+      "Neptune",
+      "Jupiter",
+      "Uranus"
+    ],
+    "answer": "Jupiter"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "Which star is at the center of our solar system?",
+    "options": [
+      "Proxima Centauri",
+      "The Sun",
+      "Sirius",
+      "Polaris"
+    ],
+    "answer": "The Sun"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "What is the closest planet to the Sun?",
+    "options": [
+      "Venus",
+      "Mercury",
+      "Earth",
+      "Mars"
+    ],
+    "answer": "Mercury"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "Which galaxy contains our solar system?",
+    "options": [
+      "Andromeda Galaxy",
+      "Milky Way Galaxy",
+      "Triangulum Galaxy",
+      "Whirlpool Galaxy"
+    ],
+    "answer": "Milky Way Galaxy"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "What natural satellite orbits the Earth?",
+    "options": [
+      "Phobos",
+      "Titan",
+      "The Moon",
+      "Europa"
+    ],
+    "answer": "The Moon"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "Which planet is famous for its prominent, complex ring system?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "answer": "Saturn"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "What event occurs when the Moon passes directly between the Earth and the Sun?",
+    "options": [
+      "Lunar Eclipse",
+      "Solar Eclipse",
+      "Equinox",
+      "Solstice"
+    ],
+    "answer": "Solar Eclipse"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "Which planet is often referred to as Earth's twin due to its similar size and density?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Mercury",
+      "Neptune"
+    ],
+    "answer": "Venus"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "What force holds planets in orbit around the Sun?",
+    "options": [
+      "Magnetism",
+      "Gravity",
+      "Electromagnetism",
+      "Nuclear Force"
+    ],
+    "answer": "Gravity"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "What is the term for a giant cloud of gas and dust in space where stars are born?",
+    "options": [
+      "Nebula",
+      "Pulsar",
+      "Quasar",
+      "Asteroid"
+    ],
+    "answer": "Nebula"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "Which star is commonly known as the North Star?",
+    "options": [
+      "Betelgeuse",
+      "Polaris",
+      "Sirius",
+      "Vega"
+    ],
+    "answer": "Polaris"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "What object made of ice, dust, and rock displays a glowing tail when passing close to the Sun?",
+    "options": [
+      "Comet",
+      "Asteroid",
+      "Meteorite",
+      "Dwarf Planet"
+    ],
+    "answer": "Comet"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "What is the hottest planet in our solar system?",
+    "options": [
+      "Mercury",
+      "Venus",
+      "Mars",
+      "Jupiter"
+    ],
+    "answer": "Venus"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "In what unit do astronomers measure vast distances outside our solar system?",
+    "options": [
+      "Astronomical Unit",
+      "Light-year",
+      "Kilometer",
+      "Nautical Mile"
+    ],
+    "answer": "Light-year"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "What is the boundary around a black hole beyond which nothing, not even light, can escape?",
+    "options": [
+      "Accretion Disk",
+      "Event Horizon",
+      "Singularity",
+      "Photon Sphere"
+    ],
+    "answer": "Event Horizon"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "Which former ninth planet was reclassified as a dwarf planet in 2006?",
+    "options": [
+      "Eris",
+      "Pluto",
+      "Ceres",
+      "Makemake"
+    ],
+    "answer": "Pluto"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "What is the region located between Mars and Jupiter containing millions of rocky bodies?",
+    "options": [
+      "Kuiper Belt",
+      "Oort Cloud",
+      "Asteroid Belt",
+      "Scatter Disk"
+    ],
+    "answer": "Asteroid Belt"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "What name is given to a streak of light caused by a meteoroid burning up in Earth's atmosphere?",
+    "options": [
+      "Meteor",
+      "Meteorite",
+      "Comet",
+      "Supernova"
+    ],
+    "answer": "Meteor"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "Which instrument uses lenses or mirrors to gather light and observe distant celestial objects?",
+    "options": [
+      "Microscope",
+      "Telescope",
+      "Spectrometer",
+      "Barometer"
+    ],
+    "answer": "Telescope"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "How long does it take for Earth to complete one full orbit around the Sun?",
+    "options": [
+      "24 hours",
+      "30 days",
+      "365 days",
+      "10 years"
+    ],
+    "answer": "365 days"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "What is the term for a group of stars forming a recognized pattern in the night sky?",
+    "options": [
+      "Galaxy",
+      "Constellation",
+      "Cluster",
+      "Nebula"
+    ],
+    "answer": "Constellation"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "Which gas makes up the majority of the Sun's mass?",
+    "options": [
+      "Helium",
+      "Hydrogen",
+      "Oxygen",
+      "Carbon"
+    ],
+    "answer": "Hydrogen"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "What is the brightest star visible from Earth in the night sky?",
+    "options": [
+      "Sirius",
+      "Canopus",
+      "Betelgeuse",
+      "Rigel"
+    ],
+    "answer": "Sirius"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "What name is given to the explosive death of a massive star?",
+    "options": [
+      "Red Giant",
+      "Supernova",
+      "Black Hole",
+      "White Dwarf"
+    ],
+    "answer": "Supernova"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "Which spacecraft mission was the first to land humans on the Moon in 1969?",
+    "options": [
+      "Apollo 8",
+      "Apollo 11",
+      "Apollo 13",
+      "Gemini 4"
+    ],
+    "answer": "Apollo 11"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "Which outer planet spins on its side with an extreme axial tilt of nearly 98 degrees?",
+    "options": [
+      "Uranus",
+      "Neptune",
+      "Saturn",
+      "Jupiter"
+    ],
+    "answer": "Uranus"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "What color are the coolest stars in terms of surface temperature?",
+    "options": [
+      "Blue",
+      "White",
+      "Yellow",
+      "Red"
+    ],
+    "answer": "Red"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "What color are the hottest stars in terms of surface temperature?",
+    "options": [
+      "Red",
+      "Orange",
+      "Yellow",
+      "Blue"
+    ],
+    "answer": "Blue"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "What is the approximate age of the Universe according to the Big Bang theory?",
+    "options": [
+      "4.5 billion years",
+      "13.8 billion years",
+      "20.1 billion years",
+      "100 billion years"
+    ],
+    "answer": "13.8 billion years"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "What is the closest star system to our Solar System?",
+    "options": [
+      "Alpha Centauri",
+      "Barnard's Star",
+      "Sirius",
+      "Wolf 359"
+    ],
+    "answer": "Alpha Centauri"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "Which moon of Saturn is known for possessing a dense atmosphere and liquid methane lakes?",
+    "options": [
+      "Enceladus",
+      "Titan",
+      "Mimas",
+      "Iapetus"
+    ],
+    "answer": "Titan"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "Which Galilean moon of Jupiter is the most volcanically active body in the solar system?",
+    "options": [
+      "Europa",
+      "Ganymede",
+      "Io",
+      "Callisto"
+    ],
+    "answer": "Io"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "Which space telescope was launched in December 2021 to succeed Hubble in observing infrared light?",
+    "options": [
+      "Spitzer Space Telescope",
+      "James Webb Space Telescope",
+      "Chandra X-ray Observatory",
+      "Nancy Grace Roman Telescope"
+    ],
+    "answer": "James Webb Space Telescope"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "What is the term for a rapidly rotating neutron star that emits beams of electromagnetic radiation?",
+    "options": [
+      "Quasar",
+      "Pulsar",
+      "Magnetar",
+      "Supernova"
+    ],
+    "answer": "Pulsar"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "What type of active galactic nucleus is powered by a supermassive black hole and is extremely luminous?",
+    "options": [
+      "Quasar",
+      "Pulsar",
+      "Blazar",
+      "Nebula"
+    ],
+    "answer": "Quasar"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "Which moon is the largest moon in the solar system, even larger than the planet Mercury?",
+    "options": [
+      "Titan",
+      "Ganymede",
+      "Callisto",
+      "Triton"
+    ],
+    "answer": "Ganymede"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "What distance measure equals the average distance from the Earth to the Sun (approx. 150 million km)?",
+    "options": [
+      "Light-year",
+      "Parsec",
+      "Astronomical Unit",
+      "Kiloparsec"
+    ],
+    "answer": "Astronomical Unit"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "What is the massive storm in Jupiter's atmosphere that has lasted for centuries?",
+    "options": [
+      "The Great Dark Spot",
+      "The Great Red Spot",
+      "The Dragon Storm",
+      "The Polar Hexagon"
+    ],
+    "answer": "The Great Red Spot"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "Which theoretical spherical cloud of icy bodies marks the outer boundary of our solar system?",
+    "options": [
+      "Kuiper Belt",
+      "Oort Cloud",
+      "Hills Cloud",
+      "Asteroid Belt"
+    ],
+    "answer": "Oort Cloud"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "What distance unit is defined as the distance at which 1 AU subtends an angle of one arcsecond?",
+    "options": [
+      "Light-year",
+      "Parsec",
+      "Gigameter",
+      "Solar Radius"
+    ],
+    "answer": "Parsec"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "Which galaxy is the nearest major spiral galaxy to the Milky Way?",
+    "options": [
+      "Triangulum Galaxy",
+      "Andromeda Galaxy",
+      "Large Magellanic Cloud",
+      "Sombrero Galaxy"
+    ],
+    "answer": "Andromeda Galaxy"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "What effect causes light from a galaxy moving away from us to shift toward longer wavelengths?",
+    "options": [
+      "Blueshift",
+      "Redshift",
+      "Gravitational Lensing",
+      "Zeeman Effect"
+    ],
+    "answer": "Redshift"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "Which moon of Jupiter is thought to harbor a liquid water ocean beneath a thick icy crust?",
+    "options": [
+      "Io",
+      "Europa",
+      "Callisto",
+      "Metis"
+    ],
+    "answer": "Europa"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "What is the name of the supermassive black hole located at the center of the Milky Way?",
+    "options": [
+      "Messier 87*",
+      "Sagittarius A*",
+      "Cygnus X-1",
+      "Centaurus A"
+    ],
+    "answer": "Sagittarius A*"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "Which dwarf planet located in the main asteroid belt was the first dwarf planet visited by a probe?",
+    "options": [
+      "Vesta",
+      "Ceres",
+      "Pallas",
+      "Hygiea"
+    ],
+    "answer": "Ceres"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "What class of stars includes cool, low-mass stars that are the most common in the Milky Way?",
+    "options": [
+      "Yellow Dwarfs",
+      "Red Dwarfs",
+      "Blue Giants",
+      "White Dwarfs"
+    ],
+    "answer": "Red Dwarfs"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "Which moon of Neptune exhibits a retrograde orbit, moving opposite to the planet's rotation?",
+    "options": [
+      "Proteus",
+      "Triton",
+      "Nereid",
+      "Thalassa"
+    ],
+    "answer": "Triton"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "What is the surface region of the Sun that emits the visible light we see from Earth?",
+    "options": [
+      "Chromosphere",
+      "Photosphere",
+      "Corona",
+      "Convective Zone"
+    ],
+    "answer": "Photosphere"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "Which space probe was the first human-made object to enter interstellar space in 2012?",
+    "options": [
+      "Voyager 1",
+      "Voyager 2",
+      "Pioneer 10",
+      "New Horizons"
+    ],
+    "answer": "Voyager 1"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "What diagram plots stellar luminosity against surface temperature to classify star evolution?",
+    "options": [
+      "Hubble Diagram",
+      "Hertzsprung-Russell Diagram",
+      "Feynman Diagram",
+      "Light Curve Diagram"
+    ],
+    "answer": "Hertzsprung-Russell Diagram"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "Which element accumulates in the core of a massive star to trigger a Type II core-collapse supernova?",
+    "options": [
+      "Carbon",
+      "Silicon",
+      "Iron",
+      "Oxygen"
+    ],
+    "answer": "Iron"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "What phenomenon occurs when a massive foreground object's gravity bends light from a distant background object?",
+    "options": [
+      "Gravitational Lensing",
+      "Gravitational Redshift",
+      "Frame Dragging",
+      "Quantum Refraction"
+    ],
+    "answer": "Gravitational Lensing"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "Which moon of Saturn is famous for icy geysers erupting from water plumes near its south pole?",
+    "options": [
+      "Titan",
+      "Enceladus",
+      "Rhea",
+      "Dione"
+    ],
+    "answer": "Enceladus"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "What is the maximum mass limit for a stable white dwarf star (approx. 1.4 solar masses)?",
+    "options": [
+      "Chandrasekhar Limit",
+      "Tolman-Oppenheimer-Volkoff Limit",
+      "Roche Limit",
+      "Eddington Limit"
+    ],
+    "answer": "Chandrasekhar Limit"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "Which constellation contains the famous Orion Nebula and red supergiant Betelgeuse?",
+    "options": [
+      "Canis Major",
+      "Orion",
+      "Taurus",
+      "Scorpius"
+    ],
+    "answer": "Orion"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "What is the name of the region beyond Neptune populated by small icy celestial bodies including Pluto?",
+    "options": [
+      "Asteroid Belt",
+      "Kuiper Belt",
+      "Scattered Disc",
+      "Oort Cloud"
+    ],
+    "answer": "Kuiper Belt"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "Which law states that a planet's orbital radius cubed is proportional to its orbital period squared?",
+    "options": [
+      "Kepler's First Law",
+      "Kepler's Second Law",
+      "Kepler's Third Law",
+      "Newton's Law of Gravitation"
+    ],
+    "answer": "Kepler's Third Law"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "What term describes the point in an object's orbit where it is closest to the Sun?",
+    "options": [
+      "Aphelion",
+      "Perihelion",
+      "Perigee",
+      "Apogee"
+    ],
+    "answer": "Perihelion"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "What term describes the point in an object's orbit where it is furthest from the Sun?",
+    "options": [
+      "Perihelion",
+      "Aphelion",
+      "Perigee",
+      "Apogee"
+    ],
+    "answer": "Aphelion"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "Which theoretical limit determines the minimum distance a satellite can approach a body before tidal forces tear it apart?",
+    "options": [
+      "Chandrasekhar Limit",
+      "Roche Limit",
+      "Eddington Limit",
+      "Schwarzschild Radius"
+    ],
+    "answer": "Roche Limit"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "What equation expresses the radius of the event horizon for a non-rotating, uncharged black hole?",
+    "options": [
+      "Schwarzschild Radius Formula",
+      "Kerr Metric Equation",
+      "Drake Equation",
+      "Hubble-Lemaître Law"
+    ],
+    "answer": "Schwarzschild Radius Formula"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "Which cosmological epoch corresponds to the era around 380,000 years after the Big Bang when the CMB was released?",
+    "options": [
+      "Reionization",
+      "Recombination",
+      "Inflationary Epoch",
+      "Nucleosynthesis"
+    ],
+    "answer": "Recombination"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "Which class of variable stars serves as crucial 'standard candles' for measuring extragalactic distances?",
+    "options": [
+      "RR Lyrae Variables",
+      "Cepheid Variables",
+      "Mira Variables",
+      "T Tauri Stars"
+    ],
+    "answer": "Cepheid Variables"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "What mathematical equation estimates the number of active, communicative extraterrestrial civilizations in our galaxy?",
+    "options": [
+      "Drake Equation",
+      "Saha Equation",
+      "Friedmann Equation",
+      "Lane-Emden Equation"
+    ],
+    "answer": "Drake Equation"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "What phenomenon occurs when a star is ripped apart by the tidal forces of a supermassive black hole?",
+    "options": [
+      "Tidal Disruption Event",
+      "Core Collapse Supernova",
+      "Kilonova",
+      "Pair-Instability Supernova"
+    ],
+    "answer": "Tidal Disruption Event"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "What explosive transient event is produced by the merger of two neutron stars or a neutron star and a black hole?",
+    "options": [
+      "Type Ia Supernova",
+      "Kilonova",
+      "Hypernova",
+      "Luminous Red Nova"
+    ],
+    "answer": "Kilonova"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "What type of neutron star possesses an exceptionally intense magnetic field (10^8 to 10^11 Tesla)?",
+    "options": [
+      "Pulsar",
+      "Magnetar",
+      "Quasar",
+      "Microquasar"
+    ],
+    "answer": "Magnetar"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "Which physical process powers the main sequence phase of low-mass stars like our Sun?",
+    "options": [
+      "CNO Cycle",
+      "Proton-Proton Chain Reaction",
+      "Triple-Alpha Process",
+      "Carbon Burning Process"
+    ],
+    "answer": "Proton-Proton Chain Reaction"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "Which fusion process becomes the dominant hydrogen burning mechanism in stars more massive than 1.3 solar masses?",
+    "options": [
+      "Proton-Proton Chain Reaction",
+      "CNO Cycle",
+      "Triple-Alpha Process",
+      "Silicon Burning"
+    ],
+    "answer": "CNO Cycle"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "What is the maximum mass limit for a cold, non-rotating neutron star before it collapses into a black hole?",
+    "options": [
+      "Chandrasekhar Limit",
+      "Tolman-Oppenheimer-Volkoff Limit",
+      "Eddington Limit",
+      "Jeans Mass"
+    ],
+    "answer": "Tolman-Oppenheimer-Volkoff Limit"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "What term describes the maximum luminosity a star or accretion disk can achieve in hydrostatic equilibrium?",
+    "options": [
+      "Eddington Limit",
+      "Chandrasekhar Limit",
+      "Solar Luminosity",
+      "Hubble Limit"
+    ],
+    "answer": "Eddington Limit"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "Which experiment made the first direct detection of gravitational waves from a binary black hole merger in 2015?",
+    "options": [
+      "LIGO",
+      "VIRGO",
+      "GEO600",
+      "KAGRA"
+    ],
+    "answer": "LIGO"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "What metric solution to Einstein's field equations describes an uncharged, rotating black hole?",
+    "options": [
+      "Schwarzschild Metric",
+      "Kerr Metric",
+      "Reissner-Nordstrom Metric",
+      "Kerr-Newman Metric"
+    ],
+    "answer": "Kerr Metric"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "What is the name of the region surrounding a rotating black hole from which energy can be extracted via the Penrose process?",
+    "options": [
+      "Ergosphere",
+      "Event Horizon",
+      "Photon Sphere",
+      "Accretion Disk"
+    ],
+    "answer": "Ergosphere"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "Which satellite, launched by ESA in 2013, created the highest-precision 3D map of over 1 billion stars in our galaxy?",
+    "options": [
+      "Hipparcos",
+      "Gaia",
+      "Kepler",
+      "TESS"
+    ],
+    "answer": "Gaia"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "What temperature is associated with the relic Cosmic Microwave Background (CMB) radiation present in the universe today?",
+    "options": [
+      "0 Kelvin",
+      "2.73 Kelvin",
+      "4.2 Kelvin",
+      "12.5 Kelvin"
+    ],
+    "answer": "2.73 Kelvin"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "What mass threshold must a gas cloud exceed to collapse under its own gravity and initiate star formation?",
+    "options": [
+      "Chandrasekhar Mass",
+      "Jeans Mass",
+      "Bonnor-Ebert Mass",
+      "Solar Mass"
+    ],
+    "answer": "Jeans Mass"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "What type of stellar remnant supported by electron degeneracy pressure is left behind by low to medium-mass stars?",
+    "options": [
+      "Neutron Star",
+      "White Dwarf",
+      "Brown Dwarf",
+      "Black Hole"
+    ],
+    "answer": "White Dwarf"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "What quantum pressure mechanism prevents a white dwarf star from collapsing under its own gravity?",
+    "options": [
+      "Neutron Degeneracy Pressure",
+      "Electron Degeneracy Pressure",
+      "Radiation Pressure",
+      "Thermal Gas Pressure"
+    ],
+    "answer": "Electron Degeneracy Pressure"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "Which radioactive isotope's decay powers the light curve of a Type Ia supernova during its fading phase?",
+    "options": [
+      "Cobalt-56",
+      "Nickel-56",
+      "Iron-56",
+      "Uranium-235"
+    ],
+    "answer": "Cobalt-56"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "Which type of supernova lacks hydrogen lines in its optical spectrum and is triggered by thermonuclear runaway in a white dwarf?",
+    "options": [
+      "Type Ia",
+      "Type Ib",
+      "Type Ic",
+      "Type II"
+    ],
+    "answer": "Type Ia"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "What theoretical region of space-time acts as the time-reversed opposite of a black hole, emitting matter and light?",
+    "options": [
+      "Wormhole",
+      "White Hole",
+      "Quasar",
+      "Cosmic String"
+    ],
+    "answer": "White Hole"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "Which parameter in physical cosmology quantifies the current expansion rate of the Universe?",
+    "options": [
+      "Deceleration Parameter",
+      "Hubble Constant (H0)",
+      "Cosmological Constant (Lambda)",
+      "Critical Density"
+    ],
+    "answer": "Hubble Constant (H0)"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "What is the theoretical quantum radiation emitted by black holes due to quantum effects near the event horizon?",
+    "options": [
+      "Unruh Radiation",
+      "Hawking Radiation",
+      "Synchrotron Radiation",
+      "Cherenkov Radiation"
+    ],
+    "answer": "Hawking Radiation"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "What astronomical phenomenon explains the distortion and amplification of distant microwave radiation by galaxy clusters (SZ effect)?",
+    "options": [
+      "Sachs-Wolfe Effect",
+      "Sunyaev-Zel'dovich Effect",
+      "Integrated Sachs-Wolfe Effect",
+      "Ostriker-Vishniac Effect"
+    ],
+    "answer": "Sunyaev-Zel'dovich Effect"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "Which spectral absorption feature of neutral hydrogen gas at a wavelength of 21 cm is vital for mapping galactic hydrogen?",
+    "options": [
+      "Lyman-alpha Line",
+      "21-cm Spin-Flip Line",
+      "Balmer-alpha Line",
+      "Paschen Line"
+    ],
+    "answer": "21-cm Spin-Flip Line"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "What solar observational phenomenon consists of bright high-frequency magnetic oscillation loops above sunspots?",
+    "options": [
+      "Coronal Mass Ejection",
+      "Solar Flare",
+      "Coronal Loop",
+      "Prominence"
+    ],
+    "answer": "Coronal Loop"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "Which interstellar probe achieved the first close-up flyby of the Kuiper Belt object Arrokoth in 2019?",
+    "options": [
+      "Voyager 2",
+      "New Horizons",
+      "Pioneer 11",
+      "Dawn"
+    ],
+    "answer": "New Horizons"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "What principle states that the universe is homogenous and isotropic on sufficiently large scales?",
+    "options": [
+      "Copernican Principle",
+      "Cosmological Principle",
+      "Anthropic Principle",
+      "Equivalence Principle"
+    ],
+    "answer": "Cosmological Principle"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "Which satellite telescope array captured the historic first direct image of a black hole's shadow in Messier 87?",
+    "options": [
+      "Atacama Large Millimeter Array",
+      "Event Horizon Telescope",
+      "James Webb Space Telescope",
+      "Very Large Array"
+    ],
+    "answer": "Event Horizon Telescope"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "Which distance-measurement method relies on comparing a galaxy's rotational velocity to its total luminosity?",
+    "options": [
+      "Faber-Jackson Relation",
+      "Tully-Fisher Relation",
+      "Luminosity Function",
+      "Surface Brightness Fluctuation"
+    ],
+    "answer": "Tully-Fisher Relation"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "What term defines the critical density fraction of dark energy in the Standard Lambda-CDM model of cosmology?",
+    "options": [
+      "Omega Matter",
+      "Omega Lambda",
+      "Omega Baryon",
+      "Omega Radiation"
+    ],
+    "answer": "Omega Lambda"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "What is the term for a substellar object that lacks sufficient mass to sustain hydrogen-1 fusion in its core?",
+    "options": [
+      "Red Dwarf",
+      "Brown Dwarf",
+      "White Dwarf",
+      "Gas Giant"
+    ],
+    "answer": "Brown Dwarf"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "Which nuclear fusion process converts three helium-4 nuclei into a carbon-12 nucleus in evolving red giant stars?",
+    "options": [
+      "Proton-Proton Chain",
+      "CNO Cycle",
+      "Triple-Alpha Process",
+      "Alpha Process"
+    ],
+    "answer": "Triple-Alpha Process"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "What unstable stellar evolutionary stage occurs at the end of helium-burning for low-to-intermediate mass stars?",
+    "options": [
+      "Asymptotic Giant Branch (AGB)",
+      "Horizontal Branch",
+      "Subgiant Branch",
+      "Red Giant Branch"
+    ],
+    "answer": "Asymptotic Giant Branch (AGB)"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "What paradox asks why the night sky is dark if the universe is infinite, static, and populated by endless stars?",
+    "options": [
+      "Fermi Paradox",
+      "Olbers' Paradox",
+      "Twin Paradox",
+      "Information Paradox"
+    ],
+    "answer": "Olbers' Paradox"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "Which region of orbital stability in a two-body system contains five points where a small body can remain stationary?",
+    "options": [
+      "Roche Lobe",
+      "Lagrange Points",
+      "Keplerian Orbits",
+      "Van Allen Belts"
+    ],
+    "answer": "Lagrange Points"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "At which specific Lagrange Point is the James Webb Space Telescope currently stationed?",
+    "options": [
+      "L1",
+      "L2",
+      "L4",
+      "L5"
+    ],
+    "answer": "L2"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "What hypothetical form of dark matter candidate consists of weakly interacting neutral particles outside the Standard Model?",
+    "options": [
+      "WIMP (Weakly Interacting Massive Particle)",
+      "MACHO (Massive Compact Halo Object)",
+      "Axion",
+      "Sterile Neutrino"
+    ],
+    "answer": "WIMP (Weakly Interacting Massive Particle)"
+  }
+]

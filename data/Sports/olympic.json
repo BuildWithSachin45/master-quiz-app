@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "In which country did the ancient Olympic Games originate?",
+    "options": [
+      "Italy",
+      "Greece",
+      "Egypt",
+      "France"
+    ],
+    "answer": "Greece"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "How often are the Olympic Games held?",
+    "options": [
+      "Every 2 years",
+      "Every 3 years",
+      "Every 4 years",
+      "Every 5 years"
+    ],
+    "answer": "Every 4 years"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "Which city hosted the first modern Olympic Games in 1896?",
+    "options": [
+      "Paris",
+      "London",
+      "Athens",
+      "Rome"
+    ],
+    "answer": "Athens"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "How many interlocking rings are featured on the official Olympic symbol?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "What award is given to the winner of a first-place event at the modern Olympics?",
+    "options": [
+      "Bronze Medal",
+      "Silver Medal",
+      "Gold Medal",
+      "Trophy"
+    ],
+    "answer": "Gold Medal"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "Which American swimmer is the most decorated Olympian of all time with 28 total medals?",
+    "options": [
+      "Mark Spitz",
+      "Michael Phelps",
+      "Ryan Lochte",
+      "Caeleb Dressel"
+    ],
+    "answer": "Michael Phelps"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "Which Jamaican sprinter holds the world record and multiple gold medals in both 100m and 200m?",
+    "options": [
+      "Yohan Blake",
+      "Asafa Powell",
+      "Usain Bolt",
+      "Tyson Gay"
+    ],
+    "answer": "Usain Bolt"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "What award is given to the runner-up finishing in second place at an Olympic event?",
+    "options": [
+      "Gold Medal",
+      "Silver Medal",
+      "Bronze Medal",
+      "Ribbon"
+    ],
+    "answer": "Silver Medal"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "Which sport features events like 100m sprint, shot put, long jump, and javelin throw?",
+    "options": [
+      "Gymnastics",
+      "Swimming",
+      "Athletics (Track and Field)",
+      "Triathlon"
+    ],
+    "answer": "Athletics (Track and Field)"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "What traditional flame symbol is carried in a relay leading up to the opening ceremony?",
+    "options": [
+      "Olympic Torch",
+      "Eternal Beacon",
+      "Hero’s Lantern",
+      "Zeus Light"
+    ],
+    "answer": "Olympic Torch"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "Which edition of the modern Olympics is dedicated exclusively to winter sports?",
+    "options": [
+      "Summer Olympics",
+      "Winter Olympics",
+      "Youth Olympics",
+      "Paralympics"
+    ],
+    "answer": "Winter Olympics"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "Which multi-sport event is specifically organized for athletes with physical disabilities?",
+    "options": [
+      "Winter Olympics",
+      "Paralympic Games",
+      "Youth Olympics",
+      "X Games"
+    ],
+    "answer": "Paralympic Games"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "What award is given for a third-place finish in an Olympic event?",
+    "options": [
+      "Gold Medal",
+      "Silver Medal",
+      "Bronze Medal",
+      "Copper Medal"
+    ],
+    "answer": "Bronze Medal"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "Which famous gymnast won 4 gold medals at the 2016 Rio Olympics representing the USA?",
+    "options": [
+      "Gabby Douglas",
+      "Simone Biles",
+      "Aly Raisman",
+      "Sunisa Lee"
+    ],
+    "answer": "Simone Biles"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "What is the English translation of the Latin Olympic motto 'Citius, Altius, Fortius'?",
+    "options": [
+      "Peace, Unity, Victory",
+      "Faster, Higher, Stronger",
+      "Bravery, Honor, Strength",
+      "Swifter, Smarter, Greater"
+    ],
+    "answer": "Faster, Higher, Stronger"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "Which iconic ceremony marks the official start of the Olympic Games?",
+    "options": [
+      "Medal Ceremony",
+      "Closing Ceremony",
+      "Opening Ceremony",
+      "Torch Extinction"
+    ],
+    "answer": "Opening Ceremony"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "Which country hosted the Summer Olympics in 2008 (Beijing) and the Winter Olympics in 2022?",
+    "options": [
+      "Japan",
+      "South Korea",
+      "China",
+      "Russia"
+    ],
+    "answer": "China"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "What color are the five Olympic rings?",
+    "options": [
+      "Blue, Yellow, Black, Green, Red",
+      "Red, White, Blue, Yellow, Green",
+      "Purple, Gold, Silver, Bronze, Black",
+      "Blue, Orange, Green, Red, Yellow"
+    ],
+    "answer": "Blue, Yellow, Black, Green, Red"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "Which European nation hosted the 2024 Summer Olympic Games?",
+    "options": [
+      "United Kingdom",
+      "Germany",
+      "France",
+      "Italy"
+    ],
+    "answer": "France"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "What standard distance is run in the iconic Olympic marathon race?",
+    "options": [
+      "21.1 km",
+      "30.0 km",
+      "42.195 km",
+      "50.0 km"
+    ],
+    "answer": "42.195 km"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "In which country was the first Winter Olympic Games held in 1924 (Chamonix)?",
+    "options": [
+      "Switzerland",
+      "Canada",
+      "France",
+      "Norway"
+    ],
+    "answer": "France"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "What do the five Olympic rings represent?",
+    "options": [
+      "5 original sports",
+      "5 inhabited continents of the world",
+      "5 founding members",
+      "5 ocean basins"
+    ],
+    "answer": "5 inhabited continents of the world"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "Which American basketball star won 4 Olympic gold medals (2008, 2012, 2020, 2024)?",
+    "options": [
+      "Kobe Bryant",
+      "LeBron James",
+      "Kevin Durant",
+      "Michael Jordan"
+    ],
+    "answer": "Kevin Durant"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "Which delegation always enters the stadium FIRST during the Opening Ceremony parade of nations?",
+    "options": [
+      "Host Nation",
+      "United States",
+      "Greece",
+      "Current Medal Leader"
+    ],
+    "answer": "Greece"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "Which nation always enters the stadium LAST during the Parade of Nations?",
+    "options": [
+      "Greece",
+      "Host Nation",
+      "France",
+      "United States"
+    ],
+    "answer": "Host Nation"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "In which city were the 2020 Summer Olympics held (played in 2021 due to the pandemic)?",
+    "options": [
+      "Beijing",
+      "Tokyo",
+      "Rio de Janeiro",
+      "London"
+    ],
+    "answer": "Tokyo"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "Which water-based sport includes strokes like butterfly, backstroke, and breaststroke?",
+    "options": [
+      "Rowing",
+      "Water Polo",
+      "Diving",
+      "Swimming"
+    ],
+    "answer": "Swimming"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "Who lights the Olympic Cauldron during the Opening Ceremony?",
+    "options": [
+      "The IOC President",
+      "A chosen torchbearer/athlete",
+      "The host country mayor",
+      "The head referee"
+    ],
+    "answer": "A chosen torchbearer/athlete"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "Which winter sport combines cross-country skiing and rifle shooting?",
+    "options": [
+      "Nordic Combined",
+      "Biathlon",
+      "Luge",
+      "Curling"
+    ],
+    "answer": "Biathlon"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "Which country has won the overall highest number of total Summer Olympic medals in history?",
+    "options": [
+      "Great Britain",
+      "China",
+      "Soviet Union",
+      "United States"
+    ],
+    "answer": "United States"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "Who is considered the founder / 'Father' of the modern Olympic Games?",
+    "options": [
+      "Baron Pierre de Coubertin",
+      "Demetrius Vikelas",
+      "Avery Brundage",
+      "Juan Antonio Samaranch"
+    ],
+    "answer": "Baron Pierre de Coubertin"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "In what year were women allowed to compete in the Olympic Games for the first time?",
+    "options": [
+      "1896",
+      "1900",
+      "1912",
+      "1924"
+    ],
+    "answer": "1900"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "Which African-American athlete famously won four gold medals at the 1936 Berlin Olympics, defying Nazi propaganda?",
+    "options": [
+      "Carl Lewis",
+      "Jesse Owens",
+      "Bob Beamon",
+      "Wilma Rudolph"
+    ],
+    "answer": "Jesse Owens"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "Which Romanian gymnast was the first person in Olympic history to be awarded a perfect score of 10.0?",
+    "options": [
+      "Nadia Comăneci",
+      "Ecaterina Szabo",
+      "Simona Amânar",
+      "Svetlana Khorkina"
+    ],
+    "answer": "Nadia Comăneci"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "In which city were the 1968 Summer Olympics held, famous for the iconic Black Power podium salute?",
+    "options": [
+      "Tokyo",
+      "Mexico City",
+      "Munich",
+      "Montreal"
+    ],
+    "answer": "Mexico City"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "Which country led a boycott of the 1980 Summer Olympics held in Moscow?",
+    "options": [
+      "Soviet Union",
+      "United States",
+      "France",
+      "China"
+    ],
+    "answer": "United States"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "Which nation retaliated by boycotting the 1984 Summer Olympics in Los Angeles?",
+    "options": [
+      "United States",
+      "Soviet Union",
+      "Cuba",
+      "East Germany"
+    ],
+    "answer": "Soviet Union"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "Which city is scheduled to host the Summer Olympics in 2028?",
+    "options": [
+      "Brisbane",
+      "Los Angeles",
+      "Madrid",
+      "Istanbul"
+    ],
+    "answer": "Los Angeles"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "Which city was awarded the 2032 Summer Olympic Games?",
+    "options": [
+      "Brisbane",
+      "Doha",
+      "Seoul",
+      "Toronto"
+    ],
+    "answer": "Brisbane"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "Who was the first Indian athlete to win an individual gold medal in Olympic history (Beijing 2008)?",
+    "options": [
+      "Neeraj Chopra",
+      "Abhinav Bindra",
+      "Leander Paes",
+      "Rajyavardhan Singh Rathore"
+    ],
+    "answer": "Abhinav Bindra"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "Which country has won the highest total number of medals in Winter Olympic Games history?",
+    "options": [
+      "United States",
+      "Germany",
+      "Norway",
+      "Canada"
+    ],
+    "answer": "Norway"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "In what year were the first Youth Olympic Games held in Singapore?",
+    "options": [
+      "2004",
+      "2008",
+      "2010",
+      "2012"
+    ],
+    "answer": "2010"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "Which legendary American track and field star matched Jesse Owens' record by winning 4 golds at the 1984 LA Games?",
+    "options": [
+      "Michael Johnson",
+      "Carl Lewis",
+      "Maurice Greene",
+      "Edwin Moses"
+    ],
+    "answer": "Carl Lewis"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "Which Olympic Games was the first to be broadcast live on satellite TV in 1964?",
+    "options": [
+      "Rome 1960",
+      "Tokyo 1964",
+      "Mexico City 1968",
+      "Munich 1972"
+    ],
+    "answer": "Tokyo 1964"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "Which Czech runner won the 5,000m, 10,000m, and Marathon gold medals in a single Olympics (Helsinki 1952)?",
+    "options": [
+      "Emil Zátopek",
+      "Abebe Bikila",
+      "Paavo Nurmi",
+      "Hicham El Guerrouj"
+    ],
+    "answer": "Emil Zátopek"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "Which Ethiopian athlete won the 1960 Rome Olympic marathon running barefoot?",
+    "options": [
+      "Haile Gebrselassie",
+      "Abebe Bikila",
+      "Kenenisa Bekele",
+      "Eliud Kipchoge"
+    ],
+    "answer": "Abebe Bikila"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "Who was the official first animal mascot of an Olympic Games (Munich 1972)?",
+    "options": [
+      "Misha the Bear",
+      "Waldi the Dachshund",
+      "Amik the Beaver",
+      "Cobi the Sheepdog"
+    ],
+    "answer": "Waldi the Dachshund"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "Which city became the first in history to host both the Summer (2008) and Winter (2022) Olympics?",
+    "options": [
+      "Tokyo",
+      "Beijing",
+      "Sapporo",
+      "Innsbruck"
+    ],
+    "answer": "Beijing"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "In which city were the 1972 Olympics held where 11 Israeli team members were tragically murdered?",
+    "options": [
+      "Berlin",
+      "Munich",
+      "Innsbruck",
+      "Vienna"
+    ],
+    "answer": "Munich"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "Who was the first female swimmer to win 8 Olympic gold medals in total?",
+    "options": [
+      "Dawn Fraser",
+      "Jenny Thompson",
+      "Katie Ledecky",
+      "Kristina Egerszegi"
+    ],
+    "answer": "Jenny Thompson"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "Which word was added to the official Olympic motto in 2021 ('Citius, Altius, Fortius - ____')?",
+    "options": [
+      "Uniter",
+      "Communiter (Together)",
+      "Amicitia",
+      "Pax"
+    ],
+    "answer": "Communiter (Together)"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "Which modern city has hosted the Summer Olympic Games three separate times (1908, 1948, 2012)?",
+    "options": [
+      "Paris",
+      "London",
+      "Athens",
+      "Los Angeles"
+    ],
+    "answer": "London"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "Which new urban sport made its debut at the 2024 Paris Olympics?",
+    "options": [
+      "Skateboarding",
+      "Surfing",
+      "Breaking (Breakdancing)",
+      "Sport Climbing"
+    ],
+    "answer": "Breaking (Breakdancing)"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "Who won India's second individual gold medal in Olympic history by winning the men's javelin throw at Tokyo 2020?",
+    "options": [
+      "Neeraj Chopra",
+      "Abhinav Bindra",
+      "Bajrang Punia",
+      "Ravi Kumar Dahiya"
+    ],
+    "answer": "Neeraj Chopra"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "Which country won the men's football gold medal at the 2016 Rio and 2020 Tokyo Olympics?",
+    "options": [
+      "Argentina",
+      "Brazil",
+      "Germany",
+      "Spain"
+    ],
+    "answer": "Brazil"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "In what year were gold, silver, and bronze medals awarded for the first time at the Olympics?",
+    "options": [
+      "1896",
+      "1900",
+      "1904",
+      "1912"
+    ],
+    "answer": "1904"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "Which Cuban boxer won three consecutive Olympic gold medals in the heavyweight category (1972, 1976, 1980)?",
+    "options": [
+      "Teófilo Stevenson",
+      "Félix Savón",
+      "Guillermo Rigondeaux",
+      "Robeisy Ramírez"
+    ],
+    "answer": "Teófilo Stevenson"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "Which country won gold in the 1992 Dream Team basketball tournament dominance?",
+    "options": [
+      "Croatia",
+      "Lithuania",
+      "United States",
+      "Yugoslavia"
+    ],
+    "answer": "United States"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "Which British distance runner won gold in both 5,000m and 10,000m at both 2012 and 2016 Olympics?",
+    "options": [
+      "Mo Farah",
+      "Galen Rupp",
+      "Alistair Brownlee",
+      "Steve Cram"
+    ],
+    "answer": "Mo Farah"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "Where is the headquarters of the International Olympic Committee (IOC) located?",
+    "options": [
+      "Geneva, Switzerland",
+      "Lausanne, Switzerland",
+      "Athens, Greece",
+      "Paris, France"
+    ],
+    "answer": "Lausanne, Switzerland"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "In which ancient year were the first recorded Olympic Games celebrated in Olympia?",
+    "options": [
+      "776 BC",
+      "500 BC",
+      "393 AD",
+      "1000 BC"
+    ],
+    "answer": "776 BC"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "Which Roman Emperor banned the ancient Olympic Games in 393 AD as a pagan festival?",
+    "options": [
+      "Nero",
+      "Constantine",
+      "Theodosius I",
+      "Augustus"
+    ],
+    "answer": "Theodosius I"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "Who was the first female athlete to win Olympic medals in BOTH the Winter and Summer Games in the same calendar year (1988)?",
+    "options": [
+      "Clara Hughes",
+      "Christa Luding-Rothenburger",
+      "Lauryn Williams",
+      "Eddie Eagan"
+    ],
+    "answer": "Christa Luding-Rothenburger"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "Who is the only athlete in history to win gold medals in different disciplines at BOTH the Summer and Winter Olympics?",
+    "options": [
+      "Eddie Eagan",
+      "Jacob Tullin Thams",
+      "Clara Hughes",
+      "Lauryn Williams"
+    ],
+    "answer": "Eddie Eagan"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "Who is the oldest person to ever win an Olympic gold medal (at age 64 in 1912 shooting)?",
+    "options": [
+      "Oscar Swahn",
+      "Lorna Johnstone",
+      "Hiroshi Hoketsu",
+      "Arthur von Pongracz"
+    ],
+    "answer": "Oscar Swahn"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "Which Soviet gymnast held the record for most Olympic medals (18 medals) before Michael Phelps surpassed her?",
+    "options": [
+      "Larisa Latynina",
+      "Polina Astakhova",
+      "Olga Korbut",
+      "Věra Čáslavská"
+    ],
+    "answer": "Larisa Latynina"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "In what years were the Summer Olympic Games cancelled due to World War I and World War II?",
+    "options": [
+      "1916, 1940, 1944",
+      "1914, 1938, 1942",
+      "1916, 1936, 1944",
+      "1918, 1940, 1946"
+    ],
+    "answer": "1916, 1940, 1944"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "Which Olympic Games held from April to October lasted an incredible 188 days due to poor planning?",
+    "options": [
+      "Paris 1900",
+      "St. Louis 1904",
+      "London 1908",
+      "Stockholm 1912"
+    ],
+    "answer": "London 1908"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "In which Olympic Games was live pigeon shooting conducted as an official medal event?",
+    "options": [
+      "Athens 1896",
+      "Paris 1900",
+      "St. Louis 1904",
+      "London 1908"
+    ],
+    "answer": "Paris 1900"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "From 1912 to 1948, which non-sporting category awarded official Olympic medals?",
+    "options": [
+      "Art Competitions",
+      "Chess Matches",
+      "Motorboat Racing",
+      "Poetry Recitation"
+    ],
+    "answer": "Art Competitions"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "In what year were full solid gold medals last awarded to Olympic champions?",
+    "options": [
+      "1896",
+      "1904",
+      "1912",
+      "1928"
+    ],
+    "answer": "1912"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "Who was credited as the youngest documented Olympian in history, winning a bronze medal in gymnastics in 1896 at age 10?",
+    "options": [
+      "Dimitrios Loundras",
+      "Luigina Giavotti",
+      "Inge Sørensen",
+      "Nadia Comăneci"
+    ],
+    "answer": "Dimitrios Loundras"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "Which runner became famous for taking a car ride during the 1904 St. Louis marathon before crossing the finish line first?",
+    "options": [
+      "Fred Lorz",
+      "Thomas Hicks",
+      "Felix Carbajal",
+      "Len Tau"
+    ],
+    "answer": "Fred Lorz"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "Why was the modern marathon distance adjusted to exactly 26 miles 385 yards (42.195 km) at the 1908 London Olympics?",
+    "options": [
+      "To match ancient Greek footraces",
+      "So it could start at Windsor Castle and finish in front of the Royal Box",
+      "Due to a course measuring error",
+      "To accommodate local road closures"
+    ],
+    "answer": "So it could start at Windsor Castle and finish in front of the Royal Box"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "Which Finnish runner, nicknamed the 'Flying Finn', won 9 gold medals across the 1920, 1924, and 1928 Games?",
+    "options": [
+      "Paavo Nurmi",
+      "Ville Ritola",
+      "Hannes Kolehmainen",
+      "Lasse Virén"
+    ],
+    "answer": "Paavo Nurmi"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "Which American swimmer turned actor played 'Tarzan' in 12 films after winning 5 Olympic gold medals in the 1920s?",
+    "options": [
+      "Johnny Weissmuller",
+      "Duke Kahanamoku",
+      "Buster Crabbe",
+      "Don Schollander"
+    ],
+    "answer": "Johnny Weissmuller"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "Who was the first athlete ever disqualified from the Olympics for testing positive for alcohol/doping (1968 Modern Pentathlon)?",
+    "options": [
+      "Hans-Gunnar Liljenwall",
+      "Ben Johnson",
+      "Rick DeMont",
+      "Loris Stecca"
+    ],
+    "answer": "Hans-Gunnar Liljenwall"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "Which team was awarded gold after a controversial ending in the 1972 Olympic Men's Basketball final against the USA?",
+    "options": [
+      "Yugoslavia",
+      "Soviet Union",
+      "Cuba",
+      "Italy"
+    ],
+    "answer": "Soviet Union"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "Which country won the equestrian events at the 1956 Melbourne Olympics, despite them being held months earlier in Stockholm due to quarantine laws?",
+    "options": [
+      "Sweden",
+      "Germany",
+      "Great Britain",
+      "Australia"
+    ],
+    "answer": "Sweden"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "Which Hungarian pistol shooter taught himself to shoot with his left hand after his right hand was destroyed by a grenade, then won 2 golds?",
+    "options": [
+      "Károly Takács",
+      "József Bozsik",
+      "Aladár Gerevich",
+      "Gyula Zsivótzky"
+    ],
+    "answer": "Károly Takács"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "Which US swimmer won 7 gold medals in a single Olympics at Munich 1972, setting world records in all 7 events?",
+    "options": [
+      "Mark Spitz",
+      "Matt Biondi",
+      "Michael Phelps",
+      "Don Schollander"
+    ],
+    "answer": "Mark Spitz"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "Who was the first Indian woman to win an Olympic medal (Bronze in Weightlifting at Sydney 2000)?",
+    "options": [
+      "Karnam Malleswari",
+      "Mary Kom",
+      "P. V. Sindhu",
+      "Saina Nehwal"
+    ],
+    "answer": "Karnam Malleswari"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "Which distance runner won consecutive Olympic marathons in 1976 and 1980 representing East Germany?",
+    "options": [
+      "Waldemar Cierpinski",
+      "Frank Shorter",
+      "Carlos Lopes",
+      "Gelindo Bordin"
+    ],
+    "answer": "Waldemar Cierpinski"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "At the 1936 Berlin Olympics, which two Japanese pole vaulters cut their silver and bronze medals in half to fuse them together?",
+    "options": [
+      "Shuhei Nishida and Sueo Oe",
+      "Kichizo Yamada and Mikio Oda",
+      "Naoto Tajima and Masao Harada",
+      "Kenkichi Oshima and Tsutomu Okaniwa"
+    ],
+    "answer": "Shuhei Nishida and Sueo Oe"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "Which British high jumper revolutionized the sport in 1968 by introducing a back-first jumping technique named after him?",
+    "options": [
+      "Dick Fosbury",
+      "Javier Sotomayor",
+      "Dwight Stones",
+      "John Thomas"
+    ],
+    "answer": "Dick Fosbury"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "Who was the first male track athlete to complete the 200m and 400m sprint double at a single Olympics (Atlanta 1996)?",
+    "options": [
+      "Michael Johnson",
+      "Usain Bolt",
+      "LaShawn Merritt",
+      "Wayde van Niekerk"
+    ],
+    "answer": "Michael Johnson"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "Which country won the famous 'Miracle on Ice' men's ice hockey gold medal game against the Soviet Union at the 1980 Winter Olympics?",
+    "options": [
+      "Canada",
+      "United States",
+      "Finland",
+      "Sweden"
+    ],
+    "answer": "United States"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "Which country's men's field hockey team won six consecutive Olympic gold medals from 1928 to 1956?",
+    "options": [
+      "Pakistan",
+      "India",
+      "Netherlands",
+      "Australia"
+    ],
+    "answer": "India"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "In what sport did Tug of War feature as an official Olympic discipline until its removal after 1920?",
+    "options": [
+      "Athletics",
+      "Wrestling",
+      "Gymnastics",
+      "Standalone Team Sport"
+    ],
+    "answer": "Athletics"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "Who was the first woman to light the Olympic Cauldron during an Opening Ceremony (Mexico City 1968)?",
+    "options": [
+      "Enriqueta Basilio",
+      "Cathy Freeman",
+      "Naomi Osaka",
+      "Li Ning"
+    ],
+    "answer": "Enriqueta Basilio"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "Which country won its first-ever winter Olympic gold medal at the 2002 Salt Lake City Games in short track speed skating (Steven Bradbury)?",
+    "options": [
+      "Australia",
+      "New Zealand",
+      "Great Britain",
+      "Spain"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "Who was the Canadian sprinter stripped of his 100m gold medal at the 1988 Seoul Olympics after testing positive for stanozolol?",
+    "options": [
+      "Ben Johnson",
+      "Linford Christie",
+      "Dennis Mitchell",
+      "Calvin Smith"
+    ],
+    "answer": "Ben Johnson"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "Which country dominated the women's team table tennis Olympic event without losing a single match since its introduction in 2008?",
+    "options": [
+      "Japan",
+      "South Korea",
+      "China",
+      "Chinese Taipei"
+    ],
+    "answer": "China"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "Who won the first modern Olympic marathon in Athens 1896?",
+    "options": [
+      "Spyridon Louis",
+      "Charilaos Vasilakos",
+      "Gyula Kellner",
+      "Stamatios Masouris"
+    ],
+    "answer": "Spyridon Louis"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "Which nation was the first from South America to host an Olympic Games?",
+    "options": [
+      "Argentina",
+      "Brazil",
+      "Chile",
+      "Colombia"
+    ],
+    "answer": "Brazil"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "In which city were the 1932 and 1984 Summer Olympics held, making it a two-time host prior to 2028?",
+    "options": [
+      "Los Angeles",
+      "Paris",
+      "Tokyo",
+      "Athens"
+    ],
+    "answer": "Los Angeles"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "Which Norwegian cross-country skier accumulated 15 Winter Olympic medals, the overall record for Winter Games?",
+    "options": [
+      "Marit Bjørgen",
+      "Bjørn Dæhlie",
+      "Ole Einar Bjørndalen",
+      "Johannes Thingnes Bø"
+    ],
+    "answer": "Marit Bjørgen"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "Who was the Australian runner that wore the Olympic Project for Human Rights badge in solidarity during the 1968 200m podium protest?",
+    "options": [
+      "Peter Norman",
+      "Raelene Boyle",
+      "Herb Elliott",
+      "John Landy"
+    ],
+    "answer": "Peter Norman"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "Which Hungarian fencer won 7 gold medals across six consecutive Olympic Games from 1932 to 1960?",
+    "options": [
+      "Aladár Gerevich",
+      "Pál Kovács",
+      "Győző Kulcsár",
+      "Rudolf Kárpáti"
+    ],
+    "answer": "Aladár Gerevich"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "Which country won the inaugural Gold Medal in women's Olympic ice hockey at Nagano 1998?",
+    "options": [
+      "Canada",
+      "United States",
+      "Finland",
+      "Sweden"
+    ],
+    "answer": "United States"
+  }
+]

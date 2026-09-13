@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "What is the primary definition of cloud computing?",
+    "options": [
+      "On-demand delivery of computing services over the internet with pay-as-you-go pricing",
+      "Storing files exclusively on a local USB flash drive",
+      "Running software applications on personal desktop hardware without internet access",
+      "Connecting multiple physical hard drives in a local RAID array"
+    ],
+    "answer": "On-demand delivery of computing services over the internet with pay-as-you-go pricing"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "What does the abbreviation 'IaaS' stand for in cloud service models?",
+    "options": [
+      "Infrastructure as a Service",
+      "Internet as a Service",
+      "Integration as a Service",
+      "Information as a System"
+    ],
+    "answer": "Infrastructure as a Service"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "What does the abbreviation 'PaaS' stand for?",
+    "options": [
+      "Platform as a Service",
+      "Process as a Service",
+      "Program as a Service",
+      "Protocol as a Service"
+    ],
+    "answer": "Platform as a Service"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "What does the abbreviation 'SaaS' stand for?",
+    "options": [
+      "Software as a Service",
+      "Storage as a Service",
+      "System as a Service",
+      "Security as a Service"
+    ],
+    "answer": "Software as a Service"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "Which of the following is an example of a Software as a Service (SaaS) application?",
+    "options": [
+      "Google Workspace (Gmail, Docs)",
+      "Amazon EC2 Virtual Machine",
+      "AWS Virtual Private Cloud (VPC)",
+      "Bare-metal physical server"
+    ],
+    "answer": "Google Workspace (Gmail, Docs)"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "Which cloud deployment model combines public and private cloud infrastructure?",
+    "options": [
+      "Hybrid Cloud",
+      "Community Cloud",
+      "Local Cloud",
+      "Distributed Cloud"
+    ],
+    "answer": "Hybrid Cloud"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "What cloud deployment model is owned and operated exclusively by a single organization?",
+    "options": [
+      "Private Cloud",
+      "Public Cloud",
+      "Multi-Tenant Cloud",
+      "Shared Cloud"
+    ],
+    "answer": "Private Cloud"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "Which characteristic of cloud computing refers to automatically adding or removing resources based on demand?",
+    "options": [
+      "Rapid Elasticity",
+      "Fixed Provisioning",
+      "Manual Scaling",
+      "Static Allocation"
+    ],
+    "answer": "Rapid Elasticity"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "What is the term for adding more CPU or RAM to an existing virtual server?",
+    "options": [
+      "Vertical Scaling (Scale Up)",
+      "Horizontal Scaling (Scale Out)",
+      "Load Balancing",
+      "Auto Sharding"
+    ],
+    "answer": "Vertical Scaling (Scale Up)"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "What is the term for adding more server instances to distribute a system's workload?",
+    "options": [
+      "Horizontal Scaling (Scale Out)",
+      "Vertical Scaling (Scale Up)",
+      "Server Threading",
+      "CPU Overclocking"
+    ],
+    "answer": "Horizontal Scaling (Scale Out)"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "What component creates and manages Virtual Machines on underlying physical hardware?",
+    "options": [
+      "Hypervisor",
+      "Load Balancer",
+      "Container Engine",
+      "API Gateway"
+    ],
+    "answer": "Hypervisor"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "Which type of hypervisor runs directly on physical host hardware without an underlying operating system?",
+    "options": [
+      "Type 1 Hypervisor (Bare-Metal)",
+      "Type 2 Hypervisor (Hosted)",
+      "Application Hypervisor",
+      "Container Runtime"
+    ],
+    "answer": "Type 1 Hypervisor (Bare-Metal)"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "In the Cloud Shared Responsibility Model, who is primarily responsible for physical security of data centers?",
+    "options": [
+      "Cloud Service Provider",
+      "End-User Customer",
+      "Third-Party ISP",
+      "Government Auditor"
+    ],
+    "answer": "Cloud Service Provider"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "In an IaaS deployment model, who is responsible for updating and patching guest operating systems?",
+    "options": [
+      "The Customer",
+      "The Cloud Provider",
+      "Hardware Manufacturer",
+      "Domain Registrar"
+    ],
+    "answer": "The Customer"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "What does CDN stand for in cloud infrastructure services?",
+    "options": [
+      "Content Delivery Network",
+      "Central Data Node",
+      "Cloud Distribution Network",
+      "Container Deployment Network"
+    ],
+    "answer": "Content Delivery Network"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "What is the primary goal of utilizing a Content Delivery Network (CDN)?",
+    "options": [
+      "Deliver content to users with lower latency by caching data geographically closer to them",
+      "Encrypt database tables at rest automatically",
+      "Replace local DNS servers across enterprise networks",
+      "Compile backend application code automatically"
+    ],
+    "answer": "Deliver content to users with lower latency by caching data geographically closer to them"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "Which cloud storage type stores data as distinct units accompanied by metadata and unique identifiers?",
+    "options": [
+      "Object Storage",
+      "Block Storage",
+      "File Storage",
+      "Relational Table Storage"
+    ],
+    "answer": "Object Storage"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "What flagship Amazon Web Services (AWS) service provides scalable object storage in the cloud?",
+    "options": [
+      "Amazon S3",
+      "Amazon EC2",
+      "Amazon EBS",
+      "Amazon RDS"
+    ],
+    "answer": "Amazon S3"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "What security management system controls who is authenticated and authorized to use cloud resources?",
+    "options": [
+      "IAM (Identity and Access Management)",
+      "DNS (Domain Name System)",
+      "NTP (Network Time Protocol)",
+      "DHCP (Dynamic Host Configuration Protocol)"
+    ],
+    "answer": "IAM (Identity and Access Management)"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "What security principle dictates granting users only the minimum permissions necessary to complete tasks?",
+    "options": [
+      "Principle of Least Privilege",
+      "Principle of Maximum Availability",
+      "Zero Redundancy",
+      "Default Access Control"
+    ],
+    "answer": "Principle of Least Privilege"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "What cloud service model allows developers to execute code in response to events without managing servers?",
+    "options": [
+      "Serverless Computing (FaaS)",
+      "Infrastructure as a Service",
+      "Storage as a Service",
+      "Dedicated Hosting"
+    ],
+    "answer": "Serverless Computing (FaaS)"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "What is AWS's primary event-driven serverless computing service?",
+    "options": [
+      "AWS Lambda",
+      "Amazon EC2",
+      "AWS Fargate",
+      "AWS Elastic Beanstalk"
+    ],
+    "answer": "AWS Lambda"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "What does VPC stand for in cloud networking?",
+    "options": [
+      "Virtual Private Cloud",
+      "Virtual Public Connection",
+      "Variable Power Controller",
+      "Verified Private Network"
+    ],
+    "answer": "Virtual Private Cloud"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "What metric defines the maximum acceptable amount of data loss during an outage measured in time?",
+    "options": [
+      "Recovery Point Objective (RPO)",
+      "Recovery Time Objective (RTO)",
+      "Mean Time To Repair (MTTR)",
+      "SLA Window"
+    ],
+    "answer": "Recovery Point Objective (RPO)"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "What metric defines the targeted duration of time within which a business process must be restored after a disaster?",
+    "options": [
+      "Recovery Time Objective (RTO)",
+      "Recovery Point Objective (RPO)",
+      "Service Level Indicator (SLI)",
+      "Failure Tolerance Metric"
+    ],
+    "answer": "Recovery Time Objective (RTO)"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "Which term describes a cloud architecture designed to operate continuously without failure for long durations?",
+    "options": [
+      "High Availability (HA)",
+      "Cold Storage",
+      "Single Point of Failure",
+      "Ephemerality"
+    ],
+    "answer": "High Availability (HA)"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "What cloud pricing model bills users strictly based on the exact compute, storage, and networking consumed?",
+    "options": [
+      "Pay-As-You-Go",
+      "Flat Annual Subscription",
+      "Upfront Licensing Model",
+      "Perpetual Hardware License"
+    ],
+    "answer": "Pay-As-You-Go"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "Which major public cloud provider is operated by Microsoft?",
+    "options": [
+      "Azure",
+      "AWS",
+      "Google Cloud Platform",
+      "IBM Cloud"
+    ],
+    "answer": "Azure"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "What is GCP an acronym for?",
+    "options": [
+      "Google Cloud Platform",
+      "Global Compute Provider",
+      "General Cloud Protocol",
+      "Gigabit Control Panel"
+    ],
+    "answer": "Google Cloud Platform"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "What type of cloud deployment model is shared by multiple organizations with common compliance or security goals?",
+    "options": [
+      "Community Cloud",
+      "Private Cloud",
+      "Single-Tenant Public Cloud",
+      "Local Subnet"
+    ],
+    "answer": "Community Cloud"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "What is the key difference between containers and Virtual Machines (VMs)?",
+    "options": [
+      "Containers share the host OS kernel; VMs require a complete guest operating system",
+      "VMs startup faster than containers",
+      "Containers require dedicated hypervisor hardware",
+      "VMs cannot run Linux distributions"
+    ],
+    "answer": "Containers share the host OS kernel; VMs require a complete guest operating system"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "What is multi-tenancy in cloud infrastructure?",
+    "options": [
+      "Multiple independent customers sharing physical compute, network, and storage resources logically isolated",
+      "A single tenant managing multiple user accounts on one desktop computer",
+      "Running multiple distinct operating systems on a single non-networked laptop",
+      "Storing redundant data across different hard drives in a local server room"
+    ],
+    "answer": "Multiple independent customers sharing physical compute, network, and storage resources logically isolated"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "What network component automatically distributes incoming application traffic across a pool of backend servers?",
+    "options": [
+      "Load Balancer",
+      "DNS Resolver",
+      "Storage Gateway",
+      "NAT Table"
+    ],
+    "answer": "Load Balancer"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "What is the primary functional difference between Security Groups and Network ACLs in AWS VPC?",
+    "options": [
+      "Security Groups are stateful at the instance level; NACLs are stateless at the subnet level",
+      "Security Groups act at the subnet level; NACLs act at the database level",
+      "Security Groups are stateless; NACLs are stateful",
+      "Security Groups only block outgoing traffic; NACLs only allow incoming traffic"
+    ],
+    "answer": "Security Groups are stateful at the instance level; NACLs are stateless at the subnet level"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "What is Infrastructure as Code (IaC)?",
+    "options": [
+      "Managing and provisioning cloud infrastructure using machine-readable definition files rather than manual UI controls",
+      "Writing operating system source code directly inside cloud hypervisors",
+      "Embedding hardware microcode inside virtual server instances",
+      "Manually configuring physical network routers via terminal commands"
+    ],
+    "answer": "Managing and provisioning cloud infrastructure using machine-readable definition files rather than manual UI controls"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "Which open-source tool developed by HashiCorp is widely used for multi-cloud Infrastructure as Code?",
+    "options": [
+      "Terraform",
+      "Docker",
+      "Kubernetes",
+      "Jenkins"
+    ],
+    "answer": "Terraform"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "What open-source container orchestration system is maintained by the Cloud Native Computing Foundation (CNCF)?",
+    "options": [
+      "Kubernetes",
+      "VirtualBox",
+      "Ansible",
+      "OpenStack"
+    ],
+    "answer": "Kubernetes"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "In cloud terminology, what defines a 'Region'?",
+    "options": [
+      "A geographic location containing multiple isolated, physically separated Availability Zones",
+      "A single server rack within a physical data center",
+      "A virtual private network spanning global user devices",
+      "A collection of software containers running on one host"
+    ],
+    "answer": "A geographic location containing multiple isolated, physically separated Availability Zones"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "What is an Availability Zone (AZ)?",
+    "options": [
+      "One or more discrete data centers with independent power, cooling, and networking in a region",
+      "A user permission policy assigned to an IAM group",
+      "A software container running inside a Virtual Private Cloud",
+      "A global edge location used exclusively for caching static DNS records"
+    ],
+    "answer": "One or more discrete data centers with independent power, cooling, and networking in a region"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "What is 'Cloud Bursting'?",
+    "options": [
+      "A deployment configuration where workloads burst from private cloud to public cloud during peak traffic demands",
+      "A security breach causing massive data leaks across cloud storage",
+      "A hardware failure causing multiple virtual machines to shut down simultaneously",
+      "The rapid deletion of expired cloud log files"
+    ],
+    "answer": "A deployment configuration where workloads burst from private cloud to public cloud during peak traffic demands"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "What does Edge Computing aim to achieve?",
+    "options": [
+      "Process data geographically closer to the source device rather than sending it to distant centralized servers",
+      "Consolidate all global data into a single centralized cloud data center",
+      "Eliminate the need for local hardware interfaces and edge devices",
+      "Run complex machine learning models exclusively on bare-metal hypervisors"
+    ],
+    "answer": "Process data geographically closer to the source device rather than sending it to distant centralized servers"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "What does the cultural and operational framework 'FinOps' stand for in cloud management?",
+    "options": [
+      "Financial Operations (combining financial accountability with cloud engineering)",
+      "Final Network Optimization System",
+      "Fiber Internet Network Operations",
+      "Fixed Infrastructure Option Strategy"
+    ],
+    "answer": "Financial Operations (combining financial accountability with cloud engineering)"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "What storage tier in object storage services like Amazon S3 is optimized for infrequently accessed long-term archival data?",
+    "options": [
+      "S3 Glacier / Archive Storage",
+      "S3 Standard",
+      "Express One Zone",
+      "In-Memory Cache"
+    ],
+    "answer": "S3 Glacier / Archive Storage"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "What risk is described by 'Vendor Lock-in' in cloud computing?",
+    "options": [
+      "Difficulty and high cost of migrating application workloads and data from one cloud provider to another",
+      "Physical locks placed on server hardware inside data centers",
+      "Inability to log into cloud user interfaces due to lost passwords",
+      "Automatic encryption of database backups by malware"
+    ],
+    "answer": "Difficulty and high cost of migrating application workloads and data from one cloud provider to another"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "In cloud networking, what device allows instances in a private subnet to connect to the internet while preventing internet-initiated connections?",
+    "options": [
+      "NAT Gateway (Network Address Translation)",
+      "Internet Gateway",
+      "Virtual Private Gateway",
+      "Direct Connect Router"
+    ],
+    "answer": "NAT Gateway (Network Address Translation)"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "What deployment strategy uses two identical environments (one live, one staging) to perform zero-downtime application updates?",
+    "options": [
+      "Blue/Green Deployment",
+      "Canary Deployment",
+      "Rolling Update",
+      "In-Place Replacement"
+    ],
+    "answer": "Blue/Green Deployment"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "What deployment strategy gradually rolls out application updates to a small sub-percentage of users before full release?",
+    "options": [
+      "Canary Deployment",
+      "Blue/Green Deployment",
+      "Big Bang Deployment",
+      "Shadow Deployment"
+    ],
+    "answer": "Canary Deployment"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "What is the primary function of a Cloud Access Security Broker (CASB)?",
+    "options": [
+      "Enforce security, compliance, and governance policies between cloud service users and cloud applications",
+      "Optimize physical server cooling fans inside cloud data centers",
+      "Provide physical security guards for public cloud provider buildings",
+      "Manage Domain Name System records for local subnets"
+    ],
+    "answer": "Enforce security, compliance, and governance policies between cloud service users and cloud applications"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "What type of storage provides high-performance, raw block-level storage volumes attached directly to virtual instances (e.g., AWS EBS)?",
+    "options": [
+      "Block Storage",
+      "Object Storage",
+      "Key-Value Document Store",
+      "Tape Archive Storage"
+    ],
+    "answer": "Block Storage"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "Which service model describes containerized environments managed by cloud providers (e.g., Amazon ECS or Google Cloud Run)?",
+    "options": [
+      "CaaS (Containers as a Service)",
+      "IaaS (Infrastructure as a Service)",
+      "DaaS (Desktop as a Service)",
+      "MaaS (Monitoring as a Service)"
+    ],
+    "answer": "CaaS (Containers as a Service)"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "What term describes application architectures that do not retain client session state on individual server instances?",
+    "options": [
+      "Stateless Architecture",
+      "Stateful Architecture",
+      "Monolithic Architecture",
+      "Hard-Coupled Architecture"
+    ],
+    "answer": "Stateless Architecture"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "What dedicated network service provides a private, high-bandwidth physical connection between an on-premises data center and a cloud provider?",
+    "options": [
+      "AWS Direct Connect / Azure ExpressRoute",
+      "Public VPN Tunnel",
+      "Standard IPSec Gateway",
+      "Internet Exchange Router"
+    ],
+    "answer": "AWS Direct Connect / Azure ExpressRoute"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "Which database management technique involves dividing a large database horizontally across multiple server instances?",
+    "options": [
+      "Sharding",
+      "Normalizing",
+      "Replicating",
+      "Indexing"
+    ],
+    "answer": "Sharding"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "What architectural pattern breaks monolithic applications into small, independently deployable services that communicate via APIs?",
+    "options": [
+      "Microservices Architecture",
+      "Monolithic Design",
+      "Mainframe Architecture",
+      "Shared Memory Model"
+    ],
+    "answer": "Microservices Architecture"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "What is the primary function of an API Gateway in cloud microservice architectures?",
+    "options": [
+      "Act as an entry point to route requests, enforce rate limiting, and handle security authentication for backend services",
+      "Store large unstructured binary files across multiple regions",
+      "Manage physical network switches inside local server racks",
+      "Automatically compile frontend source code in browser windows"
+    ],
+    "answer": "Act as an entry point to route requests, enforce rate limiting, and handle security authentication for backend services"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "In cloud databases, what is Read Replication used for?",
+    "options": [
+      "Improving read throughput and scalability by offloading read queries from the primary database instance",
+      "Preventing write operations across all regional database instances",
+      "Encrypting database tables using customer-managed cryptographic keys",
+      "Automatically backing up virtual server OS snapshots"
+    ],
+    "answer": "Improving read throughput and scalability by offloading read queries from the primary database instance"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "What parameter in auto-scaling defines the target percentage of CPU utilization to trigger instance provisioning?",
+    "options": [
+      "Scaling Policy / Metric Target",
+      "Static Boundary Limit",
+      "Subnet IP Mask",
+      "Health Check Delay"
+    ],
+    "answer": "Scaling Policy / Metric Target"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "What type of cloud storage volume loses its data immediately when the associated Virtual Machine instance is stopped or terminated?",
+    "options": [
+      "Ephemeral Storage (Instance Store)",
+      "Persistent Block Store",
+      "Elastic File Storage",
+      "Cold Vault Storage"
+    ],
+    "answer": "Ephemeral Storage (Instance Store)"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "What type of DNS routing policy directs users to the cloud region that provides the lowest network latency?",
+    "options": [
+      "Latency-Based Routing",
+      "Weighted Round-Robin Routing",
+      "Geolocation Routing",
+      "Failover Routing"
+    ],
+    "answer": "Latency-Based Routing"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "Which cloud computing model offers virtualized desktop environments delivered over the network to remote users?",
+    "options": [
+      "DaaS (Desktop as a Service)",
+      "PaaS (Platform as a Service)",
+      "SaaS (Software as a Service)",
+      "BaaS (Backend as a Service)"
+    ],
+    "answer": "DaaS (Desktop as a Service)"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "According to the CAP Theorem for distributed data stores, what three guarantees can a system provide only two of simultaneously?",
+    "options": [
+      "Consistency, Availability, and Partition Tolerance",
+      "Concurrency, Authenticity, and Performance",
+      "Capacity, Agility, and Portability",
+      "Compliance, Auditing, and Privacy"
+    ],
+    "answer": "Consistency, Availability, and Partition Tolerance"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "In distributed database design, what trade-off does the PACELC theorem add to the CAP theorem during normal operations?",
+    "options": [
+      "Else (E) trade-off between Latency (L) and Consistency (C)",
+      "Else (E) trade-off between Encryption (E) and Logging (L)",
+      "Else (E) trade-off between Efficiency (E) and Concurrency (C)",
+      "Else (E) trade-off between Elasticity (E) and Licensing (L)"
+    ],
+    "answer": "Else (E) trade-off between Latency (L) and Consistency (C)"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "What design pattern places a secondary helper container alongside a primary application container inside the same Kubernetes Pod?",
+    "options": [
+      "Sidecar Pattern",
+      "Ambassador Pattern",
+      "Adapter Pattern",
+      "Strangler Fig Pattern"
+    ],
+    "answer": "Sidecar Pattern"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "What is the purpose of a Kubernetes Ingress Controller?",
+    "options": [
+      "Manage external HTTP/HTTPS traffic routing into services within a Kubernetes cluster",
+      "Encrypt internal cluster storage disks at the hardware layer",
+      "Provision underlying physical virtual machines on bare-metal clouds",
+      "Manage database table index creations"
+    ],
+    "answer": "Manage external HTTP/HTTPS traffic routing into services within a Kubernetes cluster"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "In IAM policy evaluation logic across major cloud providers, how is an explicit DENY permission evaluated against an explicit ALLOW?",
+    "options": [
+      "An explicit DENY always overrides any explicit ALLOW",
+      "An explicit ALLOW overrides an explicit DENY",
+      "The permission applied last takes precedence",
+      "The system averages the permissions into read-only access"
+    ],
+    "answer": "An explicit DENY always overrides any explicit ALLOW"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "What core principle defines Zero Trust Security Architecture in cloud environment management?",
+    "options": [
+      "Never trust, always verify every access request regardless of network origin",
+      "Trust all requests originating inside the internal private network subnet",
+      "Trust users authenticated via hardware IP address filtering",
+      "Trust all administrative API calls originating from encrypted storage volumes"
+    ],
+    "answer": "Never trust, always verify every access request regardless of network origin"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "What is the function of KMS (Key Management Service) in cloud encryption implementations?",
+    "options": [
+      "Centralized generation, storage, management, and auditing of cryptographic keys used for data encryption",
+      "Managing domain name registration SSL certificates for external websites",
+      "Storing root administrator passwords in plain-text configuration files",
+      "Decrypting user passwords stored inside relational database tables"
+    ],
+    "answer": "Centralized generation, storage, management, and auditing of cryptographic keys used for data encryption"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "What distinguishes Server-Side Encryption with Customer-Provided Keys (SSE-C) in cloud storage?",
+    "options": [
+      "The client provides the encryption key in the API request header; the provider performs encryption and discards key from memory",
+      "The customer encrypts data locally before sending it across the network",
+      "The cloud provider generates, manages, and holds full ownership of keys",
+      "Encryption keys are stored inside physical hardware tokens attached to user laptops"
+    ],
+    "answer": "The client provides the encryption key in the API request header; the provider performs encryption and discards key from memory"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "What purchasing model allows users to obtain spare compute capacity at heavy discounts with the risk of termination on short notice?",
+    "options": [
+      "Spot Instances / Preemptible VMs",
+      "Reserved Instances",
+      "On-Demand Instances",
+      "Dedicated Hosts"
+    ],
+    "answer": "Spot Instances / Preemptible VMs"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "What component in microservice architectures acts as a dedicated infrastructure layer handling service-to-service communication, mTLS, and observability?",
+    "options": [
+      "Service Mesh (e.g., Istio, Linkerd)",
+      "Database Proxy",
+      "NAT Gateway",
+      "Container Daemon"
+    ],
+    "answer": "Service Mesh (e.g., Istio, Linkerd)"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "What is Chaos Engineering in cloud resilience testing?",
+    "options": [
+      "Intentionally introducing disruptions into a production system to test and improve fault tolerance",
+      "Accidentally deploying unverified code changes directly to live environments",
+      "Allowing unauthorized third parties to attack cloud infrastructure",
+      "Running serverless functions without setting memory allocation limits"
+    ],
+    "answer": "Intentionally introducing disruptions into a production system to test and improve fault tolerance"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "In cloud message queue services (like Amazon SQS), what is a Dead Letter Queue (DLQ) used for?",
+    "options": [
+      "Isolating messages that cannot be successfully processed by consumer applications after repeated attempts",
+      "Storing encrypted log files for deleted virtual instances",
+      "Storing expired DNS caching records across global edge locations",
+      "Caching database queries that returned zero matching results"
+    ],
+    "answer": "Isolating messages that cannot be successfully processed by consumer applications after repeated attempts"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "Among the '6 Rs' of cloud migration strategies, what does 'Rehosting' entail?",
+    "options": [
+      "Lift-and-Shift: Moving an application to the cloud without modifying its underlying architecture",
+      "Completely rewriting application code using cloud-native microservices",
+      "Replacing the application entirely with a SaaS solution",
+      "Retiring legacy systems permanently without cloud replacement"
+    ],
+    "answer": "Lift-and-Shift: Moving an application to the cloud without modifying its underlying architecture"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "Among the cloud migration strategies, what defines 'Refactoring / Re-architecting'?",
+    "options": [
+      "Rebuilding and altering application code to take full advantage of cloud-native features and services",
+      "Migrating virtual machine disks directly using automated conversion scripts",
+      "Upgrading the operating system version before moving hardware",
+      "Changing cloud providers without updating software code"
+    ],
+    "answer": "Rebuilding and altering application code to take full advantage of cloud-native features and services"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "What paradigm describes Immutable Infrastructure?",
+    "options": [
+      "Components are never modified in place; updates require replacing old infrastructure entirely with fresh instances",
+      "Servers are configured manually and locked against file system read operations",
+      "Virtual machine configurations are stored permanently on write-once physical media",
+      "Database schema updates are strictly prohibited after system initialization"
+    ],
+    "answer": "Components are never modified in place; updates require replacing old infrastructure entirely with fresh instances"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "What is the primary benefit of applying the Command Query Responsibility Segregation (CQRS) pattern in cloud architectures?",
+    "options": [
+      "Separating read and write data operations to optimize performance, scalability, and security independently",
+      "Enforcing single-threaded execution across distributed database instances",
+      "Preventing unauthorized user access through automatic multi-factor authentication",
+      "Compressing data blocks before saving them to object storage"
+    ],
+    "answer": "Separating read and write data operations to optimize performance, scalability, and security independently"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "What is GitOps in modern cloud infrastructure management?",
+    "options": [
+      "An operational framework using Git repositories as the single source of truth for declarative infrastructure and application state",
+      "Hosting application code repositories on serverless cloud functions",
+      "Automatically backing up local Git commits to public cloud buckets",
+      "Encrypting source code commits using cloud KMS keys"
+    ],
+    "answer": "An operational framework using Git repositories as the single source of truth for declarative infrastructure and application state"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "What is the main role of Cloud Security Posture Management (CSPM) security tools?",
+    "options": [
+      "Continuously monitoring cloud environments to identify misconfigurations and compliance violations automatically",
+      "Replacing web application firewalls at the network edge",
+      "Performing real-time antivirus scans inside running container memory space",
+      "Generating user multi-factor authentication tokens"
+    ],
+    "answer": "Continuously monitoring cloud environments to identify misconfigurations and compliance violations automatically"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "What component acts as a central hub to simplify complex transit routing between multiple Virtual Private Clouds and on-premises networks?",
+    "options": [
+      "Transit Gateway",
+      "Egress-Only Internet Gateway",
+      "Application Load Balancer",
+      "Elastic Network Interface"
+    ],
+    "answer": "Transit Gateway"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "What causes a 'Cold Start' latency penalty in serverless function execution (e.g., AWS Lambda)?",
+    "options": [
+      "The time spent provisioning a new container runtime environment when invoked after being idle",
+      "Lowering physical data center room temperature during winter months",
+      "Downloading updated source code from GitHub repositories upon every user request",
+      "Compiling Java bytecode on local client laptops before invocation"
+    ],
+    "answer": "The time spent provisioning a new container runtime environment when invoked after being idle"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "What mechanism helps mitigate Cold Start delays in production serverless applications?",
+    "options": [
+      "Provisioned Concurrency (pre-warming execution environments)",
+      "Decreasing function timeout limits",
+      "Reducing function IAM policy permissions",
+      "Converting the serverless function into an S3 bucket"
+    ],
+    "answer": "Provisioned Concurrency (pre-warming execution environments)"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "What is Distributed Tracing (e.g., AWS X-Ray, OpenTelemetry) designed to do?",
+    "options": [
+      "Track and profile requests as they travel across complex microservice architectures to diagnose performance bottlenecks",
+      "Trace physical serial numbers of cloud data center servers",
+      "Monitor unauthorized physical entry attempts into server facilities",
+      "Log external IP connections made to DNS root servers"
+    ],
+    "answer": "Track and profile requests as they travel across complex microservice architectures to diagnose performance bottlenecks"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "What legal principle asserts that digital data stored in the cloud is subject to the laws and jurisdiction of the country where it is physically located?",
+    "options": [
+      "Data Sovereignty",
+      "Data Deduplication",
+      "Data Normalization",
+      "Data Sharding"
+    ],
+    "answer": "Data Sovereignty"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "What term describes financial fees charged by public cloud providers when transferring data OUT of their cloud network?",
+    "options": [
+      "Egress Fees",
+      "Ingress Fees",
+      "Provisioning Charges",
+      "API Call Premiums"
+    ],
+    "answer": "Egress Fees"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "What design pattern prevents a cascading failure by stopping execution of operations that are likely to fail in a distributed microservice system?",
+    "options": [
+      "Circuit Breaker Pattern",
+      "Retry Pattern",
+      "Bulkhead Pattern",
+      "Saga Pattern"
+    ],
+    "answer": "Circuit Breaker Pattern"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "What strategy handles complex distributed transactions spanning multiple microservices by executing local transactions and compensating actions on failure?",
+    "options": [
+      "Saga Pattern",
+      "Two-Phase Commit (2PC)",
+      "Strangler Fig Pattern",
+      "Outbox Pattern"
+    ],
+    "answer": "Saga Pattern"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "In cloud network architecture, what is 'Split-Horizon DNS'?",
+    "options": [
+      "Configuring DNS to return different IP address responses depending on whether the query originates from an internal or external network",
+      "Splitting DNS records across two different public domain registrars",
+      "Combining IPv4 and IPv6 records in the same AAAA resource record",
+      "Caching DNS lookups locally inside container memory space"
+    ],
+    "answer": "Configuring DNS to return different IP address responses depending on whether the query originates from an internal or external network"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "What specialized hybrid cloud platforms (e.g., AWS Outposts, Azure Stack) allow enterprises to run public cloud services directly inside on-premises data centers?",
+    "options": [
+      "Hybrid On-Premises Appliances",
+      "Public CDN Nodes",
+      "Container Registry Mirrors",
+      "Virtual Private Gateways"
+    ],
+    "answer": "Hybrid On-Premises Appliances"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "What term describes an application development approach built specifically to leverage cloud scale, managed services, containers, and microservices?",
+    "options": [
+      "Cloud-Native",
+      "Legacy Monolithic",
+      "Bare-Metal Native",
+      "On-Premises Dedicated"
+    ],
+    "answer": "Cloud-Native"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "In Event Sourcing architecture, how is the state of an application stored?",
+    "options": [
+      "As an immutable sequence of state-changing event logs rather than just current values",
+      "As overwritten rows in a relational database table",
+      "Inside temporary browser cookies on the client device",
+      "Inside encrypted volatile RAM caches"
+    ],
+    "answer": "As an immutable sequence of state-changing event logs rather than just current values"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "What is the function of a Cloud Workload Protection Platform (CWPP)?",
+    "options": [
+      "Providing workload-centric security protection across serverless functions, containers, and virtual machines in multi-cloud environments",
+      "Managing domain registry billing across public cloud vendors",
+      "Optimizing network cable bandwidth in private data centers",
+      "Automating code refactoring for legacy Java applications"
+    ],
+    "answer": "Providing workload-centric security protection across serverless functions, containers, and virtual machines in multi-cloud environments"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "What deployment practice involves deploying new features silently to production behind feature flags without exposing them to end users?",
+    "options": [
+      "Dark Launching",
+      "Blue/Green Switching",
+      "Big Bang Migration",
+      "In-Place Patching"
+    ],
+    "answer": "Dark Launching"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "Which architectural pillar of the AWS/Azure Well-Architected Framework focuses on running workloads efficiently and continuously improving supporting processes?",
+    "options": [
+      "Operational Excellence",
+      "Performance Efficiency",
+      "Cost Optimization",
+      "Reliability"
+    ],
+    "answer": "Operational Excellence"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "In cloud network architecture, what does VPC Peering allow?",
+    "options": [
+      "Connecting two Virtual Private Clouds directly using private IP addresses as if they were on the same network",
+      "Bridging public internet addresses to local browser storage",
+      "Routing external guest users to administrative active directory servers",
+      "Translating IPv6 addresses into DNS TXT records"
+    ],
+    "answer": "Connecting two Virtual Private Clouds directly using private IP addresses as if they were on the same network"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "What major limitation applies to standard VPC Peering connections in cloud networking?",
+    "options": [
+      "VPC Peering does not support transitive routing (VPC A to B to C does not allow A to C directly)",
+      "VPC Peering encrypts data using weak DES algorithms",
+      "VPC Peering requires physical fiber cables laid by the customer",
+      "VPC Peering can only connect subnets within the same Availability Zone"
+    ],
+    "answer": "VPC Peering does not support transitive routing (VPC A to B to C does not allow A to C directly)"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "What design pattern gradually migrates a monolithic system by replacing specific features with microservices until the legacy system is eliminated?",
+    "options": [
+      "Strangler Fig Pattern",
+      "Sidecar Pattern",
+      "CQRS Pattern",
+      "Bulkhead Pattern"
+    ],
+    "answer": "Strangler Fig Pattern"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "What is the principal advantage of adopting a Multi-Cloud strategy?",
+    "options": [
+      "Avoiding vendor lock-in, optimizing latency, and leveraging specialized tools across providers",
+      "Eliminating cloud egress fees entirely across all vendors",
+      "Guaranteeing 100% zero latency worldwide",
+      "Automating operating system licensing fees"
+    ],
+    "answer": "Avoiding vendor lock-in, optimizing latency, and leveraging specialized tools across providers"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "What architectural pattern isolates element failures into isolated pools so that if one fails, others continue operating (inspired by ship hulls)?",
+    "options": [
+      "Bulkhead Pattern",
+      "Circuit Breaker Pattern",
+      "Retry Pattern",
+      "Sidecar Pattern"
+    ],
+    "answer": "Bulkhead Pattern"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "In modern cloud databases, what does the term 'Eventual Consistency' imply?",
+    "options": [
+      "Replicas will eventually receive updates and converge, but immediate reads might return stale data",
+      "Data writes are guaranteed to be instantly consistent across all global nodes simultaneously",
+      "Transactions are processed only once per hour in batch jobs",
+      "Data is permanently deleted after a predetermined event timeline"
+    ],
+    "answer": "Replicas will eventually receive updates and converge, but immediate reads might return stale data"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "What overall goal does the Cloud Well-Architected Framework serve?",
+    "options": [
+      "Providing architectural best practices across pillars like Security, Reliability, Performance, Cost Optimization, and Operational Excellence",
+      "Forcing enterprises to run applications on bare-metal physical servers",
+      "Eliminating the need for software engineering teams in modern corporations",
+      "Standardizing database SQL queries across all relational engines"
+    ],
+    "answer": "Providing architectural best practices across pillars like Security, Reliability, Performance, Cost Optimization, and Operational Excellence"
+  }
+]

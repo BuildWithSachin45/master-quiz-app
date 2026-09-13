@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "If a train travels at a constant speed of 60 km/h, how many kilometers will it cover in 2.5 hours?",
+    "options": [
+      "120",
+      "140",
+      "150",
+      "180"
+    ],
+    "answer": "150"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "What is the next number in the arithmetic sequence: 4, 9, 14, 19, ...?",
+    "options": [
+      "22",
+      "24",
+      "25",
+      "29"
+    ],
+    "answer": "24"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "If 3x + 7 = 22, what is the value of x?",
+    "options": [
+      "3",
+      "5",
+      "7",
+      "15"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "A store offers a 20% discount on a jacket originally priced at $80. What is the final price of the jacket?",
+    "options": [
+      "$60",
+      "$64",
+      "$68",
+      "$72"
+    ],
+    "answer": "$64"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "The ratio of boys to girls in a classroom is 3:4. If there are 12 boys, how many girls are in the class?",
+    "options": [
+      "14",
+      "16",
+      "18",
+      "20"
+    ],
+    "answer": "16"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "What is the perimeter of a rectangle with length 12 cm and width 5 cm?",
+    "options": [
+      "17 cm",
+      "34 cm",
+      "60 cm",
+      "120 cm"
+    ],
+    "answer": "34 cm"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "If 5 workers can build a wall in 12 days, how many days will it take 10 workers to build the same wall working at the same rate?",
+    "options": [
+      "4 days",
+      "6 days",
+      "8 days",
+      "24 days"
+    ],
+    "answer": "6 days"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "Find the average (arithmetic mean) of the set of numbers: 8, 12, 15, 21, 24.",
+    "options": [
+      "15",
+      "16",
+      "18",
+      "20"
+    ],
+    "answer": "16"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "What is the probability of rolling an even number on a standard fair six-sided die?",
+    "options": [
+      "1/6",
+      "1/3",
+      "1/2",
+      "2/3"
+    ],
+    "answer": "1/2"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "If a square has an area of 81 square meters, what is its perimeter?",
+    "options": [
+      "9 meters",
+      "18 meters",
+      "36 meters",
+      "72 meters"
+    ],
+    "answer": "36 meters"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "Solve for y: 2y - 8 = 4y + 2.",
+    "options": [
+      "-5",
+      "-3",
+      "3",
+      "5"
+    ],
+    "answer": "-5"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "A bag contains 5 red balls and 15 blue balls. What percentage of the total balls are red?",
+    "options": [
+      "20%",
+      "25%",
+      "30%",
+      "33.3%"
+    ],
+    "answer": "25%"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "What is the smallest prime number greater than 20?",
+    "options": [
+      "21",
+      "23",
+      "27",
+      "29"
+    ],
+    "answer": "23"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "If the sum of three consecutive integers is 45, what is the largest of these integers?",
+    "options": [
+      "14",
+      "15",
+      "16",
+      "17"
+    ],
+    "answer": "16"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "A right triangle has legs of lengths 6 cm and 8 cm. What is the length of its hypotenuse?",
+    "options": [
+      "9 cm",
+      "10 cm",
+      "12 cm",
+      "14 cm"
+    ],
+    "answer": "10 cm"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "If a clock shows 3:00, what is the acute angle between the hour and minute hands?",
+    "options": [
+      "45°",
+      "60°",
+      "90°",
+      "120°"
+    ],
+    "answer": "90°"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "The total cost of 4 notebooks and 2 pens is $18. If a pen costs $3, how much does one notebook cost?",
+    "options": [
+      "$2",
+      "$3",
+      "$4",
+      "$5"
+    ],
+    "answer": "$3"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "What is the value of 2^5?",
+    "options": [
+      "10",
+      "16",
+      "25",
+      "32"
+    ],
+    "answer": "32"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "If a population increases from 800 to 1,000, what is the percentage increase?",
+    "options": [
+      "20%",
+      "25%",
+      "30%",
+      "40%"
+    ],
+    "answer": "25%"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "Which of the following numbers is divisible by both 3 and 4?",
+    "options": [
+      "14",
+      "18",
+      "24",
+      "30"
+    ],
+    "answer": "24"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "What is the sum of the interior angles of a pentagon?",
+    "options": [
+      "360°",
+      "450°",
+      "540°",
+      "720°"
+    ],
+    "answer": "540°"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "If a car uses 8 liters of fuel to cover 100 km, how many liters are needed for 350 km?",
+    "options": [
+      "24 liters",
+      "28 liters",
+      "32 liters",
+      "35 liters"
+    ],
+    "answer": "28 liters"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "If log10(x) = 3, what is x?",
+    "options": [
+      "30",
+      "100",
+      "300",
+      "1000"
+    ],
+    "answer": "1000"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "A product bought for $50 is sold for $65. What is the profit percentage?",
+    "options": [
+      "15%",
+      "20%",
+      "25%",
+      "30%"
+    ],
+    "answer": "30%"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "What is the median of the data set: 3, 7, 9, 12, 15, 18, 21?",
+    "options": [
+      "9",
+      "12",
+      "15",
+      "13.5"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "If 4^x = 64, what is x?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "16"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "What is the volume of a cube with edge length 4 cm?",
+    "options": [
+      "16 cm³",
+      "32 cm³",
+      "64 cm³",
+      "96 cm³"
+    ],
+    "answer": "64 cm³"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "If f(x) = 2x² - 3x + 1, what is f(3)?",
+    "options": [
+      "8",
+      "10",
+      "13",
+      "16"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "How many seconds are in 1.5 hours?",
+    "options": [
+      "3600",
+      "4800",
+      "5400",
+      "9000"
+    ],
+    "answer": "5400"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "If 2/5 of a number is 16, what is the number?",
+    "options": [
+      "32",
+      "40",
+      "50",
+      "80"
+    ],
+    "answer": "40"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "A tank can be filled by Pipe A in 4 hours and by Pipe B in 6 hours. If both pipes are opened together, how long will it take to fill the tank?",
+    "options": [
+      "2.0 hours",
+      "2.4 hours",
+      "3.0 hours",
+      "5.0 hours"
+    ],
+    "answer": "2.4 hours"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "The sum of the ages of a father and his son is 48 years. Four years ago, the father was 4 times as old as his son. How old is the son now?",
+    "options": [
+      "8 years",
+      "10 years",
+      "12 years",
+      "14 years"
+    ],
+    "answer": "12 years"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "Find the roots of the quadratic equation x² - 7x + 12 = 0.",
+    "options": [
+      "x = 2, 5",
+      "x = 3, 4",
+      "x = -3, -4",
+      "x = 1, 12"
+    ],
+    "answer": "x = 3, 4"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "What is the compound interest on $1,000 at 10% per annum compounded annually for 2 years?",
+    "options": [
+      "$200",
+      "$210",
+      "$220",
+      "$1,210"
+    ],
+    "answer": "$210"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "How many distinct 4-letter arrangements can be formed using the letters of the word 'MATH' without repetition?",
+    "options": [
+      "12",
+      "16",
+      "24",
+      "48"
+    ],
+    "answer": "24"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "A runner completes a lap at 10 km/h and returns along the same route at 15 km/h. What is the average speed for the entire trip?",
+    "options": [
+      "12 km/h",
+      "12.5 km/h",
+      "13 km/h",
+      "13.5 km/h"
+    ],
+    "answer": "12 km/h"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "If log(x) + log(x - 3) = 1 (where log is base 10), what is the value of x?",
+    "options": [
+      "2",
+      "5",
+      "10",
+      "-2"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "In a group of 50 students, 30 study Math, 25 study Physics, and 10 study both. How many students study neither subject?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "What is the sum of the infinite geometric series: 12 + 6 + 3 + 1.5 + ...?",
+    "options": [
+      "20",
+      "22.5",
+      "24",
+      "30"
+    ],
+    "answer": "24"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "If the length of a rectangle is increased by 20% and its width is decreased by 20%, what is the percentage change in area?",
+    "options": [
+      "0% change",
+      "4% decrease",
+      "4% increase",
+      "10% decrease"
+    ],
+    "answer": "4% decrease"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "Two dice are rolled simultaneously. What is the probability that the sum of the faces shown is equal to 8?",
+    "options": [
+      "5/36",
+      "1/6",
+      "7/36",
+      "1/9"
+    ],
+    "answer": "5/36"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "If the 5th term of an arithmetic progression is 17 and the 10th term is 32, what is the first term?",
+    "options": [
+      "3",
+      "5",
+      "7",
+      "9"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "Find the distance between the points A(2, -3) and B(7, 9) in the Cartesian plane.",
+    "options": [
+      "12",
+      "13",
+      "15",
+      "17"
+    ],
+    "answer": "13"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "A fair coin is flipped 4 times. What is the probability of getting exactly 3 heads?",
+    "options": [
+      "1/4",
+      "3/8",
+      "1/2",
+      "5/16"
+    ],
+    "answer": "1/4"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "What is the remainder when 2^20 is divided by 7?",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "5"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "If sin(θ) = 3/5 and θ is in the first quadrant, what is the value of tan(θ)?",
+    "options": [
+      "3/4",
+      "4/3",
+      "4/5",
+      "5/3"
+    ],
+    "answer": "3/4"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "A circle has a circumference of 16π cm. What is its area in terms of π?",
+    "options": [
+      "16π cm²",
+      "32π cm²",
+      "64π cm²",
+      "256π cm²"
+    ],
+    "answer": "64π cm²"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "How many integer solutions exist for the inequality |2x - 5| ≤ 7?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "A mixture of 40 liters contains milk and water in the ratio 3:1. How much water must be added to make the ratio 1:1?",
+    "options": [
+      "10 liters",
+      "15 liters",
+      "20 liters",
+      "25 liters"
+    ],
+    "answer": "20 liters"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "In how many ways can a committee of 3 people be chosen from a group of 7 people?",
+    "options": [
+      "21",
+      "35",
+      "42",
+      "210"
+    ],
+    "answer": "35"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "If x + 1/x = 4, what is the value of x² + 1/x²?",
+    "options": [
+      "12",
+      "14",
+      "16",
+      "18"
+    ],
+    "answer": "14"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "What is the derivative of f(x) = 3x³ - 5x² + 4x - 7 with respect to x?",
+    "options": [
+      "9x² - 10x + 4",
+      "9x² - 5x + 4",
+      "6x² - 10x + 4",
+      "3x² - 10x + 4"
+    ],
+    "answer": "9x² - 10x + 4"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "What is the sum of all interior angles of a regular octagon?",
+    "options": [
+      "900°",
+      "1080°",
+      "1260°",
+      "1440°"
+    ],
+    "answer": "1080°"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "If 3^(x+2) = 81, what is x?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "A boat goes 12 km downstream in 2 hours and 12 km upstream in 4 hours. What is the speed of the current?",
+    "options": [
+      "1.5 km/h",
+      "2.0 km/h",
+      "3.0 km/h",
+      "4.5 km/h"
+    ],
+    "answer": "1.5 km/h"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "Find the equation of the line passing through (1, 2) with a slope of 3.",
+    "options": [
+      "y = 3x + 1",
+      "y = 3x - 1",
+      "y = 3x + 2",
+      "y = 3x - 5"
+    ],
+    "answer": "y = 3x - 1"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "If the diagonal of a square is 10 cm, what is the area of the square?",
+    "options": [
+      "25 cm²",
+      "50 cm²",
+      "75 cm²",
+      "100 cm²"
+    ],
+    "answer": "50 cm²"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "Evaluate the integral: ∫ (2x + 3) dx from x = 0 to x = 2.",
+    "options": [
+      "7",
+      "8",
+      "10",
+      "12"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "How many terms of the sequence 2, 4, 6, 8, ... are needed to get a sum of 110?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "answer": "10"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "If the ratio of the surface areas of two spheres is 4:9, what is the ratio of their volumes?",
+    "options": [
+      "2:3",
+      "8:27",
+      "16:81",
+      "4:27"
+    ],
+    "answer": "8:27"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "Find the number of positive integer solutions to the equation x + y + z = 12.",
+    "options": [
+      "45",
+      "55",
+      "66",
+      "78"
+    ],
+    "answer": "55"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "What is the remainder when 3^100 is divided by 13?",
+    "options": [
+      "1",
+      "3",
+      "9",
+      "12"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "Evaluate the limit: lim (x -> 0) [ (sin(3x)) / x ].",
+    "options": [
+      "0",
+      "1",
+      "3",
+      "Undefined"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "If Matrix A = [[2, 1], [4, 3]], what is the determinant of A^(-1)?",
+    "options": [
+      "1/2",
+      "2",
+      "1/10",
+      "10"
+    ],
+    "answer": "1/2"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "In how many ways can 6 people sit around a circular table if two particular people must always sit together?",
+    "options": [
+      "24",
+      "48",
+      "120",
+      "240"
+    ],
+    "answer": "48"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "Find the sum of the coefficients in the expansion of (2x - 3y)^5.",
+    "options": [
+      "-32",
+      "-1",
+      "1",
+      "32"
+    ],
+    "answer": "-1"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "A coin is biased so that heads is 3 times as likely to appear as tails. If the coin is tossed twice, what is the probability of getting at least one tail?",
+    "options": [
+      "1/16",
+      "7/16",
+      "9/16",
+      "15/16"
+    ],
+    "answer": "7/16"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "Find the value of x that maximizes the function f(x) = -x² + 6x + 5.",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "6"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "What is the acute angle between the lines y = x and y = √3 x?",
+    "options": [
+      "15°",
+      "30°",
+      "45°",
+      "60°"
+    ],
+    "answer": "15°"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "A sphere is inscribed inside a cube with side length 6 cm. What is the volume of the space inside the cube but outside the sphere?",
+    "options": [
+      "216 - 36π",
+      "216 - 18π",
+      "108 - 36π",
+      "216 - 72π"
+    ],
+    "answer": "216 - 36π"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "If α and β are roots of x² - 5x + 6 = 0, evaluate α³ + β³.",
+    "options": [
+      "35",
+      "45",
+      "55",
+      "65"
+    ],
+    "answer": "35"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "Evaluate the integral: ∫ [1 / (x ln(x))] dx.",
+    "options": [
+      "ln|x| + C",
+      "ln|ln(x)| + C",
+      "1 / ln(x) + C",
+      "(ln(x))² + C"
+    ],
+    "answer": "ln|ln(x)| + C"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "What is the number of real roots of the equation x^4 + 4x² + 3 = 0?",
+    "options": [
+      "0",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "0"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "A committee of 4 is selected at random from 5 men and 5 women. What is the probability that the committee contains equal numbers of men and women?",
+    "options": [
+      "3/7",
+      "10/21",
+      "1/2",
+      "5/9"
+    ],
+    "answer": "10/21"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "Find the sum of the series 1/(1·2) + 1/(2·3) + 1/(3·4) + ... + 1/(99·100).",
+    "options": [
+      "99/100",
+      "100/101",
+      "1",
+      "49/50"
+    ],
+    "answer": "99/100"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "If Vector A = 2i + 3j - k and Vector B = i - j + 2k, what is the dot product A · B?",
+    "options": [
+      "-3",
+      "-1",
+      "1",
+      "3"
+    ],
+    "answer": "-3"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "Find the units digit of 7^2023.",
+    "options": [
+      "1",
+      "3",
+      "7",
+      "9"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "How many trailing zeros are at the end of 50! (50 factorial)?",
+    "options": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "What is the area bounded by the curve y = x² and the line y = 4?",
+    "options": [
+      "16/3",
+      "32/3",
+      "64/3",
+      "8"
+    ],
+    "answer": "32/3"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "If x, y > 0 and x + y = 10, what is the maximum value of x²y?",
+    "options": [
+      "125.5",
+      "148.1",
+      "148.15",
+      "148.148..."
+    ],
+    "answer": "148.148..."
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "What is the solution to the differential equation dy/dx = 2xy with y(0) = 3?",
+    "options": [
+      "y = 3e^(x²)",
+      "y = 3e^(2x)",
+      "y = e^(x²) + 2",
+      "y = 3x² + 3"
+    ],
+    "answer": "y = 3e^(x²)"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "In triangle ABC, side a = 7, side b = 8, and side c = 9. What is cos(A)?",
+    "options": [
+      "1/3",
+      "2/3",
+      "3/4",
+      "7/9"
+    ],
+    "answer": "2/3"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "Two parallel chords of lengths 6 cm and 8 cm are drawn in a circle of radius 5 cm on opposite sides of the center. What is the distance between the two chords?",
+    "options": [
+      "5 cm",
+      "6 cm",
+      "7 cm",
+      "8 cm"
+    ],
+    "answer": "7 cm"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "Evaluate lim (x -> ∞) (1 + 2/x)^x.",
+    "options": [
+      "1",
+      "e",
+      "e²",
+      "∞"
+    ],
+    "answer": "e²"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "What is the sum of all two-digit prime numbers?",
+    "options": [
+      "1043",
+      "1042",
+      "1040",
+      "1012"
+    ],
+    "answer": "1043"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "How many non-isomorphic trees can be formed with 5 vertices?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "If log_2(x) + log_4(x) = 6, what is x?",
+    "options": [
+      "8",
+      "16",
+      "32",
+      "64"
+    ],
+    "answer": "16"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "Find the radius of the incircle of a right triangle with side lengths 5, 12, and 13.",
+    "options": [
+      "1.5",
+      "2",
+      "2.5",
+      "3"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "A fair coin is tossed until a Head appears. What is the expected number of tosses?",
+    "options": [
+      "1",
+      "1.5",
+      "2",
+      "4"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "What is the coefficient of x³ in the Taylor series expansion of e^(2x) about x = 0?",
+    "options": [
+      "2/3",
+      "4/3",
+      "8/3",
+      "2"
+    ],
+    "answer": "4/3"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "If a, b, c are in Geometric Progression, which of the following is always true?",
+    "options": [
+      "b = (a + c) / 2",
+      "b² = ac",
+      "2b = a + c",
+      "b = √(a + c)"
+    ],
+    "answer": "b² = ac"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "Find the remainder when x^100 - 1 is divided by x - 1.",
+    "options": [
+      "-1",
+      "0",
+      "1",
+      "99"
+    ],
+    "answer": "0"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "How many total diagonals does a convex decagon (10-sided polygon) have?",
+    "options": [
+      "20",
+      "27",
+      "35",
+      "45"
+    ],
+    "answer": "35"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "If f(x) = x^x for x > 0, what is f'(1)?",
+    "options": [
+      "0",
+      "1",
+      "e",
+      "1 + ln(1)"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "Two cards are drawn without replacement from a standard 52-card deck. What is the probability that both cards are Kings?",
+    "options": [
+      "1/221",
+      "1/169",
+      "1/26",
+      "4/663"
+    ],
+    "answer": "1/221"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "What is the volume of the solid generated by revolving the region bounded by y = √x, x = 4, and y = 0 about the x-axis?",
+    "options": [
+      "4π",
+      "8π",
+      "12π",
+      "16π"
+    ],
+    "answer": "8π"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "If the roots of x³ - 6x² + 11x - k = 0 are in Arithmetic Progression, what is the value of k?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "10"
+    ],
+    "answer": "6"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "Find the sum of all solutions to sin(2x) = cos(x) for x in the interval [0, 2π].",
+    "options": [
+      "2π",
+      "3π",
+      "4π",
+      "5π"
+    ],
+    "answer": "3π"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "In a Poisson distribution, if the variance is 4, what is the probability P(X = 0)?",
+    "options": [
+      "e^(-2)",
+      "e^(-4)",
+      "4e^(-4)",
+      "1/4"
+    ],
+    "answer": "e^(-4)"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "What is the maximum number of region partitions created by 5 straight lines in a 2D plane?",
+    "options": [
+      "11",
+      "14",
+      "16",
+      "22"
+    ],
+    "answer": "16"
+  }
+]

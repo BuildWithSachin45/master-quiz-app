@@ -1,0 +1,1203 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "Which Software Development Life Cycle (SDLC) model follows a linear and sequential approach where each phase must be completed before the next begins?",
+    "options": [
+      "Waterfall Model",
+      "Agile Model",
+      "Spiral Model",
+      "Prototyping Model"
+    ],
+    "answer": "Waterfall Model"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "In Agile frameworks, what is the term used for a short, time-boxed period in which a development team completes a set amount of work?",
+    "options": [
+      "Sprint",
+      "Epic",
+      "Milestone",
+      "Backlog"
+    ],
+    "answer": "Sprint"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "What type of requirement specifies system behaviors, features, and capabilities from a user perspective?",
+    "options": [
+      "Functional Requirement",
+      "Non-Functional Requirement",
+      "Architectural Requirement",
+      "Operational Requirement"
+    ],
+    "answer": "Functional Requirement"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "Which non-functional requirement measures how easily a software system can be modified or adapted to changing business needs?",
+    "options": [
+      "Maintainability",
+      "Usability",
+      "Portability",
+      "Reliability"
+    ],
+    "answer": "Maintainability"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "What level of software testing focuses on verifying individual units or components of source code in isolation?",
+    "options": [
+      "Unit Testing",
+      "Integration Testing",
+      "System Testing",
+      "Acceptance Testing"
+    ],
+    "answer": "Unit Testing"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "In software design, what term describes the degree to which elements inside a single module belong together?",
+    "options": [
+      "Cohesion",
+      "Coupling",
+      "Abstraction",
+      "Encapsulation"
+    ],
+    "answer": "Cohesion"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "In software design, what term describes the degree of interdependence between different software modules?",
+    "options": [
+      "Coupling",
+      "Cohesion",
+      "Inheritance",
+      "Polymorphism"
+    ],
+    "answer": "Coupling"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "According to software design best practices, software systems should aim for which structural combination?",
+    "options": [
+      "High cohesion and low coupling",
+      "Low cohesion and high coupling",
+      "High cohesion and high coupling",
+      "Low cohesion and low coupling"
+    ],
+    "answer": "High cohesion and low coupling"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "What standard modeling language is used to visualize, specify, construct, and document software system artifacts?",
+    "options": [
+      "UML (Unified Modeling Language)",
+      "HTML (HyperText Markup Language)",
+      "ERD (Entity Relationship Diagram)",
+      "DFD (Data Flow Diagram)"
+    ],
+    "answer": "UML (Unified Modeling Language)"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "Which testing methodology tests internal structures and implementation logic without requiring visible UI components?",
+    "options": [
+      "White-Box Testing",
+      "Black-Box Testing",
+      "User Acceptance Testing",
+      "Smoke Testing"
+    ],
+    "answer": "White-Box Testing"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "Which testing methodology evaluates software functionality without looking at internal code implementation or logic?",
+    "options": [
+      "Black-Box Testing",
+      "White-Box Testing",
+      "Glass-Box Testing",
+      "Structural Testing"
+    ],
+    "answer": "Black-Box Testing"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "What is the process of restructuring existing computer code without changing its external behavior?",
+    "options": [
+      "Refactoring",
+      "Debugging",
+      "Compiling",
+      "Profiling"
+    ],
+    "answer": "Refactoring"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "What document defines the target system software requirements, features, constraints, and scope for stakeholders?",
+    "options": [
+      "SRS (Software Requirements Specification)",
+      "HLD (High-Level Design)",
+      "LLD (Low-Level Design)",
+      "SLA (Service Level Agreement)"
+    ],
+    "answer": "SRS (Software Requirements Specification)"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "In Scrum, who is directly responsible for defining user stories, managing the product backlog, and prioritizing features?",
+    "options": [
+      "Product Owner",
+      "Scrum Master",
+      "Lead Developer",
+      "Project Manager"
+    ],
+    "answer": "Product Owner"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "What version control command is used to record changes to the repository with a descriptive message in Git?",
+    "options": [
+      "git commit",
+      "git push",
+      "git add",
+      "git checkout"
+    ],
+    "answer": "git commit"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "Which software maintenance type involves fixing errors and defects discovered after software delivery?",
+    "options": [
+      "Corrective Maintenance",
+      "Adaptive Maintenance",
+      "Perfective Maintenance",
+      "Preventive Maintenance"
+    ],
+    "answer": "Corrective Maintenance"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "Which software maintenance type updates software to remain functional in a changing operational environment (such as a new OS)?",
+    "options": [
+      "Adaptive Maintenance",
+      "Corrective Maintenance",
+      "Perfective Maintenance",
+      "Preventive Maintenance"
+    ],
+    "answer": "Adaptive Maintenance"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "What type of testing ensures that newly added code or bug fixes have not broken existing, working software functionality?",
+    "options": [
+      "Regression Testing",
+      "Smoke Testing",
+      "Stress Testing",
+      "Alpha Testing"
+    ],
+    "answer": "Regression Testing"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "In object-oriented programming, what principle restricts direct access to an object's internal state data?",
+    "options": [
+      "Encapsulation",
+      "Inheritance",
+      "Polymorphism",
+      "Abstraction"
+    ],
+    "answer": "Encapsulation"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "What basic UML diagram illustrates system user interactions with high-level system boundary functionalities?",
+    "options": [
+      "Use Case Diagram",
+      "Class Diagram",
+      "Sequence Diagram",
+      "Deployment Diagram"
+    ],
+    "answer": "Use Case Diagram"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "What agile artifact represents a prioritized list of raw user requirements, bug fixes, and feature requests?",
+    "options": [
+      "Product Backlog",
+      "Sprint Goal",
+      "Sprint Retrospective",
+      "Burndown Chart"
+    ],
+    "answer": "Product Backlog"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "What is the term for a mistake made by a software engineer in source code that creates a defect?",
+    "options": [
+      "Error",
+      "Fault",
+      "Failure",
+      "Bug"
+    ],
+    "answer": "Error"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "What term describes the inability of a software system to perform its required functions within specified limits during runtime?",
+    "options": [
+      "Failure",
+      "Error",
+      "Fault",
+      "Flaw"
+    ],
+    "answer": "Failure"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "In Agile development, what template format is widely used for writing user stories?",
+    "options": [
+      "As a [role], I want [feature], so that [benefit]",
+      "If [condition], then [action], else [alternative]",
+      "System shall [action] given [input] under [constraint]",
+      "Given [actor], execute [function] with [parameter]"
+    ],
+    "answer": "As a [role], I want [feature], so that [benefit]"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "Which software development methodology incorporates continuous risk management iteratively throughout project lifecycles?",
+    "options": [
+      "Spiral Model",
+      "Waterfall Model",
+      "V-Model",
+      "Big Bang Model"
+    ],
+    "answer": "Spiral Model"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "What SDLC model pairs every development phase directly with a corresponding testing phase in a V-shaped structure?",
+    "options": [
+      "V-Model (Verification and Validation Model)",
+      "Agile Model",
+      "Waterfall Model",
+      "Rapid Application Development (RAD)"
+    ],
+    "answer": "V-Model (Verification and Validation Model)"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "In Version Control Systems (VCS), what does creating a 'branch' allow developers to do?",
+    "options": [
+      "Work on independent streams of code without affecting the main codebase",
+      "Permanently delete old commit history from remote servers",
+      "Automatically compile and deploy code to production servers",
+      "Lock files so no other developers can edit them"
+    ],
+    "answer": "Work on independent streams of code without affecting the main codebase"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "What basic software engineering process step verifies whether the system meets specified design requirements ('Are we building the product right?')?",
+    "options": [
+      "Verification",
+      "Validation",
+      "Elicitation",
+      "Specification"
+    ],
+    "answer": "Verification"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "What process checks whether software satisfies customer expectations and business needs ('Are we building the right product?')?",
+    "options": [
+      "Validation",
+      "Verification",
+      "Unit Testing",
+      "Static Analysis"
+    ],
+    "answer": "Validation"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "Which term describes software release software delivered to end users for final real-world testing prior to commercial launch?",
+    "options": [
+      "Beta Testing",
+      "Alpha Testing",
+      "Unit Testing",
+      "Integration Testing"
+    ],
+    "answer": "Beta Testing"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "What does the 'S' in the SOLID principles of object-oriented design stand for?",
+    "options": [
+      "Single Responsibility Principle",
+      "Subclass Substitution Principle",
+      "Software Scalability Principle",
+      "Static Structure Principle"
+    ],
+    "answer": "Single Responsibility Principle"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "According to the Open/Closed Principle (the 'O' in SOLID), software entities should be what?",
+    "options": [
+      "Open for extension, but closed for modification",
+      "Open for modification, but closed for extension",
+      "Open for public access, but closed for private inheritance",
+      "Open for reading, but closed for writing"
+    ],
+    "answer": "Open for extension, but closed for modification"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "Which SOLID principle states that objects of a superclass should be replaceable with objects of a subclass without breaking application behavior?",
+    "options": [
+      "Liskov Substitution Principle",
+      "Interface Segregation Principle",
+      "Dependency Inversion Principle",
+      "Single Responsibility Principle"
+    ],
+    "answer": "Liskov Substitution Principle"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "Which design pattern ensures a class has only one instance while providing a global point of access to it?",
+    "options": [
+      "Singleton Pattern",
+      "Factory Method Pattern",
+      "Prototype Pattern",
+      "Builder Pattern"
+    ],
+    "answer": "Singleton Pattern"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "Which Gang of Four (GoF) design pattern defines a one-to-many dependency so that when one object changes state, all dependents are notified?",
+    "options": [
+      "Observer Pattern",
+      "Strategy Pattern",
+      "Command Pattern",
+      "Adapter Pattern"
+    ],
+    "answer": "Observer Pattern"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "Which design pattern converts the interface of a class into another interface expected by clients, enabling incompatible interfaces to collaborate?",
+    "options": [
+      "Adapter Pattern",
+      "Bridge Pattern",
+      "Facade Pattern",
+      "Decorator Pattern"
+    ],
+    "answer": "Adapter Pattern"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "Which architectural pattern divides an application into Model, View, and Controller components to separate data logic from UI rendering?",
+    "options": [
+      "MVC Pattern",
+      "MVVM Pattern",
+      "Layered Architecture",
+      "Event-Driven Architecture"
+    ],
+    "answer": "MVC Pattern"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "What dynamic testing technique inputs random or malformed inputs into a program to monitor for crashes or memory leaks?",
+    "options": [
+      "Fuzz Testing (Fuzzing)",
+      "Mutation Testing",
+      "Equivalence Partitioning",
+      "Boundary Value Analysis"
+    ],
+    "answer": "Fuzz Testing (Fuzzing)"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "In black-box testing, dividing input data domain values into valid/invalid classes where test cases are sampled from each class is called what?",
+    "options": [
+      "Equivalence Partitioning",
+      "Boundary Value Analysis",
+      "Decision Table Testing",
+      "State Transition Testing"
+    ],
+    "answer": "Equivalence Partitioning"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "What testing technique focuses on test execution at the extreme lower and upper limits of valid and invalid input ranges?",
+    "options": [
+      "Boundary Value Analysis",
+      "Equivalence Partitioning",
+      "Pairwise Testing",
+      "Path Coverage"
+    ],
+    "answer": "Boundary Value Analysis"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "In Continuous Integration / Continuous Deployment (CI/CD), what is the primary purpose of the CI pipeline?",
+    "options": [
+      "Automatically build, test, and integrate code changes into a shared repository frequently",
+      "Provision physical server hardware on demand",
+      "Manage customer billing and license entitlements",
+      "Generate marketing metrics for released features"
+    ],
+    "answer": "Automatically build, test, and integrate code changes into a shared repository frequently"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "Which design pattern dynamically attaches additional responsibilities to an object flexibly without subclassing?",
+    "options": [
+      "Decorator Pattern",
+      "Proxy Pattern",
+      "Composite Pattern",
+      "Flyweight Pattern"
+    ],
+    "answer": "Decorator Pattern"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "Which structural design pattern provides a simplified interface to a complex library, framework, or set of subsystem classes?",
+    "options": [
+      "Facade Pattern",
+      "Adapter Pattern",
+      "Bridge Pattern",
+      "Flyweight Pattern"
+    ],
+    "answer": "Facade Pattern"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "In software metrics, what does Cyclomatic Complexity measure?",
+    "options": [
+      "The number of linearly independent paths through a program's source code",
+      "The total lines of physical code excluding comments",
+      "The execution execution time in milliseconds",
+      "The ratio of inheritance depth in object-oriented classes"
+    ],
+    "answer": "The number of linearly independent paths through a program's source code"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "If a control flow graph has 10 edges (E), 7 nodes (N), and 1 connected component (P), what is its Cyclomatic Complexity $V(G) = E - N + 2P$?",
+    "options": [
+      "5",
+      "3",
+      "7",
+      "12"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "Which behavioral pattern encapsulates family algorithms into separate classes, making them interchangeable at runtime?",
+    "options": [
+      "Strategy Pattern",
+      "State Pattern",
+      "Template Method Pattern",
+      "Observer Pattern"
+    ],
+    "answer": "Strategy Pattern"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "In integration testing, what simulated component replaces a lower-level module that has not yet been developed?",
+    "options": [
+      "Stub",
+      "Driver",
+      "Mock",
+      "Spy"
+    ],
+    "answer": "Stub"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "In integration testing, what simulated main module invokes lower-level software functions under test?",
+    "options": [
+      "Driver",
+      "Stub",
+      "Fake",
+      "Dummy"
+    ],
+    "answer": "Driver"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "Which SOLID principle suggests that clients should not be forced to depend on interfaces they do not use?",
+    "options": [
+      "Interface Segregation Principle",
+      "Single Responsibility Principle",
+      "Liskov Substitution Principle",
+      "Dependency Inversion Principle"
+    ],
+    "answer": "Interface Segregation Principle"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "Which SOLID principle states that high-level modules should not depend on low-level modules, but both should depend on abstractions?",
+    "options": [
+      "Dependency Inversion Principle",
+      "Open/Closed Principle",
+      "Interface Segregation Principle",
+      "Liskov Substitution Principle"
+    ],
+    "answer": "Dependency Inversion Principle"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "What architectural pattern structures an application as a collection of loosely coupled, independently deployable services?",
+    "options": [
+      "Microservices Architecture",
+      "Monolithic Architecture",
+      "Mainframe Architecture",
+      "Shared Repository Architecture"
+    ],
+    "answer": "Microservices Architecture"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "What term describes surface indications in source code that signal deeper design or architectural code quality problems?",
+    "options": [
+      "Code Smell",
+      "Bug Trace",
+      "Technical Flaw",
+      "Stack Overflow"
+    ],
+    "answer": "Code Smell"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "In UML, what relationship represents a 'has-a' whole-part relationship where child components can exist independently of the parent?",
+    "options": [
+      "Aggregation",
+      "Composition",
+      "Generalization",
+      "Realization"
+    ],
+    "answer": "Aggregation"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "In UML, what strong whole-part relationship dictates that child parts cannot exist without the parent object?",
+    "options": [
+      "Composition",
+      "Aggregation",
+      "Association",
+      "Dependency"
+    ],
+    "answer": "Composition"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "What creational design pattern separates the construction of a complex object from its representation?",
+    "options": [
+      "Builder Pattern",
+      "Factory Pattern",
+      "Prototype Pattern",
+      "Abstract Factory Pattern"
+    ],
+    "answer": "Builder Pattern"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "Which creational design pattern creates new objects by cloning an existing instance instead of instantiating new ones via constructors?",
+    "options": [
+      "Prototype Pattern",
+      "Singleton Pattern",
+      "Builder Pattern",
+      "Factory Method Pattern"
+    ],
+    "answer": "Prototype Pattern"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "What deployment strategy routes traffic progressively to a new application version while monitoring performance before full rollout?",
+    "options": [
+      "Canary Deployment",
+      "Blue-Green Deployment",
+      "In-Place Deployment",
+      "Big Bang Deployment"
+    ],
+    "answer": "Canary Deployment"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "Which deployment strategy maintains two identical production environments (one active, one idle) to eliminate downtime during releases?",
+    "options": [
+      "Blue-Green Deployment",
+      "Rolling Deployment",
+      "Shadow Deployment",
+      "Canary Deployment"
+    ],
+    "answer": "Blue-Green Deployment"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "What agile metric measures the amount of work (e.g., story points) a team successfully completes during a sprint?",
+    "options": [
+      "Velocity",
+      "Burn Rate",
+      "Lead Time",
+      "Throughput"
+    ],
+    "answer": "Velocity"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "What software modeling diagram captures time-ordered message interactions between runtime software objects?",
+    "options": [
+      "Sequence Diagram",
+      "Class Diagram",
+      "Component Diagram",
+      "Package Diagram"
+    ],
+    "answer": "Sequence Diagram"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "What design pattern handles distributed transactions across multiple microservices by executing local transactions and compensating actions on failure?",
+    "options": [
+      "Saga Pattern",
+      "CQRS Pattern",
+      "Two-Phase Commit (2PC) Pattern",
+      "Outbox Pattern"
+    ],
+    "answer": "Saga Pattern"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "Which design pattern separates read operations from write operations to optimize performance, scalability, and security?",
+    "options": [
+      "CQRS (Command Query Responsibility Segregation)",
+      "Event Sourcing",
+      "Strangler Fig Pattern",
+      "Circuit Breaker Pattern"
+    ],
+    "answer": "CQRS (Command Query Responsibility Segregation)"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "Which pattern prevents cascading failures in distributed microservices by isolating remote call failures and returning fallback responses when threshold limits break?",
+    "options": [
+      "Circuit Breaker Pattern",
+      "Bulkhead Pattern",
+      "Retry Pattern",
+      "Ambassador Pattern"
+    ],
+    "answer": "Circuit Breaker Pattern"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "In Domain-Driven Design (DDD), what term describes a explicit boundary within which a domain model applies and holds precise contextual meaning?",
+    "options": [
+      "Bounded Context",
+      "Ubiquitous Language",
+      "Aggregate Root",
+      "Domain Service"
+    ],
+    "answer": "Bounded Context"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "In Domain-Driven Design (DDD), what distinguishes an Entity from a Value Object?",
+    "options": [
+      "An Entity has a unique identity that persists across state changes; a Value Object is defined solely by its attribute values",
+      "A Value Object contains business logic while an Entity is an immutable data holder",
+      "An Entity cannot be mutated; a Value Object can be updated via database ORM",
+      "There is no functional distinction in DDD"
+    ],
+    "answer": "An Entity has a unique identity that persists across state changes; a Value Object is defined solely by its attribute values"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "What software engineering design practice involves introducing artificial faults (mutants) into source code to evaluate test suite effectiveness?",
+    "options": [
+      "Mutation Testing",
+      "Fault Tree Analysis",
+      "Chaos Engineering",
+      "Static Code Analysis"
+    ],
+    "answer": "Mutation Testing"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "What design pattern facilitates sharing large numbers of fine-grained objects efficiently by storing shared intrinsic state externally?",
+    "options": [
+      "Flyweight Pattern",
+      "Composite Pattern",
+      "Proxy Pattern",
+      "Bridge Pattern"
+    ],
+    "answer": "Flyweight Pattern"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "Which behavioral pattern allows an object to alter its behavior when its internal state changes, appearing to change its class?",
+    "options": [
+      "State Pattern",
+      "Strategy Pattern",
+      "Command Pattern",
+      "Memento Pattern"
+    ],
+    "answer": "State Pattern"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "Which behavioral pattern captures and externalizes an object's internal state so that the object can be restored to this state later without violating encapsulation?",
+    "options": [
+      "Memento Pattern",
+      "Prototype Pattern",
+      "Command Pattern",
+      "Visitor Pattern"
+    ],
+    "answer": "Memento Pattern"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "Which behavioral pattern decouples message senders from receivers by passing the request along a chain of candidate handlers until one processes it?",
+    "options": [
+      "Chain of Responsibility Pattern",
+      "Mediator Pattern",
+      "Command Pattern",
+      "Observer Pattern"
+    ],
+    "answer": "Chain of Responsibility Pattern"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "What software architecture style isolates core domain business logic from external frameworks, UI, and database dependencies using Ports and Adapters?",
+    "options": [
+      "Hexagonal Architecture",
+      "Monolithic Architecture",
+      "Event-Driven Architecture",
+      "Pipe and Filter Architecture"
+    ],
+    "answer": "Hexagonal Architecture"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "What term refers to the accumulated implied cost of additional rework caused by choosing an easy short-term solution over a better long-term design?",
+    "options": [
+      "Technical Debt",
+      "Architectural Drift",
+      "Code Decay",
+      "Software Entropy"
+    ],
+    "answer": "Technical Debt"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "In concurrency, what situation occurs when two or more threads are blocked forever, each waiting for a resource held by the other?",
+    "options": [
+      "Deadlock",
+      "Livelock",
+      "Starvation",
+      "Race Condition"
+    ],
+    "answer": "Deadlock"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "Which four conditions (Coffman conditions) must hold simultaneously for a deadlock to occur?",
+    "options": [
+      "Mutual Exclusion, Hold and Wait, No Preemption, Circular Wait",
+      "Atomicity, Consistency, Isolation, Durability",
+      "Confidentiality, Integrity, Availability, Authenticity",
+      "Cohesion, Coupling, Abstraction, Encapsulation"
+    ],
+    "answer": "Mutual Exclusion, Hold and Wait, No Preemption, Circular Wait"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "What refactoring pattern slowly replaces legacy system functionality piece by piece with microservices until the legacy system can be decommissioned?",
+    "options": [
+      "Strangler Fig Pattern",
+      "Sidecar Pattern",
+      "Ambassador Pattern",
+      "Baggage Pattern"
+    ],
+    "answer": "Strangler Fig Pattern"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "What software engineering discipline purposefully injects disruptive failures into production systems to test resilience and fault tolerance?",
+    "options": [
+      "Chaos Engineering",
+      "Penetration Testing",
+      "Load Testing",
+      "Smoke Testing"
+    ],
+    "answer": "Chaos Engineering"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "Which behavioral design pattern represents an operation to be performed on elements of an object structure without modifying the element classes?",
+    "options": [
+      "Visitor Pattern",
+      "Mediator Pattern",
+      "Interpreter Pattern",
+      "Template Method Pattern"
+    ],
+    "answer": "Visitor Pattern"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "What behavioral pattern defines an object that encapsulates how a set of objects interact, preventing direct references between them?",
+    "options": [
+      "Mediator Pattern",
+      "Observer Pattern",
+      "Facade Pattern",
+      "Proxy Pattern"
+    ],
+    "answer": "Mediator Pattern"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "In event-driven microservices, what pattern records state changes as a sequence of immutable append-only domain events instead of storing current state?",
+    "options": [
+      "Event Sourcing",
+      "Change Data Capture (CDC)",
+      "Database per Service",
+      "Outbox Pattern"
+    ],
+    "answer": "Event Sourcing"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "What software design problem arises when subclasses inherit methods from a base class that violate the assumptions made by superclass callers?",
+    "options": [
+      "Liskov Substitution Principle Violation",
+      "Fragile Base Class Problem",
+      "Rigidity Problem",
+      "Viscosity Problem"
+    ],
+    "answer": "Liskov Substitution Principle Violation"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "What metric measures software maintainability based on Halstead Volume, Cyclomatic Complexity, and Lines of Code?",
+    "options": [
+      "Maintainability Index (MI)",
+      "LACK of Cohesion in Methods (LCOM)",
+      "Instability Metric (I)",
+      "Abstractness Metric (A)"
+    ],
+    "answer": "Maintainability Index (MI)"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "In object-oriented metrics, what does 'LCOM' measure?",
+    "options": [
+      "Lack of Cohesion in Methods",
+      "Lines of Code per Module",
+      "Level of Object Memory",
+      "Linear Complexity of Methods"
+    ],
+    "answer": "Lack of Cohesion in Methods"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "What architectural pattern attaches a secondary container alongside a primary application container to share resources like logging or monitoring?",
+    "options": [
+      "Sidecar Pattern",
+      "Ambassador Pattern",
+      "Adapter Pattern",
+      "Gateway Aggregation Pattern"
+    ],
+    "answer": "Sidecar Pattern"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "What formal property states that an operation can be applied multiple times without changing the result beyond the initial application?",
+    "options": [
+      "Idempotence",
+      "Atomicity",
+      "Orthogonality",
+      "Reflexivity"
+    ],
+    "answer": "Idempotence"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "What concept ensures that two software components can vary independently without affecting each other because their operations are non-overlapping?",
+    "options": [
+      "Orthogonality",
+      "Polymorphism",
+      "Encapsulation",
+      "Inheritance"
+    ],
+    "answer": "Orthogonality"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "In software testing, what condition occurs when code coverage tools show 100% statement coverage but fail to uncover logical errors?",
+    "options": [
+      "Missing Path / Boundary Condition Flaw",
+      "Mutant Survival Rate",
+      "Halstead Anomaly",
+      "Dead Code Masking"
+    ],
+    "answer": "Missing Path / Boundary Condition Flaw"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "What pattern ensures atomic updates between a database and an event broker by writing events to an outbox table in the same local transaction?",
+    "options": [
+      "Transactional Outbox Pattern",
+      "Two-Phase Commit Pattern",
+      "Compensating Transaction Pattern",
+      "Saga Pattern"
+    ],
+    "answer": "Transactional Outbox Pattern"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "What architectural metric measures how resistant a software component is to change based on incoming vs outgoing dependencies?",
+    "options": [
+      "Instability Metric $I = C_e / (C_a + C_e)$",
+      "Cyclomatic Complexity",
+      "Response For a Class (RFC)",
+      "Coupling Between Objects (CBO)"
+    ],
+    "answer": "Instability Metric $I = C_e / (C_a + C_e)$"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "What refactoring technique replaces complex conditional logic branching based on object type with polymorphic method execution?",
+    "options": [
+      "Replace Conditional with Polymorphism",
+      "Extract Method",
+      "Introduce Null Object",
+      "Replace Delegation with Inheritance"
+    ],
+    "answer": "Replace Conditional with Polymorphism"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "What software estimation technique calculates size based on user inputs, outputs, queries, files, and external interfaces?",
+    "options": [
+      "Function Point Analysis (FPA)",
+      "COCOMO Model",
+      "Planning Poker",
+      "Wideband Delphi"
+    ],
+    "answer": "Function Point Analysis (FPA)"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "In COCOMO (Constructive Cost Model), what primary metric is used to estimate project effort in person-months?",
+    "options": [
+      "KLOC (Kilo Lines of Code)",
+      "Story Points",
+      "Function Points",
+      "Number of Use Cases"
+    ],
+    "answer": "KLOC (Kilo Lines of Code)"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "What concurrency issue occurs when threads continuously change state in response to each other without making progress?",
+    "options": [
+      "Livelock",
+      "Deadlock",
+      "Resource Starvation",
+      "Priority Inversion"
+    ],
+    "answer": "Livelock"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "What structural pattern uses a placeholder or surrogate object to control access to another resource-intensive or sensitive object?",
+    "options": [
+      "Proxy Pattern",
+      "Flyweight Pattern",
+      "Adapter Pattern",
+      "Bridge Pattern"
+    ],
+    "answer": "Proxy Pattern"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "Which design pattern decouples an abstraction from its implementation so that the two can vary independently?",
+    "options": [
+      "Bridge Pattern",
+      "Adapter Pattern",
+      "Composite Pattern",
+      "Decorator Pattern"
+    ],
+    "answer": "Bridge Pattern"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "What behavioral pattern defines the skeleton of an algorithm in a method, deferring some steps to subclasses?",
+    "options": [
+      "Template Method Pattern",
+      "Strategy Pattern",
+      "Command Pattern",
+      "Visitor Pattern"
+    ],
+    "answer": "Template Method Pattern"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "What concept describes a software design where higher-level abstractions are stable and lower-level detail modules depend on them?",
+    "options": [
+      "Stable Abstractions Principle (SAP)",
+      "Reuse-Release Equivalency Principle",
+      "Common Closure Principle",
+      "Acyclic Dependencies Principle"
+    ],
+    "answer": "Stable Abstractions Principle (SAP)"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "In distributed software architecture, what CAP theorem principle states that every read receives the most recent write or an error?",
+    "options": [
+      "Consistency",
+      "Availability",
+      "Partition Tolerance",
+      "Durability"
+    ],
+    "answer": "Consistency"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "What principle requires that component dependency graphs must contain no directed cycles?",
+    "options": [
+      "Acyclic Dependencies Principle (ADP)",
+      "Stable Dependencies Principle (SDP)",
+      "Single Choice Principle",
+      "Law of Demeter"
+    ],
+    "answer": "Acyclic Dependencies Principle (ADP)"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "What design guideline states that a method should only call methods on itself, its parameters, created objects, or direct components ('Principle of Least Knowledge')?",
+    "options": [
+      "Law of Demeter",
+      "Liskov Substitution Principle",
+      "Hollywood Principle",
+      "Dry Principle"
+    ],
+    "answer": "Law of Demeter"
+  },
+  {
+  "id": 100,
+  "difficulty": "hard",
+  "question": "In component-level software design, which principle states that classes that change together for the same reason should be grouped together into the same component?",
+  "options": [
+    "Common Closure Principle (CCP)",
+    "Common Reuse Principle (CRP)",
+    "Reuse-Release Equivalency Principle (REP)",
+    "Stable Dependencies Principle (SDP)"
+  ],
+  "answer": "Common Closure Principle (CCP)"
+}
+  
+]

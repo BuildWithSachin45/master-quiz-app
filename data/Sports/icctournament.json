@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "Which country won the inaugural ICC Men's Cricket World Cup in 1975?",
+    "options": [
+      "Australia",
+      "West Indies",
+      "England",
+      "India"
+    ],
+    "answer": "West Indies"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "Which national team won the first-ever ICC Men's T20 World Cup in 2007?",
+    "options": [
+      "Pakistan",
+      "Australia",
+      "India",
+      "Sri Lanka"
+    ],
+    "answer": "India"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "Which country has won the ICC Men's Cricket World Cup (50 overs) the most times?",
+    "options": [
+      "India",
+      "West Indies",
+      "Australia",
+      "England"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "What does the abbreviation 'ICC' stand for?",
+    "options": [
+      "International Cricket Club",
+      "International Cricket Council",
+      "Indian Cricket Council",
+      "Intercontinental Cricket Control"
+    ],
+    "answer": "International Cricket Council"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "Where is the headquarters of the International Cricket Council (ICC) located?",
+    "options": [
+      "London, England",
+      "Melbourne, Australia",
+      "Dubai, United Arab Emirates",
+      "Mumbai, India"
+    ],
+    "answer": "Dubai, United Arab Emirates"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "Which nation won the ICC Men's Cricket World Cup in 1983 under Kapil Dev's captaincy?",
+    "options": [
+      "West Indies",
+      "India",
+      "Australia",
+      "Pakistan"
+    ],
+    "answer": "India"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "Which team won the inaugural ICC World Test Championship (WTC) final in 2021?",
+    "options": [
+      "India",
+      "Australia",
+      "New Zealand",
+      "England"
+    ],
+    "answer": "New Zealand"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "Who was the captain of the Australian team that won three consecutive ODI World Cups (1999, 2003, 2007)?",
+    "options": [
+      "Allan Border",
+      "Ricky Ponting",
+      "Steve Waugh",
+      "Mark Taylor"
+    ],
+    "answer": "Ricky Ponting"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "In which country was the 2011 ICC Men's Cricket World Cup final played?",
+    "options": [
+      "Sri Lanka",
+      "Bangladesh",
+      "India",
+      "England"
+    ],
+    "answer": "India"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "Which country won the 1992 ICC Men's Cricket World Cup under Imran Khan?",
+    "options": [
+      "England",
+      "Pakistan",
+      "Sri Lanka",
+      "Australia"
+    ],
+    "answer": "Pakistan"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "Which team won the ICC Men's T20 World Cup 2024 by defeating South Africa in the final?",
+    "options": [
+      "England",
+      "India",
+      "Australia",
+      "Pakistan"
+    ],
+    "answer": "India"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "How many overs per side were played in the first three ICC Men's Cricket World Cups (1975, 1979, 1983)?",
+    "options": [
+      "50 overs",
+      "55 overs",
+      "60 overs",
+      "40 overs"
+    ],
+    "answer": "60 overs"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "Which Asian nation won its first ICC Men's Cricket World Cup title in 1996?",
+    "options": [
+      "India",
+      "Pakistan",
+      "Sri Lanka",
+      "Bangladesh"
+    ],
+    "answer": "Sri Lanka"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "Who captained India to victory in both the 2007 T20 World Cup and 2011 ODI World Cup?",
+    "options": [
+      "Rahul Dravid",
+      "MS Dhoni",
+      "Rohit Sharma",
+      "Virat Kohli"
+    ],
+    "answer": "MS Dhoni"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "Which team won the 2019 ICC Men's Cricket World Cup on boundary countback after a Super Over tie?",
+    "options": [
+      "New Zealand",
+      "Australia",
+      "England",
+      "South Africa"
+    ],
+    "answer": "England"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "Which country won the inaugural ICC Champions Trophy in 1998 (then called the Wills International Cup)?",
+    "options": [
+      "South Africa",
+      "India",
+      "West Indies",
+      "Australia"
+    ],
+    "answer": "South Africa"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "Which trophy was historically nicknamed the 'Mini World Cup'?",
+    "options": [
+      "ICC T20 World Cup",
+      "ICC Champions Trophy",
+      "ICC World Test Championship",
+      "Asia Cup"
+    ],
+    "answer": "ICC Champions Trophy"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "Who scored the most runs overall in the 2023 ICC Men's Cricket World Cup?",
+    "options": [
+      "Rohit Sharma",
+      "Quinton de Kock",
+      "Virat Kohli",
+      "Rachin Ravindra"
+    ],
+    "answer": "Virat Kohli"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "Which team won the 2023 ICC World Test Championship Final by defeating India at The Oval?",
+    "options": [
+      "England",
+      "Australia",
+      "New Zealand",
+      "South Africa"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "Who hit six sixes in an over off Stuart Broad during the 2007 ICC T20 World Cup?",
+    "options": [
+      "Chris Gayle",
+      "Yuvraj Singh",
+      "MS Dhoni",
+      "Shahid Afridi"
+    ],
+    "answer": "Yuvraj Singh"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "Which Caribbean batsman scored the first-ever century in T20 World Cup history in 2007?",
+    "options": [
+      "Kieron Pollard",
+      "Marlon Samuels",
+      "Chris Gayle",
+      "Dwayne Bravo"
+    ],
+    "answer": "Chris Gayle"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "Which country co-hosted the ICC Men's T20 World Cup 2024 alongside the West Indies?",
+    "options": [
+      "Canada",
+      "United States",
+      "Ireland",
+      "England"
+    ],
+    "answer": "United States"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "Which trophy is awarded to the team winning the Test series between Australia and England?",
+    "options": [
+      "Border-Gavaskar Trophy",
+      "The Ashes",
+      "Freedom Trophy",
+      "Anthony de Mello Trophy"
+    ],
+    "answer": "The Ashes"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "Who holds the record for the most total runs in ICC Men's Cricket World Cup (50-over) history?",
+    "options": [
+      "Ricky Ponting",
+      "Sachin Tendulkar",
+      "Kumar Sangakkara",
+      "Virat Kohli"
+    ],
+    "answer": "Sachin Tendulkar"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "Which bowler has taken the highest number of overall wickets in ODI World Cup history?",
+    "options": [
+      "Muttiah Muralitharan",
+      "Wasim Akram",
+      "Glenn McGrath",
+      "Mitchell Starc"
+    ],
+    "answer": "Glenn McGrath"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "Which team won the ICC Men's Cricket World Cup 2023 title by defeating India in Ahmedabad?",
+    "options": [
+      "England",
+      "Australia",
+      "New Zealand",
+      "South Africa"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "Which country won the ICC Women's T20 World Cup 2023 held in South Africa?",
+    "options": [
+      "England",
+      "India",
+      "Australia",
+      "South Africa"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "Which edition of the ICC Men's Cricket World Cup was the first to be held outside England?",
+    "options": [
+      "1979",
+      "1983",
+      "1987",
+      "1992"
+    ],
+    "answer": "1987"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "Which team won the 2022 ICC Men's T20 World Cup played in Australia?",
+    "options": [
+      "Pakistan",
+      "England",
+      "India",
+      "New Zealand"
+    ],
+    "answer": "England"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "Which legendary Australian leg-spinner was named Player of the Match in both the semi-final and final of the 1999 World Cup?",
+    "options": [
+      "Shane Warne",
+      "Stuart MacGill",
+      "Brad Hogg",
+      "Brett Lee"
+    ],
+    "answer": "Shane Warne"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "Who was named the Player of the Tournament in the 2019 ICC Men's Cricket World Cup?",
+    "options": [
+      "Ben Stokes",
+      "Kane Williamson",
+      "Rohit Sharma",
+      "Mitchell Starc"
+    ],
+    "answer": "Kane Williamson"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "Which bowler took a hat-trick in the 1999 ICC Cricket World Cup against Zimbabwe?",
+    "options": [
+      "Saqlain Mushtaq",
+      "Wasim Akram",
+      "Chaminda Vaas",
+      "Glenn McGrath"
+    ],
+    "answer": "Saqlain Mushtaq"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "In which ICC Champions Trophy final did Pakistan defeat India by 180 runs to win the title?",
+    "options": [
+      "2006",
+      "2009",
+      "2013",
+      "2017"
+    ],
+    "answer": "2017"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "Who hit four consecutive sixes in the final over of the 2016 ICC T20 World Cup final to win it for West Indies?",
+    "options": [
+      "Marlon Samuels",
+      "Carlos Brathwaite",
+      "Darren Sammy",
+      "Andre Russell"
+    ],
+    "answer": "Carlos Brathwaite"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "Who was the Player of the Tournament in the 2023 ICC Men's Cricket World Cup?",
+    "options": [
+      "Travis Head",
+      "Mohammed Shami",
+      "Virat Kohli",
+      "Glenn Maxwell"
+    ],
+    "answer": "Virat Kohli"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "Which player scored five centuries in a single edition of the ICC Cricket World Cup (2019)?",
+    "options": [
+      "David Warner",
+      "Rohit Sharma",
+      "Shakib Al Hasan",
+      "Joe Root"
+    ],
+    "answer": "Rohit Sharma"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "Which bowler holds the record for the best bowling figures in a single ICC Cricket World Cup match (7/15 v England in 2003)?",
+    "options": [
+      "Glenn McGrath",
+      "Winston Davis",
+      "Gary Gilmour",
+      "Mohammed Shami"
+    ],
+    "answer": "Glenn McGrath"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "Which country won the 2021 ICC Men's T20 World Cup held in UAE & Oman?",
+    "options": [
+      "New Zealand",
+      "Australia",
+      "Pakistan",
+      "England"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "Who was captain of the West Indies team that won both the 2012 and 2016 ICC T20 World Cups?",
+    "options": [
+      "Chris Gayle",
+      "Dwayne Bravo",
+      "Darren Sammy",
+      "Kieron Pollard"
+    ],
+    "answer": "Darren Sammy"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "Which team shared the 2002 ICC Champions Trophy title with Sri Lanka due to rain washouts on both match and reserve days?",
+    "options": [
+      "Australia",
+      "India",
+      "South Africa",
+      "England"
+    ],
+    "answer": "India"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "Which Australian cricketer won Player of the Match in both the 2023 WTC Final and 2023 ODI World Cup Final?",
+    "options": [
+      "Steve Smith",
+      "Mitchell Starc",
+      "Travis Head",
+      "Pat Cummins"
+    ],
+    "answer": "Travis Head"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "Who was the leading wicket-taker of the 2023 ICC Men's Cricket World Cup with 24 wickets?",
+    "options": [
+      "Adam Zampa",
+      "Mohammed Shami",
+      "Dilshan Madushanka",
+      "Gerald Coetzee"
+    ],
+    "answer": "Mohammed Shami"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "Which city hosted the final of the 1987 Reliance Cricket World Cup?",
+    "options": [
+      "Mumbai",
+      "Kolkata",
+      "Lahore",
+      "Delhi"
+    ],
+    "answer": "Kolkata"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "Who was the first player to score a double century in an ICC ODI World Cup match?",
+    "options": [
+      "Sachin Tendulkar",
+      "Virender Sehwag",
+      "Chris Gayle",
+      "Martin Guptill"
+    ],
+    "answer": "Chris Gayle"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "Which team did India defeat in the final to win the 2013 ICC Champions Trophy in England?",
+    "options": [
+      "England",
+      "Sri Lanka",
+      "South Africa",
+      "Australia"
+    ],
+    "answer": "England"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "Who was the Man of the Match in the 2011 ICC Cricket World Cup final?",
+    "options": [
+      "Gautam Gambhir",
+      "MS Dhoni",
+      "Yuvraj Singh",
+      "Mahela Jayawardene"
+    ],
+    "answer": "MS Dhoni"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "Who was named Player of the Tournament in the 2011 ICC Cricket World Cup?",
+    "options": [
+      "Sachin Tendulkar",
+      "Yuvraj Singh",
+      "Zaheer Khan",
+      "Tillakaratne Dilshan"
+    ],
+    "answer": "Yuvraj Singh"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "Which player scored the highest individual score in an ODI World Cup match (237*) in 2015?",
+    "options": [
+      "Chris Gayle",
+      "Martin Guptill",
+      "AB de Villiers",
+      "Rohit Sharma"
+    ],
+    "answer": "Martin Guptill"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "Who was the top run-scorer in the inaugural 2007 ICC T20 World Cup?",
+    "options": [
+      "Gautam Gambhir",
+      "Matthew Hayden",
+      "Misbah-ul-Haq",
+      "Craig McMillan"
+    ],
+    "answer": "Matthew Hayden"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "In which year was colored clothing and white balls first introduced in the ICC Cricket World Cup?",
+    "options": [
+      "1987",
+      "1992",
+      "1996",
+      "1999"
+    ],
+    "answer": "1992"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "Who was the leading run-scorer in the 1996 ICC Cricket World Cup?",
+    "options": [
+      "Aravinda de Silva",
+      "Sachin Tendulkar",
+      "Mark Waugh",
+      "Sanath Jayasuriya"
+    ],
+    "answer": "Sachin Tendulkar"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "Who was named Player of the Tournament in the 2024 ICC Men's T20 World Cup?",
+    "options": [
+      "Jasprit Bumrah",
+      "Rohit Sharma",
+      "Rahmanullah Gurbaz",
+      "Hardik Pandya"
+    ],
+    "answer": "Jasprit Bumrah"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "Which bowler scored a famous hat-trick in the 2003 ICC Cricket World Cup against Bangladesh on the first 3 balls of the match?",
+    "options": [
+      "Chaminda Vaas",
+      "Brett Lee",
+      "Wasim Akram",
+      "Muttiah Muralitharan"
+    ],
+    "answer": "Chaminda Vaas"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "Which Associate nation famously defeated Pakistan in the group stage of the 2007 ICC ODI World Cup?",
+    "options": [
+      "Bangladesh",
+      "Ireland",
+      "Netherlands",
+      "Kenya"
+    ],
+    "answer": "Ireland"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "Who was captain of New Zealand during their run to the 2015 ICC Cricket World Cup final?",
+    "options": [
+      "Kane Williamson",
+      "Brendon McCullum",
+      "Ross Taylor",
+      "Daniel Vettori"
+    ],
+    "answer": "Brendon McCullum"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "Which nation reached the semi-finals of the 2003 ICC Cricket World Cup, becoming the first Associate nation to do so?",
+    "options": [
+      "Canada",
+      "Netherlands",
+      "Kenya",
+      "Scotland"
+    ],
+    "answer": "Kenya"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "Who scored a century in the 2007 ICC Cricket World Cup final for Australia against Sri Lanka?",
+    "options": [
+      "Ricky Ponting",
+      "Adam Gilchrist",
+      "Matthew Hayden",
+      "Michael Clarke"
+    ],
+    "answer": "Adam Gilchrist"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "Which English player won Player of the Series in the 2022 ICC Men's T20 World Cup?",
+    "options": [
+      "Jos Buttler",
+      "Sam Curran",
+      "Alex Hales",
+      "Ben Stokes"
+    ],
+    "answer": "Sam Curran"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "Which venue hosted the final of the 2015 ICC Cricket World Cup?",
+    "options": [
+      "Sydney Cricket Ground (SCG)",
+      "Melbourne Cricket Ground (MCG)",
+      "Eden Park, Auckland",
+      "Adelaide Oval"
+    ],
+    "answer": "Melbourne Cricket Ground (MCG)"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "Who was the leading wicket-taker in the 2019 ICC Cricket World Cup (27 wickets)?",
+    "options": [
+      "Jasprit Bumrah",
+      "Trent Boult",
+      "Mitchell Starc",
+      "Jofra Archer"
+    ],
+    "answer": "Mitchell Starc"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "Who was named Man of the Match in the 1975 ICC Cricket World Cup Final?",
+    "options": [
+      "Clive Lloyd",
+      "Viv Richards",
+      "Ian Chappell",
+      "Rohan Kanhai"
+    ],
+    "answer": "Clive Lloyd"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "Who won the Man of the Match award in the 1979 ICC Cricket World Cup Final?",
+    "options": [
+      "Clive Lloyd",
+      "Viv Richards",
+      "Joel Garner",
+      "Collis King"
+    ],
+    "answer": "Viv Richards"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "Who was the Player of the Tournament in the 1992 ICC Cricket World Cup, the first time the award was officially presented?",
+    "options": [
+      "Wasim Akram",
+      "Martin Crowe",
+      "Inzamam-ul-Haq",
+      "Brian Lara"
+    ],
+    "answer": "Martin Crowe"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "Which bowler took a hat-trick in the 1987 ICC Cricket World Cup against New Zealand, the first in World Cup history?",
+    "options": [
+      "Chetan Sharma",
+      "Kapil Dev",
+      "Wasim Akram",
+      "Maninder Singh"
+    ],
+    "answer": "Chetan Sharma"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "Who was the captain of the England team that reached the 1992 ICC Cricket World Cup final?",
+    "options": [
+      "Mike Gatting",
+      "Graham Gooch",
+      "Alec Stewart",
+      "David Gower"
+    ],
+    "answer": "Graham Gooch"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "Which player held the record for the fastest century in ODI World Cup history (40 balls v Netherlands in 2023)?",
+    "options": [
+      "Kevin O'Brien",
+      "AB de Villiers",
+      "Glenn Maxwell",
+      "Aiden Markram"
+    ],
+    "answer": "Glenn Maxwell"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "Who was the captain of the New Zealand team that reached the final of the 1999 ICC Champions Trophy (then KnockOut) and won it?",
+    "options": [
+      "Stephen Fleming",
+      "Chris Cairns",
+      "Craig McMillan",
+      "Geoff Allott"
+    ],
+    "answer": "Stephen Fleming"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "Which West Indian player scored two centuries in the 1975 and 1979 World Cup finals combined?",
+    "options": [
+      "Clive Lloyd",
+      "Viv Richards",
+      "Gordon Greenidge",
+      "Alvin Kallicharran"
+    ],
+    "answer": "Viv Richards"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "Who was awarded Man of the Match in the 1996 ICC Cricket World Cup Final?",
+    "options": [
+      "Sanath Jayasuriya",
+      "Aravinda de Silva",
+      "Arjuna Ranatunga",
+      "Muttiah Muralitharan"
+    ],
+    "answer": "Aravinda de Silva"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "Who scored the famous 175* against Zimbabwe in 1983 after India was reduced to 17/5?",
+    "options": [
+      "Sunil Gavaskar",
+      "Kapil Dev",
+      "Mohinder Amarnath",
+      "Sandeep Patil"
+    ],
+    "answer": "Kapil Dev"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "Who was the Man of the Match in the 1983 ICC Cricket World Cup Final?",
+    "options": [
+      "Kapil Dev",
+      "Mohinder Amarnath",
+      "Madan Lal",
+      "Kris Srikkanth"
+    ],
+    "answer": "Mohinder Amarnath"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "Who took a hat-trick for Sri Lanka against South Africa in the 2007 T20 World Cup/ODI matches, including 4 wickets in 4 balls in 2007 ODI WC?",
+    "options": [
+      "Lasith Malinga",
+      "Chaminda Vaas",
+      "Ajantha Mendis",
+      "Farveez Maharoof"
+    ],
+    "answer": "Lasith Malinga"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "Which player scored 111 runs off 63 balls against England in 2011 to record the fastest World Cup century at the time (50 balls)?",
+    "options": [
+      "Kevin O'Brien",
+      "Matthew Hayden",
+      "Paul Stirling",
+      "John Mooney"
+    ],
+    "answer": "Kevin O'Brien"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "Who was the Player of the Tournament in the 1999 ICC Cricket World Cup?",
+    "options": [
+      "Shane Warne",
+      "Lance Klusener",
+      "Rahul Dravid",
+      "Steve Waugh"
+    ],
+    "answer": "Lance Klusener"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "Who was the Player of the Tournament in the 2003 ICC Cricket World Cup?",
+    "options": [
+      "Ricky Ponting",
+      "Sachin Tendulkar",
+      "Brett Lee",
+      "Chaminda Vaas"
+    ],
+    "answer": "Sachin Tendulkar"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "Who was the Player of the Tournament in the 2007 ICC Cricket World Cup (ODI)?",
+    "options": [
+      "Glenn McGrath",
+      "Matthew Hayden",
+      "Mahela Jayawardene",
+      "Adam Gilchrist"
+    ],
+    "answer": "Glenn McGrath"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "Who was the leading wicket-taker in the 2007 ICC T20 World Cup with 13 wickets?",
+    "options": [
+      "Umar Gul",
+      "RP Singh",
+      "Irfan Pathan",
+      "Shahid Afridi"
+    ],
+    "answer": "Umar Gul"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "Who was named Player of the Tournament in the 2009 ICC T20 World Cup?",
+    "options": [
+      "Shahid Afridi",
+      "Tillakaratne Dilshan",
+      "Umar Gul",
+      "Kummer Sangakkara"
+    ],
+    "answer": "Tillakaratne Dilshan"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "Which English batsman was named Player of the Tournament in the 2010 ICC T20 World Cup?",
+    "options": [
+      "Paul Collingwood",
+      "Kevin Pietersen",
+      "Craig Kieswetter",
+      "Eoin Morgan"
+    ],
+    "answer": "Kevin Pietersen"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "Who won Player of the Tournament in both the 2014 and 2016 ICC T20 World Cups?",
+    "options": [
+      "Chris Gayle",
+      "Virat Kohli",
+      "Marlon Samuels",
+      "Shane Watson"
+    ],
+    "answer": "Virat Kohli"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "Who scored a century in the 1998 ICC Champions Trophy (Wills International Cup) final for South Africa against West Indies?",
+    "options": [
+      "Jacques Kallis",
+      "Philo Wallace",
+      "Hansie Cronje",
+      "Daryll Cullinan"
+    ],
+    "answer": "Philo Wallace"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "Which player scored 141 runs for India against Australia in the 2000 ICC KnockOut Trophy quarter-final?",
+    "options": [
+      "Yuvraj Singh",
+      "Yashpal Sharma",
+      "Sourav Ganguly",
+      "Sachin Tendulkar"
+    ],
+    "answer": "Yuvraj Singh"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "Who took 6 wickets for 14 runs against Namibia in the 2003 World Cup, setting a record for Glenn McGrath?",
+    "options": [
+      "7 wickets for 15 runs",
+      "6 wickets for 15 runs",
+      "5 wickets for 14 runs",
+      "8 wickets for 15 runs"
+    ],
+    "answer": "7 wickets for 15 runs"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "Who was the captain of the West Indies team in the 1983 ICC Cricket World Cup final?",
+    "options": [
+      "Clive Lloyd",
+      "Viv Richards",
+      "Alvin Kallicharran",
+      "Desmond Haynes"
+    ],
+    "answer": "Clive Lloyd"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "Which bowler conceded 24 runs in the penultimate over of the 2016 T20 World Cup final before Carlos Brathwaite finished it off?",
+    "options": [
+      "Chris Jordan",
+      "Ben Stokes",
+      "David Willey",
+      "Liam Plunkett"
+    ],
+    "answer": "Ben Stokes"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "In which city was the 2000 ICC KnockOut Trophy (Champions Trophy) held?",
+    "options": [
+      "Dhaka, Bangladesh",
+      "Nairobi, Kenya",
+      "Colombo, Sri Lanka",
+      "Sharjah, UAE"
+    ],
+    "answer": "Nairobi, Kenya"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "Who was captain of New Zealand in the 2021 ICC World Test Championship Final victory over India?",
+    "options": [
+      "Brendon McCullum",
+      "Kane Williamson",
+      "Tim Southee",
+      "Tom Latham"
+    ],
+    "answer": "Kane Williamson"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "Which Australian fast bowler took a hat-trick against Bangladesh in the 2007 T20 World Cup, the first ever in T20I history?",
+    "options": [
+      "Brett Lee",
+      "Nathan Bracken",
+      "Mitchell Johnson",
+      "Shaun Tait"
+    ],
+    "answer": "Brett Lee"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "Who was the leading run-scorer in the 1983 ICC Cricket World Cup?",
+    "options": [
+      "Kapil Dev",
+      "David Gower",
+      "Viv Richards",
+      "Mohinder Amarnath"
+    ],
+    "answer": "David Gower"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "Who holds the record for most dismissals by a wicket-keeper in ODI World Cup history?",
+    "options": [
+      "Adam Gilchrist",
+      "Kumar Sangakkara",
+      "MS Dhoni",
+      "Mark Boucher"
+    ],
+    "answer": "Kumar Sangakkara"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "Which player was awarded Player of the Match in the 2009 ICC T20 World Cup final at Lord's?",
+    "options": [
+      "Younis Khan",
+      "Shahid Afridi",
+      "Umar Gul",
+      "Kamran Akmal"
+    ],
+    "answer": "Shahid Afridi"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "Who scored an unbeaten 201* while suffering severe cramps to carry Australia to victory over Afghanistan in the 2023 World Cup?",
+    "options": [
+      "Travis Head",
+      "David Warner",
+      "Glenn Maxwell",
+      "Mitchell Marsh"
+    ],
+    "answer": "Glenn Maxwell"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "Which player bowled the final over for India in the 2007 T20 World Cup final against Pakistan?",
+    "options": [
+      "Sreesanth",
+      "Irfan Pathan",
+      "Joginder Sharma",
+      "Harbhajan Singh"
+    ],
+    "answer": "Joginder Sharma"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "Who won the Man of the Match award in the 2007 ICC T20 World Cup final?",
+    "options": [
+      "Gautam Gambhir",
+      "Irfan Pathan",
+      "RP Singh",
+      "MS Dhoni"
+    ],
+    "answer": "Irfan Pathan"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "In which ICC tournament did Netherlands famously bowl England out for 103 to win a thriller at Lord's in 2009?",
+    "options": [
+      "2007 T20 World Cup",
+      "2009 T20 World Cup",
+      "2014 T20 World Cup",
+      "2011 ODI World Cup"
+    ],
+    "answer": "2009 T20 World Cup"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "Which Indian bowler registered figures of 7/57 against New Zealand in the 2023 ODI World Cup semi-final?",
+    "options": [
+      "Jasprit Bumrah",
+      "Mohammed Siraj",
+      "Mohammed Shami",
+      "Kuldeep Yadav"
+    ],
+    "answer": "Mohammed Shami"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "Who holds the record for the most catches by an outfielder in ODI World Cup history?",
+    "options": [
+      "Ricky Ponting",
+      "Virat Kohli",
+      "Joe Root",
+      "Mahela Jayawardene"
+    ],
+    "answer": "Ricky Ponting"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "Which Pakistani bowler was the highest wicket-taker in the 1992 ICC Cricket World Cup with 18 wickets?",
+    "options": [
+      "Waqar Younis",
+      "Wasim Akram",
+      "Mushtaq Ahmed",
+      "Aaqib Javed"
+    ],
+    "answer": "Wasim Akram"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "Who was the leading run-scorer of the 2015 ICC Men's Cricket World Cup (547 runs)?",
+    "options": [
+      "Martin Guptill",
+      "Kumar Sangakkara",
+      "AB de Villiers",
+      "Steven Smith"
+    ],
+    "answer": "Martin Guptill"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "Which bowler took a hat-trick in the 2021 ICC Men's T20 World Cup against South Africa for Sri Lanka?",
+    "options": [
+      "Wanindu Hasaranga",
+      "Kagiso Rabada",
+      "Curtis Campher",
+      "Kartik Meiyappan"
+    ],
+    "answer": "Wanindu Hasaranga"
+  }
+]

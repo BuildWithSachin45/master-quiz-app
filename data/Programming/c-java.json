@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "Which of the following is a valid entry point of a Java program?",
+    "options": [
+      "public static void main(String[] args)",
+      "public void main()",
+      "static public void start()",
+      "public main(String args)"
+    ],
+    "answer": "public static void main(String[] args)"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "Which symbol is used to terminate a statement in C?",
+    "options": [
+      ":",
+      ";",
+      ".",
+      ","
+    ],
+    "answer": ";"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "Which keyword is used to declare a class in Java?",
+    "options": [
+      "define",
+      "object",
+      "class",
+      "new"
+    ],
+    "answer": "class"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "Which header file is required to use printf() in C?",
+    "options": [
+      "stdlib.h",
+      "math.h",
+      "stdio.h",
+      "string.h"
+    ],
+    "answer": "stdio.h"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "Which data type is used to store a single character in C?",
+    "options": [
+      "string",
+      "char",
+      "character",
+      "text"
+    ],
+    "answer": "char"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "Which keyword is used to create an object in Java?",
+    "options": [
+      "create",
+      "class",
+      "new",
+      "object"
+    ],
+    "answer": "new"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "Which loop is guaranteed to execute at least once in both C and Java?",
+    "options": [
+      "for",
+      "while",
+      "do-while",
+      "foreach"
+    ],
+    "answer": "do-while"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "What is the default value of an instance variable of type int in Java?",
+    "options": [
+      "0",
+      "1",
+      "null",
+      "undefined"
+    ],
+    "answer": "0"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "Which operator is used to find the remainder after division in C and Java?",
+    "options": [
+      "/",
+      "//",
+      "%",
+      "*"
+    ],
+    "answer": "%"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "Which of the following is NOT a primitive data type in Java?",
+    "options": [
+      "int",
+      "float",
+      "String",
+      "char"
+    ],
+    "answer": "String"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "Which keyword is used to inherit a class in Java?",
+    "options": [
+      "implements",
+      "extends",
+      "inherits",
+      "super"
+    ],
+    "answer": "extends"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "What is the output of 'printf(\"%%d\");' in C?",
+    "options": [
+      "Garbage value",
+      "%d",
+      "Syntax error",
+      "Nothing"
+    ],
+    "answer": "%d"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "In Java, arrays are:",
+    "options": [
+      "Objects",
+      "Primitive data types",
+      "Pointers",
+      "None of the above"
+    ],
+    "answer": "Objects"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "Which format specifier is used to print an integer in C?",
+    "options": [
+      "%f",
+      "%c",
+      "%d",
+      "%s"
+    ],
+    "answer": "%d"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "Which operator is used to return the address of a variable in C?",
+    "options": [
+      "*",
+      "&",
+      "%",
+      "->"
+    ],
+    "answer": "&"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "What is the default value of a boolean variable in Java?",
+    "options": [
+      "true",
+      "false",
+      "null",
+      "0"
+    ],
+    "answer": "false"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "Which keyword is used to define a constant in Java?",
+    "options": [
+      "const",
+      "static",
+      "final",
+      "define"
+    ],
+    "answer": "final"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "Which is the correct way to define a macro in C?",
+    "options": [
+      "#define MAX 100",
+      "#macro MAX 100",
+      "define MAX = 100;",
+      "const int MAX = 100;"
+    ],
+    "answer": "#define MAX 100"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "In C, which character is used to indicate the end of a string?",
+    "options": [
+      "\\n",
+      "\\t",
+      "\\0",
+      "\\r"
+    ],
+    "answer": "\\0"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "Which class is the superclass of all classes in Java?",
+    "options": [
+      "System",
+      "Object",
+      "String",
+      "Main"
+    ],
+    "answer": "Object"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "What is the size of int data type in Java?",
+    "options": [
+      "2 bytes",
+      "4 bytes",
+      "8 bytes",
+      "Depends on the system"
+    ],
+    "answer": "4 bytes"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "Which of the following is an access modifier in Java?",
+    "options": [
+      "protected",
+      "virtual",
+      "volatile",
+      "transient"
+    ],
+    "answer": "protected"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "How do you add single-line comments in C and Java?",
+    "options": [
+      "/* comment */",
+      "# comment",
+      "// comment",
+      "<!-- comment -->"
+    ],
+    "answer": "// comment"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "Which C function is used to read formatted input from the standard input?",
+    "options": [
+      "printf()",
+      "scanf()",
+      "getchar()",
+      "puts()"
+    ],
+    "answer": "scanf()"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "Which statement is used to exit from a switch block in C and Java?",
+    "options": [
+      "exit",
+      "return",
+      "break",
+      "continue"
+    ],
+    "answer": "break"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "In Java, what does the keyword 'super' refer to?",
+    "options": [
+      "The current object",
+      "A static block",
+      "The superclass of the current object",
+      "A constant variable"
+    ],
+    "answer": "The superclass of the current object"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "Which of the following is not a keyword in C?",
+    "options": [
+      "volatile",
+      "sizeof",
+      "boolean",
+      "typedef"
+    ],
+    "answer": "boolean"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "Which method is called automatically when an object is created in Java?",
+    "options": [
+      "Main method",
+      "Constructor",
+      "Destructor",
+      "Garbage Collector"
+    ],
+    "answer": "Constructor"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "Which C standard library function is used to find the length of a string?",
+    "options": [
+      "strlen()",
+      "length()",
+      "strlength()",
+      "len()"
+    ],
+    "answer": "strlen()"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "How do you declare an array of integers in Java?",
+    "options": [
+      "int arr[];",
+      "int arr[10];",
+      "array int arr;",
+      "int[] arr;"
+    ],
+    "answer": "int[] arr;"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "In Java, which keyword is used to implement an interface?",
+    "options": [
+      "extends",
+      "implements",
+      "abstract",
+      "interface"
+    ],
+    "answer": "implements"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "What is the return type of the malloc() function in C?",
+    "options": [
+      "int*",
+      "void",
+      "void*",
+      "char*"
+    ],
+    "answer": "void*"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "Which block is always executed in a Java try-catch structure?",
+    "options": [
+      "try",
+      "catch",
+      "finally",
+      "throw"
+    ],
+    "answer": "finally"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "What does a pointer hold in C?",
+    "options": [
+      "A value of a variable",
+      "The memory address of a variable",
+      "A string",
+      "An array of characters"
+    ],
+    "answer": "The memory address of a variable"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "In Java, what is the difference between '==' and the '.equals()' method?",
+    "options": [
+      "They are exactly the same",
+      "'==' compares object references, '.equals()' compares object content",
+      "'.equals()' is for primitive types, '==' is for objects",
+      "'==' compares string lengths"
+    ],
+    "answer": "'==' compares object references, '.equals()' compares object content"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "Which header file is used for dynamic memory allocation in C?",
+    "options": [
+      "stdio.h",
+      "stdlib.h",
+      "memory.h",
+      "alloc.h"
+    ],
+    "answer": "stdlib.h"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "Which of these access modifiers in Java makes a member accessible only within its own package?",
+    "options": [
+      "public",
+      "private",
+      "protected",
+      "default (no modifier)"
+    ],
+    "answer": "default (no modifier)"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "In C, what is the effect of the 'static' keyword on a local variable?",
+    "options": [
+      "It becomes accessible globally",
+      "It retains its value between function calls",
+      "It is stored in the CPU register",
+      "It makes the variable unchangeable"
+    ],
+    "answer": "It retains its value between function calls"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "Which design pattern is implemented by making a Java class constructor private?",
+    "options": [
+      "Factory",
+      "Observer",
+      "Singleton",
+      "Decorator"
+    ],
+    "answer": "Singleton"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "How do you access the value a pointer points to in C?",
+    "options": [
+      "Using the & operator",
+      "Using the * operator",
+      "Using the -> operator",
+      "Using the . operator"
+    ],
+    "answer": "Using the * operator"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "What is method overloading in Java?",
+    "options": [
+      "Methods with the same name but different return types",
+      "Methods with the same name but different parameters",
+      "Methods in different classes with the same name",
+      "Overriding a method from a superclass"
+    ],
+    "answer": "Methods with the same name but different parameters"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "Which keyword is used to define a structure in C?",
+    "options": [
+      "record",
+      "struct",
+      "structure",
+      "union"
+    ],
+    "answer": "struct"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "What is the purpose of the 'transient' keyword in Java?",
+    "options": [
+      "To prevent a variable from being serialized",
+      "To prevent a method from being overridden",
+      "To make a variable thread-safe",
+      "To mark a class as abstract"
+    ],
+    "answer": "To prevent a variable from being serialized"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "What happens if you free() a pointer twice in C?",
+    "options": [
+      "Memory leak",
+      "Compilation error",
+      "Undefined behavior (double free)",
+      "Nothing, it is safe"
+    ],
+    "answer": "Undefined behavior (double free)"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "In Java, what exception is thrown when a thread is interrupted while sleeping?",
+    "options": [
+      "InterruptedException",
+      "ThreadDeath",
+      "IllegalMonitorStateException",
+      "RuntimeException"
+    ],
+    "answer": "InterruptedException"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "What is a 'union' in C?",
+    "options": [
+      "A user-defined data type where all members share the same memory location",
+      "A collection of variables of different types stored separately",
+      "A function that joins two strings",
+      "A way to merge two arrays"
+    ],
+    "answer": "A user-defined data type where all members share the same memory location"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "Which interface in Java is used to define a class that can be executed by a Thread?",
+    "options": [
+      "Threadable",
+      "Runnable",
+      "Executable",
+      "Callable"
+    ],
+    "answer": "Runnable"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "In C, what does the 'sizeof' operator evaluate to?",
+    "options": [
+      "The value of the variable",
+      "The number of characters in a string",
+      "The size in bytes of a data type or variable",
+      "The memory address of a variable"
+    ],
+    "answer": "The size in bytes of a data type or variable"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "What is autoboxing in Java?",
+    "options": [
+      "Automatic garbage collection",
+      "Converting an object to its parent class",
+      "Automatic conversion between primitive types and their corresponding wrapper classes",
+      "Automatic memory reallocation"
+    ],
+    "answer": "Automatic conversion between primitive types and their corresponding wrapper classes"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "Which of the following functions is used to compare two strings in C?",
+    "options": [
+      "strcompare()",
+      "strcmp()",
+      "stringcmp()",
+      "cmpstr()"
+    ],
+    "answer": "strcmp()"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "Can an abstract class in Java have concrete methods?",
+    "options": [
+      "Yes, it can have both abstract and concrete methods",
+      "No, it can only have abstract methods",
+      "Yes, but only if they are static",
+      "No, abstract classes cannot have methods at all"
+    ],
+    "answer": "Yes, it can have both abstract and concrete methods"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "How are array elements accessed using a pointer in C?",
+    "options": [
+      "*(ptr + i)",
+      "ptr[i]",
+      "Both *(ptr + i) and ptr[i]",
+      "ptr->i"
+    ],
+    "answer": "Both *(ptr + i) and ptr[i]"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "In Java, what is a memory leak commonly caused by?",
+    "options": [
+      "Unclosed file streams",
+      "Holding strong references to objects no longer needed",
+      "Using primitive data types extensively",
+      "Using the 'final' keyword on large objects"
+    ],
+    "answer": "Holding strong references to objects no longer needed"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "What does the 'continue' statement do in a C loop?",
+    "options": [
+      "Exits the loop entirely",
+      "Skips the rest of the current iteration and evaluates the loop condition",
+      "Restarts the program",
+      "Returns from the function"
+    ],
+    "answer": "Skips the rest of the current iteration and evaluates the loop condition"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "Which collection class in Java implements a LIFO (Last-In-First-Out) data structure?",
+    "options": [
+      "Queue",
+      "Stack",
+      "ArrayList",
+      "HashSet"
+    ],
+    "answer": "Stack"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "In C, which mode is used with fopen() to append data to an existing file?",
+    "options": [
+      "w",
+      "r+",
+      "a",
+      "x"
+    ],
+    "answer": "a"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "What is the primary difference between ArrayList and LinkedList in Java?",
+    "options": [
+      "ArrayList is thread-safe, LinkedList is not",
+      "ArrayList uses a dynamic array, LinkedList uses a doubly-linked list",
+      "LinkedList allows nulls, ArrayList does not",
+      "There is no functional difference"
+    ],
+    "answer": "ArrayList uses a dynamic array, LinkedList uses a doubly-linked list"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "What is a segmentation fault in C?",
+    "options": [
+      "A syntax error caught by the compiler",
+      "An error when dividing by zero",
+      "An access to a memory location that the program is not allowed to access",
+      "A failure to link object files"
+    ],
+    "answer": "An access to a memory location that the program is not allowed to access"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "In Java, which keyword is used to handle exceptions manually?",
+    "options": [
+      "throws",
+      "throw",
+      "catch",
+      "finally"
+    ],
+    "answer": "throw"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "How do you specify a multi-dimensional array in C?",
+    "options": [
+      "int arr(2, 3);",
+      "int arr[2][3];",
+      "int arr[2, 3];",
+      "int arr{2}{3};"
+    ],
+    "answer": "int arr[2][3];"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "In C, what is the type of the 'sizeof' operator's result?",
+    "options": [
+      "int",
+      "unsigned int",
+      "size_t",
+      "long"
+    ],
+    "answer": "size_t"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "Which of the following is true regarding Java's 'volatile' keyword?",
+    "options": [
+      "It locks the variable to prevent concurrent modification.",
+      "It ensures visibility of changes to variables across threads.",
+      "It makes the variable unmodifiable after initialization.",
+      "It marks the variable to be skipped during garbage collection."
+    ],
+    "answer": "It ensures visibility of changes to variables across threads."
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "What happens when a dangling pointer is dereferenced in C?",
+    "options": [
+      "A compile-time error occurs.",
+      "It automatically returns NULL.",
+      "Undefined behavior, often leading to a segmentation fault.",
+      "It points to the next available memory block."
+    ],
+    "answer": "Undefined behavior, often leading to a segmentation fault."
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "In Java, what does the 'synchronized' keyword do when applied to a non-static method?",
+    "options": [
+      "It acquires the lock on the Class object.",
+      "It acquires the lock on the current instance (this).",
+      "It prevents the method from being overridden.",
+      "It makes the method execute synchronously in the main thread."
+    ],
+    "answer": "It acquires the lock on the current instance (this)."
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "What is the output of 'printf(\"%d\", printf(\"Hello\"));' in C?",
+    "options": [
+      "Hello",
+      "Hello5",
+      "5Hello",
+      "Compilation error"
+    ],
+    "answer": "Hello5"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "In Java 8 and later, what is the default capacity of an ArrayList when created with the no-arg constructor?",
+    "options": [
+      "0, and expands to 10 upon the first addition",
+      "10 immediately upon creation",
+      "16",
+      "32"
+    ],
+    "answer": "0, and expands to 10 upon the first addition"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "Which of the following describes a function pointer declaration in C?",
+    "options": [
+      "int *func();",
+      "int (*func)();",
+      "int func*();",
+      "int (func*)();"
+    ],
+    "answer": "int (*func)();"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "How does Java handle memory deallocation?",
+    "options": [
+      "Using the free() function.",
+      "Using the delete keyword.",
+      "Through an automatic Garbage Collector tracing reachability.",
+      "Through strict reference counting only."
+    ],
+    "answer": "Through an automatic Garbage Collector tracing reachability."
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "In C, what is the meaning of 'int (*arr)[10];'?",
+    "options": [
+      "An array of 10 integer pointers.",
+      "A pointer to an array of 10 integers.",
+      "A function returning an array of 10 integers.",
+      "Syntax error."
+    ],
+    "answer": "A pointer to an array of 10 integers."
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "Which JVM memory area stores per-thread method execution frames?",
+    "options": [
+      "Heap",
+      "Method Area",
+      "JVM Stack",
+      "Native Method Stack"
+    ],
+    "answer": "JVM Stack"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "What is the difference between 'malloc' and 'calloc' in C?",
+    "options": [
+      "malloc initializes memory to zero; calloc leaves it uninitialized.",
+      "calloc allocates contiguous blocks and initializes them to zero; malloc allocates a single block without initialization.",
+      "malloc is used for arrays; calloc is used for structures.",
+      "There is no difference."
+    ],
+    "answer": "calloc allocates contiguous blocks and initializes them to zero; malloc allocates a single block without initialization."
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "What is a 'memory barrier' or 'memory fence' in the context of Java concurrency?",
+    "options": [
+      "A hardware instruction enforcing ordering constraints on memory operations before and after it.",
+      "A boundary between the Heap and Stack.",
+      "A limit on how much memory a thread can allocate.",
+      "A security mechanism to prevent OutOfMemoryError."
+    ],
+    "answer": "A hardware instruction enforcing ordering constraints on memory operations before and after it."
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "What does the C declaration 'void *(*f)(int *);' mean?",
+    "options": [
+      "f is a function taking an int pointer and returning a void pointer.",
+      "f is a pointer to a void function taking an int pointer.",
+      "f is a pointer to a function taking an int pointer and returning a void pointer.",
+      "f is a void pointer to an int function."
+    ],
+    "answer": "f is a pointer to a function taking an int pointer and returning a void pointer."
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "In Java, what is the result of using '==' on two distinct String objects created via 'new String(\"test\")'?",
+    "options": [
+      "true",
+      "false",
+      "Compilation error",
+      "Runtime exception"
+    ],
+    "answer": "false"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "In C, which of the following bitwise operations isolates the rightmost 1-bit of an integer 'x'?",
+    "options": [
+      "x & (x - 1)",
+      "x ^ (x - 1)",
+      "x & (-x)",
+      "x | (x - 1)"
+    ],
+    "answer": "x & (-x)"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "Which of the following statements about the Java ClassLoader is true?",
+    "options": [
+      "It is responsible for loading Java classes into memory dynamically at runtime.",
+      "It is responsible for unloading unreferenced objects.",
+      "It converts Java bytecode into machine code.",
+      "It manages thread scheduling."
+    ],
+    "answer": "It is responsible for loading Java classes into memory dynamically at runtime."
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "What is the purpose of the 'realloc' function in C?",
+    "options": [
+      "To free allocated memory.",
+      "To allocate memory for a multidimensional array.",
+      "To change the size of a previously allocated memory block without losing the old data.",
+      "To reset all allocated memory to zero."
+    ],
+    "answer": "To change the size of a previously allocated memory block without losing the old data."
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "In Java, can a class implement two interfaces that both declare a default method with the same signature?",
+    "options": [
+      "Yes, without doing anything; the compiler picks one randomly.",
+      "Yes, but the class must override the method to resolve the conflict.",
+      "No, it results in a compile-time error that cannot be fixed.",
+      "Yes, the JVM automatically merges the two methods."
+    ],
+    "answer": "Yes, but the class must override the method to resolve the conflict."
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "What is 'little-endian' vs 'big-endian' in C systems programming?",
+    "options": [
+      "Different variable naming conventions.",
+      "The order in which bytes of a multi-byte data type are stored in memory.",
+      "The order in which functions are executed.",
+      "The way arrays are indexed (0-based vs 1-based)."
+    ],
+    "answer": "The order in which bytes of a multi-byte data type are stored in memory."
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "In Java Generics, what does '<? super T>' represent?",
+    "options": [
+      "An upper bounded wildcard (any subclass of T).",
+      "A lower bounded wildcard (any superclass of T).",
+      "An unbounded wildcard.",
+      "A type erasure mechanism."
+    ],
+    "answer": "A lower bounded wildcard (any superclass of T)."
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "What does 'volatile' mean when applied to a pointer in C (e.g., 'int * volatile p')?",
+    "options": [
+      "The data pointed to cannot be changed.",
+      "The pointer itself cannot be changed.",
+      "The pointer itself may be changed by hardware/external processes, so the compiler should not optimize its reads.",
+      "The data pointed to is safely shared across threads."
+    ],
+    "answer": "The pointer itself may be changed by hardware/external processes, so the compiler should not optimize its reads."
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "Which algorithm does the default Arrays.sort() use for primitive data types in Java?",
+    "options": [
+      "Dual-Pivot Quicksort",
+      "MergeSort",
+      "TimSort",
+      "HeapSort"
+    ],
+    "answer": "Dual-Pivot Quicksort"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "In C, what is the standard behavior of shifting a signed negative integer right (e.g., -5 >> 1)?",
+    "options": [
+      "It always performs an arithmetic shift (preserves sign).",
+      "It always performs a logical shift (fills with zeros).",
+      "It is implementation-defined.",
+      "It results in undefined behavior."
+    ],
+    "answer": "It is implementation-defined."
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "What is 'Type Erasure' in Java?",
+    "options": [
+      "The process of removing unused classes by the Garbage Collector.",
+      "The compile-time process of removing generic type information to ensure backward compatibility.",
+      "A mechanism to delete local variables after method execution.",
+      "The JVM clearing the Heap memory."
+    ],
+    "answer": "The compile-time process of removing generic type information to ensure backward compatibility."
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "How do you define a macro in C that swaps two variables without using a temporary variable?",
+    "options": [
+      "#define SWAP(a, b) a=b; b=a;",
+      "#define SWAP(a, b) a ^= b ^= a ^= b;",
+      "#define SWAP(a, b) a = a+b; b = a-b;",
+      "#define SWAP(a, b) {a ^= b; b ^= a; a ^= b;}"
+    ],
+    "answer": "#define SWAP(a, b) {a ^= b; b ^= a; a ^= b;}"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "What is the difference between 'submit()' and 'execute()' in Java's ExecutorService?",
+    "options": [
+      "submit() can return a Future object to track the result, while execute() returns void.",
+      "execute() is used for Callable, submit() is for Runnable.",
+      "submit() runs synchronously, execute() runs asynchronously.",
+      "There is no difference."
+    ],
+    "answer": "submit() can return a Future object to track the result, while execute() returns void."
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "In C, what is a 'flexible array member'?",
+    "options": [
+      "An array dynamically resized using realloc.",
+      "An array declared with empty brackets at the end of a struct, allowing dynamic sizing of the struct.",
+      "A pointer to an array.",
+      "An array that can store different data types."
+    ],
+    "answer": "An array declared with empty brackets at the end of a struct, allowing dynamic sizing of the struct."
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "Which of the following is true about Java's ConcurrentHashMap?",
+    "options": [
+      "It locks the entire map during write operations.",
+      "It allows null keys and null values.",
+      "It divides the map into segments (or uses CAS in Java 8+) to allow concurrent reads and writes without locking the whole map.",
+      "It is synchronized using a single global lock."
+    ],
+    "answer": "It divides the map into segments (or uses CAS in Java 8+) to allow concurrent reads and writes without locking the whole map."
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "In C, what does the keyword 'restrict' imply to the compiler?",
+    "options": [
+      "The variable cannot be modified.",
+      "The pointer is the only way to access the underlying object, enabling optimization.",
+      "The variable is restricted to the local scope.",
+      "The pointer points to read-only memory."
+    ],
+    "answer": "The pointer is the only way to access the underlying object, enabling optimization."
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "What is the purpose of the 'ForkJoinPool' in Java?",
+    "options": [
+      "To manage database connection pooling.",
+      "To execute I/O intensive tasks asynchronously.",
+      "To split large tasks into smaller subtasks for parallel processing using a work-stealing algorithm.",
+      "To manage memory allocation for large object arrays."
+    ],
+    "answer": "To split large tasks into smaller subtasks for parallel processing using a work-stealing algorithm."
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "Which macro in standard C is used to handle variable argument lists?",
+    "options": [
+      "va_list",
+      "var_args",
+      "args_list",
+      "stdarg"
+    ],
+    "answer": "va_list"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "What is the 'happens-before' relationship in Java?",
+    "options": [
+      "A rule determining the order of garbage collection.",
+      "A concurrency guarantee that memory writes by one specific statement are visible to another specific statement.",
+      "A syntax rule for declaring variables before use.",
+      "A requirement to call super() before any other code in a constructor."
+    ],
+    "answer": "A concurrency guarantee that memory writes by one specific statement are visible to another specific statement."
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "In C, how are multi-dimensional arrays stored in memory?",
+    "options": [
+      "Column-major order",
+      "Row-major order",
+      "Random order",
+      "As an array of pointers"
+    ],
+    "answer": "Row-major order"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "Which JVM option is used to set the initial heap size in Java?",
+    "options": [
+      "-Xmx",
+      "-Xms",
+      "-Xss",
+      "-XX:MaxPermSize"
+    ],
+    "answer": "-Xms"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "What is the effect of '#pragma pack(1)' in C?",
+    "options": [
+      "Optimizes the code for execution speed.",
+      "Forces the compiler to pack structure members with 1-byte alignment, preventing padding.",
+      "Includes only 1 library file.",
+      "Compresses the compiled binary size."
+    ],
+    "answer": "Forces the compiler to pack structure members with 1-byte alignment, preventing padding."
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "What is the primary characteristic of a 'PhantomReference' in Java?",
+    "options": [
+      "It prevents an object from being garbage collected.",
+      "It is used to retrieve an object after it has been finalized.",
+      "It allows scheduling post-mortem cleanup actions once the object is enqueued, but the referent cannot be accessed.",
+      "It acts as a soft reference that is cleared only on memory pressure."
+    ],
+    "answer": "It allows scheduling post-mortem cleanup actions once the object is enqueued, but the referent cannot be accessed."
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "In C, what is a 'bit field'?",
+    "options": [
+      "An array of booleans.",
+      "A data structure that allows declaring variables with a specific number of bits.",
+      "A pointer to a specific bit in memory.",
+      "A macro for bitwise operations."
+    ],
+    "answer": "A data structure that allows declaring variables with a specific number of bits."
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "In Java Streams, what is a 'terminal operation'?",
+    "options": [
+      "An operation that modifies the source data.",
+      "An operation that produces a new Stream.",
+      "An operation that consumes the Stream and produces a result or side-effect.",
+      "An operation that halts the JVM."
+    ],
+    "answer": "An operation that consumes the Stream and produces a result or side-effect."
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "What does the POSIX function 'mmap' do in C systems programming?",
+    "options": [
+      "Allocates memory on the heap.",
+      "Maps files or devices into memory.",
+      "Manages thread synchronization.",
+      "Copies data between memory locations."
+    ],
+    "answer": "Maps files or devices into memory."
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "What is the purpose of 'ThreadLocal' in Java?",
+    "options": [
+      "To enforce local variables in a thread.",
+      "To create a global variable accessible by all threads.",
+      "To provide thread-local variables, where each thread has its own independently initialized copy.",
+      "To restrict a thread's execution to a local CPU core."
+    ],
+    "answer": "To provide thread-local variables, where each thread has its own independently initialized copy."
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "Who is known as the 'Father of the Indian Constitution'?",
+    "options": [
+      "Mahatma Gandhi",
+      "Dr. B. R. Ambedkar",
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel"
+    ],
+    "answer": "Dr. B. R. Ambedkar"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "Which ancient philosopher authored 'The Republic'?",
+    "options": [
+      "Aristotle",
+      "Plato",
+      "Socrates",
+      "Cicero"
+    ],
+    "answer": "Plato"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "What is the lower house of the Parliament of India called?",
+    "options": [
+      "Rajya Sabha",
+      "Lok Sabha",
+      "Vidhan Sabha",
+      "Vidhan Parishad"
+    ],
+    "answer": "Lok Sabha"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "Who was the first Prime Minister of independent India?",
+    "options": [
+      "Lal Bahadur Shastri",
+      "Jawaharlal Nehru",
+      "Dr. Rajendra Prasad",
+      "Sardar Vallabhbhai Patel"
+    ],
+    "answer": "Jawaharlal Nehru"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "Who wrote 'The Prince', a classic treatise on statecraft and political realism?",
+    "options": [
+      "Niccolò Machiavelli",
+      "Thomas Hobbes",
+      "Jean-Jacques Rousseau",
+      "John Locke"
+    ],
+    "answer": "Niccolò Machiavelli"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "What is the minimum voting age for Indian citizens as per the Constitution?",
+    "options": [
+      "16 years",
+      "18 years",
+      "21 years",
+      "25 years"
+    ],
+    "answer": "18 years"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "Who is the Constitutional Head of the Union Executive in India?",
+    "options": [
+      "Prime Minister",
+      "President",
+      "Chief Justice of India",
+      "Speaker of Lok Sabha"
+    ],
+    "answer": "President"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "In 'Leviathan', Thomas Hobbes famously described human life in the state of nature as:",
+    "options": [
+      "Harmonious and peaceful",
+      "Solitary, poor, nasty, brutish, and short",
+      "Guided by divine natural law",
+      "Defined by economic trade"
+    ],
+    "answer": "Solitary, poor, nasty, brutish, and short"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "Which Indian body is responsible for conducting free and fair elections?",
+    "options": [
+      "UPSC",
+      "Election Commission of India",
+      "NITI Aayog",
+      "Supreme Court of India"
+    ],
+    "answer": "Election Commission of India"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "How many states and Union Territories are there in India currently?",
+    "options": [
+      "29 States and 7 UTs",
+      "28 States and 8 UTs",
+      "28 States and 9 UTs",
+      "29 States and 8 UTs"
+    ],
+    "answer": "28 States and 8 UTs"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "Which Enlightenment philosopher formulated the theory of separation of powers into three branches?",
+    "options": [
+      "Voltaire",
+      "Baron de Montesquieu",
+      "Jean Bodin",
+      "Alexis de Tocqueville"
+    ],
+    "answer": "Baron de Montesquieu"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "Who was the first woman Prime Minister of India?",
+    "options": [
+      "Sarojini Naidu",
+      "Indira Gandhi",
+      "Pratibha Patil",
+      "Sushma Swaraj"
+    ],
+    "answer": "Indira Gandhi"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "Which article of the Indian Constitution guarantees the Right to Equality?",
+    "options": [
+      "Articles 14-18",
+      "Articles 19-22",
+      "Articles 23-24",
+      "Articles 25-28"
+    ],
+    "answer": "Articles 14-18"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "Who co-authored 'The Communist Manifesto' alongside Friedrich Engels in 1848?",
+    "options": [
+      "Vladimir Lenin",
+      "Karl Marx",
+      "Leon Trotsky",
+      "Mikhail Bakunin"
+    ],
+    "answer": "Karl Marx"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "Who presides over the joint sitting of both Houses of Parliament in India?",
+    "options": [
+      "President",
+      "Vice-President",
+      "Speaker of Lok Sabha",
+      "Prime Minister"
+    ],
+    "answer": "Speaker of Lok Sabha"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "What is the term of office for a member of the Rajya Sabha in India?",
+    "options": [
+      "4 years",
+      "5 years",
+      "6 years",
+      "7 years"
+    ],
+    "answer": "6 years"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "Which international organization was founded in 1945 following World War II to preserve global peace?",
+    "options": [
+      "League of Nations",
+      "United Nations",
+      "NATO",
+      "European Union"
+    ],
+    "answer": "United Nations"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "In India, Panchayat Raj represents which tier of governance?",
+    "options": [
+      "Central Government",
+      "State Government",
+      "Local Self-Government",
+      "Judicial Governance"
+    ],
+    "answer": "Local Self-Government"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "Who was the first President of Independent India?",
+    "options": [
+      "Dr. S. Radhakrishnan",
+      "Dr. Rajendra Prasad",
+      "Zakir Husain",
+      "V. V. Giri"
+    ],
+    "answer": "Dr. Rajendra Prasad"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "How many permanent members hold veto power on the United Nations Security Council (UNSC)?",
+    "options": [
+      "5",
+      "10",
+      "15",
+      "20"
+    ],
+    "answer": "5"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "Which fundamental right is called the 'Heart and Soul of the Constitution' by Dr. B. R. Ambedkar?",
+    "options": [
+      "Right to Freedom",
+      "Right to Equality",
+      "Right to Constitutional Remedies",
+      "Right to Freedom of Religion"
+    ],
+    "answer": "Right to Constitutional Remedies"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "Who administers the oath of office to the President of India?",
+    "options": [
+      "Prime Minister",
+      "Chief Justice of India",
+      "Speaker of Lok Sabha",
+      "Vice-President"
+    ],
+    "answer": "Chief Justice of India"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "The Cold War was primarily an ideological and geopolitical rivalry between which two superpowers?",
+    "options": [
+      "USA and China",
+      "USA and Soviet Union",
+      "UK and Germany",
+      "Soviet Union and China"
+    ],
+    "answer": "USA and Soviet Union"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "Which Indian state was the first to adopt the Panchayati Raj system in 1959?",
+    "options": [
+      "Andhra Pradesh",
+      "Rajasthan",
+      "Gujarat",
+      "Punjab"
+    ],
+    "answer": "Rajasthan"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "The Supreme Commander of the Armed Forces in India is the:",
+    "options": [
+      "Defense Minister",
+      "Chief of Defence Staff",
+      "President",
+      "Prime Minister"
+    ],
+    "answer": "President"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "Where is the headquarters of the International Court of Justice (ICJ) located?",
+    "options": [
+      "Geneva, Switzerland",
+      "New York, USA",
+      "The Hague, Netherlands",
+      "Vienna, Austria"
+    ],
+    "answer": "The Hague, Netherlands"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "The Directive Principles of State Policy (DPSP) in India were borrowed from the constitution of which country?",
+    "options": [
+      "USA",
+      "Ireland",
+      "Britain",
+      "USSR"
+    ],
+    "answer": "Ireland"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "Which body replaced the Planning Commission of India in 2015?",
+    "options": [
+      "Finance Commission",
+      "NITI Aayog",
+      "National Development Council",
+      "SEBI"
+    ],
+    "answer": "NITI Aayog"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "What is the common currency used across member states of the Eurozone?",
+    "options": [
+      "Pound Sterling",
+      "Euro",
+      "Franc",
+      "Deutsche Mark"
+    ],
+    "answer": "Euro"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "How many members are nominated by the President of India to the Rajya Sabha?",
+    "options": [
+      "2",
+      "10",
+      "12",
+      "15"
+    ],
+    "answer": "12"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "Which Constitutional Amendment Act added the words 'Socialist', 'Secular', and 'Integrity' to the Preamble of India?",
+    "options": [
+      "44th Amendment",
+      "42nd Amendment",
+      "86th Amendment",
+      "73rd Amendment"
+    ],
+    "answer": "42nd Amendment"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "What is the practice of redrawing electoral boundaries to favor a specific political party called?",
+    "options": [
+      "Filibustering",
+      "Gerrymandering",
+      "Logrolling",
+      "Pork-barrel politics"
+    ],
+    "answer": "Gerrymandering"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "Which Constitutional Amendment in India recognized the Panchayati Raj system legally?",
+    "options": [
+      "42nd Amendment",
+      "44th Amendment",
+      "73rd Amendment",
+      "74th Amendment"
+    ],
+    "answer": "73rd Amendment"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "In the Indian Constitution, the Emergency provisions under Article 356 pertain to:",
+    "options": [
+      "National Emergency",
+      "President's Rule in a State",
+      "Financial Emergency",
+      "Military Emergency"
+    ],
+    "answer": "President's Rule in a State"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "Which legal writ guarantees individual protection against arbitrary or illegal detention?",
+    "options": [
+      "Subpoena",
+      "Habeas Corpus",
+      "Mandamus",
+      "Certiorari"
+    ],
+    "answer": "Habeas Corpus"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "Which Schedule of the Indian Constitution deals with the Anti-Defection Law?",
+    "options": [
+      "8th Schedule",
+      "9th Schedule",
+      "10th Schedule",
+      "11th Schedule"
+    ],
+    "answer": "10th Schedule"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "The concept of 'Basic Structure' of the Indian Constitution was established in which landmark case?",
+    "options": [
+      "Golaknath Case",
+      "Kesavananda Bharati Case",
+      "Minerva Mills Case",
+      "Maneka Gandhi Case"
+    ],
+    "answer": "Kesavananda Bharati Case"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "Which 1648 peace treaties established the foundational system of modern sovereign statehood in Europe?",
+    "options": [
+      "Treaty of Utrecht",
+      "Peace of Westphalia",
+      "Treaty of Versailles",
+      "Congress of Vienna"
+    ],
+    "answer": "Peace of Westphalia"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "Under Article 280 of the Indian Constitution, who constitutes the Finance Commission every five years?",
+    "options": [
+      "Prime Minister",
+      "Parliament",
+      "President",
+      "Union Cabinet"
+    ],
+    "answer": "President"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "Which committee recommended the inclusion of Fundamental Duties in the Indian Constitution?",
+    "options": [
+      "Sarkaria Commission",
+      "Swaran Singh Committee",
+      "Balwant Rai Mehta Committee",
+      "Verma Committee"
+    ],
+    "answer": "Swaran Singh Committee"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "Who developed the Marxist concept of 'cultural hegemony' in his 'Prison Notebooks'?",
+    "options": [
+      "Louis Althusser",
+      "Antonio Gramsci",
+      "Herbert Marcuse",
+      "Theodor Adorno"
+    ],
+    "answer": "Antonio Gramsci"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "What is the maximum permissible period between two sessions of Parliament in India?",
+    "options": [
+      "3 months",
+      "6 months",
+      "9 months",
+      "12 months"
+    ],
+    "answer": "6 months"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "Who was the chairman of the Drafting Committee of the Indian Constituent Assembly?",
+    "options": [
+      "Dr. Rajendra Prasad",
+      "Dr. B. R. Ambedkar",
+      "Alladi Krishnaswamy Ayyar",
+      "K. M. Munshi"
+    ],
+    "answer": "Dr. B. R. Ambedkar"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "Which political thinker authored 'A Theory of Justice' (1971), introducing the 'Veil of Ignorance'?",
+    "options": [
+      "John Rawls",
+      "Robert Nozick",
+      "Michael Sandel",
+      "Isaiah Berlin"
+    ],
+    "answer": "John Rawls"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "In the Indian Constitution, the Concurrent List was borrowed from the constitution of which country?",
+    "options": [
+      "Canada",
+      "Australia",
+      "USA",
+      "Germany"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "Who acts as the ex-officio Chairman of the Rajya Sabha in India?",
+    "options": [
+      "President",
+      "Prime Minister",
+      "Vice-President",
+      "Speaker of Lok Sabha"
+    ],
+    "answer": "Vice-President"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "Which IR theory posits that international politics is shaped primarily by social constructs, shared ideas, and identities?",
+    "options": [
+      "Constructivism",
+      "Neorealism",
+      "Neoliberalism",
+      "Classical Realism"
+    ],
+    "answer": "Constructivism"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "Which article of the Indian Constitution grants special provisions to promote the educational and economic interests of SCs, STs, and OBCs?",
+    "options": [
+      "Article 15",
+      "Article 21",
+      "Article 46",
+      "Article 370"
+    ],
+    "answer": "Article 46"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "Which Indian Constitutional Amendment lowered the voting age from 21 to 18 years?",
+    "options": [
+      "44th Amendment",
+      "61st Amendment",
+      "73rd Amendment",
+      "86th Amendment"
+    ],
+    "answer": "61st Amendment"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "Who authored the book 'The End of History and the Last Man' (1992)?",
+    "options": [
+      "Francis Fukuyama",
+      "Samuel P. Huntington",
+      "Zbigniew Brzezinski",
+      "Noam Chomsky"
+    ],
+    "answer": "Francis Fukuyama"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "Who has the final power to certify whether a legislative bill in India is a 'Money Bill'?",
+    "options": [
+      "President",
+      "Finance Minister",
+      "Speaker of Lok Sabha",
+      "Chairman of Rajya Sabha"
+    ],
+    "answer": "Speaker of Lok Sabha"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "Which Indian commission was constituted in 1983 to examine Center-State relations?",
+    "options": [
+      "Sarkaria Commission",
+      "Munchhi Commission",
+      "Shah Commission",
+      "Mandal Commission"
+    ],
+    "answer": "Sarkaria Commission"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "What term formulated by Joseph Nye refers to diplomatic and cultural influence rather than military force?",
+    "options": [
+      "Hard Power",
+      "Soft Power",
+      "Smart Power",
+      "Sharp Power"
+    ],
+    "answer": "Soft Power"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "Which article of the Indian Constitution relates to the appointment and powers of the Election Commission?",
+    "options": [
+      "Article 280",
+      "Article 324",
+      "Article 352",
+      "Article 370"
+    ],
+    "answer": "Article 324"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "Which historic movement led by Mahatma Gandhi in 1942 demanded an immediate end to British rule in India?",
+    "options": [
+      "Non-Cooperation Movement",
+      "Civil Disobedience Movement",
+      "Quit India Movement",
+      "Swadeshi Movement"
+    ],
+    "answer": "Quit India Movement"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "What paradox in International Relations describes defensive security measures by one state being perceived as threats by another?",
+    "options": [
+      "Security Dilemma",
+      "Prisoner's Dilemma",
+      "Balance of Threat",
+      "Tragedy of the Commons"
+    ],
+    "answer": "Security Dilemma"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "Under which Constitutional Article can the President of India declare a Financial Emergency?",
+    "options": [
+      "Article 352",
+      "Article 356",
+      "Article 360",
+      "Article 368"
+    ],
+    "answer": "Article 360"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "Which landmark judgment of the Indian Supreme Court made the Right to Privacy a fundamental right?",
+    "options": [
+      "A. K. Gopalan Case",
+      "K. S. Puttaswamy Case",
+      "Navtej Singh Johar Case",
+      "Shreya Singhal Case"
+    ],
+    "answer": "K. S. Puttaswamy Case"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "In the French Fifth Republic, what political term defines a situation where the President and Prime Minister belong to opposing political parties?",
+    "options": [
+      "Cohabitation",
+      "Bipartisanship",
+      "Rapprochement",
+      "Entente"
+    ],
+    "answer": "Cohabitation"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "Which Indian Act introduced the system of 'Dyarchy' at the provincial level during British rule?",
+    "options": [
+      "Indian Councils Act 1909",
+      "Government of India Act 1919",
+      "Government of India Act 1935",
+      "Indian Independence Act 1947"
+    ],
+    "answer": "Government of India Act 1919"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "Which ancient Indian treatise written by Chanakya (Kautilya) comprehensively covers statecraft, military strategy, and economic governance?",
+    "options": [
+      "Arthashastra",
+      "Manusmriti",
+      "Nitisara",
+      "Rajatarangini"
+    ],
+    "answer": "Arthashastra"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "Duverger's Law asserts that single-member district plurality electoral systems structurally favor which outcome?",
+    "options": [
+      "Multi-party system",
+      "Two-party system",
+      "One-party dominant system",
+      "Direct democracy"
+    ],
+    "answer": "Two-party system"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "In Kautilya's Arthashastra, the 'Saptanga Theory' outlines how many constituent limbs of the state?",
+    "options": [
+      "5",
+      "7",
+      "9",
+      "12"
+    ],
+    "answer": "7"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "Which Constitutional Amendment in India incorporated the Right to Education under Article 21A?",
+    "options": [
+      "44th Amendment",
+      "86th Amendment",
+      "91st Amendment",
+      "103rd Amendment"
+    ],
+    "answer": "86th Amendment"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "Which social choice theorem proves that no ranked voting system can convert individual preferences into a fair collective preference order without violating fairness axioms?",
+    "options": [
+      "Arrow's Impossibility Theorem",
+      "Median Voter Theorem",
+      "Condorcet Paradox",
+      "Gibbard-Satterthwaite Theorem"
+    ],
+    "answer": "Arrow's Impossibility Theorem"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "Which article of the Indian Constitution grants power to Parliament to amend the Constitution and lays down its procedure?",
+    "options": [
+      "Article 352",
+      "Article 356",
+      "Article 368",
+      "Article 370"
+    ],
+    "answer": "Article 368"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "The 91st Amendment Act (2003) restricted the total number of ministers including the PM in the Union Cabinet to what percentage of Lok Sabha members?",
+    "options": [
+      "10%",
+      "12%",
+      "15%",
+      "20%"
+    ],
+    "answer": "15%"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "Which political thinker formulated the distinction between 'Positive Liberty' and 'Negative Liberty' in 1958?",
+    "options": [
+      "Isaiah Berlin",
+      "Charles Taylor",
+      "Hannah Arendt",
+      "Quentin Skinner"
+    ],
+    "answer": "Isaiah Berlin"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "Under Article 143 of the Indian Constitution, who has the power to consult the Supreme Court on questions of law or public importance?",
+    "options": [
+      "Prime Minister",
+      "President",
+      "Speaker of Lok Sabha",
+      "Law Minister"
+    ],
+    "answer": "President"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "Which committee's report led to the creation of the Central Vigilance Commission (CVC) in India in 1964?",
+    "options": [
+      "Kothari Commission",
+      "Santhanam Committee",
+      "Gorwala Committee",
+      "Administrative Reforms Commission"
+    ],
+    "answer": "Santhanam Committee"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "Who wrote 'The Origins of Totalitarianism' (1951), analyzing the political mechanisms of Nazi Germany and Stalin's Soviet Union?",
+    "options": [
+      "Hannah Arendt",
+      "Simone de Beauvoir",
+      "Judith Shklar",
+      "Rosa Luxemburg"
+    ],
+    "answer": "Hannah Arendt"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "Which schedule of the Indian Constitution contains the list of official recognized languages?",
+    "options": [
+      "7th Schedule",
+      "8th Schedule",
+      "9th Schedule",
+      "10th Schedule"
+    ],
+    "answer": "8th Schedule"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "The Supreme Court of India established the guidelines for preventing sexual harassment at the workplace in which landmark case?",
+    "options": [
+      "Vishaka v. State of Rajasthan",
+      "Shah Bano Case",
+      "Indra Sawhney Case",
+      "Golaknath Case"
+    ],
+    "answer": "Vishaka v. State of Rajasthan"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "Who formulated the 'Iron Law of Oligarchy', asserting that all democratic organizations inevitably devolve into elite rule?",
+    "options": [
+      "Robert Michels",
+      "Vilfredo Pareto",
+      "Gaetano Mosca",
+      "Max Weber"
+    ],
+    "answer": "Robert Michels"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "Under which Article of the Indian Constitution can a High Court issue writs for enforcement of Fundamental Rights and other legal rights?",
+    "options": [
+      "Article 32",
+      "Article 136",
+      "Article 226",
+      "Article 312"
+    ],
+    "answer": "Article 226"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "Which Indian Act allowed for the first time the creation of All-India Services under Article 312 of the Constitution?",
+    "options": [
+      "Government of India Act 1919",
+      "Government of India Act 1935",
+      "All India Services Act 1951",
+      "Indian Councils Act 1892"
+    ],
+    "answer": "All India Services Act 1951"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "Which geopolitical term coined by Graham Allison describes structural tension when a rising power threatens to displace an established ruling power?",
+    "options": [
+      "Thucydides Trap",
+      "Kindleberger Trap",
+      "Security Dilemma",
+      "Hegemonic Transition"
+    ],
+    "answer": "Thucydides Trap"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "The Mandal Commission was officially established in 1979 by the Janata Party government under whose chairmanship?",
+    "options": [
+      "B. P. Mandal",
+      "Kaka Kalelkar",
+      "Morarji Desai",
+      "Charan Singh"
+    ],
+    "answer": "B. P. Mandal"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "What is the primary objective of Article 371A of the Indian Constitution?",
+    "options": [
+      "Special provisions for Nagaland",
+      "Special provisions for Assam",
+      "Special provisions for Manipur",
+      "Special provisions for Sikkim"
+    ],
+    "answer": "Special provisions for Nagaland"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "Who formulated World Systems Theory, segmenting the capitalist global economy into Core, Periphery, and Semi-Periphery?",
+    "options": [
+      "Immanuel Wallerstein",
+      "Samir Amin",
+      "Andre Gunder Frank",
+      "Raúl Prebisch"
+    ],
+    "answer": "Immanuel Wallerstein"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "Which Supreme Court decision declared that Parliament cannot alter the 'Basic Structure' of the Indian Constitution via amendments?",
+    "options": [
+      "Shankari Prasad Case",
+      "Sajjan Singh Case",
+      "Kesavananda Bharati Case",
+      "Minerva Mills Case"
+    ],
+    "answer": "Kesavananda Bharati Case"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "Which Article of the Indian Constitution outlines the procedure for the impeachment of the President?",
+    "options": [
+      "Article 52",
+      "Article 61",
+      "Article 72",
+      "Article 123"
+    ],
+    "answer": "Article 61"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "Which post-colonial leader and thinker popularized the term 'Neocolonialism' to describe indirect economic imperialism?",
+    "options": [
+      "Kwame Nkrumah",
+      "Jomo Kenyatta",
+      "Patrice Lumumba",
+      "Julius Nyerere"
+    ],
+    "answer": "Kwame Nkrumah"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "The concept of 'Public Interest Litigation' (PIL) was introduced in India primarily under the leadership of which Supreme Court judge?",
+    "options": [
+      "Justice P. N. Bhagwati",
+      "Justice H. J. Kania",
+      "Justice Y. V. Chandrachud",
+      "Justice M. Hidayatullah"
+    ],
+    "answer": "Justice P. N. Bhagwati"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "Which constitutional body audits all receipts and expenditures of the Government of India and state governments under Article 148?",
+    "options": [
+      "Comptroller and Auditor General (CAG)",
+      "Finance Commission",
+      "Public Accounts Committee",
+      "RBI"
+    ],
+    "answer": "Comptroller and Auditor General (CAG)"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "Which jurist authored 'Political Theology' (1922), declaring: 'Sovereign is he who decides on the exception'?",
+    "options": [
+      "Carl Schmitt",
+      "Hans Kelsen",
+      "Otto Kirchheimer",
+      "Hersch Lauterpacht"
+    ],
+    "answer": "Carl Schmitt"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "The Punchhi Commission on Centre-State Relations was submitted to the Government of India in which year?",
+    "options": [
+      "2007",
+      "2010",
+      "2012",
+      "2015"
+    ],
+    "answer": "2010"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "Which Article of the Indian Constitution empowers the President to issue Ordinances during parliamentary recess?",
+    "options": [
+      "Article 110",
+      "Article 123",
+      "Article 213",
+      "Article 356"
+    ],
+    "answer": "Article 123"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "Which legal philosopher formulated the 'Pure Theory of Law' and constructed the concept of the 'Grundnorm'?",
+    "options": [
+      "Hans Kelsen",
+      "H.L.A. Hart",
+      "Lon Fuller",
+      "Carl Schmitt"
+    ],
+    "answer": "Hans Kelsen"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "The Sarkaria Commission on Centre-State relations was set up during the prime ministership of:",
+    "options": [
+      "Indira Gandhi",
+      "Rajiv Gandhi",
+      "Morarji Desai",
+      "V. P. Singh"
+    ],
+    "answer": "Indira Gandhi"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "Under which schedule of the Constitution are the provisions regarding the administration of Scheduled Areas and Scheduled Tribes listed?",
+    "options": [
+      "5th Schedule",
+      "6th Schedule",
+      "8th Schedule",
+      "11th Schedule"
+    ],
+    "answer": "5th Schedule"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "Which political scientist authored 'Democracy in Plural Societies' (1977), introducing 'Consociational Democracy'?",
+    "options": [
+      "Arend Lijphart",
+      "Giovanni Sartori",
+      "Juan Linz",
+      "Alfred Stepan"
+    ],
+    "answer": "Arend Lijphart"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "Which Constitutional Amendment Act replaced the Collegium System of appointing judges with the National Judicial Appointments Commission (NJAC)?",
+    "options": [
+      "98th Amendment",
+      "99th Amendment",
+      "100th Amendment",
+      "101st Amendment"
+    ],
+    "answer": "99th Amendment"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "In which landmark case did the Supreme Court strike down the 99th Constitutional Amendment Act and the NJAC Act as unconstitutional?",
+    "options": [
+      "Supreme Court Advocates-on-Record Association v. Union of India (2015)",
+      "S. R. Bommai Case",
+      "K. S. Puttaswamy Case",
+      "I. R. Coelho Case"
+    ],
+    "answer": "Supreme Court Advocates-on-Record Association v. Union of India (2015)"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "Which political philosopher wrote 'The Structural Transformation of the Public Sphere' (1962)?",
+    "options": [
+      "Jürgen Habermas",
+      "Axel Honneth",
+      "Theodor Adorno",
+      "Max Horkheimer"
+    ],
+    "answer": "Jürgen Habermas"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "Under which article of the Indian Constitution can a state Legislative Assembly pass a resolution to abolish or create a Legislative Council?",
+    "options": [
+      "Article 168",
+      "Article 169",
+      "Article 170",
+      "Article 171"
+    ],
+    "answer": "Article 169"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "Which landmark judgment established that the President's proclamation under Article 356 (President's Rule) is subject to judicial review?",
+    "options": [
+      "S. R. Bommai v. Union of India",
+      "Minerva Mills Case",
+      "Kameshwar Singh Case",
+      "Rameshwar Prasad Case"
+    ],
+    "answer": "S. R. Bommai v. Union of India"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "Which French philosopher developed the theoretical concepts of 'biopolitics' and 'biopower' concerning state management of human bodies?",
+    "options": [
+      "Michel Foucault",
+      "Gilles Deleuze",
+      "Jacques Derrida",
+      "Giorgio Agamben"
+    ],
+    "answer": "Michel Foucault"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "Under Article 249 of the Indian Constitution, who can authorize Parliament to legislate on a matter in the State List in the national interest?",
+    "options": [
+      "President",
+      "Lok Sabha",
+      "Rajya Sabha",
+      "Governor"
+    ],
+    "answer": "Rajya Sabha"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "The 104th Constitutional Amendment Act (2019) discontinued which special representation provision in the Lok Sabha and State Assemblies?",
+    "options": [
+      "Anglo-Indian reserved seats",
+      "Scheduled Caste reserved seats",
+      "Scheduled Tribe reserved seats",
+      "OBC quota provisions"
+    ],
+    "answer": "Anglo-Indian reserved seats"
+  }
+]

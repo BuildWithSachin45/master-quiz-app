@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "Which actor is widely known as the 'King of Bollywood' or 'SRK'?",
+    "options": [
+      "Salman Khan",
+      "Shah Rukh Khan",
+      "Aamir Khan",
+      "Akshay Kumar"
+    ],
+    "answer": "Shah Rukh Khan"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "Which 1995 romantic film starring Shah Rukh Khan and Kajol is the longest-running film in Indian cinema history?",
+    "options": [
+      "Kuch Kuch Hota Hai",
+      "Dilwale Dulhania Le Jayenge",
+      "Kabhi Khushi Kabhie Gham",
+      "Hum Aapke Hain Koun..!"
+    ],
+    "answer": "Dilwale Dulhania Le Jayenge"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "Who played the lead role of Rancho/Phunsukh Wangdu in '3 Idiots'?",
+    "options": [
+      "R. Madhavan",
+      "Sharman Joshi",
+      "Aamir Khan",
+      "Ranbir Kapoor"
+    ],
+    "answer": "Aamir Khan"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "Which legendary actor is affectionately called the 'Big B' of Indian cinema?",
+    "options": [
+      "Dharmendra",
+      "Amitabh Bachchan",
+      "Rishi Kapoor",
+      "Vinod Khanna"
+    ],
+    "answer": "Amitabh Bachchan"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "Who played the iconic villain Gabbar Singh in the 1975 classic 'Sholay'?",
+    "options": [
+      "Amrish Puri",
+      "Amjad Khan",
+      "Pran",
+      "Danny Denzongpa"
+    ],
+    "answer": "Amjad Khan"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "Which Bollywood actress played the titular role in the 2014 sports biopic 'Mary Kom'?",
+    "options": [
+      "Deepika Padukone",
+      "Priyanka Chopra",
+      "Anushka Sharma",
+      "Kareena Kapoor"
+    ],
+    "answer": "Priyanka Chopra"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "What is the title of India's first sound/talkie film released in 1931?",
+    "options": [
+      "Raja Harishchandra",
+      "Alam Ara",
+      "Kismet",
+      "Mother India"
+    ],
+    "answer": "Alam Ara"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "Which actor is famous for his martial arts, comedy roles, and fitness routine, often referred to as 'Khiladi'?",
+    "options": [
+      "Suniel Shetty",
+      "Akshay Kumar",
+      "Ajay Devgn",
+      "Hrithik Roshan"
+    ],
+    "answer": "Akshay Kumar"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "Which actress debuted in Bollywood alongside Shah Rukh Khan in 'Om Shanti Om'?",
+    "options": [
+      "Katrina Kaif",
+      "Deepika Padukone",
+      "Anushka Sharma",
+      "Alia Bhatt"
+    ],
+    "answer": "Deepika Padukone"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "Who composed the Oscar-winning song 'Jai Ho' from 'Slumdog Millionaire'?",
+    "options": [
+      "Pritam",
+      "A. R. Rahman",
+      "Vishal-Shekhar",
+      "Shankar-Ehsaan-Loy"
+    ],
+    "answer": "A. R. Rahman"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "Which movie features the iconic character 'Mogambo', played by Amrish Puri?",
+    "options": [
+      "Mr. India",
+      "Nayak",
+      "Karan Arjun",
+      "Ghayal"
+    ],
+    "answer": "Mr. India"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "Who played the dual role of Karan and Arjun's mother, Durga Singh, in 'Karan Arjun'?",
+    "options": [
+      "Nirupa Roy",
+      "Rakhee Gulzar",
+      "Jaya Bachchan",
+      "Reema Lagoo"
+    ],
+    "answer": "Rakhee Gulzar"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "Which actor is known as the 'Greek God' of Bollywood for his looks and dancing skills?",
+    "options": [
+      "Ranveer Singh",
+      "Hrithik Roshan",
+      "Tiger Shroff",
+      "Varun Dhawan"
+    ],
+    "answer": "Hrithik Roshan"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "What is the name of Alia Bhatt's character in her debut film 'Student of the Year'?",
+    "options": [
+      "Shanaya Singhania",
+      "Geet Dhillon",
+      "Kaira",
+      "Safeena Firdausi"
+    ],
+    "answer": "Shanaya Singhania"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "Which movie sports the famous dialogue 'Rahul, naam toh suna hoga'?",
+    "options": [
+      "Dil To Pagal Hai",
+      "Kuch Kuch Hota Hai",
+      "Dilwale Dulhania Le Jayenge",
+      "Kabhi Khushi Kabhie Gham"
+    ],
+    "answer": "Dil To Pagal Hai"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "Which actor played the role of Bajirao in 'Bajirao Mastani'?",
+    "options": [
+      "Ranbir Kapoor",
+      "Ranveer Singh",
+      "Shahid Kapoor",
+      "Aditya Roy Kapur"
+    ],
+    "answer": "Ranveer Singh"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "Which movie tells the story of two wrestler sisters, Geeta and Babita Phogat?",
+    "options": [
+      "Sultan",
+      "Dangal",
+      "Mary Kom",
+      "Chak De! India"
+    ],
+    "answer": "Dangal"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "Who directed the hit movies 'Kuch Kuch Hota Hai' and 'Kabhi Khushi Kabhie Gham'?",
+    "options": [
+      "Karan Johar",
+      "Aditya Chopra",
+      "Sanjay Leela Bhansali",
+      "Rohit Shetty"
+    ],
+    "answer": "Karan Johar"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "Which 2007 movie features Shahid Kapoor and Kareena Kapoor on a journey that starts on a train?",
+    "options": [
+      "Jab We Met",
+      "Chup Chup Ke",
+      "3 Idiots",
+      "Love Aaj Kal"
+    ],
+    "answer": "Jab We Met"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "Who played the character of Kabir Khan, the women's hockey coach in 'Chak De! India'?",
+    "options": [
+      "Shah Rukh Khan",
+      "Aamir Khan",
+      "Salman Khan",
+      "Saif Ali Khan"
+    ],
+    "answer": "Shah Rukh Khan"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "Which comedy film franchise features the characters Circuit and Munna Bhai?",
+    "options": [
+      "Golmaal",
+      "Munna Bhai M.B.B.S.",
+      "Hera Pheri",
+      "Welcome"
+    ],
+    "answer": "Munna Bhai M.B.B.S."
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "Who played the character of Baburao Ganpatrao Apte in 'Hera Pheri'?",
+    "options": [
+      "Paresh Rawal",
+      "Johnny Lever",
+      "Rajpal Yadav",
+      "Kadim Khan"
+    ],
+    "answer": "Paresh Rawal"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "Which actress won a National Film Award for her performance in 'Queen' (2014)?",
+    "options": [
+      "Kangana Ranaut",
+      "Vidya Balan",
+      "Priyanka Chopra",
+      "Tabu"
+    ],
+    "answer": "Kangana Ranaut"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "Who starred as Chulbul Pandey in the 'Dabangg' film franchise?",
+    "options": [
+      "Salman Khan",
+      "Sanjay Dutt",
+      "Ajay Devgn",
+      "Akshay Kumar"
+    ],
+    "answer": "Salman Khan"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "What is the name of the police officer played by Ajay Devgn in the cop universe directed by Rohit Shetty?",
+    "options": [
+      "Bajirao Singham",
+      "Sooryavanshi",
+      "Simmba",
+      "Chulbul Pandey"
+    ],
+    "answer": "Bajirao Singham"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "Which song from 'RRR' won the Academy Award for Best Original Song in 2023?",
+    "options": [
+      "Naatu Naatu",
+      "Jai Ho",
+      "Kesariya",
+      "Chaleya"
+    ],
+    "answer": "Naatu Naatu"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "Which actor starred as the lead in the 2023 action blockbuster 'Jawan'?",
+    "options": [
+      "Shah Rukh Khan",
+      "Salman Khan",
+      "Sunny Deol",
+      "Pathaan"
+    ],
+    "answer": "Shah Rukh Khan"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "Who played the lead role in the 2001 period drama 'Lagaan'?",
+    "options": [
+      "Aamir Khan",
+      "Shah Rukh Khan",
+      "Saif Ali Khan",
+      "Hrithik Roshan"
+    ],
+    "answer": "Aamir Khan"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "Which veteran actress is famously called the 'Dream Girl' of Bollywood?",
+    "options": [
+      "Hema Malini",
+      "Rekha",
+      "Sridevi",
+      "Madhuri Dixit"
+    ],
+    "answer": "Hema Malini"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "Which 2013 romantic comedy starring Ranbir Kapoor and Deepika Padukone was directed by Ayan Mukerji?",
+    "options": [
+      "Yeh Jawaani Hai Deewani",
+      "Tamasha",
+      "Rockstar",
+      "Cocktail"
+    ],
+    "answer": "Yeh Jawaani Hai Deewani"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "Who directed the 1960 magnum opus 'Mughal-e-Azam'?",
+    "options": [
+      "K. Asif",
+      "Mehboob Khan",
+      "Bimal Roy",
+      "Guru Dutt"
+    ],
+    "answer": "K. Asif"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "Which movie was nominated for the Academy Award for Best Foreign Language Film in 1958?",
+    "options": [
+      "Mother India",
+      "Mughal-e-Azam",
+      "Pather Panchali",
+      "Madhumati"
+    ],
+    "answer": "Mother India"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "Which actor portrayed the underground gang lord 'Ganesh Gaitonde' in the series 'Sacred Games'?",
+    "options": [
+      "Nawazuddin Siddiqui",
+      "Manoj Bajpayee",
+      "Pankaj Tripathi",
+      "Saif Ali Khan"
+    ],
+    "answer": "Nawazuddin Siddiqui"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "In the movie 'Gangs of Wasseypur', who played the character of Sardar Khan?",
+    "options": [
+      "Manoj Bajpayee",
+      "Nawazuddin Siddiqui",
+      "Pankaj Tripathi",
+      "Tigmanshu Dhulia"
+    ],
+    "answer": "Manoj Bajpayee"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "Which movie gave Amitabh Bachchan the title of the 'Angry Young Man'?",
+    "options": [
+      "Zanjeer",
+      "Deewaar",
+      "Sholay",
+      "Don"
+    ],
+    "answer": "Zanjeer"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "Who played the female lead opposite Shah Rukh Khan in 'Swades' (2004)?",
+    "options": [
+      "Gayatri Joshi",
+      "Preity Zinta",
+      "Rani Mukerji",
+      "Gracy Singh"
+    ],
+    "answer": "Gayatri Joshi"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "Which director made his debut with the critically acclaimed film 'Dil Chahta Hai' in 2001?",
+    "options": [
+      "Farhan Akhtar",
+      "Zoya Akhtar",
+      "Anurag Kashyap",
+      "Vikramaditya Motwane"
+    ],
+    "answer": "Farhan Akhtar"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "What was Shah Rukh Khan's debut film in Bollywood?",
+    "options": [
+      "Deewana",
+      "Baazigar",
+      "Darr",
+      "Raju Ban Gaya Gentleman"
+    ],
+    "answer": "Deewana"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "Which film won the National Film Award for Best Feature Film in 2018 starring Ayushmann Khurrana?",
+    "options": [
+      "Andhadhun",
+      "Badhaai Ho",
+      "Article 15",
+      "Bareilly Ki Barfi"
+    ],
+    "answer": "Andhadhun"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "Who played the main antagonist Langda Tyagi in 'Omkara' (2006)?",
+    "options": [
+      "Saif Ali Khan",
+      "Ajay Devgn",
+      "Vivek Oberoi",
+      "Naseeruddin Shah"
+    ],
+    "answer": "Saif Ali Khan"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "Which actress played the role of Silk Smitha in the biographical film 'The Dirty Picture'?",
+    "options": [
+      "Vidya Balan",
+      "Priyanka Chopra",
+      "Kangana Ranaut",
+      "Tabu"
+    ],
+    "answer": "Vidya Balan"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "Who directed the 2012 cult crime film 'Gangs of Wasseypur'?",
+    "options": [
+      "Anurag Kashyap",
+      "Vishal Bhardwaj",
+      "Dibakar Banerjee",
+      "Sriram Raghavan"
+    ],
+    "answer": "Anurag Kashyap"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "In 'Dilwale Dulhania Le Jayenge', what is the destination of the Eurorail trip where Raj and Simran meet?",
+    "options": [
+      "Switzerland",
+      "Europe",
+      "London",
+      "Paris"
+    ],
+    "answer": "Europe"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "Which playback singer holds the record for recording the highest number of songs in Indian cinema history?",
+    "options": [
+      "Lata Mangeshkar",
+      "Asha Bhosle",
+      "Kishore Kumar",
+      "Mohammed Rafi"
+    ],
+    "answer": "Asha Bhosle"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "What is the name of Aamir Khan's character in 'Taare Zameen Par'?",
+    "options": [
+      "Ram Shankar Nikumbh",
+      "Ishaan Awasthi",
+      "Mahavir Singh Phogat",
+      "Akash Malhotra"
+    ],
+    "answer": "Ram Shankar Nikumbh"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "Which movie featured the famous song 'Chaiyya Chaiyya' filmed on top of a moving train?",
+    "options": [
+      "Dil Se..",
+      "Bombay",
+      "Guru",
+      "Roja"
+    ],
+    "answer": "Dil Se.."
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "Who directed the critically acclaimed 2007 mystery thriller 'Johnny Gaddaar'?",
+    "options": [
+      "Sriram Raghavan",
+      "Sujoy Ghosh",
+      "Ab Abbas-Mustan",
+      "Neeraj Pandey"
+    ],
+    "answer": "Sriram Raghavan"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "Which Bollywood actor starred as Milkha Singh in 'Bhaag Milkha Bhaag'?",
+    "options": [
+      "Farhan Akhtar",
+      "Suniel Shetty",
+      "Vidyut Jammwal",
+      "John Abraham"
+    ],
+    "answer": "Farhan Akhtar"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "What was the name of the village in the movie 'Lagaan'?",
+    "options": [
+      "Champaner",
+      "Ramgarh",
+      "Wasseypur",
+      "Charanpur"
+    ],
+    "answer": "Champaner"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "Who played the character of Crime Master Gogo in 'Andaz Apna Apna'?",
+    "options": [
+      "Shakti Kapoor",
+      "Paresh Rawal",
+      "Mehmood",
+      "Jagdeep"
+    ],
+    "answer": "Shakti Kapoor"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "Which 2018 folklore-inspired horror film stars Sohum Shah in the lead role?",
+    "options": [
+      "Tumbbad",
+      "Stree",
+      "Pari",
+      "Bhediya"
+    ],
+    "answer": "Tumbbad"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "Who directed the 2018 comedy-horror hit 'Stree'?",
+    "options": [
+      "Amar Kaushik",
+      "Raj & DK",
+      "Sriram Raghavan",
+      "Luv Ranjan"
+    ],
+    "answer": "Amar Kaushik"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "Which movie adaptations of Shakespearean plays form Vishal Bhardwaj's famous trilogy?",
+    "options": [
+      "Maqbool, Omkara, Haider",
+      "Kaminey, Haider, Rangoon",
+      "Omkara, Haider, 7 Khoon Maaf",
+      "Maqbool, Kaminey, Omkara"
+    ],
+    "answer": "Maqbool, Omkara, Haider"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "Who voiced the character of Baloo in the Hindi dub of the 2016 live-action 'The Jungle Book'?",
+    "options": [
+      "Irfan Khan",
+      "Om Puri",
+      "Nana Patekar",
+      "Pankaj Tripathi"
+    ],
+    "answer": "Irfan Khan"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "Which actor won the National Film Award for Best Actor for 'Uri: The Surgical Strike'?",
+    "options": [
+      "Vicky Kaushal",
+      "Ayushmann Khurrana",
+      "Rajkummar Rao",
+      "Ranveer Singh"
+    ],
+    "answer": "Vicky Kaushal"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "Who directed the 2004 movie 'Yuva' and 2007 movie 'Guru'?",
+    "options": [
+      "Mani Ratnam",
+      "Shankar",
+      "Gautham Vasudev Menon",
+      "AR Murugadoss"
+    ],
+    "answer": "Mani Ratnam"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "Which movie made Sushant Singh Rajput's debut in Bollywood?",
+    "options": [
+      "Kai Po Che!",
+      "Shuddh Desi Romance",
+      "MS Dhoni: The Untold Story",
+      "Kedarnath"
+    ],
+    "answer": "Kai Po Che!"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "Which veteran actress starred alongside Amitabh Bachchan in 'Black' (2005)?",
+    "options": [
+      "Rani Mukerji",
+      "Preity Zinta",
+      "Tabu",
+      "Kajol"
+    ],
+    "answer": "Rani Mukerji"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "In 'Rockstar' (2011), what was the original name of Jordan before he became a famous musician?",
+    "options": [
+      "Janardhan Jakhar",
+      "Kabir Thapar",
+      "Ved Vardhan Sahni",
+      "Aditya Kashyap"
+    ],
+    "answer": "Janardhan Jakhar"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "Which 1971 movie featured the famous song 'Dum Maro Dum' starring Zeenat Aman?",
+    "options": [
+      "Hare Rama Hare Krishna",
+      "Caravan",
+      "Don",
+      "Yaadon Ki Baaraat"
+    ],
+    "answer": "Hare Rama Hare Krishna"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "Which 1953 film directed by Bimal Roy won the first-ever Filmfare Award for Best Film?",
+    "options": [
+      "Do Bigha Zamin",
+      "Devdas",
+      "Madhumati",
+      "Sujata"
+    ],
+    "answer": "Do Bigha Zamin"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "Who was the cinematographer for Guru Dutt's classic masterpiece 'Kaagaz Ke Phool' (1959)?",
+    "options": [
+      "V. K. Murthy",
+      "Subrata Mitra",
+      "K. K. Mahajan",
+      "P. C. Sreeram"
+    ],
+    "answer": "V. K. Murthy"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "Which actor holds the distinction of receiving the first-ever Filmfare Award for Best Actor in 1954?",
+    "options": [
+      "Dilip Kumar",
+      "Raj Kapoor",
+      "Dev Anand",
+      "Ashok Kumar"
+    ],
+    "answer": "Dilip Kumar"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "What was the debut film of director Satyajit Ray, released in 1955?",
+    "options": [
+      "Pather Panchali",
+      "Aparajito",
+      "Apur Sansar",
+      "Charulata"
+    ],
+    "answer": "Pather Panchali"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "Which playback singer was awarded the Dadasaheb Phalke Award in 1989?",
+    "options": [
+      "Lata Mangeshkar",
+      "Asha Bhosle",
+      "Manna Dey",
+      "Bhupen Hazarika"
+    ],
+    "answer": "Lata Mangeshkar"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "Which movie was selected as India's official entry for the Best Foreign Language Film at the 74th Academy Awards?",
+    "options": [
+      "Lagaan",
+      "Devdas",
+      "Earth",
+      "Hey Ram"
+    ],
+    "answer": "Lagaan"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "Who wrote the screenplays for classic movies like 'Sholay', 'Deewaar', and 'Zanjeer' as part of a famous writer duo?",
+    "options": [
+      "Salim-Javed",
+      "Shankar-Jikishan",
+      "Anand-Milind",
+      "Niraj-Javed"
+    ],
+    "answer": "Salim-Javed"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "Which film earned Irrfan Khan the National Film Award for Best Actor in 2012?",
+    "options": [
+      "Paan Singh Tomar",
+      "The Lunchbox",
+      "Haider",
+      "Hindi Medium"
+    ],
+    "answer": "Paan Singh Tomar"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "Who composed the music score for Satyajit Ray's 'The Apu Trilogy'?",
+    "options": [
+      "Pandit Ravi Shankar",
+      "Ustad Alla Rakha",
+      "S. D. Burman",
+      "Salil Chowdhury"
+    ],
+    "answer": "Pandit Ravi Shankar"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "Which movie marked the directorial debut of Sanjay Leela Bhansali in 1996?",
+    "options": [
+      "Khamoshi: The Musical",
+      "Hum Dil De Chuke Sanam",
+      "Devdas",
+      "Black"
+    ],
+    "answer": "Khamoshi: The Musical"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "In which film did Nawazuddin Siddiqui play his first noticeable breakout role as 'Faizal Khan'?",
+    "options": [
+      "Gangs of Wasseypur - Part 2",
+      "Kahaani",
+      "Peepli Live",
+      "Black Friday"
+    ],
+    "answer": "Gangs of Wasseypur - Part 2"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "Which classic 1983 satire comedy movie was directed by Kundan Shah?",
+    "options": [
+      "Jaane Bhi Do Yaaro",
+      "Chashme Buddoor",
+      "Gol Maal",
+      "Bawarchi"
+    ],
+    "answer": "Jaane Bhi Do Yaaro"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "Who was the first Indian to win an Academy Award?",
+    "options": [
+      "Bhanu Athaiya",
+      "Satyajit Ray",
+      "A. R. Rahman",
+      "Resul Pookutty"
+    ],
+    "answer": "Bhanu Athaiya"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "For which movie's costume design did Bhanu Athaiya win an Oscar in 1983?",
+    "options": [
+      "Gandhi",
+      "Passage to India",
+      "Lagaan",
+      "Amadeus"
+    ],
+    "answer": "Gandhi"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "Which actor starred as the principal protagonist 'Bhuvan' in 'Lagaan'?",
+    "options": [
+      "Aamir Khan",
+      "Ashutosh Gowariker",
+      "Yashpal Sharma",
+      "Raghubir Yadav"
+    ],
+    "answer": "Aamir Khan"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "Which movie won the Best Film award at the 1st Filmfare Awards held in 1954?",
+    "options": [
+      "Do Bigha Zamin",
+      "Boot Polish",
+      "Awaara",
+      "Baiju Bawra"
+    ],
+    "answer": "Do Bigha Zamin"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "Who played the character of 'Mogambo' in the 1987 sci-fi film 'Mr. India'?",
+    "options": [
+      "Amrish Puri",
+      "Anupam Kher",
+      "Prem Chopra",
+      "Gulshan Grover"
+    ],
+    "answer": "Amrish Puri"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "Which movie won the National Film Award for Best Feature Film in 1992, directed by Mani Ratnam?",
+    "options": [
+      "Roja",
+      "Bombay",
+      "Anjali",
+      "Iruvar"
+    ],
+    "answer": "Roja"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "Which film brought Tabu her first National Film Award for Best Actress in 1996?",
+    "options": [
+      "Maachis",
+      "Chandni Bar",
+      "Astitva",
+      "Virasat"
+    ],
+    "answer": "Maachis"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "Who wrote the famous poetry and lyrics for the 1976 romantic drama 'Kabhie Kabhie'?",
+    "options": [
+      "Sahir Ludhianvi",
+      "Javed Akhtar",
+      "Gulzar",
+      "Majrooh Sultanpuri"
+    ],
+    "answer": "Sahir Ludhianvi"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "Which movie won 9 Filmfare Awards in 1995, including Best Film, Best Director, and Best Actor?",
+    "options": [
+      "Dilwale Dulhania Le Jayenge",
+      "Hum Aapke Hain Koun..!",
+      "1942: A Love Story",
+      "Andaz Apna Apna"
+    ],
+    "answer": "Dilwale Dulhania Le Jayenge"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "Who directed the 1988 parallel cinema masterpiece 'Salam Bombay!'?",
+    "options": [
+      "Mira Nair",
+      "Aparna Sen",
+      "Deepa Mehta",
+      "Shabana Azmi"
+    ],
+    "answer": "Mira Nair"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "Which actor played the role of police officer Inspector Vijay Khanna in 'Zanjeer' (1973)?",
+    "options": [
+      "Amitabh Bachchan",
+      "Dharmendra",
+      "Vinod Khanna",
+      "Sanjeev Kumar"
+    ],
+    "answer": "Amitabh Bachchan"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "Which non-English film received an Academy Honorary Award in 1992 for Lifetime Achievement?",
+    "options": [
+      "Satyajit Ray",
+      "Mrinal Sen",
+      "Ritwik Ghatak",
+      "Guru Dutt"
+    ],
+    "answer": "Satyajit Ray"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "Which film was selected as India's entry for the Best Foreign Language Film at the 91st Academy Awards (2019)?",
+    "options": [
+      "Village Rockstars",
+      "Gully Boy",
+      "Jallikattu",
+      "Pebbles"
+    ],
+    "answer": "Village Rockstars"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "Who directed the 2013 Hindi film 'The Lunchbox'?",
+    "options": [
+      "Ritesh Batra",
+      "Chaitanya Tamhane",
+      "Anurag Kashyap",
+      "Vikramaditya Motwane"
+    ],
+    "answer": "Ritesh Batra"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "In 'Sholay', what was the name of the village where the plot takes place?",
+    "options": [
+      "Ramgarh",
+      "Champaner",
+      "Charanpur",
+      "Badlapur"
+    ],
+    "answer": "Ramgarh"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "Which legendary singer sang the song 'Chingari Koi Bhadke' from 'Amar Prem'?",
+    "options": [
+      "Kishore Kumar",
+      "Mohammed Rafi",
+      "Manna Dey",
+      "Mukesh"
+    ],
+    "answer": "Kishore Kumar"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "Who played the lead role of Sufi singer / musician Janardhan in 'Rockstar'?",
+    "options": [
+      "Ranbir Kapoor",
+      "Ranveer Singh",
+      "Shahid Kapoor",
+      "Fawad Khan"
+    ],
+    "answer": "Ranbir Kapoor"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "Which film won the Best Feature Film award at the 68th National Film Awards (for year 2020)?",
+    "options": [
+      "Soorarai Pottru",
+      "Tanhaji",
+      "Sardar Udham",
+      "Toolsidas Junior"
+    ],
+    "answer": "Soorarai Pottru"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "Who composed the music score for the 1998 movie 'Dil Se..'?",
+    "options": [
+      "A. R. Rahman",
+      "Anu Malik",
+      "Jatin-Lalit",
+      "Nadeem-Shravan"
+    ],
+    "answer": "A. R. Rahman"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "Which actress played the lead character 'Piku' in the 2015 comedy-drama directed by Shoojit Sircar?",
+    "options": [
+      "Deepika Padukone",
+      "Anushka Sharma",
+      "Kangana Ranaut",
+      "Vidya Balan"
+    ],
+    "answer": "Deepika Padukone"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "Who directed the biographical historical drama 'Sardar Udham' (2021)?",
+    "options": [
+      "Shoojit Sircar",
+      "Meghna Gulzar",
+      "Abhishek Chaubey",
+      "Rakeysh Omprakash Mehra"
+    ],
+    "answer": "Shoojit Sircar"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "What was the name of Shah Rukh Khan's character in the 2010 film 'My Name Is Khan'?",
+    "options": [
+      "Rizwan Khan",
+      "Kabir Khan",
+      "Mohan Bhargava",
+      "Veer Pratap Singh"
+    ],
+    "answer": "Rizwan Khan"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "Which actress won the National Film Award for Best Actress for her performance in 'Chandni Bar' (2001)?",
+    "options": [
+      "Tabu",
+      "Karisma Kapoor",
+      "Raveena Tandon",
+      "Shabana Azmi"
+    ],
+    "answer": "Tabu"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "Who directed the 1981 classic parallel cinema film 'Umrao Jaan' starring Rekha?",
+    "options": [
+      "Muzaffar Ali",
+      "Shyam Benegal",
+      "M. S. Sathyu",
+      "Govind Nihalani"
+    ],
+    "answer": "Muzaffar Ali"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "In 'Hera Pheri' (2000), what was the name of the garage owned by Baburao Ganpatrao Apte?",
+    "options": [
+      "Star Garage",
+      "Bharat Garage",
+      "Royal Garage",
+      "Laxmi Garage"
+    ],
+    "answer": "Star Garage"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "Who played the character of Sardar Khan's second wife, Durga, in 'Gangs of Wasseypur'?",
+    "options": [
+      "Reema Sen",
+      "Huma Qureshi",
+      "Richa Chadda",
+      "Mahie Gill"
+    ],
+    "answer": "Reema Sen"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "Which film directed by Zoya Akhtar was chosen as India's official entry for the 92nd Academy Awards?",
+    "options": [
+      "Gully Boy",
+      "Zindagi Na Milegi Dobara",
+      "Dil Dhadakne Do",
+      "Lust Stories"
+    ],
+    "answer": "Gully Boy"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "Who won the National Film Award for Best Music Direction for the 2018 movie 'Padmaavat'?",
+    "options": [
+      "Sanjay Leela Bhansali",
+      "A. R. Rahman",
+      "Amit Trivedi",
+      "Pritam"
+    ],
+    "answer": "Sanjay Leela Bhansali"
+  }
+]

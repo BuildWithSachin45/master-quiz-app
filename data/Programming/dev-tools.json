@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "difficulty": "easy",
+    "question": "Which Git command is used to record staged changes into the local repository history?",
+    "options": [
+      "git add",
+      "git commit",
+      "git push",
+      "git save"
+    ],
+    "answer": "git commit"
+  },
+  {
+    "id": 2,
+    "difficulty": "easy",
+    "question": "In VS Code, what is the default keyboard shortcut to open the Command Palette on Windows?",
+    "options": [
+      "Ctrl + Shift + P",
+      "Ctrl + Alt + P",
+      "Ctrl + P",
+      "Alt + Shift + C"
+    ],
+    "answer": "Ctrl + Shift + P"
+  },
+  {
+    "id": 3,
+    "difficulty": "easy",
+    "question": "Which build system is used by default in Android Studio to compile Android projects?",
+    "options": [
+      "Maven",
+      "Ant",
+      "Gradle",
+      "CMake"
+    ],
+    "answer": "Gradle"
+  },
+  {
+    "id": 4,
+    "difficulty": "easy",
+    "question": "Which tool is primarily used for testing and sending API requests during development?",
+    "options": [
+      "Postman",
+      "Docker",
+      "Jenkins",
+      "GitLab"
+    ],
+    "answer": "Postman"
+  },
+  {
+    "id": 5,
+    "difficulty": "easy",
+    "question": "What is the primary function of Docker in modern software development?",
+    "options": [
+      "Writing database queries",
+      "Containerizing applications and their dependencies",
+      "Managing source code repositories",
+      "Designing UI layouts"
+    ],
+    "answer": "Containerizing applications and their dependencies"
+  },
+  {
+    "id": 6,
+    "difficulty": "easy",
+    "question": "Which file specifies files and directories that Git should ignore and not track?",
+    "options": [
+      ".gitconfig",
+      ".gitignore",
+      "git.properties",
+      ".gitkeep"
+    ],
+    "answer": ".gitignore"
+  },
+  {
+    "id": 7,
+    "difficulty": "easy",
+    "question": "In Android Studio, which tool panel displays real-time system logs and output messages from a connected device?",
+    "options": [
+      "Logcat",
+      "Terminal",
+      "Gradle Console",
+      "Event Log"
+    ],
+    "answer": "Logcat"
+  },
+  {
+    "id": 8,
+    "difficulty": "easy",
+    "question": "What platform feature on GitHub allows developers to propose changes and request code reviews before merging into a branch?",
+    "options": [
+      "Fork Request",
+      "Pull Request",
+      "Merge Commit",
+      "Issue Ticket"
+    ],
+    "answer": "Pull Request"
+  },
+  {
+    "id": 9,
+    "difficulty": "easy",
+    "question": "Which Git command fetches changes from a remote repository and immediately merges them into the current local branch?",
+    "options": [
+      "git fetch",
+      "git pull",
+      "git checkout",
+      "git clone"
+    ],
+    "answer": "git pull"
+  },
+  {
+    "id": 10,
+    "difficulty": "easy",
+    "question": "What is the term 'CI' short for in DevOps practices?",
+    "options": [
+      "Continuous Integration",
+      "Code Inspection",
+      "Continuous Infrastructure",
+      "Centralized Interaction"
+    ],
+    "answer": "Continuous Integration"
+  },
+  {
+    "id": 11,
+    "difficulty": "easy",
+    "question": "Which tool in Chrome DevTools is used to inspect DOM elements and modify CSS styles in real time?",
+    "options": [
+      "Console",
+      "Elements panel",
+      "Network panel",
+      "Application panel"
+    ],
+    "answer": "Elements panel"
+  },
+  {
+    "id": 12,
+    "difficulty": "easy",
+    "question": "Which file contains the configuration steps for building a Docker container image?",
+    "options": [
+      "Docker.json",
+      "Dockerfile",
+      "docker-compose.xml",
+      "Containerfile.yml"
+    ],
+    "answer": "Dockerfile"
+  },
+  {
+    "id": 13,
+    "difficulty": "easy",
+    "question": "What feature in VS Code automatically suggests code completions as you type?",
+    "options": [
+      "IntelliSense",
+      "AutoLint",
+      "CodeLens",
+      "Live Share"
+    ],
+    "answer": "IntelliSense"
+  },
+  {
+    "id": 14,
+    "difficulty": "easy",
+    "question": "In Android Studio, which essential file declares the application package name, components, and hardware permissions?",
+    "options": [
+      "build.gradle",
+      "AndroidManifest.xml",
+      "MainActivity.java",
+      "strings.xml"
+    ],
+    "answer": "AndroidManifest.xml"
+  },
+  {
+    "id": 15,
+    "difficulty": "easy",
+    "question": "Which Git command shows the current working directory status and unstaged changes?",
+    "options": [
+      "git log",
+      "git status",
+      "git diff",
+      "git show"
+    ],
+    "answer": "git status"
+  },
+  {
+    "id": 16,
+    "difficulty": "easy",
+    "question": "Which popular open-source tool is widely used for automating CI/CD build pipelines using a Jenkinsfile?",
+    "options": [
+      "Jenkins",
+      "Postman",
+      "Swagger",
+      "Nginx"
+    ],
+    "answer": "Jenkins"
+  },
+  {
+    "id": 17,
+    "difficulty": "easy",
+    "question": "In GitHub, what is a local personal copy of another user's repository stored under your account called?",
+    "options": [
+      "Branch",
+      "Fork",
+      "Clone",
+      "Tag"
+    ],
+    "answer": "Fork"
+  },
+  {
+    "id": 18,
+    "difficulty": "easy",
+    "question": "Which terminal command is used to run a command with root/administrator privileges in Linux/macOS environments?",
+    "options": [
+      "sudo",
+      "admin",
+      "root",
+      "runas"
+    ],
+    "answer": "sudo"
+  },
+  {
+    "id": 19,
+    "difficulty": "easy",
+    "question": "What is the primary extension for files configured using YAML syntax in tools like Kubernetes and GitHub Actions?",
+    "options": [
+      ".json",
+      ".yaml or .yml",
+      ".xml",
+      ".config"
+    ],
+    "answer": ".yaml or .yml"
+  },
+  {
+    "id": 20,
+    "difficulty": "easy",
+    "question": "Which panel in Chrome DevTools is used to monitor HTTP network requests and responses?",
+    "options": [
+      "Console",
+      "Network panel",
+      "Sources panel",
+      "Performance panel"
+    ],
+    "answer": "Network panel"
+  },
+  {
+    "id": 21,
+    "difficulty": "easy",
+    "question": "Which command initializes a brand new local Git repository in the current folder?",
+    "options": [
+      "git start",
+      "git init",
+      "git create",
+      "git new"
+    ],
+    "answer": "git init"
+  },
+  {
+    "id": 22,
+    "difficulty": "easy",
+    "question": "In Android Studio, what is the AVD Manager used for?",
+    "options": [
+      "Managing database connections",
+      "Creating and running Virtual Android Emulators",
+      "Editing layout XML files",
+      "Optimizing Gradle dependencies"
+    ],
+    "answer": "Creating and running Virtual Android Emulators"
+  },
+  {
+    "id": 23,
+    "difficulty": "easy",
+    "question": "Which tool provides collaborative live editing of code directly within VS Code?",
+    "options": [
+      "Live Share",
+      "GitLens",
+      "Prettier",
+      "Docker Desktop"
+    ],
+    "answer": "Live Share"
+  },
+  {
+    "id": 24,
+    "difficulty": "easy",
+    "question": "What does the 'CD' in DevOps CI/CD pipeline stand for?",
+    "options": [
+      "Continuous Deployment or Continuous Delivery",
+      "Centralized Development",
+      "Code Distribution",
+      "Continuous Debugging"
+    ],
+    "answer": "Continuous Deployment or Continuous Delivery"
+  },
+  {
+    "id": 25,
+    "difficulty": "easy",
+    "question": "Which command-line interface tool is used to interact with Kubernetes clusters?",
+    "options": [
+      "kube-control",
+      "kubectl",
+      "k8s-cli",
+      "docker-k8s"
+    ],
+    "answer": "kubectl"
+  },
+  {
+    "id": 26,
+    "difficulty": "easy",
+    "question": "In VS Code, which configuration file stores debugging parameters for running applications?",
+    "options": [
+      "settings.json",
+      "launch.json",
+      "tasks.json",
+      "extensions.json"
+    ],
+    "answer": "launch.json"
+  },
+  {
+    "id": 27,
+    "difficulty": "easy",
+    "question": "Which Git command switches the working workspace to a specified branch?",
+    "options": [
+      "git switch or git checkout",
+      "git move",
+      "git jump",
+      "git change"
+    ],
+    "answer": "git switch or git checkout"
+  },
+  {
+    "id": 28,
+    "difficulty": "easy",
+    "question": "What package management tool is built into Node.js by default for managing project dependencies?",
+    "options": [
+      "pip",
+      "npm",
+      "gem",
+      "brew"
+    ],
+    "answer": "npm"
+  },
+  {
+    "id": 29,
+    "difficulty": "easy",
+    "question": "In GitHub Actions, what is the file location directory where workflow files must be placed?",
+    "options": [
+      ".github/workflows/",
+      ".actions/workflows/",
+      ".ci/github/",
+      "github/actions/"
+    ],
+    "answer": ".github/workflows/"
+  },
+  {
+    "id": 30,
+    "difficulty": "easy",
+    "question": "Which popular CLI tool allows developers to inspect public HTTPS endpoints pointing to local development web servers?",
+    "options": [
+      "ngrok",
+      "curl",
+      "wget",
+      "traceroute"
+    ],
+    "answer": "ngrok"
+  },
+  {
+    "id": 31,
+    "difficulty": "medium",
+    "question": "What is the primary operational difference between `git merge` and `git rebase`?",
+    "options": [
+      "`git merge` deletes commits, while `git rebase` duplicates them",
+      "`git merge` creates a non-linear history with a merge commit, whereas `git rebase` rewrites commit history linearly on top of the base branch",
+      "`git rebase` works only on remote branches",
+      "`git merge` cannot resolve code conflicts automatically"
+    ],
+    "answer": "`git merge` creates a non-linear history with a merge commit, whereas `git rebase` rewrites commit history linearly on top of the base branch"
+  },
+  {
+    "id": 32,
+    "difficulty": "medium",
+    "question": "In Docker Compose, which command builds, creates, and starts all containers defined in `docker-compose.yml` in detached mode?",
+    "options": [
+      "docker-compose start -d",
+      "docker-compose up -d",
+      "docker-compose run --detach",
+      "docker-compose execute"
+    ],
+    "answer": "docker-compose up -d"
+  },
+  {
+    "id": 33,
+    "difficulty": "medium",
+    "question": "In Android Studio, what role does R8 / ProGuard play during the production release build process?",
+    "options": [
+      "It generates Kotlin bytecode from Java source files",
+      "It shrinks, obfuscates, and optimizes app code to reduce APK file size and protect against reverse engineering",
+      "It manages SQLite database migration steps",
+      "It manages Bluetooth and Wi-Fi emulator connections"
+    ],
+    "answer": "It shrinks, obfuscates, and optimizes app code to reduce APK file size and protect against reverse engineering"
+  },
+  {
+    "id": 34,
+    "difficulty": "medium",
+    "question": "What command allows you to temporarily save uncommitted changes in Git without committing them, leaving a clean workspace?",
+    "options": [
+      "git pause",
+      "git stash",
+      "git hold",
+      "git cache"
+    ],
+    "answer": "git stash"
+  },
+  {
+    "id": 35,
+    "difficulty": "medium",
+    "question": "In VS Code, what is the purpose of the workspace file `.vscode/settings.json`?",
+    "options": [
+      "To configure workspace-specific editor preferences that override user settings",
+      "To store environment secret tokens securely",
+      "To list extensions that should be automatically uninstalled",
+      "To compile JavaScript into machine code"
+    ],
+    "answer": "To configure workspace-specific editor preferences that override user settings"
+  },
+  {
+    "id": 36,
+    "difficulty": "medium",
+    "question": "Which Kubernetes resource guarantees that a specific Pod runs on all (or selected) nodes in a cluster?",
+    "options": [
+      "Deployment",
+      "DaemonSet",
+      "StatefulSet",
+      "Job"
+    ],
+    "answer": "DaemonSet"
+  },
+  {
+    "id": 37,
+    "difficulty": "medium",
+    "question": "In Git, how does `git reset --hard HEAD~1` differ from `git reset --soft HEAD~1`?",
+    "options": [
+      "`--hard` deletes commits and discards uncommitted working directory changes; `--soft` undoes the commit while preserving changes in staging",
+      "`--soft` deletes uncommitted code permanently",
+      "`--hard` pushes changes to origin automatically",
+      "They perform identical actions"
+    ],
+    "answer": "`--hard` deletes commits and discards uncommitted working directory changes; `--soft` undoes the commit while preserving changes in staging"
+  },
+  {
+    "id": 38,
+    "difficulty": "medium",
+    "question": "What is the primary function of Terraform in modern DevOps infrastructure management?",
+    "options": [
+      "Database query profiling",
+      "Infrastructure as Code (IaC) tool for provisioning cloud infrastructure declaratively",
+      "Container runtime engine replacing Docker",
+      "Application performance monitoring APM"
+    ],
+    "answer": "Infrastructure as Code (IaC) tool for provisioning cloud infrastructure declaratively"
+  },
+  {
+    "id": 39,
+    "difficulty": "medium",
+    "question": "In Postman, what feature allows variables to be dynamically shared across multiple requests in a test suite?",
+    "options": [
+      "Environment and Collection Variables",
+      "Global Headers",
+      "Pre-request Scripts only",
+      "Mock Servers"
+    ],
+    "answer": "Environment and Collection Variables"
+  },
+  {
+    "id": 40,
+    "difficulty": "medium",
+    "question": "In Android Studio Gradle configuration, what is the difference between `implementation` and `api` dependency scopes?",
+    "options": [
+      "`implementation` hides internal transitive dependencies from consumer modules, lowering compile time; `api` exposes them transitively",
+      "`api` is deprecated and no longer supported in Gradle",
+      "`implementation` works only for Android native C++ code",
+      "`api` works only for testing libraries"
+    ],
+    "answer": "`implementation` hides internal transitive dependencies from consumer modules, lowering compile time; `api` exposes them transitively"
+  },
+  {
+    "id": 41,
+    "difficulty": "medium",
+    "question": "Which command applies a specific commit from one branch onto the current active branch in Git?",
+    "options": [
+      "git cherry-pick <commit-hash>",
+      "git apply-commit <commit-hash>",
+      "git copy-commit <commit-hash>",
+      "git clone --commit <commit-hash>"
+    ],
+    "answer": "git cherry-pick <commit-hash>"
+  },
+  {
+    "id": 42,
+    "difficulty": "medium",
+    "question": "In Docker, what is the fundamental difference between an 'Image' and a 'Container'?",
+    "options": [
+      "An Image is a static, read-only blueprint; a Container is a running isolated instance of an Image",
+      "A Container is static, while an Image runs in memory",
+      "Containers require virtual machine hypervisors, Images do not",
+      "Images store databases, Containers store source code"
+    ],
+    "answer": "An Image is a static, read-only blueprint; a Container is a running isolated instance of an Image"
+  },
+  {
+    "id": 43,
+    "difficulty": "medium",
+    "question": "Which tool is commonly used to collect and scrape metrics from infrastructure and services for Grafana dashboard visualization?",
+    "options": [
+      "Prometheus",
+      "ELK Stack",
+      "SonarQube",
+      "ArgoCD"
+    ],
+    "answer": "Prometheus"
+  },
+  {
+    "id": 44,
+    "difficulty": "medium",
+    "question": "In Chrome DevTools, what is the 'Performance' panel primarily used for?",
+    "options": [
+      "Recording runtime execution profiles to analyze frame rates, layout thrashing, and main-thread bottlenecks",
+      "Editing localized cookies and LocalStorage values",
+      "Sending HTTP requests to REST APIs",
+      "Running CSS lint checks"
+    ],
+    "answer": "Recording runtime execution profiles to analyze frame rates, layout thrashing, and main-thread bottlenecks"
+  },
+  {
+    "id": 45,
+    "difficulty": "medium",
+    "question": "In Android development, what ADB command lists all currently connected physical devices and emulators?",
+    "options": [
+      "adb devices",
+      "adb list --all",
+      "adb status",
+      "adb connect --show"
+    ],
+    "answer": "adb devices"
+  },
+  {
+    "id": 46,
+    "difficulty": "medium",
+    "question": "Which tool allows developers to inspect code quality, detect bugs, and calculate security vulnerabilities across automated CI pipelines?",
+    "options": [
+      "SonarQube",
+      "Docker Hub",
+      "Postman",
+      "NVM"
+    ],
+    "answer": "SonarQube"
+  },
+  {
+    "id": 47,
+    "difficulty": "medium",
+    "question": "In Git, what does `git clean -fd` do?",
+    "options": [
+      "Forcefully removes all untracked files and directories from the working tree",
+      "Deletes remote branches forcefully",
+      "Clears Git commit history completely",
+      "Deletes modified tracked files"
+    ],
+    "answer": "Forcefully removes all untracked files and directories from the working tree"
+  },
+  {
+    "id": 48,
+    "difficulty": "medium",
+    "question": "In VS Code, what is the 'Multi-root Workspace' feature used for?",
+    "options": [
+      "Opening and managing multiple distinct project folders within a single editor window",
+      "Running multiple operating systems inside VS Code",
+      "Running multiple git servers on localhost",
+      "Sharing hardware CPU resources with cloud instances"
+    ],
+    "answer": "Opening and managing multiple distinct project folders within a single editor window"
+  },
+  {
+    "id": 49,
+    "difficulty": "medium",
+    "question": "What is the role of Helm in the Kubernetes ecosystem?",
+    "options": [
+      "Package manager for Kubernetes that automates deployment using templated Charts",
+      "Container runtime engine that replaces containerd",
+      "Monitoring daemon for pod network traffic",
+      "Database backup operator for etcd"
+    ],
+    "answer": "Package manager for Kubernetes that automates deployment using templated Charts"
+  },
+  {
+    "id": 50,
+    "difficulty": "medium",
+    "question": "In GitHub, what is the purpose of branch protection rules?",
+    "options": [
+      "To enforce constraints like requiring pull request reviews or passing status checks before code can be merged into production branches",
+      "To encrypt branch source code on developer laptops",
+      "To hide branches from public viewers on GitHub",
+      "To limit how many commits a developer can create per day"
+    ],
+    "answer": "To enforce constraints like requiring pull request reviews or passing status checks before code can be merged into production branches"
+  },
+  {
+    "id": 51,
+    "difficulty": "medium",
+    "question": "In Dockerfile instructions, what is the difference between `CMD` and `ENTRYPOINT`?",
+    "options": [
+      "`ENTRYPOINT` sets the default executable, while `CMD` provides default arguments that can be easily overridden via command-line arguments",
+      "`CMD` runs during image build time, `ENTRYPOINT` runs at runtime",
+      "`ENTRYPOINT` works only in Linux containers",
+      "`CMD` cannot be overridden when running a container"
+    ],
+    "answer": "`ENTRYPOINT` sets the default executable, while `CMD` provides default arguments that can be easily overridden via command-line arguments"
+  },
+  {
+    "id": 52,
+    "difficulty": "medium",
+    "question": "Which Ansible file defines host IP addresses and group classifications for automated configuration management?",
+    "options": [
+      "Inventory file",
+      "Playbook.yml",
+      "Ansible.cfg",
+      "Hosts.json"
+    ],
+    "answer": "Inventory file"
+  },
+  {
+    "id": 53,
+    "difficulty": "medium",
+    "question": "In Android Studio, what tool allows developers to inspect UI layouts in 3D and debug view hierarchies at runtime?",
+    "options": [
+      "Layout Inspector",
+      "Resource Manager",
+      "Profiler",
+      "APK Analyzer"
+    ],
+    "answer": "Layout Inspector"
+  },
+  {
+    "id": 54,
+    "difficulty": "medium",
+    "question": "Which Git command is used to record a log of all branch updates, checkout movements, and HEAD pointer shifts locally?",
+    "options": [
+      "git reflog",
+      "git log --all",
+      "git history",
+      "git trace"
+    ],
+    "answer": "git reflog"
+  },
+  {
+    "id": 55,
+    "difficulty": "medium",
+    "question": "What software architecture practice does ArgoCD implement for Kubernetes application deployments?",
+    "options": [
+      "GitOps",
+      "Monolithic Deployment",
+      "Serverless FaaS",
+      "Manual SSH deployment"
+    ],
+    "answer": "GitOps"
+  },
+  {
+    "id": 56,
+    "difficulty": "medium",
+    "question": "In VS Code debugging, what is a 'Conditional Breakpoint'?",
+    "options": [
+      "A breakpoint that pauses execution only when a specified boolean expression evaluates to true",
+      "A breakpoint that triggers only on system crash errors",
+      "A breakpoint that executes only inside production servers",
+      "A breakpoint that deletes itself after being hit once"
+    ],
+    "answer": "A breakpoint that pauses execution only when a specified boolean expression evaluates to true"
+  },
+  {
+    "id": 57,
+    "difficulty": "medium",
+    "question": "In Kubernetes, what component maintains cluster configuration state, key-value data, and cluster metadata?",
+    "options": [
+      "etcd",
+      "kubelet",
+      "kube-proxy",
+      "CoreDNS"
+    ],
+    "answer": "etcd"
+  },
+  {
+    "id": 58,
+    "difficulty": "medium",
+    "question": "In Postman, what script execution phase runs BEFORE an HTTP request is dispatched to the server?",
+    "options": [
+      "Pre-request Script",
+      "Tests Script",
+      "Post-Response Handler",
+      "Collection Runner"
+    ],
+    "answer": "Pre-request Script"
+  },
+  {
+    "id": 59,
+    "difficulty": "medium",
+    "question": "What is the primary function of Nginx when deployed in front of web applications?",
+    "options": [
+      "Reverse proxy, load balancer, and HTTP cache",
+      "NoSQL document database engine",
+      "Source code compiler for C++",
+      "Container orchestration master"
+    ],
+    "answer": "Reverse proxy, load balancer, and HTTP cache"
+  },
+  {
+    "id": 60,
+    "difficulty": "medium",
+    "question": "In Git, what is the purpose of `git submodule`?",
+    "options": [
+      "To keep a Git repository as a subdirectory of another Git repository while maintaining separate commit histories",
+      "To split large commits into smaller branches",
+      "To compress repository objects to save disk space",
+      "To link local branches to multiple remote URLs"
+    ],
+    "answer": "To keep a Git repository as a subdirectory of another Git repository while maintaining separate commit histories"
+  },
+  {
+    "id": 61,
+    "difficulty": "hard",
+    "question": "How does Git's internal garbage collection (`git gc`) process identify and purge unreferenced dangling objects?",
+    "options": [
+      "By performing reachability analysis from tips of refs, packing loose objects into packfiles, and purging unreachable objects older than the `gc.pruneExpire` grace period",
+      "By deleting any commit created more than 30 days ago regardless of references",
+      "By comparing local tree hashes with remote origin master branch",
+      "By scanning working directory files for duplicate contents"
+    ],
+    "answer": "By performing reachability analysis from tips of refs, packing loose objects into packfiles, and purging unreachable objects older than the `gc.pruneExpire` grace period"
+  },
+  {
+    "id": 62,
+    "difficulty": "hard",
+    "question": "In Kubernetes networking architecture, how does an Ingress Controller manage incoming external traffic compared to a NodePort Service?",
+    "options": [
+      "An Ingress Controller operates at Layer 7 (HTTP/HTTPS) providing URI routing, SSL termination, and host-based virtual hosting over a single entry point, whereas NodePort opens high-range ports across every cluster node at Layer 4",
+      "NodePort encrypts traffic automatically while Ingress transfers unencrypted plaintext",
+      "Ingress controllers bypass kube-proxy entirely using hardware switches",
+      "NodePort supports HTTP/2 multiplexing exclusively"
+    ],
+    "answer": "An Ingress Controller operates at Layer 7 (HTTP/HTTPS) providing URI routing, SSL termination, and host-based virtual hosting over a single entry point, whereas NodePort opens high-range ports across every cluster node at Layer 4"
+  },
+  {
+    "id": 63,
+    "difficulty": "hard",
+    "question": "What key architectural benefit does Docker Multi-Stage Builds provide for enterprise deployment pipelines?",
+    "options": [
+      "It allows using separate heavy build images with SDK compilers to build binaries, then copying only compiled output artifacts into a minimal, lightweight runtime image (e.g., Alpine or Scratch)",
+      "It enables running multi-platform ARM/x86 containers concurrently inside a single container instance",
+      "It merges multiple Dockerfile instances into a single Kubernetes cluster deployment file",
+      "It bypasses container image layer caching completely"
+    ],
+    "answer": "It allows using separate heavy build images with SDK compilers to build binaries, then copying only compiled output artifacts into a minimal, lightweight runtime image (e.g., Alpine or Scratch)"
+  },
+  {
+    "id": 64,
+    "difficulty": "hard",
+    "question": "In VS Code extension development, what protocol decouples programming language IntelliSense parsing logic from the editor core?",
+    "options": [
+      "Language Server Protocol (LSP)",
+      "Debug Adapter Protocol (DAP)",
+      "Extension Host IPC Protocol",
+      "WebSockets Protocol"
+    ],
+    "answer": "Language Server Protocol (LSP)"
+  },
+  {
+    "id": 65,
+    "difficulty": "hard",
+    "question": "In Git, what specific problem does `git bisect` solve using binary search?",
+    "options": [
+      "Locating the exact commit that introduced a bug or regression across a history range",
+      "Finding duplicate binary files stored in the repository index",
+      "Resolving complex three-way merge conflicts in source code",
+      "Balancing Git object packfile sizes"
+    ],
+    "answer": "Locating the exact commit that introduced a bug or regression across a history range"
+  },
+  {
+    "id": 66,
+    "difficulty": "hard",
+    "question": "In Android Studio Native Development Kit (NDK) debugging, which underlying debugger binary is used for debugging C/C++ native code?",
+    "options": [
+      "LLDB",
+      "GDB",
+      "JDB",
+      "Valgrind"
+    ],
+    "answer": "LLDB"
+  },
+  {
+    "id": 67,
+    "difficulty": "hard",
+    "question": "In Linux containerization internals, what two Linux kernel features form the core foundation of container isolation and resource allocation limits?",
+    "options": [
+      "Namespaces (isolation) and Control Groups / cgroups (resource limiting)",
+      "iptables and SELinux",
+      "AppArmor and systemd",
+      "Virtual File System (VFS) and Chroot"
+    ],
+    "answer": "Namespaces (isolation) and Control Groups / cgroups (resource limiting)"
+  },
+  {
+    "id": 68,
+    "difficulty": "hard",
+    "question": "How does Terraform enforce state consistency and prevent concurrent deployment collisions when multiple team members execute infrastructure changes?",
+    "options": [
+      "By utilizing Remote State Locking (e.g., AWS DynamoDB table or S3 state lock mechanisms)",
+      "By storing local state files in git repository history",
+      "By compiling Terraform code into binary machine bytecode before execution",
+      "By restricting deployment access to a single IAM user"
+    ],
+    "answer": "By utilizing Remote State Locking (e.g., AWS DynamoDB table or S3 state lock mechanisms)"
+  },
+  {
+    "id": 69,
+    "difficulty": "hard",
+    "question": "In Git advanced workflows, what does `git worktree add` allow a developer to do?",
+    "options": [
+      "Check out multiple branches simultaneously into separate physical working directories linked to a single repository",
+      "Generate graphical tree diagrams of commit history in the terminal",
+      "Merge multiple upstream repositories into a unified root directory",
+      "Create virtual environment isolated copies of untrusted branches"
+    ],
+    "answer": "Check out multiple branches simultaneously into separate physical working directories linked to a single repository"
+  },
+  {
+    "id": 70,
+    "difficulty": "hard",
+    "question": "What low-level mechanics distinguish Istio Service Mesh sidecar proxies (Envoy) from standard Kubernetes application pod communication?",
+    "options": [
+      "Envoy sidecars intercept all network traffic entering and leaving pods using iptables routing rules, providing mTLS, tracing, and traffic policy enforcement transparently",
+      "Istio replaces standard Kubernetes network interface CNI plugins entirely with custom kernel drivers",
+      "Istio compiles container source code to inject gRPC sockets",
+      "Envoy sidecars run on physical host nodes as root processes outside pod namespaces"
+    ],
+    "answer": "Envoy sidecars intercept all network traffic entering and leaving pods using iptables routing rules, providing mTLS, tracing, and traffic policy enforcement transparently"
+  },
+  {
+    "id": 71,
+    "difficulty": "hard",
+    "question": "In Chrome DevTools Memory Profiler, what does a 'Detached Window' or 'Detached DOM Tree' heap allocation represent?",
+    "options": [
+      "DOM nodes that have been removed from the document tree but are still retained in memory due to active JavaScript reference pointers",
+      "Canvas elements rendered offscreen using WebGL",
+      "Uncached HTTP network requests held in browser memory",
+      "JavaScript closures that have expired but failed garbage collection"
+    ],
+    "answer": "DOM nodes that have been removed from the document tree but are still retained in memory due to active JavaScript reference pointers"
+  },
+  {
+    "id": 72,
+    "difficulty": "hard",
+    "question": "In Android Studio's Memory Profiler, what does triggering a 'HPROF' Heap Dump allow developers to detect?",
+    "options": [
+      "Memory leaks by inspecting live object instance counts, retained sizes, and references keeping instances alive in memory",
+      "CPU thread context switching overhead",
+      "Network battery drain rates",
+      "GPU shader frame rendering latency"
+    ],
+    "answer": "Memory leaks by inspecting live object instance counts, retained sizes, and references keeping instances alive in memory"
+  },
+  {
+    "id": 73,
+    "difficulty": "hard",
+    "question": "In Git plumbing commands, what low-level command prints the content or type of an object in the Git database repository based on its SHA-1 hash?",
+    "options": [
+      "git cat-file",
+      "git show-ref",
+      "git write-tree",
+      "git commit-tree"
+    ],
+    "answer": "git cat-file"
+  },
+  {
+    "id": 74,
+    "difficulty": "hard",
+    "question": "What is the difference between Kubernetes StatefulSet and Deployment controller resource management?",
+    "options": [
+      "StatefulSets provide unique, stable network identifiers and ordinal persistent storage mappings per pod; Deployments treat pods as interchangeable instances",
+      "Deployments support rolling updates while StatefulSets do not",
+      "StatefulSets run exclusively on dedicated physical bare-metal nodes",
+      "Deployments enforce persistent volume attachment across pod reboots"
+    ],
+    "answer": "StatefulSets provide unique, stable network identifiers and ordinal persistent storage mappings per pod; Deployments treat pods as interchangeable instances"
+  },
+  {
+    "id": 75,
+    "difficulty": "hard",
+    "question": "In Jenkins pipeline execution, what is the core architectural purpose of using Shared Libraries?",
+    "options": [
+      "To modularize, reuse, and centralize common Groovy build code across multiple Jenkinsfiles",
+      "To share compiled Docker images between Jenkins worker agents",
+      "To run multi-threaded parallel compilation on single master nodes",
+      "To manage Jenkins web dashboard plugin updates automatically"
+    ],
+    "answer": "To modularize, reuse, and centralize common Groovy build code across multiple Jenkinsfiles"
+  },
+  {
+    "id": 76,
+    "difficulty": "hard",
+    "question": "In Webpack bundler internals, what is the role of 'Loaders' compared to 'Plugins'?",
+    "options": [
+      "Loaders transform non-JavaScript file types into valid modules; Plugins perform wider bundle optimizations, asset management, and environment injection",
+      "Plugins run during code compilation; Loaders run strictly at server startup",
+      "Loaders minify code; Plugins handle CSS preprocessors exclusively",
+      "They perform identical bundle transformations"
+    ],
+    "answer": "Loaders transform non-JavaScript file types into valid modules; Plugins perform wider bundle optimizations, asset management, and environment injection"
+  },
+  {
+    "id": 77,
+    "difficulty": "hard",
+    "question": "In GitHub Actions workflows, how do 'Self-Hosted Runners' differ from 'GitHub-Hosted Runners'?",
+    "options": [
+      "Self-hosted runners run on custom infrastructure managed by the user with custom OS/hardware configurations and local network access",
+      "Self-hosted runners execute jobs faster due to direct root access to GitHub production servers",
+      "GitHub-hosted runners cannot run Docker container actions",
+      "Self-hosted runners are restricted strictly to public open-source repositories"
+    ],
+    "answer": "Self-hosted runners run on custom infrastructure managed by the user with custom OS/hardware configurations and local network access"
+  },
+  {
+    "id": 78,
+    "difficulty": "hard",
+    "question": "What is the function of Prometheus `Alertmanager` in cloud-native monitoring stacks?",
+    "options": [
+      "Handling alerts sent by client applications/Prometheus, deduplicating, grouping, and routing them to notification channels (e.g., Slack, PagerDuty)",
+      "Rendering real-time analytical chart dashboards",
+      "Scraping metrics endpoint URLs over HTTP",
+      "Storing persistent metric time-series data on S3 storage"
+    ],
+    "answer": "Handling alerts sent by client applications/Prometheus, deduplicating, grouping, and routing them to notification channels (e.g., Slack, PagerDuty)"
+  },
+  {
+    "id": 79,
+    "difficulty": "hard",
+    "question": "In OpenTelemetry architecture, what is the difference between Metrics, Traces, and Logs (the 3 pillars of Observability)?",
+    "options": [
+      "Metrics are numeric aggregations; Traces track the end-to-end request lifecycle across distributed systems; Logs are timestamped textual records",
+      "Traces measure CPU usage; Metrics record stack traces; Logs trace network packet hops",
+      "Logs run on client browsers; Traces run inside database engines",
+      "They represent identical telemetry data types in different serialization formats"
+    ],
+    "answer": "Metrics are numeric aggregations; Traces track the end-to-end request lifecycle across distributed systems; Logs are timestamped textual records"
+  },
+  {
+    "id": 80,
+    "difficulty": "hard",
+    "question": "In Git, what happens when performing an interactive rebase with `git rebase -i HEAD~3` using the `fixup` command?",
+    "options": [
+      "It merges the specified commit into its previous commit and discards the fixup commit message",
+      "It pauses execution to allow manual editing of file contents",
+      "It completely deletes the commit and its changes from history",
+      "It splits the commit into multiple sub-commits"
+    ],
+    "answer": "It merges the specified commit into its previous commit and discards the fixup commit message"
+  },
+  {
+    "id": 81,
+    "difficulty": "hard",
+    "question": "In Android Studio, what does the 'Baseline Profiles' feature optimize in Jetpack Compose/Android applications?",
+    "options": [
+      "App startup speed and frame drop rendering times by providing pre-compiled Ahead-Of-Time (AOT) code paths for ART engine",
+      "Network payload compression over HTTP/3",
+      "Vector drawable image parsing performance",
+      "SQLite database query execution plans"
+    ],
+    "answer": "App startup speed and frame drop rendering times by providing pre-compiled Ahead-Of-Time (AOT) code paths for ART engine"
+  },
+  {
+    "id": 82,
+    "difficulty": "hard",
+    "question": "In Postman API testing, how do Newman CLI execution workflows integrate into modern DevOps CI/CD pipelines?",
+    "options": [
+      "By allowing Postman collection suites to be executed directly from the command line inside headless automated test runners",
+      "By generating client SDK code from Swagger docs automatically",
+      "By hosting mock servers on cloud virtual machines",
+      "By converting JSON collections into Dockerfile configurations"
+    ],
+    "answer": "By allowing Postman collection suites to be executed directly from the command line inside headless automated test runners"
+  },
+  {
+    "id": 83,
+    "difficulty": "hard",
+    "question": "How does Podman differ fundamentally from Docker engine in container runtime security design?",
+    "options": [
+      "Podman operates in a daemonless, rootless architecture, eliminating the security vulnerability of a single root daemon process",
+      "Podman runs containers strictly inside hardware virtual machines",
+      "Podman cannot run standard OCI-compliant container images",
+      "Podman requires Kubernetes to execute local single containers"
+    ],
+    "answer": "Podman operates in a daemonless, rootless architecture, eliminating the security vulnerability of a single root daemon process"
+  },
+  {
+    "id": 84,
+    "difficulty": "hard",
+    "question": "What security risk does mounting the Docker socket (`/var/run/docker.sock`) into an unprivileged container expose?",
+    "options": [
+      "It gives the container full root-level control over the host Docker daemon, allowing host takeover",
+      "It causes immediate memory corruption on the host OS kernel",
+      "It exposes database passwords stored in container environment variables",
+      "It disables firewall network security settings"
+    ],
+    "answer": "It gives the container full root-level control over the host Docker daemon, allowing host takeover"
+  },
+  {
+    "id": 85,
+    "difficulty": "hard",
+    "question": "In Git internals, what type of Git object stores filenames, directory structures, and file mode permissions?",
+    "options": [
+      "Tree object",
+      "Blob object",
+      "Commit object",
+      "Tag object"
+    ],
+    "answer": "Tree object"
+  },
+  {
+    "id": 86,
+    "difficulty": "hard",
+    "question": "In Kubernetes, what is the role of Custom Resource Definitions (CRDs)?",
+    "options": [
+      "Extending the Kubernetes API to define custom object resources for specialized operators (e.g., database controllers)",
+      "Defining custom CPU and RAM hardware limits for physical nodes",
+      "Overriding core network plugins with custom routing rules",
+      "Managing cluster administrator user access policies"
+    ],
+    "answer": "Extending the Kubernetes API to define custom object resources for specialized operators (e.g., database controllers)"
+  },
+  {
+    "id": 87,
+    "difficulty": "hard",
+    "question": "In VS Code remote development extensions (Remote-SSH / Dev Containers), where does the VS Code Server component execute?",
+    "options": [
+      "Directly on the remote machine or container holding the workspace environment",
+      "On Microsoft Azure Cloud servers",
+      "Locally inside the user browser rendering process",
+      "Inside local RAM hypervisor partitions"
+    ],
+    "answer": "Directly on the remote machine or container holding the workspace environment"
+  },
+  {
+    "id": 88,
+    "difficulty": "hard",
+    "question": "In Vault by HashiCorp, how does Dynamic Secrets generation improve security over static cloud credentials?",
+    "options": [
+      "By generating short-lived, on-demand credentials with explicit lease times that automatically revoke upon expiration",
+      "By storing secrets in plaintext local disk caches",
+      "By encrypting source code variables during compilation",
+      "By eliminating the need for authentication tokens"
+    ],
+    "answer": "By generating short-lived, on-demand credentials with explicit lease times that automatically revoke upon expiration"
+  },
+  {
+    "id": 89,
+    "difficulty": "hard",
+    "question": "In GitHub Actions workflows, how does the `concurrency` property optimize pipeline resource consumption?",
+    "options": [
+      "By cancelling previously running in-progress workflows when a new commit/run is triggered on the same branch",
+      "By distributing pipeline steps across multiple cloud regions in parallel",
+      "By running npm install on worker threads",
+      "By merging multiple pull requests simultaneously"
+    ],
+    "answer": "By cancelling previously running in-progress workflows when a new commit/run is triggered on the same branch"
+  },
+  {
+    "id": 90,
+    "difficulty": "hard",
+    "question": "In Android Studio, what is the 'App Links Assistant' used for?",
+    "options": [
+      "Configuring Deep Links and HTTP URL handling via Digital Asset Links JSON verification",
+      "Generating download links for Google Play Store testing",
+      "Linking Gradle sub-modules across separate projects",
+      "Setting up Firebase Cloud Messaging push channels"
+    ],
+    "answer": "Configuring Deep Links and HTTP URL handling via Digital Asset Links JSON verification"
+  },
+  {
+    "id": 91,
+    "difficulty": "hard",
+    "question": "What is the principal purpose of Jaeger or Zipkin tools in microservices architecture?",
+    "options": [
+      "Distributed tracing across microservices to identify network latency bottlenecks and request flow dependencies",
+      "Container image vulnerability scanning",
+      "Centralized log parsing using Elasticsearch queries",
+      "Automated SQL injection vulnerability penetration testing"
+    ],
+    "answer": "Distributed tracing across microservices to identify network latency bottlenecks and request flow dependencies"
+  },
+  {
+    "id": 92,
+    "difficulty": "hard",
+    "question": "In Docker container storage drivers, how does the Overlay2 storage driver handle file modifications using Copy-on-Write (CoW)?",
+    "options": [
+      "When a container modifies a file from a lower read-only image layer, the file is copied up to the container's upper writable layer before modifications occur",
+      "Modifications are written directly to host BIOS memory",
+      "Files are modified in place within the underlying read-only image layer",
+      "Overlay2 creates a new container image layer for every byte modified"
+    ],
+    "answer": "When a container modifies a file from a lower read-only image layer, the file is copied up to the container's upper writable layer before modifications occur"
+  },
+  {
+    "id": 93,
+    "difficulty": "hard",
+    "question": "What command-line tool allows developers to safely edit and verify encrypted secret files inside Git repositories using SOPS (Secrets OPerationS)?",
+    "options": [
+      "sops",
+      "git-crypt",
+      "vault-cli",
+      "gpg-edit"
+    ],
+    "answer": "sops"
+  },
+  {
+    "id": 94,
+    "difficulty": "hard",
+    "question": "In Chrome DevTools, what does the 'Coverage' tab measure?",
+    "options": [
+      "The exact percentage of unused CSS and JavaScript code loaded on a web page",
+      "Unit test assertion code coverage metrics",
+      "Web page viewport screen resolution compatibility",
+      "Server network bandwidth geographical reach"
+    ],
+    "answer": "The exact percentage of unused CSS and JavaScript code loaded on a web page"
+  },
+  {
+    "id": 95,
+    "difficulty": "hard",
+    "question": "In Kubernetes, what is the operational purpose of a 'Mutating Webhook' during API request admission control?",
+    "options": [
+      "Intercepting API requests to modify or inject resources (e.g., sidecar containers) before object persistence",
+      "Deleting corrupted pods automatically",
+      "Modifying physical node network interfaces",
+      "Encrypting etcd database backups"
+    ],
+    "answer": "Intercepting API requests to modify or inject resources (e.g., sidecar containers) before object persistence"
+  },
+  {
+    "id": 96,
+    "difficulty": "hard",
+    "question": "What specialized feature in Git allows removing large sensitive binary files completely from the ENTIRE repository history tree?",
+    "options": [
+      "git filter-repo (or BFG Repo-Cleaner)",
+      "git rm --cached",
+      "git revert --all",
+      "git checkout --force"
+    ],
+    "answer": "git filter-repo (or BFG Repo-Cleaner)"
+  },
+  {
+    "id": 97,
+    "difficulty": "hard",
+    "question": "In VS Code, how does the Debug Adapter Protocol (DAP) facilitate debugger integration?",
+    "options": [
+      "It provides an abstract, standardized communication protocol between VS Code UI and runtime-specific debugger engines (e.g., gdb, node-debug)",
+      "It converts breakpoints directly into assembly instructions",
+      "It runs debuggers inside isolated WebAssembly sandboxes",
+      "It encrypts variable state data during debugging sessions"
+    ],
+    "answer": "It provides an abstract, standardized communication protocol between VS Code UI and runtime-specific debugger engines (e.g., gdb, node-debug)"
+  },
+  {
+    "id": 98,
+    "difficulty": "hard",
+    "question": "In Linux systems administration, what network tool replaces `netstat` for displaying detailed socket statistics and listening ports?",
+    "options": [
+      "ss",
+      "ifconfig",
+      "ping",
+      "dig"
+    ],
+    "answer": "ss"
+  },
+  {
+    "id": 99,
+    "difficulty": "hard",
+    "question": "In Android Studio, what does the 'AGP' (Android Gradle Plugin) upgrade assistant ensure?",
+    "options": [
+      "Migration of build script configurations, APIs, and dependencies to match newer Gradle core and Android Studio requirements",
+      "Automatic conversion of Java source files into Kotlin code",
+      "Direct deployment of APKs to Google Play Console",
+      "Optimization of native C++ CMake compilation flags"
+    ],
+    "answer": "Migration of build script configurations, APIs, and dependencies to match newer Gradle core and Android Studio requirements"
+  },
+  {
+    "id": 100,
+    "difficulty": "hard",
+    "question": "In CI/CD pipeline security, what is the principle of 'SLSA' (Supply-chain Levels for Software Artifacts)?",
+    "options": [
+      "A security framework providing standards to ensure software artifact integrity, preventing tampering across build and supply pipelines",
+      "A hardware hashing protocol for SSL/TLS handshakes",
+      "A continuous deployment metric for measuring deployment velocity",
+      "An automated unit test code generation standard"
+    ],
+    "answer": "A security framework providing standards to ensure software artifact integrity, preventing tampering across build and supply pipelines"
+  }
+]
